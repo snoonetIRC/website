@@ -1,0 +1,30 @@
+{{ $paginator := .Paginator }}
+
+{{ if or ($paginator.HasPrev) ($paginator.HasNext) }}
+    {{ $prev := "Back" }}
+    {{ $next := "Next" }}
+
+    <nav class="pagination" role="pagination">
+        {{ if $paginator.HasPrev }}
+            <a href="{{ $paginator.Prev.URL }}">{{ $prev }}</a>
+        {{ else }}
+            {{ $prev }}
+        {{ end }}
+
+        <ul class="pagination">
+            {{ range $paginator.Pagers }}
+                <li class="pagination__item{{ if eq . $paginator }} pagination__item--current{{ end }}">
+                    <a href="{{ .URL }}" class="pagination__link">
+                        {{ .PageNumber }}
+                    </a>
+                </li>
+            {{ end }}
+        </ul>
+
+        {{ if $paginator.HasNext }}
+            <a href="{{ $paginator.Next.URL }}">{{ $next }}</a>
+        {{ else }}
+            {{ $next }}
+        {{ end }}
+    </nav>
+{{ end }}

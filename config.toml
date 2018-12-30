@@ -1,0 +1,89 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-gb"
+title = "Snoonet"
+theme = "Snoonet"
+
+[menu]
+    [[menu.main]]
+    identifier = "about"
+    name = "About"
+    pre = ""
+    url = "/about/"
+    weight = -110
+
+    [[menu.main]]
+    identifier = "webchat"
+    name = "Webchat"
+    pre = ""
+    url = "https://webchat.snoonet.org/"
+    weight = -120
+
+    [[menu.main]]
+    identifier = "communities"
+    name = "Communities"
+    pre = ""
+    url = "/communities/"
+    weight = -130
+
+    [[menu.main]]
+    identifier = "chan-stats"
+    name = "Channel Stats"
+    pre = ""
+    url = "https://chanstats.snoonet.org/"
+    weight = -140
+
+    [[menu.main]]
+    identifier = "irc-servers"
+    name = "IRC Servers"
+    pre = ""
+    url = "/irc-servers/"
+    weight = -150
+
+    [[menu.main]]
+    identifier = "server-status"
+    name = "Server Status"
+    pre = ""
+    url = "https://status.snoonet.org/"
+    weight = -160
+
+    [[menu.information]]
+    identifier = "getting-started"
+    name = "Getting Started"
+    pre = ""
+    url = "/help/"
+    weight = -100
+
+    [[menu.information]]
+    identifier = "mission-statement"
+    name = "Mission Statement"
+    pre = ""
+    url = "/mission-statement/"
+    weight = -110
+
+    [[menu.information]]
+    identifier = "why-snoonet"
+    name = "Why Snoonet?"
+    pre = ""
+    url = "/why-snoonet/"
+    weight = -120
+
+    [[menu.information]]
+    identifier = "staff"
+    name = "Staff"
+    pre = ""
+    url = "/staff/"
+    weight = -130
+
+    [[menu.information]]
+    identifier = "sponsors"
+    name = "Sponsors"
+    pre = ""
+    url = "/sponsors/"
+    weight = -140
+
+    [[menu.information]]
+    identifier = "support"
+    name = "Support"
+    pre = ""
+    url = "https://support.snoonet.org/"
+    weight = -150

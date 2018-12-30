@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{ partial "head.html" . }}
+    <body>
+        <nav>
+            <ul id="general">
+                <li>General</li>
+                <li><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></li>
+                {{ range .Site.Menus.main }}
+                    {{ if .HasChildren }}
+                        <li>
+                            <a href="#">{{ .Pre }}{{ .Name }}</a>
+                            <ul>
+                                {{ range .Children }}
+                                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                                {{ end }}
+                            </ul>
+                        </li>
+                    {{ else }}
+                        <li>
+                            <a {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+            <ul id="information">
+                <li>Information</li>
+                {{ range .Site.Menus.information }}
+                    {{ if .HasChildren }}
+                        <li>
+                            <a href="#">{{ .Pre }}{{ .Name }}</a>
+                            <ul>
+                                {{ range .Children }}
+                                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                                {{ end }}
+                            </ul>
+                        </li>
+                    {{ else }}
+                        <li>
+                            <a {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
+                        </li>
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </nav>
+        <main role="main">

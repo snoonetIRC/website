@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+<header>
+    <h1>{{ .Title }}</h1>
+    <h2>{{ .Description }}</h2>
+</header>
+
+<main>
+    {{ partial "post_meta.html" . }}
+    {{ .Content }}
+</main>
+
+{{ partial "footer.html" . }}
