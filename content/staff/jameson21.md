@@ -6,8 +6,7 @@ type: page
 kind: "staff"
 role: "Operations Manager"
 favorite_channels: "#protectandserve"
-priority: 6
+priority: 5
 ---
 
-Hello, world
-
+Hi! I'm Jameson21. I'm a mod over at /r/ProtectandServe and help run #protectandserve. Come join us sometime.

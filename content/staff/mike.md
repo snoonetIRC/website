@@ -6,8 +6,12 @@ type: page
 kind: "staff"
 role: "Operations Manager"
 favorite_channels: "#metal"
-priority: 7
+priority: 5
 ---
 
-Hello, world
+Hi, I'm Mike.
 
+You can verify my identity on the network with the client certificate
+fingerprint `5f354892970d867aafe9256a1155160d`.
+
+If you need to e-mail me, you can contact me using mike [at] snoonet.org.
