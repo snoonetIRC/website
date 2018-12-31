@@ -1,0 +1,9 @@
+<li class="category">
+    <a class="category-header">{{ .Scratch.Get "nav_header" }}</a>
+
+    <ul>
+        {{ range .Scratch.Get "nav_list" }}
+            <li><a href="{{ .URL }}" class="icon-chat">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+</li>

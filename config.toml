@@ -4,79 +4,142 @@ title = "Snoonet"
 theme = "Snoonet"
 
 [menu]
+    [[menu.top]]
+    identifier = "updates"
+    name = "Updates"
+    pre = ""
+    url = "/"
+    weight = -1000
+
+    [[menu.top]]
+    identifier = "webchat"
+    name = "Webchat"
+    pre = ""
+    url = "https://webchat.snoonet.org/"
+    weight = -990
+
+    [[menu.main]]
+    identifier = "updates"
+    name = "Updates"
+    pre = ""
+    url = "/"
+    weight = -1000
+
     [[menu.main]]
     identifier = "webchat"
     name = "Webchat"
     pre = ""
     url = "https://webchat.snoonet.org/"
-    weight = -120
+    weight = -990
 
     [[menu.main]]
     identifier = "communities"
     name = "Communities"
     pre = ""
     url = "/communities/"
-    weight = -130
+    weight = -980
 
     [[menu.main]]
     identifier = "chan-stats"
     name = "Channel Stats"
     pre = ""
     url = "https://chanstats.snoonet.org/"
-    weight = -140
+    weight = -970
 
     [[menu.main]]
     identifier = "irc-servers"
     name = "IRC Servers"
     pre = ""
     url = "/irc-servers/"
-    weight = -150
+    weight = -960
 
     [[menu.main]]
     identifier = "server-status"
     name = "Server Status"
     pre = ""
     url = "https://status.snoonet.org/"
-    weight = -160
+    weight = -950
 
     [[menu.information]]
     identifier = "getting-started"
     name = "Getting Started"
     pre = ""
     url = "/help/"
-    weight = -100
+    weight = -1000
 
     [[menu.information]]
     identifier = "mission-statement"
     name = "Mission Statement"
     pre = ""
     url = "/mission-statement/"
-    weight = -110
+    weight = -990
 
     [[menu.information]]
     identifier = "why-snoonet"
     name = "Why Snoonet?"
     pre = ""
     url = "/why-snoonet/"
-    weight = -120
+    weight = -980
 
     [[menu.information]]
     identifier = "staff"
     name = "Staff"
     pre = ""
     url = "/staff/"
-    weight = -130
+    weight = -970
 
     [[menu.information]]
     identifier = "sponsors"
     name = "Sponsors"
     pre = ""
     url = "/sponsors/"
-    weight = -140
+    weight = -960
 
     [[menu.information]]
     identifier = "support"
     name = "Support"
     pre = ""
     url = "https://support.snoonet.org/"
-    weight = -150
+    weight = -950
+
+    [[menu.rules]]
+    identifier = "network-rules"
+    name = "Network Rules"
+    pre = ""
+    url = "/rules/"
+    weight = -1000
+
+    [[menu.rules]]
+    identifier = "help-guidelines"
+    name = "Help and Guidelines"
+    pre = ""
+    url = "/help/"
+    weight = -990
+
+    [[menu.service]]
+    identifier = "ssl"
+    name = "SSL Fingerprints"
+    pre = ""
+    url = "/ssl/"
+    weight = -1000
+
+    [[menu.service]]
+    identifier = "privacy"
+    name = "Privacy and Security"
+    pre = ""
+    url = "/privacy/"
+    weight = -990
+
+    [[menu.service]]
+    identifier = "tos"
+    name = "Terms of Service"
+    pre = ""
+    url = "/tos/"
+    weight = -980
+
+    [[menu.service]]
+    identifier = "privacy-policy"
+    name = "Privacy Policy"
+    pre = ""
+    url = "/privacy-policy/"
+    weight = -970

@@ -6,4 +6,4 @@ The current Snoonet website converted to use a static site generator
 ## Getting Started
 
 See the [Hugo documentation](https://gohugo.io/getting-started/) for
-installation details.
+installation details. **The extended version is required for SCSS support.**

@@ -2,45 +2,49 @@
 <html lang="en">
     {{ partial "head.html" . }}
     <body>
-        <nav>
-            <ul id="general">
-                <li>General</li>
-                <li><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></li>
-                {{ range .Site.Menus.main }}
-                    {{ if .HasChildren }}
-                        <li>
-                            <a href="#">{{ .Pre }}{{ .Name }}</a>
-                            <ul>
-                                {{ range .Children }}
-                                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-                                {{ end }}
-                            </ul>
-                        </li>
-                    {{ else }}
-                        <li>
-                            <a {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
-                        </li>
-                    {{ end }}
-                {{ end }}
-            </ul>
-            <ul id="information">
-                <li>Information</li>
-                {{ range .Site.Menus.information }}
-                    {{ if .HasChildren }}
-                        <li>
-                            <a href="#">{{ .Pre }}{{ .Name }}</a>
-                            <ul>
-                                {{ range .Children }}
-                                    <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-                                {{ end }}
-                            </ul>
-                        </li>
-                    {{ else }}
-                        <li>
-                            <a {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
-                        </li>
-                    {{ end }}
-                {{ end }}
-            </ul>
-        </nav>
-        <main role="main">
+        <header id="header">
+            <div class="wrap">
+                <hgroup>
+                    <h1>
+                        <a href="/">Snoonet</a>
+                        <span>{{ .Title }}</span>
+                    </h1>
+                </hgroup>
+
+                <nav id="navigation">
+                    <ul>
+                        {{ range .Site.Menus.top }}
+                            <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                        {{ end }}
+                    </ul>
+                </nav>
+            </div><!--/ .wrap -->
+        </header><!--/ #header -->
+        <div id="content">
+            <aside id="sidebar">
+                <div>
+                    <div class="open" id="menutoggle"></div>
+                    <ul>
+                        {{/* Menus are defined in config.toml */}}
+
+                        {{ .Scratch.Set "nav_header" "General" }}
+                        {{ .Scratch.Set "nav_list" .Site.Menus.main }}
+                        {{ partial "nav_category" . }}
+
+                        {{ .Scratch.Set "nav_header" "Information" }}
+                        {{ .Scratch.Set "nav_list" .Site.Menus.information }}
+                        {{ partial "nav_category" . }}
+
+                        {{ .Scratch.Set "nav_header" "Rules and Guidelines" }}
+                        {{ .Scratch.Set "nav_list" .Site.Menus.rules }}
+                        {{ partial "nav_category" . }}
+
+                        {{ .Scratch.Set "nav_header" "Service Info" }}
+                        {{ .Scratch.Set "nav_list" .Site.Menus.service }}
+                        {{ partial "nav_category" . }}
+                    </ul>
+                </div>
+            </aside>
+            <div id="main">
+                <div id="spin-container">
+                    <article class="post single">
