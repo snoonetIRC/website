@@ -1,13 +1,15 @@
 {{ partial "header.html" . }}
 
-<header>
-    <h1>{{ .Title }}</h1>
-    <h2>{{ .Description }}</h2>
-</header>
+<article class="post">
+    <header class="header">
+        <h1>{{ .Title }}</h1>
+        <h2>{{ .Description }}</h2>
+    </header>
 
-<main>
-    {{ partial "post_meta.html" . }}
-    {{ .Content }}
-</main>
+    <section class="content">
+        {{ partial "post_meta.html" . }}
+        {{ .Content }}
+    </section>
+</article>
 
 {{ partial "footer.html" . }}
