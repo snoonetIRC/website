@@ -37,13 +37,13 @@ a {
   position: absolute;
   left: 0px;
   bottom: -32px;
-  background-image: url(/assets/snoonet.png);
+  background-image: url(/images/snoonet.png);
   background-size: 24px;
   background-position: center;
   background-repeat: no-repeat;
 }
 body.webchat #header .wrap:after {
-  background-image: url(/assets/bubbles.svg);
+  background-image: url(/images/bubbles.svg);
   background-size: 18px;
 }
 #header h1 {
@@ -120,7 +120,7 @@ body.webchat #header .wrap:after {
   width: 26px;
   height: 26px;
   background-color: rgba(0, 0, 0, 0.05);
-  background-image: url(/assets/menu.svg);
+  background-image: url(/images/menu.svg);
   background-position: center;
   background-size: 22px;
   background-repeat: no-repeat;
@@ -130,7 +130,7 @@ body.webchat #header .wrap:after {
   transition: background-color 0.3s;
 }
 #menutoggle.open {
-  background-image: url(/assets/cross.svg);
+  background-image: url(/images/cross.svg);
   background-color: transparent;
 }
 #main {
