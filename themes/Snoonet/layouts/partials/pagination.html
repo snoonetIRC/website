@@ -1,8 +1,8 @@
 {{ $paginator := .Paginator }}
 
 {{ if or ($paginator.HasPrev) ($paginator.HasNext) }}
-    {{ $prev := "Back" }}
-    {{ $next := "Next" }}
+    {{ $prev := "«" }}
+    {{ $next := "»" }}
 
     <nav class="pagination" role="pagination">
         {{ if $paginator.HasPrev }}

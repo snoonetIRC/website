@@ -10,7 +10,7 @@
  */
 //@import "partials/_mixins";
 //@import "partials/_constants";
-//@import "partials/_colors";
+@import "partials/_colors";
 //@import "partials/_icons.css";
 //@import "partials/_typography";
 //@import "partials/_content";
@@ -22,3 +22,4 @@
 //@import "segments/_sponsors";
 
 @import "screen";
+@import "segments/_pagination";

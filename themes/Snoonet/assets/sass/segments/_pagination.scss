@@ -1,0 +1,23 @@
+nav.pagination {
+    text-align: right;
+    padding-top: 1em;
+
+    ul {
+        display: inline;
+    }
+
+    li {
+        list-style-type: none;
+        display: inline;
+    }
+
+    .pagination__item--current {
+        a {
+            color: $text;
+        }
+
+        a:hover {
+            cursor: default;
+        }
+    }
+}
