@@ -1,6 +1,6 @@
 ---
 title: "Updates to our Network Rules and Terms of Service"
-date: 2018-12-31T13:56:46Z
+date: 2017-10-03T13:56:46Z
 draft: false
 type: post
 ---
