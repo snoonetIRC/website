@@ -1,9 +1,10 @@
 ---
 title: "Staff"
-date: 2018-12-30T21:43:20Z
+date: 2018-12-31T08:59:37Z
 draft: false
 type: page
+kind: staff
 ---
 
-# Staff
+Test.
 

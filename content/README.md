@@ -8,8 +8,9 @@ This directory contains the website's content.
 % hugo new page-name.md
 ```
 
-Pages are markdown files in this directory. Here is a basic example "about"
-page:
+Pages are markdown files in this directory. They are stored in the top level
+content directory so they have a top-level name on the website (i.e. `about.md`
+would be `snoonet.org/about`). Here is a basic example "about" page:
 
 ```
 ---
