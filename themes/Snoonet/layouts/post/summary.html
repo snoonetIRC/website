@@ -1,0 +1,20 @@
+<article class="post single">
+    <header class="header">
+        <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+        <time
+            class="icon-time"
+            datetime="{{ .Date.Format "Mon, Jan 2, 2006" }}"
+            title="{{ .Date.Format "Mon, Jan 2, 2006" }}"
+        >
+            {{ .Date.Format "Mon, Jan 2, 2006" }}
+        </time>
+    </header>
+
+    <section class="content">{{ .Content }}</section>
+
+    <footer class="footer">
+        <a href='{{ .Permalink }}'><nobr>Read More »</nobr></a>
+
+        <div style="clear: both"></div>
+    </footer>
+</article>

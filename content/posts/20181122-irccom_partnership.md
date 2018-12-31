@@ -5,8 +5,6 @@ draft: false
 type: post
 ---
 
-# Important changes to Snoonet and a partnership with IRC.com
-
 Snoonet is expanding its family and linking up with the new IRC network,
 [IRC.com](https://irc.com). For Snoonet users, the only real change you’ll feel
 is an influx of new users with some new cloaks. Staff wise, we are taking on no

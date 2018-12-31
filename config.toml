@@ -3,6 +3,10 @@ languageCode = "en-gb"
 title = "Snoonet"
 theme = "Snoonet"
 
+summaryLength = 400
+
+Paginate = 5
+
 [menu]
     [[menu.top]]
     identifier = "updates"

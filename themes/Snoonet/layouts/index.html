@@ -1,12 +1,10 @@
 {{ partial "header.html" . }}
 
-<div class="content">
-    {{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
-        {{ .Render "summary" }}
-    {{ end }}
+{{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
+    {{ .Render "summary" }}
+{{ end }}
 
 
-    {{ partial "pagination.html" . }}
-</div>
+{{ partial "pagination.html" . }}
 
 {{ partial "footer.html" . }}
