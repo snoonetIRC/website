@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "LTM Liaison, General Manager"
 favorite_channels: "#motorcycles"
-priority: 2
+weight: 2
 ---
 
 Hi! I'm /u/noeatnosleep. Most people call me nens. It's easier to type. I'm the LTM Liason and an Operations Manager for snoonet. I often help organize community events, work with newer users in #help, and assist people with network issues. I’m connected almost all the time, and if you ever want to chat, just shoot me a message! (/msg noeatnosleep hi)

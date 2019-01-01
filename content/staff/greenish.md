@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Community Admin"
 favorite_channels: "#anxiety, #worldbuilding"
-priority: 8
+weight: 8
 ---
 
 Hi, I'm Greenish and frankly I'm on IRC too much for my own good — guess that’s how I got this gig, though.

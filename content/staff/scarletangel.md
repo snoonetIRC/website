@@ -6,6 +6,6 @@ type: page
 kind: "staff"
 role: "Senior Admin"
 favorite_channels: ""
-priority: 6
+weight: 6
 no_link: true
 ---

@@ -6,6 +6,6 @@ type: page
 kind: "staff"
 role: "Alumnus/Founder"
 favorite_channels: ""
-priority: 999
+weight: 999
 no_link: true
 ---

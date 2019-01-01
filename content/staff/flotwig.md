@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Staff"
 favorite_channels: "##PartyMansion, ##flotwig, #staff"
-priority: 13
+weight: 13
 ---
 
 I'm flotwig. You might have heard me called flotty, flotsam, Just Wiggy™, or thotwig.

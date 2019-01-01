@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Staff"
 favorite_channels: "#Psychic, #textfriends, #depression, #mnfh"
-priority: 13
+weight: 13
 ---
 
 Hi,

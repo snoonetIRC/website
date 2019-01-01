@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Operations Manager"
 favorite_channels: "#DestinyTheGame, #idlerpg, #linuxmasterrace"
-priority: 5
+weight: 5
 ---
 
 Hi I'm Weylin!

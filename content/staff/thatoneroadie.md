@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Operations Manager"
 favorite_channels: "#f1"
-priority: 5
+weight: 5
 ---
 
 Heyo! I'm ThatOneRoadie, also known as Thor or TOR, from Denver, Colorado, USA. I'm one of the Senior Network Operations Staff here at Snoonet, responsible for the upkeep and maintenance of our network of servers. It’s a responsibility that changes on a daily basis, encompassing things such as monitoring network routes, upgrading and maintaining our IRC Daemon on all of our hub and leaf servers, commissioning and decommissioning servers on the network, stress testing new servers, and load balancing the users on the leafs that are active. At any given time, I'm responsible for the chat network used by over 4500 people simultaneously.

@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Community Admin"
 favorite_channels: ""
-priority: 8
+weight: 8
 ---
 
 Hey, I’m /u/nalixor. I've been a Snoonet regular for about two years now. I first arrived on Snoonet as a lowly user. I pretty much stuck to the #games channel, and made a great many friends whilst there. Soon after that I became a /r/Games moderator.

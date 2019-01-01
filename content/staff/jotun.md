@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Staff, Server OP"
 favorite_channels: "#reddit, #idlerpg"
-priority: 12
+weight: 12
 ---
 
 Hello, I'm jotun, a software engineer living in sunny California.

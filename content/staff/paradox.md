@@ -6,6 +6,6 @@ type: page
 kind: "staff"
 role: "Founder"
 favorite_channels: "#reddit, #memenetics"
-priority: 1
+weight: 1
 override_url: "http://paradox.io"
 ---

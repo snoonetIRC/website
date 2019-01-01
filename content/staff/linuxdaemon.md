@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Operations Manager, Developer"
 favorite_channels: ""
-priority: 5
+weight: 5
 ---
 
 Hi! I'm linuxdaemon on Snoonet. I'm mostly working in the background, keeping snoonet and its userbase secure. I'm mostly active as a member of the dev team, but I'm generally around for any community issues that may arise.

@@ -6,6 +6,6 @@ type: page
 kind: "staff"
 role: "Staff"
 favorite_channels: "#worldbuilding"
-priority: 13
+weight: 13
 no_link: true
 ---

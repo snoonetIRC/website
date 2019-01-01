@@ -6,6 +6,6 @@ type: page
 kind: "staff"
 role: "Operations Manager"
 favorite_channels: ""
-priority: 5
+weight: 5
 no_link: true
 ---

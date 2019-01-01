@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Community Admin"
 favorite_channels: "#sinbin, #noseboners"
-priority: 8
+weight: 8
 ---
 
 Photography. Software Engineering. Caffeine. Sketching. Cocktails. Beards. Animals.

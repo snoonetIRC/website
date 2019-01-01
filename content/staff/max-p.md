@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Developer"
 favorite_channels: ""
-priority: 11
+weight: 11
 no_link: true
 ---
 

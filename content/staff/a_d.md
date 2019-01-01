@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Developer, Staff"
 favorite_channels: "#aspergers, #casualconversation, #Sweden, #WetShaving"
-priority: 11
+weight: 11
 ---
 
 Ohai, I'm A_D, also sometimes known as Roy_Mustang or A_Dragon.

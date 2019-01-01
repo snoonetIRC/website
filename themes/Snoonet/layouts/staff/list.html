@@ -11,22 +11,20 @@
     <tbody>
         {{/* Sort by the "priority" parameter set in staff page's front matter */}}
 
-        {{ range sort .Pages "Params.priority" "asc" }}
-            {{ if not .Params.is_hidden }}
-                <tr>
-                    {{/* The "override_url" parameter is used first, so an external link can be used */}}
+        {{ range (where .Pages "Params.kind" "staff").ByWeight }}
+            <tr>
+                {{/* The "override_url" parameter is used first, so an external link can be used */}}
 
-                    <td>
-                        {{ if not .Params.no_link }}
-                            <a href="{{ or .Params.override_url .RelPermalink }}">{{ .Title }}</a>
-                        {{ else }}
-                            {{ .Title }}
-                        {{ end }}
-                    </td>
-                    <td>{{ .Params.role }}</td>
-                    <td>{{ .Params.favorite_channels }}</td>
-                </tr>
-            {{ end }}
+                <td>
+                    {{ if not .Params.no_link }}
+                        <a href="{{ or .Params.override_url .RelPermalink }}">{{ .Title }}</a>
+                    {{ else }}
+                        {{ .Title }}
+                    {{ end }}
+                </td>
+                <td>{{ .Params.role }}</td>
+                <td>{{ .Params.favorite_channels }}</td>
+            </tr>
         {{ end }}
 </table>
 

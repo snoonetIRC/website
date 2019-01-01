@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Community Manager"
 favorite_channels: "#shenanigans, #relaxingroom, #casualconversation, #fuckduck, #conversations"
-priority: 5
+weight: 5
 ---
 
 Alright? I'm DavidLuizsHair or DLH. Nice to meet you. I'm a recently appointed community admin. I've been on IRC intermittently throughout my teenage years, but have recently gotten back into it about a year ago. I've been on snoonet for about 10 months [as of drafting this message] so I'm still relatively quite young compared to others in that respect. I'm a pretty big sports fan mostly being a fan of football (soccer), formula 1 and intermittently following some NBA as well. In terms of other interests, I'm an avid fan of documentaries and I also intermittently cook, with varying results. Music wise I'm all over the board, I'm open to new kinds of music although various types of Indie, metalcore and rock tend to be my jam. Use /query DavidLuizsHair if you ever need any network help and I will do my best to help you. I go in phases of reading where I either read intensively or I don't read at all, some of my favourite books include "To Kill A MockingBird" "The Stranger" "The Guest" and "By The Waters of Babylon." Some of my favourite subreddits include /r/penmanshipporn /r/soccer /r/nba /r/London and /r/BritishProblems.

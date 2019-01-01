@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Staff"
 favorite_channels: "#linuxmasterrace, #redquasar, #linux_master_bait"
-priority: 13
+weight: 13
 ---
 
 Greetings! I am iownall555.

@@ -6,7 +6,7 @@ type: page
 kind: "staff"
 role: "Lead Developer, Staff"
 favorite_channels: ""
-priority: 10
+weight: 10
 ---
 
 hi i'm leon and i go QUACK QUACK QUACK
