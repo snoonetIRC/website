@@ -1,0 +1,29 @@
+{{ partial "header" . }}
+
+<table>
+    <thead>
+        <tr>
+            <th>Channel</th>
+            <th>Subreddit</th>
+            <th>Community Bio</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{ range (where .Pages "Params.kind" "beauty_and_relationships").ByTitle }}
+            <tr>
+                <td>
+                    <a href="{{ .Site.Params.webchatBaseURL }}{{ .Title }}">{{ .Title }}</a>
+                </td>
+                <td>{{ .Params.subreddit }}</td>
+                <td>
+                    {{ if not .Params.no_bio }}
+                        <a href="{{ .RelPermalink }}">Bio</a>
+                    {{ else }}
+                        <span class="secondary-text">N/A</span>
+                    {{ end }}
+                </td>
+            </tr>
+        {{ end }}
+</table>
+
+{{ partial "footer" . }}

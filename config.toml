@@ -9,6 +9,9 @@ Paginate = 5
 
 pluralizelisttitles = false
 
+[params]
+    webchatBaseURL = "https://webchat.snoonet.org/"
+
 [menu]
     [[menu.top]]
     identifier = "updates"
