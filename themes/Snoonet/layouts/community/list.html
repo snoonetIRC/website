@@ -20,10 +20,15 @@
     {{ range $c := $v }}
         <article class="post" id="{{ $k }}">
             <header>
-                <h1>{{ $c.Name }}</h1>
+                <h2>{{ $c.Name }}</h2>
             </header>
             <section class="content">
                 <table>
+                    <colgroup>
+                        <col style="width: 33.3%">
+                        <col style="width: 33.3%">
+                        <col style="width: auto">
+                    </colgroup>
                     <thead>
                         <tr>
                             <th>Channel</th>
