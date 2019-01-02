@@ -1,11 +1,5 @@
 {{ partial "header" . }}
 
-{{/*
-    Workaround - without this, site parameters cannot be accessed inside the
-    loops below. TODO: why?
-*/}}
-{{ $vars := . }}
-
 <article class="post">
     <header>
         <h1>Communities of Snoonet</h1>
@@ -38,7 +32,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        {{ range (where $vars.Pages "Params.kind" $k).ByTitle }}
+                        {{ range (where $.Pages "Params.kind" $k).ByTitle }}
                             <tr>
                                 <td>
                                     <a href="{{ .Site.Params.webchatBaseURL }}{{ .Title }}">{{ .Title }}</a>
