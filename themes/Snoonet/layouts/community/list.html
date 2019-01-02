@@ -37,7 +37,7 @@
                                 <td>
                                     <a href="{{ .Site.Params.webchatBaseURL }}{{ .Title }}">{{ .Title }}</a>
                                 </td>
-                                <td>{{ .Params.subreddit }}</td>
+                                <td><a href="https://reddit.com{{ .Params.subreddit }}">{{ .Params.subreddit }}</a></td>
                                 <td>
                                     {{ if not .Params.no_bio }}
                                         <a href="{{ .RelPermalink }}">Bio</a>
