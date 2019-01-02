@@ -92,13 +92,6 @@ pluralizelisttitles = false
     weight = -980
 
     [[menu.main]]
-    identifier = "chan-stats"
-    name = "Channel Stats"
-    pre = ""
-    url = "https://chanstats.snoonet.org/"
-    weight = -970
-
-    [[menu.main]]
     identifier = "irc-servers"
     name = "IRC Servers"
     pre = ""
