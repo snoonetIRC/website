@@ -1,29 +1,67 @@
 {{ partial "header" . }}
 
-<table>
-    <thead>
-        <tr>
-            <th>Channel</th>
-            <th>Subreddit</th>
-            <th>Community Bio</th>
-        </tr>
-    </thead>
-    <tbody>
-        {{ range (where .Pages "Params.kind" "beauty_and_relationships").ByTitle }}
-            <tr>
-                <td>
-                    <a href="{{ .Site.Params.webchatBaseURL }}{{ .Title }}">{{ .Title }}</a>
-                </td>
-                <td>{{ .Params.subreddit }}</td>
-                <td>
-                    {{ if not .Params.no_bio }}
-                        <a href="{{ .RelPermalink }}">Bio</a>
-                    {{ else }}
-                        <span class="secondary-text">N/A</span>
-                    {{ end }}
-                </td>
-            </tr>
-        {{ end }}
-</table>
+{{/*
+    Workaround - without this, site parameters cannot be accessed inside the
+    loops below. TODO: why?
+*/}}
+{{ $vars := . }}
+
+<article class="post">
+    <header>
+        <h1>Communities of Snoonet</h1>
+    </header>
+
+    <section class="content">
+        <ol>
+            {{ range $k, $v := .Site.Params.communityTypes }}
+                {{ range $c := $v }}
+                    <li><a href="#{{ $k }}">{{ $c.Name }}</a></li>
+                {{ end }}
+            {{ end }}
+        </ol>
+    </section>
+</article>
+
+{{ range $k, $v := .Site.Params.communityTypes }}
+    {{ range $c := $v }}
+        <article class="post" id="{{ $k }}">
+            <header>
+                <h1 id="{{ $k }}">{{ $c.Name }}</h1>
+            </header>
+            <section class="content">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Channel</th>
+                            <th>Subreddit</th>
+                            <th>Community Bio</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {{ range (where $vars.Pages "Params.kind" $k).ByTitle }}
+                            <tr>
+                                <td>
+                                    <a href="{{ .Site.Params.webchatBaseURL }}{{ .Title }}">{{ .Title }}</a>
+                                </td>
+                                <td>{{ .Params.subreddit }}</td>
+                                <td>
+                                    {{ if not .Params.no_bio }}
+                                        <a href="{{ .RelPermalink }}">Bio</a>
+                                    {{ else }}
+                                        <span class="secondary-text">N/A</span>
+                                    {{ end }}
+                                </td>
+                            </tr>
+                        {{ end }}
+                    </tbody>
+                </table>
+            </section>
+
+            <footer class="footer">
+                {{ partial "back_to_top.html" . }}
+            </footer>
+        </article>
+    {{ end }}
+{{ end }}
 
 {{ partial "footer" . }}

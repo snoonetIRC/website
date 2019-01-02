@@ -1,31 +1,44 @@
 {{ partial "header" . }}
 
-<table>
-    <thead>
-        <tr>
-            <th>Name</th>
-            <th>Role</th>
-            <th>Favorite Channels</th>
-        </tr>
-    </thead>
-    <tbody>
-        {{/* Sort by the "priority" parameter set in staff page's front matter */}}
+<article class="post">
+    <header class="header">
+        <h1>Staff</h1>
+    </header>
 
-        {{ range (where .Pages "Params.kind" "staff").ByWeight }}
-            <tr>
-                {{/* The "override_url" parameter is used first, so an external link can be used */}}
+    <section class="content">
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Role</th>
+                    <th>Favorite Channels</th>
+                </tr>
+            </thead>
+            <tbody>
+                {{/* Sort by the "priority" parameter set in staff page's front matter */}}
 
-                <td>
-                    {{ if not .Params.no_link }}
-                        <a href="{{ or .Params.override_url .RelPermalink }}">{{ .Title }}</a>
-                    {{ else }}
-                        {{ .Title }}
-                    {{ end }}
-                </td>
-                <td>{{ .Params.role }}</td>
-                <td>{{ .Params.favorite_channels }}</td>
-            </tr>
-        {{ end }}
-</table>
+                {{ range (where .Pages "Params.kind" "staff").ByWeight }}
+                    <tr>
+                        {{/* The "override_url" parameter is used first, so an external link can be used */}}
+
+                        <td>
+                            {{ if not .Params.no_link }}
+                                <a href="{{ or .Params.override_url .RelPermalink }}">{{ .Title }}</a>
+                            {{ else }}
+                                {{ .Title }}
+                            {{ end }}
+                        </td>
+                        <td>{{ .Params.role }}</td>
+                        <td>{{ .Params.favorite_channels }}</td>
+                    </tr>
+                {{ end }}
+            </tbody>
+        </table>
+    </section>
+
+    <footer class="footer">
+        {{ partial "back_to_top.html" . }}
+    </footer>
+</article>
 
 {{ partial "footer" . }}

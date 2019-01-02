@@ -12,6 +12,49 @@ pluralizelisttitles = false
 [params]
     webchatBaseURL = "https://webchat.snoonet.org/"
 
+    [params.communityTypes]
+        [[params.communityTypes.beauty_and_relationships]]
+        Name = "Beauty and Relationships"
+
+        [[params.communityTypes.gaming]]
+        Name = "Gaming"
+
+        [[params.communityTypes.health_and_food]]
+        Name = "Health and Food"
+
+        [[params.communityTypes.literature]]
+        Name = "Literature"
+
+        [[params.communityTypes.media]]
+        Name = "Media"
+
+        [[params.communityTypes.moderation_and_reddit]]
+        Name = "Moderation and Reddit"
+
+        [[params.communityTypes.music]]
+        Name = "Music"
+
+        [[params.communityTypes.news_and_politics]]
+        Name = "News and Politics"
+
+        [[params.communityTypes.occupations_and_education]]
+        Name = "Occupations and Education"
+
+        [[params.communityTypes.regional]]
+        Name = "Regional"
+
+        [[params.communityTypes.religion_and_lifestyle]]
+        Name = "Religion and Lifestyle"
+
+        [[params.communityTypes.social]]
+        Name = "Social"
+
+        [[params.communityTypes.sports]]
+        Name = "Sports"
+
+        [[params.communityTypes.technology_and_science]]
+        Name = "Technology and Science"
+
 [menu]
     [[menu.top]]
     identifier = "updates"
