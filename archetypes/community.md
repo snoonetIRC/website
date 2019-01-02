@@ -1,8 +1,8 @@
 ---
 title: "#{{ .Name }}"
 date: {{ .Date }}
-draft: true
+draft: false
 type: page
-kind: "type_here"
+kind: "moderation_and_reddit"
 subreddit: "/r/{{ .Name }}"
 ---
