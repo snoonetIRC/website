@@ -4,7 +4,7 @@ date: 2019-01-02T22:05:39Z
 draft: false
 type: page
 kind: "moderation_and_reddit"
-subreddit: "/r/subredditdrama"
+subreddit: "subredditdrama"
 ---
 
 [r/subredditdrama](http://www.reddit.com/r/subredditdrama) is where you go to watch other people on reddit argue. It was first started when there were several highly upvoted posts on r/reddit.com about user-v-mod conflict. This is the very thread in which it was created.

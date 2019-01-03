@@ -4,7 +4,7 @@ date: 2019-01-02T21:53:33Z
 draft: false
 type: page
 kind: "literature"
-subreddit: "/r/writingprompts"
+subreddit: "writingprompts"
 ---
 
 I'm [/u/SurvivorType](http://www.reddit.com/user/survivortype), Co-Lead Moderator of [/r/WritingPrompts](http://www.reddit.com/r/WritingPrompts/) along with our founder [/u/RyanKinder](http://www.reddit.com/user/RyanKinder).

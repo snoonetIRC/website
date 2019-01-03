@@ -4,7 +4,7 @@ date: 2019-01-03T10:07:10Z
 draft: false
 type: page
 kind: "social"
-subreddit: "/r/aspergers"
+subreddit: "aspergers"
 ---
 
 We're the official IRC channel for the subreddit [/r/aspergers](https://reddit.com/r/aspergers). You can sum us up in two words: socializing and support. Our primary function is to be a place for people on the entire Autistic Spectrum to have a safe and friendly place to chat, socialize, and discuss anything and everything. We’re also a support channel for folks dealing with a new diagnosis, mental health issues, or needing general advice. It doesn’t matter if you’re diagnosed or not, everyone is welcome!

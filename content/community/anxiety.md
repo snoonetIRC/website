@@ -4,7 +4,7 @@ date: 2019-01-02T19:25:50Z
 draft: false
 type: page
 kind: "health_and_food"
-subreddit: "/r/anxiety"
+subreddit: "anxiety"
 ---
 
 <h1><a href="http://anxiety.reddit.com">/r/anxiety</a></h1>

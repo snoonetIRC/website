@@ -4,7 +4,7 @@ date: 2019-01-03T09:57:37Z
 draft: false
 type: page
 kind: "regional"
-subreddit: "/r/scotland"
+subreddit: "scotland"
 ---
 
 <h1><a href="https://scotland.reddit.com">/r/Scotland</a></h1>

@@ -4,7 +4,7 @@ date: 2019-01-02T21:45:18Z
 draft: false
 type: page
 kind: "health_and_food"
-subreddit: "/r/stopdrinking"
+subreddit: "stopdrinking"
 ---
 <h1><a href="http://stopdrinking.reddit.com">/r/stopdrinking</a></h1>
 [IRC channel](https://kiwiirc.com/client/irc.snoonet.org/stopdrinking/)

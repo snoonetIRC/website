@@ -4,7 +4,7 @@ date: 2019-01-03T10:03:04Z
 draft: false
 type: page
 kind: "religion_and_lifestyle"
-subreddit: "/r/astralprojection"
+subreddit: "astralprojection"
 ---
 
 ### Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?

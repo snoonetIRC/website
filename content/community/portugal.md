@@ -4,7 +4,7 @@ date: 2019-01-03T09:57:37Z
 draft: false
 type: page
 kind: "regional"
-subreddit: "/r/portugal"
+subreddit: "portugal"
 ---
 
 <h1><a href="https://portugal.reddit.com">/r/portugal</a></h1>

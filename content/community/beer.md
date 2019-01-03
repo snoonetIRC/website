@@ -4,5 +4,5 @@ date: 2019-01-02T21:41:01Z
 draft: false
 type: page
 kind: "health_and_food"
-subreddit: "/r/beer"
+subreddit: "beer"
 ---

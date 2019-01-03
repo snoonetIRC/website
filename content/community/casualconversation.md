@@ -4,7 +4,7 @@ date: 2019-01-03T10:07:11Z
 draft: false
 type: page
 kind: "social"
-subreddit: "/r/CasualConversation"
+subreddit: "CasualConversation"
 ---
 
 <h1><a href="http://CasualConversation.reddit.com">/r/CasualConversation</a></h1>

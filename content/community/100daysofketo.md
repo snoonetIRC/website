@@ -4,7 +4,7 @@ date: 2019-01-02T21:48:34Z
 draft: false
 type: page
 kind: "health_and_food"
-subreddit: "/r/100daysofketo"
+subreddit: "100daysofketo"
 ---
 
 # Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?

@@ -4,7 +4,7 @@ date: 2019-01-02T19:40:19Z
 draft: false
 type: page
 kind: "beauty_and_relationships"
-subreddit: "/r/longdistance"
+subreddit: "longdistance"
 ---
 
 ### Can you give us a description of your community:

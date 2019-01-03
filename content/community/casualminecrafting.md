@@ -4,7 +4,7 @@ date: 2019-01-02T21:38:01Z
 draft: false
 type: page
 kind: "gaming"
-subreddit: "/r/casualminecrafting"
+subreddit: "casualminecrafting"
 ---
 **Can you give us a description of your community?**
 

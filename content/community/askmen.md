@@ -4,7 +4,7 @@ date: 2019-01-03T10:07:10Z
 draft: false
 type: page
 kind: "social"
-subreddit: "/r/askmen"
+subreddit: "askmen"
 ---
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
