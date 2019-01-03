@@ -1,0 +1,15 @@
+<header class="inline-header">
+    <h2>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+
+        <span class="h2-secondary">
+            <time
+                class="icon-time"
+                datetime="{{ .Date.Format "Mon, Jan 2, 2006" }}"
+                title="{{ .Date.Format "Mon, Jan 2, 2006" }}"
+            >
+                {{ .Date.Format "Mon, Jan 2, 2006" }}
+            </time>
+        </span>
+    </h2>
+</header>

@@ -1,16 +1,20 @@
 {{ partial "header.html" . }}
 
 <article class="post">
-    <header>
+    <header class="inline-header">
         <h2>
-            {{ if .Params.subreddit }}
-                {{ partial "subreddit_link.html" . }}
-            {{ else if .Params.subreddits }}
-                {{ partial "multi_subreddit_link.html" . }}
-            {{ end }}
-        </h2>
+            <span class="h2-primary">
+                {{ partial "channel_link.html" . }}
+            </span>
 
-        <h3>{{ partial "channel_link.html" . }}</h3>
+            <span class="h2-secondary">
+                {{ if .Params.subreddit }}
+                    {{ partial "subreddit_link.html" . }}
+                {{ else if .Params.subreddits }}
+                    {{ partial "multi_subreddit_link.html" . }}
+                {{ end }}
+            </span>
+        </h2>
     </header>
 
     <section class="content">

@@ -1,10 +1,7 @@
 {{ partial "header.html" . }}
 
 <article class="post">
-    <header class="header">
-        <h1>{{ .Title }}</h1>
-        <h2>{{ .Description }}</h2>
-    </header>
+    {{ partial "inline_header_date.html" . }}
 
     <section class="content">
         {{ partial "post_meta.html" . }}

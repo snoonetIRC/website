@@ -1,0 +1,11 @@
+header.inline-header {
+    .h2-secondary {
+        color:       $mid-gray; // for non-links
+        float:       right;
+        font-size:   0.7em;
+        line-height: 2.1em;
+    }
+
+    border-bottom:  1px solid $light-gray;
+    padding-bottom: 1em;
+}
