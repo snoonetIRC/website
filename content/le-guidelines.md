@@ -42,7 +42,7 @@ What Account Information does Snoonet have?
 # <a name="data-retention">Data Retention Information</a>
 *<a href="#top">^back ^to ^top</a>*
 
-User Account Information is retained by Snoonet in accordance with Snoonet’s privacy policy; some information is collected by Snoonet automatically and some information is provided to Snoonet at the user’s discretion.
+User Account Information is retained by Snoonet in accordance with Snoonet's privacy policy; some information is collected by Snoonet automatically and some information is provided to Snoonet at the user's discretion.
 
 What information exists once a user has deleted their user account?
 
@@ -64,7 +64,7 @@ Consistent with 18 U.S.C. § 2703(f), Snoonet will preserve records for up to 90
 6.	Have a valid return official email address; and
 7.	Be sent on law enforcement letterhead to lawenforcement [at] snoonet.org with the subject line reading “Preservation Request – User: [insert relevant username here]”.
 
-Unless Snoonet receives an additional preservation request, Snoonet will, after 90 days, release the preservation and the preserved records will be subject to Snoonet’s normal retention or destruction schedules.
+Unless Snoonet receives an additional preservation request, Snoonet will, after 90 days, release the preservation and the preserved records will be subject to Snoonet's normal retention or destruction schedules.
 
 Will users be notified of a preservation request on their user account?
 
@@ -116,7 +116,7 @@ Search Warrant
 
 Will users be notified of a request for information on their user account?
 
-Yes, unless Snoonet is prohibited from doing so by statute or a valid court order, Snoonet’s policy is to provide notice of requests and legal process seeking a subscriber’s information to that subscriber. Snoonet will generally give the user a reasonable period of time to file an objection to production before producing responsive records. Where a statute or court order prohibits notice for a limited time period, Snoonet provides notice upon expiration of that period.
+Yes, unless Snoonet is prohibited from doing so by statute or a valid court order, Snoonet's policy is to provide notice of requests and legal process seeking a subscriber's information to that subscriber. Snoonet will generally give the user a reasonable period of time to file an objection to production before producing responsive records. Where a statute or court order prohibits notice for a limited time period, Snoonet provides notice upon expiration of that period.
 
 In emergency or exigent circumstances, Snoonet may exercise its discretion not to provide a user with notice of a request for their account information prior to production to law enforcement. However, Snoonet reserves the right to provide notice to affected users after production has occurred.
 
@@ -132,7 +132,7 @@ Snoonet does not provide expert witness testimony and does not have witnesses on
 # <a name="emergency-requests">Emergency Disclosure Requests</a>
 *<a href="#top">^back ^to ^top</a>*
 
-Snoonet evaluates these requests on a case-by-case basis and may request additional information to verify the nature of the request and  the requestor’s identity. It does not commit to producing records under any set of circumstances or within a particular timeline. To seek to compel Snoonet to produce information, please obtain and personally serve valid and sufficient legal process.
+Snoonet evaluates these requests on a case-by-case basis and may request additional information to verify the nature of the request and  the requestor's identity. It does not commit to producing records under any set of circumstances or within a particular timeline. To seek to compel Snoonet to produce information, please obtain and personally serve valid and sufficient legal process.
 
 Will users be notified of an emergency request on their user account?
 

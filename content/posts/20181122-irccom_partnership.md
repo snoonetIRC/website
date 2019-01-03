@@ -5,7 +5,7 @@ draft: false
 type: post
 ---
 
-Snoonet is expanding its family and linking up with the new IRC network, [IRC.com](https://irc.com). For Snoonet users, the only real change you’ll feel is an influx of new users with some new cloaks. Staff wise, we are taking on no new opers over the link, and all current staff will remain as they are.
+Snoonet is expanding its family and linking up with the new IRC network, [IRC.com](https://irc.com). For Snoonet users, the only real change you'll feel is an influx of new users with some new cloaks. Staff wise, we are taking on no new opers over the link, and all current staff will remain as they are.
 
 In order to reduce confusion between Snoonet and IRC.com users, a few changes will be made to cloaking and services bots. For most users, these changes will not be noticeable. Note that all these changes may not happen at once, for example, the cloak changes will take a bit more time than the rest.
 
@@ -17,6 +17,6 @@ In order to reduce confusion between Snoonet and IRC.com users, a few changes wi
 
 **4.** Unregistered users will now display a cloak containing `@irc-<hash>.IP` instead of `@Snoonet-<hash>.IP`. **Note that this will not affect old bans against Snoonet-<hash>.IP cloaks, both types will be checked where needed.**
 
-**TL;DR:** The vHosts services bots use are changing to be more name agnostic. We’re making newly registered nicks have vhosts based on the side they registered on. We’re changing snoo-ed nicks to `Guest`. Cloaks are also undergoing changes to be more name agnostic, though bans on old ones will still work.
+**TL;DR:** The vHosts services bots use are changing to be more name agnostic. We're making newly registered nicks have vhosts based on the side they registered on. We're changing snoo-ed nicks to `Guest`. Cloaks are also undergoing changes to be more name agnostic, though bans on old ones will still work.
 
 If you have any questions or concerns please don't hesitate to ask a Snoonet staff member in #help or through our support system located at [https://support.snoonet.org/](https://support.snoonet.org)
