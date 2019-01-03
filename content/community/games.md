@@ -2,14 +2,10 @@
 title: "#games"
 date: 2019-01-02T21:31:59Z
 draft: false
-type: page
+type: community
 kind: "gaming"
 subreddit: "games"
 ---
-
-<h1><a href="http://games.reddit.com">/r/games</a></h1>
-[IRC channel](http://webchat.snoonet.org/games)
-
 
 **Can you give us a description of your community?**
 

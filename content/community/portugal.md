@@ -2,13 +2,10 @@
 title: "#portugal"
 date: 2019-01-03T09:57:37Z
 draft: false
-type: page
+type: community
 kind: "regional"
 subreddit: "portugal"
 ---
-
-<h1><a href="https://portugal.reddit.com">/r/portugal</a></h1>
-[IRC channel](http://webchat.snoonet.org/portugal)
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 

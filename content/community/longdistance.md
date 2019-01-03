@@ -2,7 +2,7 @@
 title: "#longdistance"
 date: 2019-01-02T19:40:19Z
 draft: false
-type: page
+type: community
 kind: "beauty_and_relationships"
 subreddit: "longdistance"
 ---

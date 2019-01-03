@@ -2,7 +2,7 @@
 title: "#writerchat"
 date: 2019-01-02T21:54:28Z
 draft: false
-type: page
+type: community
 kind: "literature"
 subreddit: "writerchat"
 ---
