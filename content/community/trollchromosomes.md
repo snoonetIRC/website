@@ -4,7 +4,7 @@ date: 2019-01-03T10:07:11Z
 draft: false
 type: page
 kind: "social"
-subreddits: [ "/r/trollxchromosomes", "/r/trollychromosome" ]
+subreddits: [ "trollxchromosomes", "trollychromosome" ]
 ---
 
 <h1><a href="https://trollchromosomes.reddit.com">/r/TrollChromosomes</a>

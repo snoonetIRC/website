@@ -46,15 +46,14 @@
                                 </td>
                                 <td>
                                     {{ if .Params.subreddit }}
-                                        <a href="{{ printf "%s%s" .Site.Params.redditBaseURL .Params.subreddit }}">
-                                            {{ .Params.subreddit }}
+                                        <a href="{{ printf "%s/r/%s" .Site.Params.redditBaseURL .Params.subreddit }}">
+                                            /r/{{ .Params.subreddit }}
                                         </a>
                                     {{ else if .Params.subreddits }}
                                         {{ $len := (len .Params.subreddits) }}
                                         {{ range $i, $sr := .Params.subreddits }}
-
-                                            <a href="{{ printf "%s%s" $.Site.Params.redditBaseURL $sr }}">
-                                                {{ $sr }}
+                                            <a href="{{ printf "%s/r/%s" $.Site.Params.redditBaseURL $sr }}">
+                                                /r/{{ $sr }}
                                             </a>
                                             {{ if lt $i (sub $len 1) }} &amp; {{ end }}
                                         {{ end }}

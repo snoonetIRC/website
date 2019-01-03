@@ -4,7 +4,7 @@ date: 2019-01-03T10:03:05Z
 draft: false
 type: page
 kind: "religion_and_lifestyle"
-subreddit: "/r/psychic"
+subreddit: "psychic"
 ---
 
 <h1><a href="https://psychic.reddit.com">/r/psychic</a></h1>

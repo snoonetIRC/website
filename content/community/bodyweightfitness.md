@@ -4,7 +4,7 @@ date: 2019-01-02T21:41:18Z
 draft: false
 type: page
 kind: "health_and_food"
-subreddit: "/r/bodyweightfitness"
+subreddit: "bodyweightfitness"
 ---
 
 <h1><a href="http://bodyweightfitness.reddit.com">/r/bodyweightfitness</a></h1>

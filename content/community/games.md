@@ -4,7 +4,7 @@ date: 2019-01-02T21:31:59Z
 draft: false
 type: page
 kind: "gaming"
-subreddit: "/r/games"
+subreddit: "games"
 ---
 
 <h1><a href="http://games.reddit.com">/r/games</a></h1>

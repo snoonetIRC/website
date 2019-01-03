@@ -89,7 +89,7 @@ pluralizelisttitles = false
     identifier = "communities"
     name = "Communities"
     pre = ""
-    url = "/communities/"
+    url = "/community/"
     weight = -980
 
     [[menu.main]]

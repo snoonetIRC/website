@@ -4,7 +4,7 @@ date: 2019-01-02T22:01:31Z
 draft: false
 type: page
 kind: "media"
-subreddit: "/r/worldbuilding"
+subreddit: "worldbuilding"
 ---
 
 #worldbuilding is a DIY community centered on the activity of creating fictional worlds, either for fun or as part of the process of writing, making a tabletop RPG, or similar. All genres and experience levels are welcome. We also serve as an off-topic social space for the /r/worldbuilding community more generally.
