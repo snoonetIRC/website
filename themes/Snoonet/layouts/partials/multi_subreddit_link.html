@@ -1,0 +1,9 @@
+{{ $len := (len .Params.subreddits) }}
+
+{{ range $i, $sr := .Params.subreddits }}
+    <a href="{{ printf "%s/r/%s" $.Site.Params.redditBaseURL $sr }}">
+        /r/{{ $sr }}
+    </a>
+
+    {{ if lt $i (sub $len 1) }} &amp; {{ end }}
+{{ end }}

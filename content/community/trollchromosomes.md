@@ -2,14 +2,12 @@
 title: "#trollchromosomes"
 date: 2019-01-03T10:07:11Z
 draft: false
-type: page
+type: community
 kind: "social"
 subreddits: [ "trollxchromosomes", "trollychromosome" ]
 ---
 
-<h1><a href="https://trollchromosomes.reddit.com">/r/TrollChromosomes</a>
-(<a href="https://trollxchromosomes.reddit.com">/r/TrollXChromosomes</a> & <a href="https://trollychromosome.reddit.com">/r/TrollYChromosome</a>)</h1>
-[IRC channel](http://webchat.snoonet.org/trollchromosomes)
+([/r/TrollChromosomes](https://reddit.com/r/trollchromosomes))
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 

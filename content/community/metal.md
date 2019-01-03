@@ -2,13 +2,10 @@
 title: "#metal"
 date: 2019-01-02T22:09:18Z
 draft: false
-type: page
+type: community
 kind: "music"
 subreddit: "metal"
 ---
-
-<h1><a href="http://metal.reddit.com">/r/metal</a></h1>
-[IRC channel](http://webchat.snoonet.org/metal)
 
 **Can you give us a description of your community?**
 

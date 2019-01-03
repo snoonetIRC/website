@@ -2,14 +2,10 @@
 title: "#anxiety"
 date: 2019-01-02T19:25:50Z
 draft: false
-type: page
+type: community
 kind: "health_and_food"
 subreddit: "anxiety"
 ---
-
-<h1><a href="http://anxiety.reddit.com">/r/anxiety</a></h1>
-[IRC channel](http://webchat.snoonet.org/anxiety)
-
 
 /r/Anxiety is a supportive community for all things anxiety related. Rules can be found on the sidebar however a brief rundown would be:
 As a supportive community we take racist, sexist, homophobic, transphobic, [ableist](http://en.wikipedia.org/wiki/Ableism) or just generally offensive messages seriously and therefore posts or replies with such will be removed. Contact the moderators if you disagree with a message or post being removed.

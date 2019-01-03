@@ -2,14 +2,10 @@
 title: "#casualconversation"
 date: 2019-01-03T10:07:11Z
 draft: false
-type: page
+type: community
 kind: "social"
 subreddit: "CasualConversation"
 ---
-
-<h1><a href="http://CasualConversation.reddit.com">/r/CasualConversation</a></h1>
-[IRC channel](https://kiwiirc.com/client/irc.snoonet.org/casualconversation)
-
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include*
 

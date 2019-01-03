@@ -2,6 +2,6 @@
 title: "#xboxone"
 date: 2019-01-02T21:39:39Z
 draft: false
-type: page
+type: community
 kind: "gaming"
 ---

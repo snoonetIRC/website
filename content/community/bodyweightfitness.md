@@ -2,13 +2,10 @@
 title: "#bodyweightfitness"
 date: 2019-01-02T21:41:18Z
 draft: false
-type: page
+type: community
 kind: "health_and_food"
 subreddit: "bodyweightfitness"
 ---
-
-<h1><a href="http://bodyweightfitness.reddit.com">/r/bodyweightfitness</a></h1>
-[IRC channel](http://webchat.snoonet.org/bodyweightfitness)
 
 /r/bodyweightfitness is a place for all people to find quality discussion about training using your bodyweight as resistance. Though our focus is on bodyweight, you're welcome to discuss any and all training modalities.
 In order to keep the standard of discussion high, help out newbies, we have a FAQ that is required reading. We also expect you to have put some effort into finding an answer to your questions.

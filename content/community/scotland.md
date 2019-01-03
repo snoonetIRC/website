@@ -2,13 +2,10 @@
 title: "#scotland"
 date: 2019-01-03T09:57:37Z
 draft: false
-type: page
+type: community
 kind: "regional"
 subreddit: "scotland"
 ---
-
-<h1><a href="https://scotland.reddit.com">/r/Scotland</a></h1>
-[IRC channel](http://webchat.snoonet.org/scotland)
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 

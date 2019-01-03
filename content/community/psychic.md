@@ -2,13 +2,10 @@
 title: "#psychic"
 date: 2019-01-03T10:03:05Z
 draft: false
-type: page
+type: community
 kind: "religion_and_lifestyle"
 subreddit: "psychic"
 ---
-
-<h1><a href="https://psychic.reddit.com">/r/psychic</a></h1>
-[IRC channel](http://webchat.snoonet.org/psychic)
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 

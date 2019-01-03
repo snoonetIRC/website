@@ -2,6 +2,6 @@
 title: "#cooking"
 date: 2019-01-02T21:44:07Z
 draft: false
-type: page
+type: community
 kind: "health_and_food"
 ---

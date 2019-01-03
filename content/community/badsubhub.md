@@ -2,14 +2,10 @@
 title: "#badsubhub"
 date: 2019-01-03T09:51:02Z
 draft: false
-type: page
+type: community
 kind: "occupations_and_education"
 subreddit: "badsubhub"
 ---
-
-<h1><a href="http://badsubhub.reddit.com">/r/BadSubHub</a></h1>
-[IRC channel](webchat.snoonet.org/badsubhub/)
-
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 
