@@ -3,6 +3,6 @@ title: "#{{ .Name }}"
 date: {{ .Date }}
 draft: false
 type: page
-kind: "social"
+kind: "sports"
 subreddit: "/r/{{ .Name }}"
 ---
