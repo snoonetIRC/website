@@ -25,8 +25,8 @@
             <section class="content">
                 <table>
                     <colgroup>
-                        <col style="width: 33.3%">
-                        <col style="width: 33.3%">
+                        <col style="width: 30%">
+                        <col style="width: 50%">
                         <col style="width: auto">
                     </colgroup>
                     <thead>
@@ -40,13 +40,24 @@
                         {{ range (where $.Pages "Params.kind" $k).ByTitle }}
                             <tr>
                                 <td>
-                                    <a href="{{ .Site.Params.webchatBaseURL }}{{ .Title }}">{{ .Title }}</a>
+                                    <a href="{{ printf "%s%s" .Site.Params.webchatBaseURL .Title }}">
+                                        {{ .Title }}
+                                    </a>
                                 </td>
                                 <td>
                                     {{ if .Params.subreddit }}
-                                        <a
-                                            href="https://reddit.com{{ .Params.subreddit }}"
-                                        >{{ .Params.subreddit }}</a>
+                                        <a href="{{ printf "%s%s" .Site.Params.redditBaseURL .Params.subreddit }}">
+                                            {{ .Params.subreddit }}
+                                        </a>
+                                    {{ else if .Params.subreddits }}
+                                        {{ $len := (len .Params.subreddits) }}
+                                        {{ range $i, $sr := .Params.subreddits }}
+
+                                            <a href="{{ printf "%s%s" $.Site.Params.redditBaseURL $sr }}">
+                                                {{ $sr }}
+                                            </a>
+                                            {{ if lt $i (sub $len 1) }} &amp; {{ end }}
+                                        {{ end }}
                                     {{ else }}
                                         <span class="secondary-text">N/A</span>
                                     {{ end }}

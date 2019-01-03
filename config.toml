@@ -11,6 +11,7 @@ pluralizelisttitles = false
 
 [params]
     webchatBaseURL = "https://webchat.snoonet.org/"
+    redditBaseURL  = "https://reddit.com"
 
     [params.communityTypes]
         [[params.communityTypes.beauty_and_relationships]]
