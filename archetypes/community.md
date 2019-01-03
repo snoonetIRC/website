@@ -3,6 +3,6 @@ title: "#{{ .Name }}"
 date: {{ .Date }}
 draft: false
 type: page
-kind: "news_and_politics"
+kind: "occupations_and_education"
 subreddit: "/r/{{ .Name }}"
 ---
