@@ -7,9 +7,13 @@ kind: "social"
 subreddit: "CasualConversation"
 ---
 
-**Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include*
+<h1><a href="http://CasualConversation.reddit.com">/r/CasualConversation</a></h1>
+[IRC channel](https://kiwiirc.com/client/irc.snoonet.org/casualconversation)
 
-* We do. I like to change up the colors on our CSS page for different holidays throughout the year. We also have a neat announcement bar that pops up when you scroll down, it normally has a quirky quote on it.
+
+**Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include**
+
+* We do. I like to change up the colors on our CSS page for different holidays throughout the year. We also have a neat announcement bar that pops up when you scroll down, it normally has a quirky quote on it. 
 
 
 **Does your community have any associated social media or websites? (facebook/twitter/instagram/etc)**
