@@ -13,12 +13,9 @@ subreddit: "CasualConversation"
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include**
 
-* We do. I like to change up the colors on our CSS page for different holidays throughout the year. We also have a neat announcement bar that pops up when you scroll down, it normally has a quirky quote on it. 
+* We do. I like to change up the colors on our CSS page for different holidays throughout the year. We also have a neat announcement bar that pops up when you scroll down, it normally has a quirky quote on it.
 
-
-**Does your community have any associated social media or websites? (facebook/twitter/instagram/etc)**
-
-* Our Steam group I guess. I thought about doing a twitter page but never really knew how it would work for the sub.?**
+**What sets your community apart from others?**
 
 * /r/CasualConversation is a subreddit for general chat about *almost* anything that you can think of. The main rules here are to "respect others" and "Don't take things too seriously." Mostly we just want people to have a friendly place to have conversations but we do have a [detailed rules page here](http://www.reddit.com/r/CasualConversation/wiki/rules). Oh we also have a Snoonet rules page that can be found at https://www.snoonet.org/ccrules.
 
@@ -65,4 +62,10 @@ We have a bunch of resources for our community, our [Steam group](http://steamco
 * That reddit isn't as bad as I thought it is. Seeing how great our subscribers are really makes me see a whole other side of reddit.
 
 
-**Does your community have any traditions or special events?
+**Does your community have any traditions or special events?**
+
+* We do. I like to change up the colors on our CSS page for different holidays throughout the year. We also have a neat announcement bar that pops up when you scroll down, it normally has a quirky quote on it.
+
+**Does your community have any associated social media or websites? (facebook/twitter/instagram/etc)**
+
+* Our Steam group I guess. I thought about doing a twitter page but never really knew how it would work for the sub.

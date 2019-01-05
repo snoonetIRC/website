@@ -215,15 +215,9 @@ tr:nth-child(odd) td {
   background: rgba(0, 0, 0, 0.02);
 }
 .content li {
-  list-style: none;
   padding-left: 10px;
   margin-bottom: 4px;
-}
-.content li:before {
-  content: "• ";
-  font-family: Arial;
-  color: rgba(0, 0, 0, 0.3);
-  margin-left: -10px;
+  margin-left: 10px;
 }
 .content strong {
   font-size: 16px;
