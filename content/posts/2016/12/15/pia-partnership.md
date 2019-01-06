@@ -1,5 +1,5 @@
 ---
-title: "Introducing our newest partner - Private Internet Access!<Paste>"
+title: "Introducing our newest partner - Private Internet Access!"
 date: 2016-12-15T23:48:51Z
 draft: false
 type: post
