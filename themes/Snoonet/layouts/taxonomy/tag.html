@@ -1,13 +1,11 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
+    <div class="header">
+        <h1>{{ .Title }}</h1>
+    </div>
 
-<div class="header">
-    <h1>{{ .Title }}</h1>
-</div>
-
-<div class="content">
-    {{ range .Data.Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
-</div>
-
-{{ partial "footer.html" . }}
+    <div class="content">
+        {{ range .Data.Pages }}
+            {{ .Render "summary"}}
+        {{ end }}
+    </div>
+{{ end }}

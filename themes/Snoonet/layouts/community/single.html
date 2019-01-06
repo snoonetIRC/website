@@ -1,25 +1,23 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
+    <article class="post">
+        <header class="inline-header">
+            <h2>
+                <span class="h2-primary">
+                    {{ partial "channel_link.html" . }}
+                </span>
 
-<article class="post">
-    <header class="inline-header">
-        <h2>
-            <span class="h2-primary">
-                {{ partial "channel_link.html" . }}
-            </span>
+                <span class="h2-secondary">
+                    {{ if .Params.subreddit }}
+                        {{ partial "subreddit_link.html" . }}
+                    {{ else if .Params.subreddits }}
+                        {{ partial "multi_subreddit_link.html" . }}
+                    {{ end }}
+                </span>
+            </h2>
+        </header>
 
-            <span class="h2-secondary">
-                {{ if .Params.subreddit }}
-                    {{ partial "subreddit_link.html" . }}
-                {{ else if .Params.subreddits }}
-                    {{ partial "multi_subreddit_link.html" . }}
-                {{ end }}
-            </span>
-        </h2>
-    </header>
-
-    <section class="content">
-        {{ .Content }}
-    </section>
-</article>
-
-{{ partial "footer.html" . }}
+        <section class="content">
+            {{ .Content }}
+        </section>
+    </article>
+{{ end }}

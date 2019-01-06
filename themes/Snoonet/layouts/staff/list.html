@@ -1,44 +1,42 @@
-{{ partial "header" . }}
+{{ define "main" }}
+    <article class="post">
+        <header class="inline-header">
+            <h2>Staff</h2>
+        </header>
 
-<article class="post">
-    <header class="inline-header">
-        <h2>Staff</h2>
-    </header>
-
-    <section class="content">
-        <table>
-            <thead>
-                <tr>
-                    <th>Name</th>
-                    <th>Role</th>
-                    <th>Favorite Channels</th>
-                </tr>
-            </thead>
-            <tbody>
-                {{/* Sort by the "priority" parameter set in staff page's front matter */}}
-
-                {{ range (where .Pages "Params.kind" "staff").ByWeight }}
+        <section class="content">
+            <table>
+                <thead>
                     <tr>
-                        {{/* The "override_url" parameter is used first, so an external link can be used */}}
-
-                        <td>
-                            {{ if not .Params.no_link }}
-                                <a href="{{ or .Params.override_url .RelPermalink }}">{{ .Title }}</a>
-                            {{ else }}
-                                {{ .Title }}
-                            {{ end }}
-                        </td>
-                        <td>{{ .Params.role }}</td>
-                        <td>{{ .Params.favorite_channels }}</td>
+                        <th>Name</th>
+                        <th>Role</th>
+                        <th>Favorite Channels</th>
                     </tr>
-                {{ end }}
-            </tbody>
-        </table>
-    </section>
+                </thead>
+                <tbody>
+                    {{/* Sort by the "priority" parameter set in staff page's front matter */}}
 
-    <footer class="footer">
-        {{ partial "back_to_top.html" . }}
-    </footer>
-</article>
+                    {{ range (where .Pages "Params.kind" "staff").ByWeight }}
+                        <tr>
+                            {{/* The "override_url" parameter is used first, so an external link can be used */}}
 
-{{ partial "footer" . }}
+                            <td>
+                                {{ if not .Params.no_link }}
+                                    <a href="{{ or .Params.override_url .RelPermalink }}">{{ .Title }}</a>
+                                {{ else }}
+                                    {{ .Title }}
+                                {{ end }}
+                            </td>
+                            <td>{{ .Params.role }}</td>
+                            <td>{{ .Params.favorite_channels }}</td>
+                        </tr>
+                    {{ end }}
+                </tbody>
+            </table>
+        </section>
+
+        <footer class="footer">
+            {{ partial "back_to_top.html" . }}
+        </footer>
+    </article>
+{{ end }}

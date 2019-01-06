@@ -1,13 +1,11 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
+    <article class="post">
+        <header class="inline-header">
+            <h2>{{ .Title }}</h2>
+        </header>
 
-<article class="post">
-    <header class="inline-header">
-        <h2>{{ .Title }}</h2>
-    </header>
-
-    <section class="content">
-        {{ .Content }}
-    </section>
-</article>
-
-{{ partial "footer.html" . }}
+        <section class="content">
+            {{ .Content }}
+        </section>
+    </article>
+{{ end }}

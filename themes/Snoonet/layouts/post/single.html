@@ -1,23 +1,21 @@
-{{ partial "header.html" . }}
+{{ define "main" }}
+    <article class="post">
+        {{ partial "inline_header_date.html" . }}
 
-<article class="post">
-    {{ partial "inline_header_date.html" . }}
+        <section class="content">
+            {{ partial "post_meta.html" . }}
+            {{ .Content }}
+        </section>
 
-    <section class="content">
-        {{ partial "post_meta.html" . }}
-        {{ .Content }}
-    </section>
+        <footer class="footer">
+            {{ with .PrevInSection }}
+                <a class="older" href="{{ .Permalink }}">« {{ .Title }}</a>
+            {{ end }}
+            {{ with .NextInSection }}
+                <a class="newer" href="{{ .Permalink }}">{{ .Title }} »</a>
+            {{ end }}
 
-    <footer class="footer">
-        {{ with .PrevInSection }}
-            <a class="older" href="{{ .Permalink }}">« {{ .Title }}</a>
-        {{ end }}
-        {{ with .NextInSection }}
-            <a class="newer" href="{{ .Permalink }}">{{ .Title }} »</a>
-        {{ end }}
-
-        <div class="clearfix"></div>
-    </footer>
-</article>
-
-{{ partial "footer.html" . }}
+            <div class="clearfix"></div>
+        </footer>
+    </article>
+{{ end }}
