@@ -91,7 +91,7 @@ sub dir_name {
     return sprintf('content/posts/%s/%s/%s',
         $dt->year,
 
-        # Pad month and day with leading zeroes if they don't already exist
+        # Pad month and day with leading zeros if they don't already exist
         leading_zero($dt->month),
         leading_zero($dt->day),
     );
