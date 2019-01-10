@@ -1,0 +1,35 @@
+{{ define "main" }}
+    <article class="post">
+        <header class="inline-header">
+            <h2>{{ .Title }}</h2>
+        </header>
+
+        <section class="content">
+            {{ .Content }}
+
+            <ol>
+                {{ range .Data.Pages.ByWeight }}
+                    <li>
+                        <a href="#{{ .Title }}">{{ .Title }}</a>
+                    </li>
+                {{ end }}
+            </ol>
+        </section>
+    </article>
+
+    {{ range .Data.Pages.ByWeight }}
+        <article class="post">
+            <header class="inline-header">
+                <h2 name="{{ .Title }}" id="{{ .Title }}">{{ .Title }}</h2>
+            </header>
+
+            <section class="content">
+                {{ .Content }}
+            </section>
+
+            <footer class="footer">
+                {{ partial "back_to_top.html" . }}
+            </footer>
+        </article>
+    {{ end }}
+{{ end }}

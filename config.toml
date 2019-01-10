@@ -9,6 +9,10 @@ Paginate = 5
 
 pluralizelisttitles = false
 
+# https://gohugo.io/getting-started/configuration/#blackfriday-options
+[blackfriday]
+fractions = false
+
 [params]
     webchatBaseURL = "https://webchat.snoonet.org/"
     redditBaseURL  = "https://reddit.com"
