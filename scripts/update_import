@@ -70,7 +70,7 @@ while (my $row = $csv_reader->getline_hr($fh)) {
         type  => 'post',
     };
 
-    my @created = mkpath $dir;
+    mkpath $dir;
 
     unless (-d $dir) {
         die "Can't create paths - bailing out";
