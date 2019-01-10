@@ -1,6 +1,6 @@
 ---
 title: "New Servers in Europe and Asia"
-date: 2019-01-06T23:04:44Z
+date: 2016-09-23T04:27:44Z
 draft: false
 type: post
 ---
