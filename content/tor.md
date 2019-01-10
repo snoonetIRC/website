@@ -5,8 +5,6 @@ draft: false
 type: page
 ---
 
-# Tor Connections
-
 Connections to Snoonet using Tor are not supported. You will need to utilize an
 alternative method should you wish to connect to Snoonet using a VPN.
 
