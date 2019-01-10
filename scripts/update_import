@@ -1,0 +1,137 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+use DateTime::Format::Strptime;
+use File::Path   'mkpath';
+use Getopt::Long 'GetOptions';
+use Pod::Usage;
+use Text::CSV;
+use YAML::Syck   'Dump';
+
+binmode STDOUT, ':encoding(UTF-8)';
+binmode STDERR, ':encoding(UTF-8)';
+
+my $csv_filename;
+
+GetOptions('file|f=s' => \$csv_filename);
+
+unless ($csv_filename) {
+    pod2usage({
+        -exitval => 2,
+        -output  => \*STDERR,
+    });
+}
+
+unless (-d 'content') {
+    die 'You must run this from the base directory of the project';
+}
+
+my $csv_reader = Text::CSV->new({
+    allow_whitespace => 1,
+    binary           => 1,
+    auto_diag        => 1,
+});
+
+# Parser for dates with format like 2018-11-22 21:38:00 UTC
+my $strp = DateTime::Format::Strptime->new(
+    pattern   => '%Y-%m-%d %T',
+    locale    => 'en_GB',
+    time_zone => 'Europe/London',
+);
+
+open my $fh, '<:encoding(utf8)', $csv_filename or die "Unable to open ${csv_filename}: $!";
+
+my $header = $csv_reader->getline($fh);
+
+$csv_reader->column_names($header);
+
+while (my $row = $csv_reader->getline_hr($fh)) {
+    my $dt = $strp->parse_datetime($row->{Timestamp});
+
+    unless ($dt && ref $dt eq 'DateTime') {
+        # Parsing the timestamp failed, bail out for this row
+        printf STDERR "Bad datetime for %s (%s), skipping (required for filesystem layout)\n",
+            $row->{Title},
+            $row->{Timestamp};
+
+        next;
+    }
+
+    my $body     = clean_up_body($row->{Body});
+    my $slug     = title_to_slug($row->{Title});
+    my $dir      = dir_name($dt);
+    my $fullpath = "${dir}/${slug}.md";
+    my $content  = {
+        date  => $dt->datetime,
+        draft => 'false',
+        title => $row->{Title},
+        type  => 'post',
+    };
+
+    my @created = mkpath $dir;
+
+    unless (-d $dir) {
+        die "Can't create paths - bailing out";
+    }
+
+    my $yaml = Dump($content);
+
+    open my $fh, '>:encoding(utf8)', $fullpath;
+
+    printf $fh "%s---\n\n%s", $yaml, $body;
+
+    close $fh;
+}
+
+sub dir_name {
+    my $dt = shift;
+
+    return sprintf('content/posts/%s/%s/%s',
+        $dt->year,
+
+        # Pad month and day with leading zeroes if they don't already exist
+        leading_zero($dt->month),
+        leading_zero($dt->day),
+    );
+}
+
+sub leading_zero {
+    return sprintf('%02d', shift);
+}
+
+sub title_to_slug {
+    my $title = shift;
+
+    $title =~ s/[^A-Za-z\s]+//g;
+    $title =~ s/[\s+]/-/g;
+    $title =~ s/-{2,}/-/g;
+    $title =~ s/^-//;
+
+    return lc $title;
+}
+
+sub clean_up_body {
+    my $body = shift;
+
+    $body =~ s/’/'/g;   # Remove formatted apostrophes
+    $body =~ s/\015//g; # Remove Windows line endings
+
+    return $body;
+}
+
+__END__
+
+=head1 NAME
+
+scripts/update_import
+
+=head1 DESCRIPTION
+
+Imports posts from CSV data from ActiveAdmin.
+
+=head1 USAGE
+
+    ./scripts/update_import -f /path/to/file.csv
+

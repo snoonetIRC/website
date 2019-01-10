@@ -1,7 +1,7 @@
----
-title: "Privacy Concerns"
-date: 2016-12-15T15:00:00Z
-draft: false
+--- 
+date: 2016-12-15T00:00:00
+draft: 'false'
+title: Privacy Concerns
 type: post
 ---
 
@@ -31,6 +31,5 @@ The details have not yet been worked out on its partnership, however we look to 
 ## <a href="https://docs.google.com/forms/d/1Ot_vyJ5ak77X_qSCsQupPmUpcNe9x3hpGd7aXAGiSUA/viewform?ts=5852bf5a&edit_requested=true">If you would like to apply/be in the queue for a Private Internet Access VPN, make a post with this form</a>
 
 ## Snoonet's Mission Statement
-### www.snoonet.org/missions
+# www.snoonet.org/missions
 This is a reminder of what Snoonet is about. Trolls will not sway this vision.
-

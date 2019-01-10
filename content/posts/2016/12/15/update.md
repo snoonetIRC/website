@@ -1,7 +1,7 @@
----
-title: "Update"
-date: 2016-12-15T15:15:46Z
-draft: false
+--- 
+date: 2016-12-15T15:00:00
+draft: 'false'
+title: 12/15/16 Update
 type: post
 ---
 
@@ -32,4 +32,3 @@ Our current website is old and outdated. We'd like to keep our active admin back
 - What you want to help out with, and if you have a passion to actually do it.
 
 Please be in good standing with Snoonet. You will be working closely with the staff in the #staff channel, but not given direct operator access. That will be gained in time as trust builds.
-

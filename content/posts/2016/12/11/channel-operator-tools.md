@@ -1,7 +1,7 @@
----
-title: "Channel Operator Tools"
-date: 2016-12-11T00:00:00Z
-draft: false
+--- 
+date: 2016-12-11T00:00:00
+draft: 'false'
+title: Channel Operator Tools
 type: post
 ---
 
@@ -17,4 +17,3 @@ It can be used in event channels with large amounts of users, or used as a tool 
 - After visiting the URL sent to them, mode +v is applied to their nickname
 
 You may currently request this verification process on your channel by asking in #snoonet or #optalk.
-
