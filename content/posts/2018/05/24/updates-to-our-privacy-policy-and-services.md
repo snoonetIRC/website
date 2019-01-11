@@ -1,6 +1,6 @@
 --- 
 date: 2018-05-24T20:25:00
-draft: 'false'
+draft: false
 title: Updates to our Privacy Policy and Services
 type: post
 ---

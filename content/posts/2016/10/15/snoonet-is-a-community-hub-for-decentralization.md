@@ -1,6 +1,6 @@
 --- 
 date: 2016-10-15T01:01:00
-draft: 'false'
+draft: false
 title: Snoonet is a community hub for decentralization!
 type: post
 ---

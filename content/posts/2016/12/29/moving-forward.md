@@ -1,6 +1,6 @@
 --- 
 date: 2016-12-29T00:00:00
-draft: 'false'
+draft: false
 title: Moving Forward!
 type: post
 ---

@@ -1,6 +1,6 @@
 --- 
 date: 2015-11-22T02:57:00
-draft: 'false'
+draft: false
 title: Change to the Default User Modes on Snoonet
 type: post
 ---

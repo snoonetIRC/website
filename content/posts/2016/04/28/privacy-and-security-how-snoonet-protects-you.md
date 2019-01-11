@@ -1,6 +1,6 @@
 --- 
 date: 2016-04-28T23:25:00
-draft: 'false'
+draft: false
 title: Privacy and Security - How Snoonet Protects You
 type: post
 ---

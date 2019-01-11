@@ -1,6 +1,6 @@
 --- 
 date: 2015-03-12T20:00:00
-draft: 'false'
+draft: false
 title: Update on Snoonet's custom vhost program
 type: post
 ---

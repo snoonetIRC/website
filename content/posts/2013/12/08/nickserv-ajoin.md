@@ -1,6 +1,6 @@
 --- 
 date: 2013-12-08T19:25:00
-draft: 'false'
+draft: false
 title: NickServ AJOIN
 type: post
 ---

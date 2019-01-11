@@ -1,6 +1,6 @@
 --- 
 date: 2017-01-09T04:28:00
-draft: 'false'
+draft: false
 title: Snoonet ircv3 / New Ghostbin
 type: post
 ---

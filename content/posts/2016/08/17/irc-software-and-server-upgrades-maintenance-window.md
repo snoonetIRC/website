@@ -1,6 +1,6 @@
 --- 
 date: 2016-08-17T23:00:00
-draft: 'false'
+draft: false
 title: IRC software and Server upgrades (Maintenance Window)
 type: post
 ---

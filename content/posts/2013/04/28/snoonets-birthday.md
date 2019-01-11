@@ -1,6 +1,6 @@
 --- 
 date: 2013-04-28T09:39:34
-draft: 'false'
+draft: false
 title: Snoonet's birthday
 type: post
 ---

@@ -1,6 +1,6 @@
 --- 
 date: 2013-02-03T03:00:00
-draft: 'false'
+draft: false
 title: Updates
 type: post
 ---

@@ -1,6 +1,6 @@
 --- 
 date: 2015-07-15T15:11:00
-draft: 'false'
+draft: false
 title: New Snoonet.org Website
 type: post
 ---

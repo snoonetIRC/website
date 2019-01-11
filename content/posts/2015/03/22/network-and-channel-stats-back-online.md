@@ -1,6 +1,6 @@
 --- 
 date: 2015-03-22T15:49:00
-draft: 'false'
+draft: false
 title: Network and Channel Stats - Back Online
 type: post
 ---

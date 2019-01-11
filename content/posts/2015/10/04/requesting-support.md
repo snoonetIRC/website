@@ -1,6 +1,6 @@
 --- 
 date: 2015-10-04T19:37:00
-draft: 'false'
+draft: false
 title: Requesting Support
 type: post
 ---

@@ -1,6 +1,6 @@
 --- 
 date: 2015-10-24T22:45:00
-draft: 'false'
+draft: false
 title: The ducks are migrating...
 type: post
 ---

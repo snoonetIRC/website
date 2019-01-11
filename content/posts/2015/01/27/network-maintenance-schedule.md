@@ -1,6 +1,6 @@
 --- 
 date: 2015-01-27T02:56:00
-draft: 'false'
+draft: false
 title: Network maintenance schedule
 type: post
 ---
