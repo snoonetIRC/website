@@ -1,7 +1,7 @@
 --- 
 date: 2015-10-24T22:45:00
 draft: false
-title: The ducks are migrating...
+title: "The ducks are migrating..."
 type: post
 ---
 

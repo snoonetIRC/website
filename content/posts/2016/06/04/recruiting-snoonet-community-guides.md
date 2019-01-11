@@ -1,7 +1,7 @@
 --- 
 date: 2016-06-04T21:31:00
 draft: false
-title: Recruiting Snoonet Community Guides
+title: "Recruiting Snoonet Community Guides"
 type: post
 ---
 

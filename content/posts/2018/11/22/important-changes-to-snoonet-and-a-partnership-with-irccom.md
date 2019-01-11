@@ -1,7 +1,7 @@
 --- 
 date: 2018-11-22T21:38:00
 draft: false
-title: Important changes to Snoonet and a partnership with IRC.com
+title: "Important changes to Snoonet and a partnership with IRC.com"
 type: post
 ---
 

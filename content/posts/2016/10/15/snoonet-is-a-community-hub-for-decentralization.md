@@ -1,7 +1,7 @@
 --- 
 date: 2016-10-15T01:01:00
 draft: false
-title: Snoonet is a community hub for decentralization!
+title: "Snoonet is a community hub for decentralization!"
 type: post
 ---
 

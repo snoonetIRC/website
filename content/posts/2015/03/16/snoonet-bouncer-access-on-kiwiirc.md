@@ -1,7 +1,7 @@
 --- 
 date: 2015-03-16T15:32:00
 draft: false
-title: Snoonet Bouncer Access on KiwiIRC
+title: "Snoonet Bouncer Access on KiwiIRC"
 type: post
 ---
 

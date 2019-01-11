@@ -1,7 +1,7 @@
 --- 
 date: 2016-12-02T00:01:00
 draft: false
-title: Updated Mission Statement
+title: "Updated Mission Statement"
 type: post
 ---
 

@@ -1,7 +1,7 @@
 --- 
 date: 2016-12-15T23:48:00
 draft: false
-title: Introducing our newest partner - Private Internet Access!
+title: "Introducing our newest partner - Private Internet Access!"
 type: post
 ---
 
