@@ -1,7 +1,7 @@
 --- 
 date: 2015-02-28T18:00:00
-draft: 'false'
-title: In Remembrance of Edify
+draft: false
+title: "In Remembrance of Edify"
 type: post
 ---
 

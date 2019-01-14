@@ -1,7 +1,7 @@
 --- 
 date: 2016-12-15T15:00:00
-draft: 'false'
-title: 12/15/16 Update
+draft: false
+title: "12/15/16 Update"
 type: post
 ---
 

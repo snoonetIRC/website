@@ -1,7 +1,7 @@
 --- 
 date: 2017-05-11T00:00:00
-draft: 'false'
-title: Snoonet joins the PrivateInternetAccess.com Family!
+draft: false
+title: "Snoonet joins the PrivateInternetAccess.com Family!"
 type: post
 ---
 

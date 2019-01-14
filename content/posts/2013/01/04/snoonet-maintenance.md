@@ -1,7 +1,7 @@
 --- 
 date: 2013-01-04T06:15:00
-draft: 'false'
-title: Snoonet Maintenance
+draft: false
+title: "Snoonet Maintenance"
 type: post
 ---
 

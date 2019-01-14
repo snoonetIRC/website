@@ -1,7 +1,7 @@
 --- 
 date: 2017-01-09T04:28:00
-draft: 'false'
-title: Snoonet ircv3 / New Ghostbin
+draft: false
+title: "Snoonet ircv3 / New Ghostbin"
 type: post
 ---
 

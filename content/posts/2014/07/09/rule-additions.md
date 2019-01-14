@@ -1,7 +1,7 @@
 --- 
 date: 2014-07-09T12:30:00
-draft: 'false'
-title: Rule Additions
+draft: false
+title: "Rule Additions"
 type: post
 ---
 

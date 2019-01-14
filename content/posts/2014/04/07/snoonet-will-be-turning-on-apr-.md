@@ -1,7 +1,7 @@
 --- 
 date: 2014-04-07T20:01:00
-draft: 'false'
-title: Snoonet will be turning 2 on Apr 28!
+draft: false
+title: "Snoonet will be turning 2 on Apr 28!"
 type: post
 ---
 

@@ -1,7 +1,7 @@
 --- 
 date: 2013-04-28T09:39:34
-draft: 'false'
-title: Snoonet's birthday
+draft: false
+title: "Snoonet's birthday"
 type: post
 ---
 

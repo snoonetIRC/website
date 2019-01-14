@@ -1,7 +1,7 @@
 --- 
 date: 2014-05-07T21:31:00
-draft: 'false'
-title: BNC, Subreddit VHOST, and powerful user channel modes
+draft: false
+title: "BNC, Subreddit VHOST, and powerful user channel modes"
 type: post
 ---
 

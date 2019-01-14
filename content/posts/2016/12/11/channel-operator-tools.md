@@ -1,7 +1,7 @@
 --- 
 date: 2016-12-11T00:00:00
-draft: 'false'
-title: Channel Operator Tools
+draft: false
+title: "Channel Operator Tools"
 type: post
 ---
 

@@ -1,7 +1,7 @@
 --- 
 date: 2013-10-20T02:34:00
-draft: 'false'
-title: Snoonet transition guide
+draft: false
+title: "Snoonet transition guide"
 type: post
 ---
 
