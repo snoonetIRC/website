@@ -1,0 +1,9 @@
+<a href="#{{ .Get 0 }}">{{ .Get 1 }}</a>
+
+<a href="#_" class="lightbox" id="{{ .Get 0 }}">
+    {{ range split (.Get 2) "," }}
+    <img src="{{.}}">
+    {{ end }}
+
+</a>
+
