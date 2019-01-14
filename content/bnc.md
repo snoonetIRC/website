@@ -45,13 +45,13 @@ for any reason, type `/znc connect` into your BNC window to reconnect it.
 
 Examples of correct connection configurations:
 
-[[AndChat](http://imgur.com/a/MaN97)]
-[[HexChat](http://i.imgur.com/Ro4MQVW.jpg)]
-[[HoloIRC](http://imgur.com/a/FLmxj)]
-[[irssi](http://i.imgur.com/7w6RPEk.png)]
-[[Mutter](http://imgur.com/a/nHDBD)]
-[[Palaver](http://imgur.com/a/q6SvT)]
-[[Textual](http://imgur.com/a/gVZk1)]
+{{< lightbox and "[AndChat]" "/images/bnc/AndIRC.png,/images/bnc/AndIRC2.png" >}}
+{{< lightbox hex "[HexChat]" "/images/bnc/HexChat.jpg" >}}
+{{< lightbox holo "[HoloIRC]" "/images/bnc/HoloChat.png,/images/bnc/HoloChat2.png" >}}
+{{< lightbox irssi "[irssi]" "/images/bnc/irssi.png" >}}
+{{< lightbox mutter "[Mutter]" "/images/bnc/mutter.png,/images/bnc/mutter2.png" >}}
+{{< lightbox pal "[Palaver]" "/images/bnc/Palaver.png,/images/bnc/Palaver2.png" >}}
+{{< lightbox text "[Textual]" "/images/bnc/Textual.png,/images/bnc/Textual2.png" >}}
 
 ## Can I use KiwiIRC with BNC?
 
