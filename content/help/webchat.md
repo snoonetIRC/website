@@ -2,7 +2,7 @@
 title: "Using webchat (the super easy way)"
 date: 2019-01-10T19:37:33Z
 draft: false
-type: help
+type: multipage-index
 weight: 3
 ---
 

@@ -2,7 +2,7 @@
 title: "Connecting to the network"
 date: 2019-01-10T19:49:57Z
 draft: false
-type: help
+type: multipage-index
 weight: 5
 ---
 

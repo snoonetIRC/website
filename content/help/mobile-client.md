@@ -2,7 +2,7 @@
 title: "Using a mobile IRC client"
 date: 2019-01-10T19:47:10Z
 draft: false
-type: help
+type: multipage-index
 weight: 5
 ---
 
