@@ -7,9 +7,9 @@ kind: "health_and_food"
 subreddit: "bodyweightfitness"
 ---
 
-/r/bodyweightfitness is a place for all people to find quality discussion about training using your bodyweight as resistance. Though our focus is on bodyweight, you're welcome to discuss any and all training modalities.
+{{< subreddit_link bodyweightfitness >}} is a place for all people to find quality discussion about training using your bodyweight as resistance. Though our focus is on bodyweight, you're welcome to discuss any and all training modalities.
 In order to keep the standard of discussion high, help out newbies, we have a FAQ that is required reading. We also expect you to have put some effort into finding an answer to your questions.
-/r/bodyweightfitness' userbase is "awesome combination of no-nonsense jerks and really friendly people, both of whom generally seem to know what they're talking about". People from all training modalities and levels visit and contribute to the sub. Whether you're a the father of two who can't do a single chinup and wants to learn how to do one, or a teenager who is banging out one-armers all day every day and wants advice on how to get to the next level, all are welcome.
+{{< subreddit_link bodyweightfitness>}}' userbase is "awesome combination of no-nonsense jerks and really friendly people, both of whom generally seem to know what they're talking about". People from all training modalities and levels visit and contribute to the sub. Whether you're a the father of two who can't do a single chinup and wants to learn how to do one, or a teenager who is banging out one-armers all day every day and wants advice on how to get to the next level, all are welcome.
 
 We have weekly threads dedicated to moronic questions, members' own routines, learning about training theory, learning about exercise technique, form checks, slip ups and fails in training, and personal achievements. Then we also have a monthly feedback thread where users can give suggestions and feedback on the moderators actions. Alongside this we have an extensive wiki with exercise progressions, bodyweight training info, and much, much more.
 On top of all of this we have regular AMAs with notable people who have a lot of experience with bodyweight training, like Ninja Warrior contestants, high level gymnastics coaches, and many, many more.

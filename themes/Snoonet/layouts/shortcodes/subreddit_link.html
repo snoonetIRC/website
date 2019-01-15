@@ -1,9 +1,3 @@
 {{ $len := (len (split (.Get 0) ",")) }}
-
 {{ range $i, $sr := split (.Get 0 ) "," }}
-<a href="{{ printf "%s/r/%s" $.Site.Params.redditBaseURL $sr }}">
-/r/{{ $sr }}
-</a>
-
-{{ if lt $i (sub $len 1) }} &amp; {{ end }}
-{{ end }}
+<a href="{{ printf "%s/r/%s" $.Site.Params.redditBaseURL $sr }}">/r/{{ $sr }}</a>{{ if lt $i (sub $len 2) }}, {{ else if eq $i (sub $len 2)}} and {{ end }}{{ end }}

@@ -9,3 +9,4 @@ favorite_channels: "#worldbuilding"
 weight: 13
 no_link: true
 ---
+My favorite subreddit is {{< subreddit_link "snoonet,lgbt" >}}

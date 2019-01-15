@@ -13,7 +13,7 @@ subreddit: "scotland"
 
 **What inspired this community?**
 
-* Again, self-explanatory - it's the national subreddit! Much like /r/Columbia or /r/Iran.
+* Again, self-explanatory - it's the national subreddit! Much like {{< subreddit_link Columbia >}} or {{< subreddit_link Iran >}}.
 
 **What sets your community apart from others?**
 

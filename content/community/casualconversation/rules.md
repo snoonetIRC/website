@@ -24,7 +24,7 @@ And when you're feelin' comfy, we recommend registering your name: `/msg NickSer
 → *See [IRC Prelude](http://www.irchelp.org/irchelp/new2irc.html) & [Snoonet's Help & Guidelines](https://www.snoonet.org/help) for more.*
 
 ### Rules
-Be what you want other people to be. Like on the /r/casualconversation, when in the channel you should aim to be as polite as possible. This makes others feel welcome and conversations can take place without users being rude to one another.
+Be what you want other people to be. Like on the {{< subreddit_link casualconversation >}}, when in the channel you should aim to be as polite as possible. This makes others feel welcome and conversations can take place without users being rude to one another.
 
 * **Respect others.**  
 
@@ -67,7 +67,7 @@ Syntax | Function
 [Channel Stats](https://chanstats.snoonet.org/%23casualconversation.html)  
 Basics [IRC Prelude](http://www.irchelp.org/irchelp/new2irc.html) by [irchelp.org](http://www.irchelp.org/), [Snoonet Help](https://www.snoonet.org/help)  
 Bot [Gonzobot Command List](http://saxton.edwardslabs.com/)  
-Signs of Life /r/irc, /r/snoonet, [#snoonet](https://kiwiirc.com/client/irc.snoonet.org/snoonet), [#help](https://kiwiirc.com/client/irc.snoonet.org/help)
+Signs of Life {{< subreddit_link irc >}}, {{< subreddit_link snoonet>}}, [#snoonet](https://kiwiirc.com/client/irc.snoonet.org/snoonet), [#help](https://kiwiirc.com/client/irc.snoonet.org/help)
 __________________
 ^**Feedback?** [^Message ^the ^Mods](https://www.reddit.com/message/compose?to=%2Fr%2FCasualConversation) ^·    ^Made ^with ^♥
 

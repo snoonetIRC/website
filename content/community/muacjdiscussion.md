@@ -9,7 +9,7 @@ subreddit: "muacjdiscussion"
 
 ## Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?
 
-As /r/circlebroke puts it: circlejerk without the satire. Here is where you can complain about trends in makeup or on MUA, rant about anything makeup related, have casual conversations... really anything.
+As {{< subreddit_link circlebroke >}} puts it: circlejerk without the satire. Here is where you can complain about trends in makeup or on MUA, rant about anything makeup related, have casual conversations... really anything.
 
 
 ## What inspired this community?

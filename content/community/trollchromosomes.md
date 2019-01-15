@@ -7,7 +7,7 @@ kind: "social"
 subreddits: [ "trollxchromosomes", "trollychromosome" ]
 ---
 
-([/r/TrollChromosomes](https://reddit.com/r/trollchromosomes))
+({{< subreddit_link TrollChromosomes >}})
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 
@@ -15,7 +15,7 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **What inspired this community?**
 
-* One day two of the original founders separately saw a post in r/trollx advertising the newly made subreddit of r/troll4troll. They started a conversation in the comments that there should be an IRC channel for the community and later on that day (Friday, May 2nd 2014) we had a channel created over on Freenode. Not even a month later we were moved to Snoonet for a variety of reasons.
+* One day two of the original founders separately saw a post in {{< subreddit_link trollx >}} advertising the newly made subreddit of {{< subreddit_link troll4troll>}}. They started a conversation in the comments that there should be an IRC channel for the community and later on that day (Friday, May 2nd 2014) we had a channel created over on Freenode. Not even a month later we were moved to Snoonet for a variety of reasons.
 
 **What sets your community apart from others?**
 
@@ -31,7 +31,7 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **What is the most popular post of all time in the subreddit?**
 
-* This is the most popular post and honestly I think it represents us pretty well sometimes: <a href="http://redd.it/2adbdt">http://redd.it/2adbdt</a>. But we don’t really have a lot of posts in r/TrollChromosomes, you should probably check TrollY and TrollX for their most popular posts.
+* This is the most popular post and honestly I think it represents us pretty well sometimes: <a href="http://redd.it/2adbdt">http://redd.it/2adbdt</a>. But we don’t really have a lot of posts in {{< subreddit_link TrollChromosomes >}}, you should probably check TrollY and TrollX for their most popular posts.
 
 **Do you have any favorite quotes or posts from your users?**
 
@@ -57,7 +57,7 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **What do you hope your community gains from this subreddit?**
 
-* We honestly barely use our subreddit. Check out /r/TrollXChromosomes and /r/TrollYChromosomes instead!
+* We honestly barely use our subreddit. Check out {{< subreddit_link TrollXChromosomes >}} and {{< subreddit_link TrollYChromosomes >}} instead!
 
 **Does your community have any traditions or special events?**
 

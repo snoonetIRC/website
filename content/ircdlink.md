@@ -12,7 +12,7 @@ type: page
 
 We currently have ~15 servers at any given time with multiple backup systems and spare servers in case of catastrophe. We are strictly FOR communities, Subreddits and otherwise. If you are looking to link and our admin team agrees, you must adhere to our staff rules (which will be discussed in a meeting with you). We will schedule a meeting with you and your staff to make sure we're all on the same page and share similar goals. Your server/network does not need to be established already, however we run InspIRCd and Atheme.
 
-Modmail applications to /r/snoonet.
+Modmail applications to {{< subreddit_link snoonet >}}.
 
 
 ## Include in the e-mail:

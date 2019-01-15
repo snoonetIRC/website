@@ -15,7 +15,7 @@ We have a strong sense of community and welcome every writer, whether they are n
 
 We have an active chat room where a lot of the writers in the community like to hang out for live feedback in addition to just shooting the breeze. You can check it out at #writerchat on irc.snoonet.org
 
-As for critiquing, a lot of people have complained about the lack of a strong online community to find critique partners. /r/writerchat aims to fill that gap.
+As for critiquing, a lot of people have complained about the lack of a strong online community to find critique partners. {{< subreddit_link writerchat >}} aims to fill that gap.
 
 **A brief history of /r/writerchat**
 
@@ -27,7 +27,7 @@ The subreddit was unused and unadvertised for five months until August 2016, whe
 
 **/r/writerchat goals**
 
-/r/writerchat aims to be a community where writers of all kinds can gather and feel at home, whether it be in the chat room or on the subreddit. We ask our members to contribute to the community through critique and through content.
+{{< subreddit_link writerchat >}} aims to be a community where writers of all kinds can gather and feel at home, whether it be in the chat room or on the subreddit. We ask our members to contribute to the community through critique and through content.
 
 **We have only two rules:**
 
@@ -43,6 +43,6 @@ If no one else says anything, feel free to wait around for a while; the chat is 
 
 **For all other questions...**
 
-Feel free to message one of the OPs of the IRC or head over to /r/writerchat on Reddit and send a modmail.
+Feel free to message one of the OPs of the IRC or head over to {{< subreddit_link writerchat >}} on Reddit and send a modmail.
 
 <a href="https://www.reddit.com/r/writerchat/wiki/index">We also have a wiki that is constantly being updated.</a>
