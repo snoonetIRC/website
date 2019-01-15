@@ -55,7 +55,7 @@ Examples of correct connection configurations:
 
 ## Can I use KiwiIRC with BNC?
 
-You can, we provide a link specifically for this. [webbnc.snoonet.org](https://webbnc.snoonet.org)
+You can, the link you will need is [KiwiIRC](https://kiwiirc.com/nextclient/), and the connection configuration may be found {{< lightbox kiwi "[here]" "/images/bnc/KiwiIRC.png" >}}.   
 
 ## What modules are loaded?
 
