@@ -1,5 +1,5 @@
 nav.pagination {
-    text-align: right;
+    text-align: center;
     padding-top: 1em;
 
     ul {
@@ -9,8 +9,14 @@ nav.pagination {
     li {
         list-style-type: none;
         display: inline;
-    }
 
+    }
+    .pagination__item {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+        display: inline-block;
+        text-align: center;
+    }
     .pagination__item--current {
         a {
             color: $text;
@@ -19,5 +25,7 @@ nav.pagination {
         a:hover {
             cursor: default;
         }
+
+        background-color: #c2cde0;
     }
 }
