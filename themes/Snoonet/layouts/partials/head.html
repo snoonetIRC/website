@@ -9,7 +9,7 @@
         type="text/css"
     >
 
-    {{ $styles := resources.Get "sass/application-screen.scss" | toCSS | minify | fingerprint }}
+    {{ $styles := resources.Get "scss/application-screen.scss" | toCSS | minify | fingerprint }}
 
     <link
         rel="stylesheet"

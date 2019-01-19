@@ -1,0 +1,299 @@
+// Icon Font
+@font-face {
+  font-family: "ParadoxIcons";
+  src: url("/fonts/ParadoxIcons-Regular.eot");
+  src: url("/fonts/ParadoxIcons-Regular.eot?#iefix") format("embedded-opentype"), url("/fonts/ParadoxIcons-Regular.woff") format("woff"), url("/fonts/ParadoxIcons-Regular.ttf") format("truetype");
+}
+
+%icon {
+  display:inline-block {}
+
+  font-family: ParadoxIcons;
+  font-size: 90%;
+  line-height: 0;
+  margin-right: 5px;
+  vertical-align: baseline;
+  position: relative;
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon-time::before {
+  @extend %icon;
+
+  content: "";
+  bottom: -2px;
+}
+
+.icon-home::before {
+  @extend %icon;
+
+  content: "";
+  vertical-align: top;
+}
+
+.icon-newspaper::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-book::before {
+  @extend %icon;
+
+  content: "";
+  bottom: -1px;
+}
+
+.icon-pen::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-cc::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-by::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-sa::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-nd::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-nc::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-pd::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-email::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-gallery::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-twitter::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-github::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-alert::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-info::before {
+  @extend %icon;
+
+  content: "";
+  bottom: -2px;
+}
+
+.icon-question::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-star::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-script::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-download::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-zip::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-video::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-gem::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-attach::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-link::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-money::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-steak::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-book-closed::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-white-book-closed::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-paper-airplane::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-clipboard::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-page::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-archive::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-brighten::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-darken::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-fork::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-merge::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-missing-page::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-thought::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-chat::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-coins::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-weather::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-hollow-shield::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-shield::before {
+  @extend %icon;
+
+  content: "";
+}
+
+.icon-checklist::before {
+  @extend %icon;
+
+  content: "";
+}
