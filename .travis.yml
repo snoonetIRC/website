@@ -12,11 +12,10 @@ before_install:
   - mv travis_rsa ~/.ssh/id_rsa
 
 install:
-  - go get github.com/gohugoio/hugo --tags extended
+  - ./scripts/install-hugo.sh
 
 script:
   - hugo
 
 after_success:
-  - chmod +x ./scripts/deploy.sh
   - ./scripts/deploy.sh
