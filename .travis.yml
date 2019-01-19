@@ -15,7 +15,7 @@ install:
   - ./scripts/install-hugo.sh
 
 script:
-  - hugo
+  - hugo -b https://snoonet-beta.chary.us/
 
 after_success:
   - ./scripts/deploy.sh
