@@ -9,11 +9,11 @@ subreddit: "games"
 
 **Can you give us a description of your community?**
 
-* The goal of /r/Games is to provide a place for informative and interesting gaming content and discussions. The quick list of rules can be found in the sidebar of the subreddit, and there is a full rules page for more information.
+* The goal of {{< subreddit_link Games >}} is to provide a place for informative and interesting gaming content and discussions. The quick list of rules can be found in the sidebar of the subreddit, and there is a full rules page for more information.
 
 **What inspired this community?**
 
-* There were a few mods in /r/gaming that saw a split in the community between people who wanted lighter, quicker, more humor focused content and others who wanted more detailed discussion and informative submissions. We created /r/games to focus on the latter of those two groups.
+* There were a few mods in {{< subreddit_link gaming >}} that saw a split in the community between people who wanted lighter, quicker, more humor focused content and others who wanted more detailed discussion and informative submissions. We created {{< subreddit_link games >}} to focus on the latter of those two groups.
 
 **What sets your community apart from others?**
 

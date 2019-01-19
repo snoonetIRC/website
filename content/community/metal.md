@@ -39,7 +39,7 @@ subreddit: "metal"
 
 **What do you hope your community gains from this subreddit?**
 
-* /r/metal is primarily a place to share and discuss music. There's so much new music out there that we can't possibly hope to have it all in one place, so it spills over to #metal. We're also a great place to come for more in-depth recommendations. Whether you like grindcore, black metal, stoner, thrash, doom or any of the million other subgenres of metal, there's someone in #metal who has devoted his or her life to being a pedant about it!
+* {{< subreddit_link metal >}} is primarily a place to share and discuss music. There's so much new music out there that we can't possibly hope to have it all in one place, so it spills over to #metal. We're also a great place to come for more in-depth recommendations. Whether you like grindcore, black metal, stoner, thrash, doom or any of the million other subgenres of metal, there's someone in #metal who has devoted his or her life to being a pedant about it!
 
 **What have you learned from being a part of this community?**
 

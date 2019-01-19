@@ -41,5 +41,5 @@ Zero Tolerance / Instant Ban Rules:
 
 13. Blatant spamming/trolling. If you are coming into the chat under a different nick to troll, then every other nick you try to use will be banned as well. Note on sending your picture repeatedly to the channel: people are required to keep a bit of decency. Repeatedly posting pictures of yourself is not only frowned upon and makes a lot of people complain but is also kickable and eventually bannable.
 
-14. Being underage - #r4r is strictly over-18 and we will apply the same rule we do in /r/r4r. Of course this is very complicated to control, but we'll try our best.
+14. Being underage - #r4r is strictly over-18 and we will apply the same rule we do in {{< subreddit_link r4r >}}. Of course this is very complicated to control, but we'll try our best.
 

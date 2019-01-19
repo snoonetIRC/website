@@ -9,7 +9,7 @@ subreddit: "100daysofketo"
 
 # Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?
 
-The 100daysofketo community is directly linked to our subreddit: [/r/100daysofketo](http://www.reddit.com/r/100daysofketo). It was started as a support community for people who are on the keto diet who wanted to commit to 100 days of keto eating. Every 100 days (or so), we start a new round with goal setting, and continue through the 100 days with various challenges and events to keep people motivated to succeed!
+The 100daysofketo community is directly linked to our subreddit: {{< subreddit_link 100daysofketo >}}. It was started as a support community for people who are on the keto diet who wanted to commit to 100 days of keto eating. Every 100 days (or so), we start a new round with goal setting, and continue through the 100 days with various challenges and events to keep people motivated to succeed!
 
 **Our only rule is don't be an asshole!**
 

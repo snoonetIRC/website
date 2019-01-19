@@ -7,7 +7,7 @@ kind: "health_and_food"
 subreddit: "anxiety"
 ---
 
-/r/Anxiety is a supportive community for all things anxiety related. Rules can be found on the sidebar however a brief rundown would be:
+{{< subreddit_link Anxiety >}} is a supportive community for all things anxiety related. Rules can be found on the sidebar however a brief rundown would be:
 As a supportive community we take racist, sexist, homophobic, transphobic, [ableist](http://en.wikipedia.org/wiki/Ableism) or just generally offensive messages seriously and therefore posts or replies with such will be removed. Contact the moderators if you disagree with a message or post being removed.
 When asking a specific question, it would helpful if you provide your general info(age, gender, type of anxiety, trigger examples, medications (if any), country, no insurance, etc.)
 
@@ -17,7 +17,7 @@ As a rule of thumb: If your anxiety is interfering with how you want to live you
 
 Please no advertising of "quick fix" products/ideas. If you are wanting to post about something that may be viewed as such message the moderators to run it by beforehand.
 
-/r/Anxiety (Internal) Links
+{{< subreddit_link Anxiety >}} (Internal) Links
 
  * [Image Megathread](https://www.reddit.com/r/Anxiety/comments/21dwsy/relaxing_image_megathread/)
  * [Music Megathread](https://www.reddit.com/r/Anxiety/comments/289t27/relaxing_music_megathread/)
@@ -40,10 +40,10 @@ External Links
 
 Related Subreddits
 
- * [/r/socialanxiety](http://www.reddit.com/r/socialanxiety)
- * [/r/agoraphobia](http://www.reddit.com/r/agoraphobia)
- * [/r/panicparty](http://www.reddit.com/r/panicparty)
- * [/r/suicidewatch](http://www.reddit.com/r/suicidewatch)
- * [/r/offmychest](http://www.reddit.com/r/offmychest)
+ * {{< subreddit_link socialanxiety >}}
+ * {{< subreddit_link agoraphobia >}}
+ * {{< subreddit_link panicparty >}}
+ * {{< subreddit_link suicidewatch >}}
+ * {{< subreddit_link offmychest >}}
  * [Read Full List](http://www.reddit.com/r/Anxiety/wiki/relatedsubreddits#wiki_complete_multireddit_list)
 

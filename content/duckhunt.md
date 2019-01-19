@@ -5,7 +5,7 @@ draft: true
 type: page
 ---
 
-Duck hunt is little mini-game provided by [gonzobot](https://snoonet.org/gonzobot). When a duck appears in a channel with the game enabled, you can befriend it or shoot it. Ducks will spawn after the game has been started after a period of time with channel activity.
+Duck hunt is a little mini-game provided by [gonzobot](https://snoonet.org/gonzobot). When a duck appears in a channel with the game enabled, you can befriend it or shoot it. Ducks will spawn after the game has been started after a period of time with channel activity.
 
 # Commands
 

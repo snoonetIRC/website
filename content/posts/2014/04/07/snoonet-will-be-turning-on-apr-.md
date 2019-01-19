@@ -10,7 +10,7 @@ On Apr. 28, 2014 Snoonet will be turning 2 years old! Many of the top 50 subredd
 What makes us unique? We are the first and only IRC network welcoming community oriented chats for reddit.com - We were created by rdv and Paradox who at the time was a reddit.com admin looking to give more to the community.
 We have an API backend to allow subreddits to easily configure and set up a chat on the network for their subreddits, bringing live chat straight from the threads.
 
-For our second birthday we'd like to give back! Visit us in /r/Snoonet and post a thread with idea(s) we can offer to the users!
+For our second birthday we'd like to give back! Visit us in {{< subreddit_link Snoonet >}} and post a thread with idea(s) we can offer to the users!
 
 As of today, our top 10 consistent IRC communities are:
 

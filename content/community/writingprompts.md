@@ -17,7 +17,7 @@ One thing that has never changed is our commitment to getting people writing. Th
 
 There have been a number of incredible films and narrations created based on prompts and stories. You can find them in our [wiki.](http://www.reddit.com/r/WritingPrompts/wiki/multimedia)
 
-We also have a showcase for subscriber favorites at [/r/bestofWritingPrompts](http://www.reddit.com/r/bestofWritingPrompts/) where you can read some of the best content the subreddit has to offer. Anyone can post a story that would like to help an author get recognition on a prompt response.
+We also have a showcase for subscriber favorites at {{< subreddit_link bestofWritingPrompts >}} where you can read some of the best content the subreddit has to offer. Anyone can post a story that would like to help an author get recognition on a prompt response.
 
 We hold many contests throughout the year, culminating on our annual novelette contest. Reading the entries and seeing some of the talent demonstrated is an amazing experience.
 

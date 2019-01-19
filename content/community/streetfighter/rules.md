@@ -7,7 +7,7 @@ type: page
 
 # #StreetFighter
 
-Welcome to  the official irc channel for [/r/streetfighter](http://www.reddit.com/r/streetfighter/) on Snoonet! This channel is a place for Street Fighter fans to gather and discuss the games, strategies, tournaments, and more.
+Welcome to  the official irc channel for {{< subreddit_link streetfighter >}} on Snoonet! This channel is a place for Street Fighter fans to gather and discuss the games, strategies, tournaments, and more.
 
 On this page you'll find:
 >**Channel Rules**

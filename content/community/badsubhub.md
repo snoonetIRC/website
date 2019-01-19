@@ -9,13 +9,13 @@ subreddit: "badsubhub"
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 
-* Hi, we're the #BadSubHub, otherwise known as the de facto /r/badhistory IRC channel (although anyone else on the badacademic subreddits are encouraged to come visit).
+* Hi, we're the #BadSubHub, otherwise known as the de facto {{< subreddit_link badhistory >}} IRC channel (although anyone else on the badacademic subreddits are encouraged to come visit).
 
-/r/badhistory is the place where you can see bad history get taken down, in many cases with great aplomb. It's /r/AskHistorians at the pub, where we're all raging drunk and swearing like sailors.
+{{< subreddit_link badhistory >}} is the place where you can see bad history get taken down, in many cases with great aplomb. It's {{< subreddit_link AskHistorians >}} at the pub, where we're all raging drunk and swearing like sailors.
 
-We're also part of the general /r/BadSubHub academy, which also includes subs like /r/badscience, /r/badlinguistics, /r/badlegaladvice, and /r/bad_religion. If there's a discipline, there's probably a badacademia subreddit for you to submit to.
+We're also part of the general {{< subreddit_link BadSubHub >}} academy, which also includes subs like {{< subreddit_link badscience >}}, {{< subreddit_link badlinguistics >}}, {{< subreddit_link badlegaladvice >}}, and {{< subreddit_link bad_religion >}}. If there's a discipline, there's probably a badacademia subreddit for you to submit to.
 
-The rest of the post will be dealing with /r/badhistory specifically, as most users in the IRC are /r/badhistory users.
+The rest of the post will be dealing with {{< subreddit_link badhistory >}} specifically, as most users in the IRC are {{< subreddit_link badhistory >}} users.
 
 
 **What inspired this community?**
@@ -25,7 +25,7 @@ The rest of the post will be dealing with /r/badhistory specifically, as most us
 
 **What sets your community apart from others?**
 
-* /r/badhistory is known for Rule 5, or the "explain why your submission is bad history" rule. It's the reason why the subreddit hasn't completely descended into mindless circlejerking (although we do still jerk) and the reason why many people are attracted to the subreddit.
+* {{< subreddit_link badhistory >}} is known for Rule 5, or the "explain why your submission is bad history" rule. It's the reason why the subreddit hasn't completely descended into mindless circlejerking (although we do still jerk) and the reason why many people are attracted to the subreddit.
 
 
 **What is your goal with this community?**
@@ -35,7 +35,7 @@ The rest of the post will be dealing with /r/badhistory specifically, as most us
 
 **What is your community (in)famous for?**
 
-* We're known for, and in no particular order, our R5, our injokes, our devotion to Volcano, our fascist-communist-theist-Whig-drunk-SJW-pinko-statist-reactionary moderation team, and for being literally SRS (see /r/badhistory/wiki/accusations)
+* We're known for, and in no particular order, our R5, our injokes, our devotion to Volcano, our fascist-communist-theist-Whig-drunk-SJW-pinko-statist-reactionary moderation team, and for being literally SRS (see [/r/badhistory/wiki/accusations](https://www.reddit.com/r/badhistory/wiki/accusations))
 
 
 **What is the most popular post of all time in the subreddit?**
@@ -45,7 +45,7 @@ The rest of the post will be dealing with /r/badhistory specifically, as most us
 
 **Do you have any favorite quotes or posts from your users?**
 
-* We recently did a /r/bestof2014 contest, found [here](https://www.reddit.com/r/badhistory/comments/2qhre5/the_bad_history_best_of_awards_results/). Here, you can find what our subreddit considered our greatest hits in 2014.
+* We recently did a {{< subreddit_link bestof2014 >}} contest, found [here](https://www.reddit.com/r/badhistory/comments/2qhre5/the_bad_history_best_of_awards_results/). Here, you can find what our subreddit considered our greatest hits in 2014.
 
 
 **What do you hope your community gains from this subreddit?**
