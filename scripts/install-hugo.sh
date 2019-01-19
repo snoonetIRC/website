@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export $LAST=`pwd`
+LAST=`pwd`
 echo "Installing Hugo Extended Edition ^TM"
 mkdir $HOME/src
 cd $HOME/src
