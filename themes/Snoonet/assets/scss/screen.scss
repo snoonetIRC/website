@@ -59,6 +59,9 @@ body.webchat #header .wrap:after {
 }
 
 #navigation {
+    @include respond-to(handhelds) {
+        visibility: hidden;
+    }
   ul {
     float: right;
   }
@@ -85,17 +88,39 @@ body.webchat #header .wrap:after {
 }
 #sidebar {
   text-align: left;
-  margin-top: 60px;
-  position: absolute;
+  @include respond-to(desktops) {
+      margin-top: 60px;
+      position: absolute;
+  }
+    @include respond-to(handhelds) {
+        margin-left: 20px;
+    }
   left: 50px;
   top: -10px;
 }
 #sidebar ul {
   list-style: none;
 }
+
+
+#header > div > hgroup > h1 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    @include respond-to(handhelds) {
+        width:100%;
+    }
+    color: rgba(255,255,255,.8);
+
+}
+.hidden {
+    display: none;
+}
+
 #sidebar > div > ul > li {
   margin-bottom: 20px;
 }
+
 #sidebar > div > ul > li > a {
   color: #405067;
   font-size: 16px;
@@ -109,19 +134,31 @@ body.webchat #header .wrap:after {
 #sidebar > div > ul > li > ul a {
   color: #94a1b7;
   font-size: 15px;
-  padding: 2px 0;
+    @include respond-to(desktop) {
+        padding: 2px 0;
+    }
+    @include respond-to(handhelds) {
+        padding: 9px 0;
+    }
   display: inline-block;
   position: relative;
   left: 0;
 }
 #menutoggle {
   position: absolute;
-  top: 0;
-  left: -40px;
+    @include respond-to(handhelds) {
+        top: 0;
+        right: 10px;
+    }
+    @include respond-to(desktops) {
+        top: 0;
+        left: -40px;
+    }
+
   width: 26px;
   height: 26px;
   background-color: rgba(0, 0, 0, 0.05);
-  background-image: url(/images/menu.svg);
+  background-image: url(/images/hamburger.png);
   background-position: center;
   background-size: 22px;
   background-repeat: no-repeat;
@@ -131,11 +168,16 @@ body.webchat #header .wrap:after {
   transition: background-color 0.3s;
 }
 #menutoggle.open {
-  background-image: url(/images/cross.svg);
+  background-image: url(/images/hamburger.png);
   background-color: transparent;
 }
 #main {
-  margin: 0 220px;
+    @include respond-to(desktops) {
+        margin: 0 220px;
+    }
+    @include respond-to(handhelds) {
+        margin: 0 10px;
+    }
 }
 #main .post {
   background: #fff;
