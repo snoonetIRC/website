@@ -19,5 +19,5 @@
         media="screen"
     >
 
-    <title>{{ if .IsHome }}{{ .Title }}{{ else }}{{ .Site.Title }}: {{ .Title }}{{ end }}</title>
+    <title>{{ .Site.Title }} {{ if .Page.IsHome }}IRC Network{{ else }}&middot; {{ .Title }}{{ end }}</title>
 </head>
