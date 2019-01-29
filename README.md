@@ -21,7 +21,7 @@ If you're on Linux and you have Go installed, you can run the following command 
 
 ### Running the dev server
 
-To start the dev server in watch mode (automatically recompiling your scripts), run the following command in the project root:
+To start the dev server in watch mode (automatically recompiling your HTML and CSS), run the following command in the project root:
 
 ```bash
 hugo server
