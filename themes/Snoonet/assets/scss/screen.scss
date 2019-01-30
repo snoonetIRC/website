@@ -59,9 +59,9 @@ body.webchat #header .wrap:after {
 }
 
 #navigation {
-    @include respond-to(handhelds) {
-        visibility: hidden;
-    }
+  @include respond-to(handhelds) {
+    visibility: hidden;
+  }
   ul {
     float: right;
   }
@@ -89,12 +89,12 @@ body.webchat #header .wrap:after {
 #sidebar {
   text-align: left;
   @include respond-to(desktops) {
-      margin-top: 60px;
-      position: absolute;
+    margin-top: 60px;
+    position: absolute;
   }
-    @include respond-to(handhelds) {
-        margin-left: 20px;
-    }
+  @include respond-to(handhelds) {
+    margin-left: 20px;
+  }
   left: 50px;
   top: -10px;
 }
@@ -104,17 +104,13 @@ body.webchat #header .wrap:after {
 
 
 #header > div > hgroup > h1 {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    @include respond-to(handhelds) {
-        width:100%;
-    }
-    color: rgba(255,255,255,.8);
-
-}
-.hidden {
-    display: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  @include respond-to(handhelds) {
+    width:100%;
+  }
+  color: rgba(255,255,255,.8);
 }
 
 #sidebar > div > ul > li {
@@ -134,26 +130,26 @@ body.webchat #header .wrap:after {
 #sidebar > div > ul > li > ul a {
   color: #94a1b7;
   font-size: 15px;
-    @include respond-to(desktop) {
-        padding: 2px 0;
-    }
-    @include respond-to(handhelds) {
-        padding: 9px 0;
-    }
+  @include respond-to(desktop) {
+    padding: 2px 0;
+  }
+  @include respond-to(handhelds) {
+    padding: 9px 0;
+  }
   display: inline-block;
   position: relative;
   left: 0;
 }
 #menutoggle {
   position: absolute;
-    @include respond-to(handhelds) {
-        top: 0;
-        right: 10px;
-    }
-    @include respond-to(desktops) {
-        top: 0;
-        left: -40px;
-    }
+  @include respond-to(handhelds) {
+    top: 0;
+    right: 10px;
+  }
+  @include respond-to(desktops) {
+    top: 0;
+    left: -40px;
+  }
 
   width: 26px;
   height: 26px;
@@ -172,12 +168,12 @@ body.webchat #header .wrap:after {
   background-color: transparent;
 }
 #main {
-    @include respond-to(desktops) {
-        margin: 0 220px;
-    }
-    @include respond-to(handhelds) {
-        margin: 0 10px;
-    }
+  @include respond-to(desktops) {
+    margin: 0 220px;
+  }
+  @include respond-to(handhelds) {
+    margin: 0 10px;
+  }
 }
 #main .post {
   background: #fff;
