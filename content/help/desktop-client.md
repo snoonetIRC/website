@@ -2,7 +2,7 @@
 title: "Using a desktop IRC client"
 date: 2019-01-10T19:46:30Z
 draft: false
-type: help
+type: multipage-index
 weight: 4
 ---
 
