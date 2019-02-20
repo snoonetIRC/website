@@ -1,4 +1,5 @@
 ---
+aliases: [ 'textfriends' ]
 title: "#textfriends"
 date: 2019-01-02T21:27:43Z
 draft: false

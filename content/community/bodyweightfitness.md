@@ -1,4 +1,5 @@
 ---
+aliases: [ 'bodyweightfitness' ]
 title: "#bodyweightfitness"
 date: 2019-01-02T21:41:18Z
 draft: false

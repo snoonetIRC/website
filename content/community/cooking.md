@@ -1,4 +1,5 @@
 ---
+aliases: [ 'cooking' ]
 title: "#cooking"
 date: 2019-01-02T21:44:07Z
 draft: false

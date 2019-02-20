@@ -1,4 +1,5 @@
 ---
+aliases: [ 'games' ]
 title: "#games"
 date: 2019-01-02T21:31:59Z
 draft: false

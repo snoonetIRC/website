@@ -1,0 +1,29 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+use File::Slurp;
+
+for (`find ./content/staff -type f -name "*.md"`) {
+    chomp;
+
+    my @content = read_file($_);
+
+    (my $name = $_) =~ s/\.md//s;
+    
+    $name =~ s/^.\/content\/staff\///;
+
+    my $title = $_;
+
+    foreach my $line (@content) {
+        if ($line =~ /^title: "(.+)"/) {
+            $title = $1;
+            last;
+        }
+    }
+
+    splice @content, 1, 0, sprintf("aliases: [ '%s' ]\n", $title);
+
+    write_file($_, @content);
+}

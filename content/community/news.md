@@ -1,4 +1,5 @@
 ---
+aliases: [ 'news' ]
 title: "#news"
 date: 2019-01-03T09:46:40Z
 draft: false

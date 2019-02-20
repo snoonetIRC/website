@@ -1,4 +1,5 @@
 ---
+aliases: [ 'writerchat' ]
 title: "#writerchat"
 date: 2019-01-02T21:54:28Z
 draft: false

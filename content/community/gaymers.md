@@ -1,4 +1,5 @@
 ---
+aliases: [ 'gaymers' ]
 title: "#gaymers"
 date: 2019-01-02T21:33:34Z
 draft: false

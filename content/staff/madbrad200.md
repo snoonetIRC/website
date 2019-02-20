@@ -1,4 +1,5 @@
 ---
+aliases: [ 'Madbrad200' ]
 title: "Madbrad200"
 date: 2018-12-31T08:55:29Z
 draft: false
