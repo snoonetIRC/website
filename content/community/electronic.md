@@ -1,4 +1,5 @@
 ---
+aliases: [ 'electronic' ]
 title: "##electronic"
 date: 2019-01-02T22:09:17Z
 draft: false

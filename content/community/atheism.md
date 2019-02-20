@@ -1,4 +1,5 @@
 ---
+aliases: [ 'atheism' ]
 title: "#atheism"
 date: 2019-01-03T10:03:04Z
 draft: false

@@ -1,4 +1,5 @@
 ---
+aliases: [ 'army' ]
 title: "#army"
 date: 2019-01-03T09:51:02Z
 draft: false

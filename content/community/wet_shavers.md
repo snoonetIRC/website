@@ -1,4 +1,5 @@
 ---
+aliases: [ 'wet_shavers' ]
 title: "#wet_shavers"
 date: 2019-01-02T21:24:57Z
 draft: false

@@ -1,4 +1,5 @@
 ---
+aliases: [ '100daysofketo' ]
 title: "#100daysofketo"
 date: 2019-01-02T21:48:34Z
 draft: false

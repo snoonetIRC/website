@@ -1,4 +1,5 @@
 ---
+aliases: [ 'anxiety' ]
 title: "#anxiety"
 date: 2019-01-02T19:25:50Z
 draft: false

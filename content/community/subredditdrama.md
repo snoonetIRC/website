@@ -1,4 +1,5 @@
 ---
+aliases: [ 'subredditdrama' ]
 title: "#subredditdrama"
 date: 2019-01-02T22:05:39Z
 draft: false

@@ -1,4 +1,5 @@
 ---
+aliases: [ 'physics' ]
 title: "#physics"
 date: 2019-01-03T10:35:14Z
 draft: false

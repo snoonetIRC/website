@@ -1,4 +1,5 @@
 ---
+aliases: [ 'stopdrinking' ]
 title: "#stopdrinking"
 date: 2019-01-02T21:45:18Z
 draft: false

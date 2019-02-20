@@ -1,4 +1,5 @@
 ---
+aliases: [ 'rainbow' ]
 title: "#rainbow"
 date: 2019-01-03T10:03:05Z
 draft: false
