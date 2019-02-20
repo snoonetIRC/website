@@ -1,5 +1,5 @@
 ---
-aliases: [ 'r4r rules' ]
+aliases: [ 'r4rrules' ]
 title: "#r4r rules"
 date: 2019-01-03T10:07:10Z
 draft: false
