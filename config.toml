@@ -9,6 +9,8 @@ Paginate = 5
 
 pluralizelisttitles = false
 
+disablePathToLower = true
+
 # https://gohugo.io/getting-started/configuration/#blackfriday-options
 [blackfriday]
 fractions = false
