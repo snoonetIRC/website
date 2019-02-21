@@ -21,6 +21,7 @@ jobs:
       after_success:
         - ./scripts/deploy.sh
     - stage: GitHub Release
+      if: tag IS present
       script: hugo -b https://snoonet.org; tar -zcvf $TRAVIS_COMMIT.tar.gz public;
       deploy:
         provider: release
