@@ -24,7 +24,7 @@ jobs:
       if: tag IS present
       script: hugo -b https://snoonet.org && tar -zcvf $TRAVIS_COMMIT.tar.gz public;
       deploy:
-        provider: release
+        provider: releases
         api_key: "$GITHUB_OAUTH_TOKEN"
         file: $TRAVIS_COMMIT.tar.gz
         skip_cleanup: true
