@@ -22,7 +22,7 @@ jobs:
         - ./scripts/deploy.sh
     - stage: GitHub Release
       if: tag IS present
-      script: hugo -b https://snoonet.org; tar -zcvf $TRAVIS_COMMIT.tar.gz public;
+      script: hugo -b https://snoonet.org && tar -zcvf $TRAVIS_COMMIT.tar.gz public;
       deploy:
         provider: release
         api_key: "$GITHUB_OAUTH_TOKEN"
