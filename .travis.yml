@@ -17,6 +17,7 @@ install:
 jobs:
   include:
     - stage: build
+      if: tag IS NOT present
       script: hugo -b https://snoonet-beta.chary.us/
       after_success:
         - ./scripts/deploy.sh
