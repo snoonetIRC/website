@@ -27,7 +27,7 @@ jobs:
       deploy:
         provider: releases
         api_key: "$GITHUB_OAUTH_TOKEN"
-        file: $TRAVIS_COMMIT.tar.gz
+        file: website-$TRAVIS_TAG.tar.gz
         skip_cleanup: true
         on:
           tags: true
