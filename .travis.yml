@@ -14,8 +14,19 @@ before_install:
 install:
   - ./scripts/install-hugo.sh
 
-script:
-  - hugo -b https://snoonet-beta.chary.us/
-
-after_success:
-  - ./scripts/deploy.sh
+jobs:
+  include:
+    - stage: build
+      script: hugo -b https://snoonet-beta.chary.us/
+      after_success:
+        - ./scripts/deploy.sh
+    - script: tar -zcvf $TRAVIS_COMMIT.tar.gz public
+    - stage: GitHub Release
+      script: skip
+      deploy:
+        provider: release
+        api_key: "$GITHUB_OAUTH_TOKEN"
+        file: $TRAVIS_COMMIT.tar.gz
+        skip_cleanup: true
+        on:
+          tags: true
