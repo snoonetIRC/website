@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anope on Snoonet</title>
-    <link>https://temp.snoonet.org/anope/</link>
+    <link>https://staging.snoonet.org/anope/</link>
     <description>Recent content in Anope on Snoonet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sun, 30 Dec 2018 21:43:20 +0000</lastBuildDate>
     
-	<atom:link href="https://temp.snoonet.org/anope/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://staging.snoonet.org/anope/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Key</title>
-      <link>https://temp.snoonet.org/anope/key/</link>
+      <link>https://staging.snoonet.org/anope/key/</link>
       <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
       
-      <guid>https://temp.snoonet.org/anope/key/</guid>
+      <guid>https://staging.snoonet.org/anope/key/</guid>
       <description>&amp;lt;these brackets&amp;gt; denote required information.
 {these brackets} denote that you may pick one of the options presented.
 [these brackets] denote entirely optional parameters.
@@ -25,10 +25,10 @@
     
     <item>
       <title>NickServ</title>
-      <link>https://temp.snoonet.org/anope/nickserv/</link>
+      <link>https://staging.snoonet.org/anope/nickserv/</link>
       <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
       
-      <guid>https://temp.snoonet.org/anope/nickserv/</guid>
+      <guid>https://staging.snoonet.org/anope/nickserv/</guid>
       <description>General NickServ in-network help:
 /msg NickServ HELP [COMMAND]
 Without a [COMMAND] parameter, this will list the NickServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.
@@ -69,10 +69,10 @@ List channels you have access on:
     
     <item>
       <title>ChanServ</title>
-      <link>https://temp.snoonet.org/anope/chanserv/</link>
+      <link>https://staging.snoonet.org/anope/chanserv/</link>
       <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
       
-      <guid>https://temp.snoonet.org/anope/chanserv/</guid>
+      <guid>https://staging.snoonet.org/anope/chanserv/</guid>
       <description>General ChanServ in-network help:
 /msg ChanServ HELP [COMMAND]
 Without a [COMMAND] parameter, this will list the ChanServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.
@@ -120,10 +120,10 @@ For example /msg ChanServ FLAGS #snoonet modify *!*@snoonet/* +Bc will set all S
     
     <item>
       <title>BotServ</title>
-      <link>https://temp.snoonet.org/anope/botserv/</link>
+      <link>https://staging.snoonet.org/anope/botserv/</link>
       <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
       
-      <guid>https://temp.snoonet.org/anope/botserv/</guid>
+      <guid>https://staging.snoonet.org/anope/botserv/</guid>
       <description>General BotServ in-network help:
 /msg BotServ HELP [COMMAND]
 Without a [COMMAND] parameter, this will list the BotServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.
@@ -147,10 +147,10 @@ For more information on a particular option and it’s settings, type /msg BotSe
     
     <item>
       <title>MemoServ</title>
-      <link>https://temp.snoonet.org/anope/memoserv/</link>
+      <link>https://staging.snoonet.org/anope/memoserv/</link>
       <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
       
-      <guid>https://temp.snoonet.org/anope/memoserv/</guid>
+      <guid>https://staging.snoonet.org/anope/memoserv/</guid>
       <description>General MemoServ in-network help:
 /msg MemoServ HELP [COMMAND]
 Without a [COMMAND] parameter, this will list the MemoServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.
@@ -186,10 +186,10 @@ Allows you to set users (by nick or host) to ignore, keeping them from sending a
     
     <item>
       <title>HostServ</title>
-      <link>https://temp.snoonet.org/anope/hostserv/</link>
+      <link>https://staging.snoonet.org/anope/hostserv/</link>
       <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
       
-      <guid>https://temp.snoonet.org/anope/hostserv/</guid>
+      <guid>https://staging.snoonet.org/anope/hostserv/</guid>
       <description>General HostServ in-network help:
 /msg HostServ HELP [COMMAND]
 Without a [COMMAND] parameter, this will list the HostServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.</description>
