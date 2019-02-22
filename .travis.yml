@@ -40,4 +40,4 @@ jobs:
         local-dir: public
         target-branch: gh-pages
         on:
-          branch: master
+          tags: true
