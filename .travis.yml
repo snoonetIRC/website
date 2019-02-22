@@ -16,18 +16,28 @@ install:
 
 jobs:
   include:
+    # Build and deploy to staging (flotwig's host)
     - stage: build
       if: tag IS NOT present
       script: hugo -b https://snoonet-beta.chary.us/
       after_success:
         - ./scripts/deploy.sh
-    - stage: GitHub Release
+
+    # Build and deploy generated content to the gh-pages branch
+    - stage: deploy
       if: tag IS present
-      script: hugo -b https://snoonet.org && tar -zcvf website-$TRAVIS_TAG.tar.gz public;
+      script:
+        - hugo -b https://snoonet.org/
+        - echo "$CNAME_URL" > public/CNAME
       deploy:
-        provider: releases
-        api_key: "$GITHUB_OAUTH_TOKEN"
-        file: website-$TRAVIS_TAG.tar.gz
-        skip_cleanup: true
+        provider: pages
+        github-token: "$GITHUB_OAUTH_TOKEN"
+        skip-cleanup: true
+        email: "$GITHUB_EMAIL"
+        name: "$GITHUB_USERNAME"
+        verbose: true
+        keep-history: true
+        local-dir: public
+        target-branch: gh-pages
         on:
-          tags: true
+          branch: master
