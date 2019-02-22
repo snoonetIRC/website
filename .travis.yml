@@ -27,7 +27,7 @@ jobs:
     - stage: deploy
       if: tag IS present
       script:
-        - hugo -b https://snoonet.org/
+        - hugo -b "$LIVE_SITE_URL"
         - echo "$CNAME_URL" > public/CNAME
       deploy:
         provider: pages
