@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Snoonet</title>
+    <link>https://snoonet.org/posts/</link>
+    <description>Recent content in Posts on Snoonet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 22 Nov 2018 21:38:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://snoonet.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Important changes to Snoonet and a partnership with IRC.com</title>
+      <link>https://snoonet.org/posts/2018/11/22/important-changes-to-snoonet-and-a-partnership-with-irccom/</link>
+      <pubDate>Thu, 22 Nov 2018 21:38:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2018/11/22/important-changes-to-snoonet-and-a-partnership-with-irccom/</guid>
+      <description>Snoonet is expanding its family and linking up with the new IRC network, IRC.com. For Snoonet users, the only real change you’ll feel is an influx of new users with some new cloaks. Staff wise, we are taking on no new opers over the link, and all current staff will remain as they are.
+In order to reduce confusion between Snoonet and IRC.com users, a few changes will be made to cloaking and services bots. For most users, these changes will not be noticeable. Note that all these changes may not happen at once, for example, the cloak changes will take a bit more time than the rest.
+1. Services will now display a vHost of @services instead of @snoonet/services/*. For example NickServ!NickServ@snoonet/services/NickServ will now simply be NickServ!NickServ@services.
+2. vHosts for newly registered users will now either display @irc.com/user/&amp;lt;username&amp;gt; or @snoonet.org/user/&amp;lt;username&amp;gt; depending on which side of the network the user registered on.
+3. Default and Snoo-ed nicks will change from SnooXXXXX to GuestXXXXX in order to be more network agnostic. Note that this will also affect how services force-nicks users to protect nicknames. As we understand that a number of channels ban Snoo-ed nicks we are providing a grace period of 7 days to channel operators to update their ban lists.
+4. Unregistered users will now display a cloak containing @irc-&amp;lt;hash&amp;gt;.IP instead of @Snoonet-&amp;lt;hash&amp;gt;.IP. Note that this will not affect old bans against Snoonet-.IP cloaks, both types will be checked where needed.
+TL;DR: The vHosts services bots use are changing to be more name agnostic. We’re making newly registered nicks have vhosts based on the side they registered on. We’re changing snoo-ed nicks to Guest. Cloaks are also undergoing changes to be more name agnostic, though bans on old ones will still work.
+If you have any questions or concerns please don&amp;rsquo;t hesitate to ask a Snoonet staff member in #help or through our support system located at https://support.snoonet.org/</description>
+    </item>
+    
+    <item>
+      <title>Updates to our Privacy Policy and Services</title>
+      <link>https://snoonet.org/posts/2018/05/24/updates-to-our-privacy-policy-and-services/</link>
+      <pubDate>Thu, 24 May 2018 20:25:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2018/05/24/updates-to-our-privacy-policy-and-services/</guid>
+      <description>As part of our ongoing mission to serve our users and their communities, Snoonet is implementing some changes to our services and our policies to better reflect our commitment to privacy and security. &amp;nbsp;Specifically, we have made some changes in support of the EU General Data Protection Regulation (GDPR), which comes into effect on May 25, 2018.
+A brief overview of some of the changes:  Our new Privacy Policy will come into effect on May 25, 2018. The revised policy doesn&amp;rsquo;t change the amount of data that we request from you, or impact how we use it.
+Instead, the policy provides more details about the information we collect, how we use it, and how we comply with GDPR and other privacy legislation. We have also provided information about how to request the removal of your information from both our IRC network and from services like our support system.
+ As announced yesterday, we no longer offer the Statistics bot as a network service, and have purged all data collected by the service. For more information, please visit https://snoonet.org/Statistics. We have updated the messages that are sent to you upon connecting to our IRC network to notify you of our revised Privacy Policy and to seek your consent to these changes.  Additional information Privacy and security have been a long-term priority for us at Snoonet, and you can review our Privacy and Security page for additional information about our network&amp;rsquo;s privacy features, steps that you can take to protect your privacy when using our services, and some answers to frequently asked questions.
+It&amp;rsquo;s important to be aware that by using our services on or after May 25, 2018, you will be agreeing to the changes outlined in our Privacy Policy. If you do not agree to these changes, it is important that you stop using our services and take steps to delete your accounts and data. &amp;nbsp;For more information, please consult the policy or contact us through our support system at https://support.snoonet.org.</description>
+    </item>
+    
+    <item>
+      <title>Updates to our Network Rules and Terms of Service</title>
+      <link>https://snoonet.org/posts/2017/10/23/updates-to-our-network-rules-and-terms-of-service/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2017/10/23/updates-to-our-network-rules-and-terms-of-service/</guid>
+      <description>From: Snoonet Management We&amp;rsquo;ve refreshed our Network Rules and updated our Terms of Service to make things easier to understand. These changes will go into effect as Monday, October 23rd, 2017 at 05:00 GMT. Your continued use of Snoonet after this date and time will constitute your acceptance of these changes.
+Important to know  We&amp;rsquo;ve not made any major changes to our rules for some time. In fact, the only major changes we&amp;rsquo;ve made are to update some of the information as certain pieces were out of date. We&amp;rsquo;ve also moved certain items to different categories to make an easier read. You will now easily be able to find what you are looking for. Our Terms of Service have been updated to include that we run an Open Proxy Monitor on our network. This information has previously been communicated in our MOTD, shown to all users when they connect to Snoonet. Our Terms of Service have been updated to include how we protect our users from abuse.  If you have any questions, we encourage you to join #snoonet and ask your question there.
+Thanks for using Snoonet!</description>
+    </item>
+    
+    <item>
+      <title>Snoonet joins the PrivateInternetAccess.com Family!</title>
+      <link>https://snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/</guid>
+      <description>From: Snoonet Foundation (Shane Allen, Jeff Sandberg) Snoonet is pleased to announce that it is the newest addition of the PrivateInternetAccess.com / London Trust Media, INC family. Below is a written explanation of what is to be expected and our manifesto to keep IRC, its community culture, and all current operations as is but promote knowledge and growth moving in to the future.
+What is this, and what does it mean? The vision is simple: Put a protective bubble around IRC culture and its communities, release funding for development and community events, and make sure the mission statement at www.snoonet.org/missions carries in to the future. No operational changes will be made, and things will continue as usual. This just gives us more resources and options to work with going in to the future.
+Why does this matter? Snoonet was created Apr. 28, 2012 with one vision in mind: Create and maintain bad-ass stuff for the infinite amount of Reddit communities. In the 5 years of its existence, Snoonet has maintained a certain vision of valuing its communities by hiring its community leaders to help protect, and provide a home for its userbases.
+London Trust Media and its subsidiary PrivateInternetAccess.com believe in a much bigger picture with regards to community culture. If we take a step back and look at it, the picture is clear. &amp;ldquo;Be there for the communities, and allow them to grow without influencing community evolution.&amp;rdquo;
+How did this come about? This past Christmas, I, Shane Allen reached out to PrivateInternetAccess. It&amp;rsquo;s been a long journey over these years in both Snoonet life and my personal life. When reaching out I asked for one thing after explaining what Snoonet stood for and was about. I had asked for help buying my staff Christmas gifts and helping me to show them a thank you for believing in something we all put so much time in to build. I expected maybe a few hundred dollars so I could buy some sweaters, coats, mittens, etc for the children of our staff, and maybe provide some food to the staff members who could use a little help.
+Because I was about something more than myself, the owner, and director of marketing took a great interest in our mission. After speaking with them for a bit I came to learn that they grew up on IRC and valued it so much as it&amp;rsquo;s where they started off, like many of us learning to program, network with others, and run our community live chats.</description>
+    </item>
+    
+    <item>
+      <title>Snoonet ircv3 / New Ghostbin</title>
+      <link>https://snoonet.org/posts/2017/01/09/snoonet-ircv-new-ghostbin/</link>
+      <pubDate>Mon, 09 Jan 2017 04:28:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2017/01/09/snoonet-ircv-new-ghostbin/</guid>
+      <description>Snoonet looks to quickly adopt full IRCv3 capability. We will be developing a new website based around The Lounge to give our website an actual use. We look forward to seeing the implementation of IRCv3. When we get the &amp;lsquo;Okay!&amp;rsquo; we will upgrade all our IRCd software to implement full IRCv3 functionality.
+We love IRC IRC is an old protocol that can finally benefit from a face lift to make our modern clients better to use. Please look at the IRCv3 project here and check out our road map. The aim is to upgrade the protocol of IRC to provide better functionality of future developments. We look to see its health and growth remain positive!
+IRCv3 Roadmap and Documentation. You can view the progress here: https://github.com/ircv3/ircv3-specifications/milestone/4/
+You can view the IRC documents here: http://ircdocs.horse
+You can view the clients progress here: http://ircv3.net/software/clients.html
+If you love IRC as well, try to help and pitch in where you can!
+New Ghostbin We setup our own ghostbin (secure pastes and syntax highlighting) at https://paste.snoonet.org
+Feel free to use it to send large amounts of text.</description>
+    </item>
+    
+    <item>
+      <title>Moving Forward!</title>
+      <link>https://snoonet.org/posts/2016/12/29/moving-forward/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/12/29/moving-forward/</guid>
+      <description>Moving Forward: Management Changes Welcome our new Network Director We would like to announce the appointment of bloodygonzo as our new Network Director. Bloodygonzo will be responsible for leading and making executive decisions for Snoonet, and will have final say regarding network operations going forward. Many of you already know bloodygonzo from his involvement in Snoonet communities, including the popular network bot, gonzobot. He’s distinguished himself as a leader on the network and a champion for increasing community interaction.
+Network Leadership Jeff “Paradox” Sandberg and Shane “rdv” Allen will be moving to founder roles, retiring from day-to-day operations. They remain as network owners and will provide input and advice to network operations where appropriate, and will continue to play a role in identifying talent and managing staff.
+bloodygonzo bloodygonzo has made your network community bot gonzobot! You can see it here and utilize it! He helps new-comers with creating python modules, and has the idea of helping every body that needs something in their community! You can contact bloodygonzo at bloodygonzo@snoonet.org for additional information!
+What does this mean? We expect to continue to strive towards the goals of our Mission Statement. We’ll continue supporting communities as usual, offering network assistance in #help and discussion in #snoonet. Expect updates from bloodygonzo in the New Year as we move forward together.
+The new network director will be focusing entirely on www.snoonet.org/missions
+Keep it real.</description>
+    </item>
+    
+    <item>
+      <title>Introducing our newest partner - Private Internet Access!</title>
+      <link>https://snoonet.org/posts/2016/12/15/introducing-our-newest-partner-private-internet-access/</link>
+      <pubDate>Thu, 15 Dec 2016 23:48:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/12/15/introducing-our-newest-partner-private-internet-access/</guid>
+      <description>Today, Snoonet is pleased to announce our newest partner - Private Internet Access!
+Owned by London Trust Media, Private Internet Access is a provider of consumer VPN services. Their sponsorship couldn’t come at a better time as Snoonet continues to grow and develop new, innovative things for its communities!
+Private Internet Access have generously donated $25,000 to Snoonet to assist with community building efforts. In addition, they have provided us with 11 new servers which will be equally dispersed among our geographic profile as needed. We are extremely grateful to them for this as it’ll allow us to focus on bigger and better things as we finish up with 2016 and head in to 2017!
+To celebrate this new, exciting partnership, Private Internet Access would like to give away 5,000 accounts with a free 1-year subscription to the service. These are available on a first come, first serve basis and Snoonet will initially be giving out only 500. If you&amp;rsquo;d like one, fill out our request form.
+Check out the news release from Private Internet Access here</description>
+    </item>
+    
+    <item>
+      <title>12/15/16 Update</title>
+      <link>https://snoonet.org/posts/2016/12/15/update/</link>
+      <pubDate>Thu, 15 Dec 2016 15:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/12/15/update/</guid>
+      <description>Adding some developers that can help out We&amp;rsquo;re currently working on a few projects for the communities. One being https://lounge.snoonet.org which is an IRC Cloud alternative and is developed in nodejs. The folks over at freenode (irc.freenode.net #thelounge) are also helping with developing their project, however we are looking for a local team to help with this, and future projects involving nodejs.
+Our current website is old and outdated. We&amp;rsquo;d like to keep our active admin back end, but would like to redesign it. The current active website is at: https://github.com/snoonetIRC/website
+What we need:  nodejs devs webdeveloper/designer for a simple re-design of the current snoonet.org website Python developers. We code a lot of python stuff, and the more intelligent and active people, the better. reddit bot expert. We&amp;rsquo;d like to offer some community tools for reddit. We can do this ourselves, but would like additional help with the projects.  Requirements  Be mature, and at least 18 years of age. Be laid back, and able to work as a team Take initiative. We&amp;rsquo;ll give you freedom to be yourself and go with the flow. That&amp;rsquo;s how we operate.  Apply E-mail operations@snoonet.org with:  IRC Nick Age Location Time available What you want to help out with, and if you have a passion to actually do it.  Please be in good standing with Snoonet. You will be working closely with the staff in the #staff channel, but not given direct operator access. That will be gained in time as trust builds.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Concerns</title>
+      <link>https://snoonet.org/posts/2016/12/15/privacy-concerns/</link>
+      <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/12/15/privacy-concerns/</guid>
+      <description>Our Privacy Mission www.snoonet.org/privacy There&amp;rsquo;s been chatter about Snoonet, or myself Shane &amp;ldquo;rdv&amp;rdquo; Allen individually as Snoonet&amp;rsquo;s owner that we log all traffic on Snoonet, which is incorrect. I&amp;rsquo;ll clarify in a short, simple post.
+These accusations are false, the logs are fabricated, and targeted to hinder Snoonet&amp;rsquo;s vision. Snoonet does not log messages on its network, or have any ability to spy on its users. The staff at http://www.snoonet.org/staff all work together to keep each other accountable for their actions. I would be no exception, even as Snoonet&amp;rsquo;s owner.
+However the users on Snoonet do keep private logs of the channels they are in, which can not be avoided on any platform.
+I personally was doxxed, harassed, threatened, and belittled. However, I&amp;rsquo;ll take one for the team.
+I made a post clarifying the situation here on reddit
+SSL If you feel your messages are being spied on by your internet service provider, the government, or even on Snoonet&amp;rsquo;s end, please connect to irc.snoonet.org on port 6697. We have a signed certificate for secure authentication. If you need help setting up your IRC client, please ask in #help
+Extra security online Snoonet will be working directly with Private Internet Access to provide users with home VPNs for their home devices. This will help increase anonymity if users such are looking for extra security online. The details have not yet been worked out on its partnership, however we look to have the ability to offer free, or reduced payment to users on Snoonet.
+If you would like to apply/be in the queue for a Private Internet Access VPN, make a post with this form Snoonet&amp;rsquo;s Mission Statement www.snoonet.org/missions This is a reminder of what Snoonet is about. Trolls will not sway this vision.</description>
+    </item>
+    
+    <item>
+      <title>Channel Operator Tools</title>
+      <link>https://snoonet.org/posts/2016/12/11/channel-operator-tools/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/12/11/channel-operator-tools/</guid>
+      <description>Channel Verification Process We developed a new tool that channels can enable. When enabled, new users joining a channel will need to verify via the web in order to earn voice status (able to speak in a +m moderated channel) . This will hinder ban evaders and gives staff new options to work with to help deter and stop abusive users. It can be used in event channels with large amounts of users, or used as a tool to force people to make an effort to chat in the channel. The inner workings behind the engine will be explained in detail to the #optalk crew before making it public to all channels as a service on Snoonet.
+How it works  User joins channel User is sent a link to a secure website to prove they are a real person Magic happens on our backend After visiting the URL sent to them, mode +v is applied to their nickname  You may currently request this verification process on your channel by asking in #snoonet or #optalk.</description>
+    </item>
+    
+    <item>
+      <title>Updated Mission Statement</title>
+      <link>https://snoonet.org/posts/2016/12/02/updated-mission-statement/</link>
+      <pubDate>Fri, 02 Dec 2016 00:01:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/12/02/updated-mission-statement/</guid>
+      <description>Snoonet is a community hub designed to accomodate and explore community culture. Our network infrastructure is built and maintained by the top communities on the internet, and their most proactive community leaders. Our design is to stay within the times, so we grow with communities. Our goal is simple: Be there with your communities, grow together, and aim for progression at every turn.
+The Vision is Simple Value your communities. We value the proactive members within communities that develop tools, that create infrastructure within their moderation teams and community as a whole, that aim to simply make things better for those around them. We value the understanding that every community is beautiful, whether our interests conflict or mesh well, the staff team is built around various community leaders with an amazing range of interests. Great deeds go a long way within Snoonet!
+This is all for you. We all started as individuals looking to do something more. We value the connections people make with each other, and see the vastness for potential each individual has. None of this is possible without you!
+Lending a helping hand. In the past, we&amp;rsquo;ve gathered resources from our infrastructure to host community game servers, community events, and staffed large discussion networks to help individuals, and communities to promote awesome ideas they&amp;rsquo;ve had. We pitch in where we can as far as server resources, money donations, and development is needed.
+Always be about something positive. When life turns aspects of our everyday lives into something black white and grey, our only option is to seek out the colors, wherever they may be. We will go out of our way to help those within our communities on professional and personal levels. There&amp;rsquo;s always a bigger picture, and the finest details are highlighted by working together.
+Welcome the voice of the internet.</description>
+    </item>
+    
+    <item>
+      <title>Snoonet is a community hub for decentralization!</title>
+      <link>https://snoonet.org/posts/2016/10/15/snoonet-is-a-community-hub-for-decentralization/</link>
+      <pubDate>Sat, 15 Oct 2016 01:01:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/10/15/snoonet-is-a-community-hub-for-decentralization/</guid>
+      <description>Snoonet is pleased to support and work with decentralization! We would like to announce a matrix.org bridge from matrix clients to IRC! Have a gander at matrix.org to see what we&amp;rsquo;re about!
+Feel free to try it out as well using Riot.im&amp;rsquo;s client: http://matrix.org/docs/projects/client/riot.html - Be sure to register and select #Snoonet from the drop down!
+Our core belief will always focus on security, privacy, stability, freedom of speech, and most importantly the inter-connection of people within your communities. We are happy to be a community hub for all people, of any community to connect to.
+What does this mean for me? tldr; Snoonet will be a community hub for decentralized clients within matrix.org.
+This means you can be connected to every thing, and everybody. You will be anonymous and secured, and able to access Snoonet.org&amp;rsquo;s IRC communities. Most importantly, you&amp;rsquo;re connected within the matrix securely and can . You will have no limitations on who or what you connect with.
+Snoonet will be a community hub for matrix.org users as well as normal IRC, and reddit.com users that connect to us through the OrangeChat bridge.
+Take a peek at http://matrix.org/docs/guides/faq.html#what-is-matrix to see what it&amp;rsquo;s about!</description>
+    </item>
+    
+    <item>
+      <title>New Servers in Europe and Asia</title>
+      <link>https://snoonet.org/posts/2016/09/23/new-servers-in-europe-and-asia/</link>
+      <pubDate>Fri, 23 Sep 2016 04:27:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/09/23/new-servers-in-europe-and-asia/</guid>
+      <description>Snoonet is proud to introduce Calvin (London) and Hobbes (Singapore) to the network! These additional servers in Europe and Asia, respectively, will provide a more stable and faster connection for our users outside of North America. eu-irc.snoonet.org has been updated to include the new European server, and we have added asiapac-irc.snoonet.org for our users in the Asia-Pacific region. DNS records have been updated accordingly and these new changes will take effect next time you connect.
+We have also added a new hub in Europe to increase reliability. This will ensure that users outside of North America are not as affected by maintenance and remain connected to each other in the rare event of a netsplit.
+If you have any questions, please ask a staff member in #help and remember, &amp;ldquo;It&amp;rsquo;s a wonderful world Hobbes ol&amp;rsquo; buddy&amp;hellip; Let&amp;rsquo;s go exploring!&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>IRC software and Server upgrades (Maintenance Window)</title>
+      <link>https://snoonet.org/posts/2016/08/17/irc-software-and-server-upgrades-maintenance-window/</link>
+      <pubDate>Wed, 17 Aug 2016 23:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/08/17/irc-software-and-server-upgrades-maintenance-window/</guid>
+      <description>Snoonet will be undergoing server updates on the morning of August 31st at 02:00 UTC. The maintenance window will last for approximately 4 hours (subject to change, sudden catastrophic failure, and/or ThatOneRoadie pouring maple syrup on the Canadian servers).
+We will be performing some operating system patching and updates, as well as patching our IRC daemon to the latest version, and recompiling some network-wide modules. During this time, some netsplits will occur as servers are brought down for maintenance and upgraded. We will be performing our updates in batches, so if you experience a disconnection, you will be able to immediately reconnect to another server via irc.snoonet.org.
+Thanks for the patience, and as always, feel free to bug us in #help if you have any questions.
+-Snoonet Operations Team</description>
+    </item>
+    
+    <item>
+      <title>Recruiting Snoonet Community Guides</title>
+      <link>https://snoonet.org/posts/2016/06/04/recruiting-snoonet-community-guides/</link>
+      <pubDate>Sat, 04 Jun 2016 21:31:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/06/04/recruiting-snoonet-community-guides/</guid>
+      <description>From: Snoonet Management Snoonet is recruiting volunteers for the Community Guide position.
+We are looking for helpers that will be available to answer questions about Snoonet and orangechat in #help and in #orangechat.
+Community Guides will be responsible for guiding Snoonet users with any help requests.
+What is orangechat? Orangechat is a webchat that integrates directly with reddit.com. You can use your reddit account to connect directly to chatrooms and chat with other users browsing your favorite subreddits.
+ Orangechat will bring new communities to Snoonet in the form of an easy-to-access interface directly from reddit.com. Orangechat allows existing Snoonet communities to link their subreddit&amp;rsquo;s to Snoonet via orangechat so no one is left out.  How can I apply? For more information and instructions on applying, see our Guide Recruitment page. Applications will be open until June 12, 2016.</description>
+    </item>
+    
+    <item>
+      <title>Privacy and Security - How Snoonet Protects You</title>
+      <link>https://snoonet.org/posts/2016/04/28/privacy-and-security-how-snoonet-protects-you/</link>
+      <pubDate>Thu, 28 Apr 2016 23:25:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/04/28/privacy-and-security-how-snoonet-protects-you/</guid>
+      <description>Snoonet recognizes that privacy and security are key issues for many of our users. It is our goal to ensure that our network is safe and your data is secure. We take a number of steps to protect users&amp;rsquo; privacy and limit the information that is exchanged on our network. We protect your privacy in the following ways:
+IPs are hidden by default for all users with umode +x and replaced by a one-way hash in the users host. For unregistered users, their IP will be replaced with Snoonet-hash.IP. Registered users receive a vHost, user/AccountName.
+Registration information, including e-mail addresses, are hidden in the user&amp;rsquo;s NickServ info. Users may select to hide additional information as well with /ns help set hide
+User channels are not visible in their WHOIS by others and is automatically set on connect with the umode +I. Users may elect to disable this user mode if they wish. Private and secret channels are never displayed to users not also in those channels, regardless of the user mode setting.
+Private messages can be restricted by users with a variety of user modes. PMs can be limited to users in common channels, registered users, or a configured whitelist. See User Modes for more information.
+For more information on how Snoonet protects you, ways you can protect yourself, and frequently asked questions, please see our Privacy and Security page. If you have any questions, feel free to ask a staff member in #help.</description>
+    </item>
+    
+    <item>
+      <title>Push Notifications - Never miss an important message again</title>
+      <link>https://snoonet.org/posts/2016/03/20/push-notifications-never-miss-an-important-message-again/</link>
+      <pubDate>Sun, 20 Mar 2016 02:51:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/03/20/push-notifications-never-miss-an-important-message-again/</guid>
+      <description>Snoonet is excited to add push notifications, a new way to stay up-to-date when away from your computer. Powered by PushBullet, Snoonet can now send a notification to your mobile device when pinged or PMed while away from your computer. With push, never miss an important message again.
+What is push?
+Push notifications are a free, convenient way to get notified when someone sends you a private message, mentions you in a channel, or says one of your highlight words while you are away from IRC. Notifications can be sent to your phone, tablet, mobile device, computer, or web browser.
+Requirements
+In order to receive push notifications, you&amp;rsquo;ll need a Snoonet BNC account, a PushBullet account, and the PushBullet app installed on any devices on which you wish to receive notifications. Instructions can be found in the setup instructions below.
+To start receiving notifications, visit our push page. Configuration is easy and only takes a few minutes.
+If you need assistance, please ask in #help and someone will assist you.</description>
+    </item>
+    
+    <item>
+      <title>Snoonet Rule Updates</title>
+      <link>https://snoonet.org/posts/2016/03/19/snoonet-rule-updates/</link>
+      <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2016/03/19/snoonet-rule-updates/</guid>
+      <description> Network Conduct  Solicitation of services to earn financial gain is only permitted by asking the channel operators. No user is to request money from others. While we understand many are in times of need, please register a gofundme account and state why you are asking for money. Please ask permission from the channel operators. Begging, and contacting multiple users requesting money is a network offense and will be dealt with warnings and removal from the network.  Channel Rules  Channels may be freely registered on Snoonet, however if subreddit moderators claim an already-registered channel with the same name as their subreddit it shall be granted upon request. Communities that have existed on Snoonet for a long period of time will be granted special exemptions. To prevent hostile takeovers of channels, Snoonet operations staff will work with the entire mod team of the subreddit to find the best solution.  </description>
+    </item>
+    
+    <item>
+      <title>Hello SubWatch, Farewell rAnnouncer</title>
+      <link>https://snoonet.org/posts/2015/11/29/hello-subwatch-farewell-rannouncer/</link>
+      <pubDate>Sun, 29 Nov 2015 01:58:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/11/29/hello-subwatch-farewell-rannouncer/</guid>
+      <description>We&amp;rsquo;re pleased to introduce SubWatch, a new bot on our network. Subwatch announces new reddit threads on your channel from subreddits of your choosing, and will be replacing rAnnouncer, which is being decommissioned. You will need to transfer your settings in order for your channel to continue receiving thread alerts.
+To switch between rAnnouncer and SubWatch, please take the following steps:
+&amp;bull; Type \subreddit list to view rAnnouncer&amp;rsquo;s subreddits.
+&amp;bull; /invite SubWatch #channel to have SubWatch join your channel.
+&amp;bull; Type $add [subreddit name] for each of the subreddits you wish to transfer.
+&amp;bull; /kick #channel rAnnouncer
+Please note: you must be a channel operator or halfop to use these commands.
+Want to keep a close eye on your subreddit? SubWatch is also capable of announcing threads based on keywords in the title, and can securely announce threads from private subreddits.
+You can view the commands and further information here.</description>
+    </item>
+    
+    <item>
+      <title>Change to the Default User Modes on Snoonet</title>
+      <link>https://snoonet.org/posts/2015/11/22/change-to-the-default-user-modes-on-snoonet/</link>
+      <pubDate>Sun, 22 Nov 2015 02:57:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/11/22/change-to-the-default-user-modes-on-snoonet/</guid>
+      <description>We know that many communities are concerned about privacy for their users. To that end, in addition to masking user&amp;rsquo;s IPs, we are now setting +I as a default usermode.
+What does this mean? Unless you /umode -I, users will now be unable to see channels that you are in. If you wish -I to persist, please type /msg nickserv keepmodes on
+Looking for new channels? If you are looking to find new channels, please visit https://snoonet.org/communities.
+If you&amp;rsquo;d like your channel to be added to this list, please ask in #help or submit a ticket here.</description>
+    </item>
+    
+    <item>
+      <title>Snoonet is hiring community staff!</title>
+      <link>https://snoonet.org/posts/2015/10/29/snoonet-is-hiring-community-staff/</link>
+      <pubDate>Thu, 29 Oct 2015 16:16:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/10/29/snoonet-is-hiring-community-staff/</guid>
+      <description>Snoonet is looking to hire community staff members. Applicants should be active and engaged in our IRC communities and be interested in volunteering their time to make the network a better place.
+Responsibilities Community staff will assist with various projects designed to improve the user experience on Snoonet. They will be expected to consult with communities, specifically with an eye to understanding community needs and suggesting tools and policies that should be developed to assist with community moderation and growth.
+On a day-to-day basis, responsibilities will also include assisting with support requests in #help and in our ticket system, drafting communications about upcoming events or ongoing issues, and generally providing users and channel operators with support and assistance.
+Qualifications We are primarily looking for people with ideas, energy, and a willingness to contribute to the community. Community staff WILL be network operators, and as such, we are looking for people with knowledge of basic IRC commands, including how to set up channels and assist others in that respect.
+We are NOT looking for operators who are solely interested in providing network support at this point in time. Applicants should be interested in working with communities and demonstrate the motivation, creativity, and initiative necessary to succeed on a volunteer team.
+Applications and Inquiries If you are interested in applying, please visit https://www.snoonet.org/vol and send an application to apply@snoonet.org.
+If you have any questions about our community team or our work, please feel free to PM Ari or ScarletAngel.</description>
+    </item>
+    
+    <item>
+      <title>The ducks are migrating...</title>
+      <link>https://snoonet.org/posts/2015/10/24/the-ducks-are-migrating/</link>
+      <pubDate>Sat, 24 Oct 2015 22:45:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/10/24/the-ducks-are-migrating/</guid>
+      <description> Something spooky is happening on Snoonet. The ducks must have been scared off by something&amp;hellip;where did they go? Wait&amp;hellip;that looks like meatcat, running for dear life out of #foreveralone! Did they finally chase him off? &amp;hellip;WAIT! Is that a zombie behind him?
+It’s time to choose: you can .bang the monsters and save your fellow redditors or .bef the monsters and let them eat all of your friends.
+Later today, the monster hunt will be released.
+Rules:  All hunting must be done in a channel with at least 10 other people hunting. If you invite gonzobot into #mycoolmonsterhunting channel and there are not 10 other people actively hunting with you you will be disqualified from the contest. The highest average number of kills will win, so killing monsters in 100+ channels will not help you out at all. If there are other ways people find to cheat the system, those involved will be disqualified. Data analysis will be done before the winners are selected. To qualify in the contest, nicknames must be registered or grouped under a registered account.  Prizes:  Each winner will be given 2 custom vhost coupons which will entitle them to a custom hostname of their choosing, within reason. Winners can choose to give one or both of these coupons away, or use them both for themselves. If you would like to add to the pot by donating extra Humble Bundle license keys or anything else, please modmail /r/snoonet. We will distribute rewards as evenly as we can between the two winners. We’d be happy to promote any additional contributions, including who or what communities have donated the prizes. We will include any updates to the prize list here and anywhere else that the contest is announced, including /r/snoonet and @snoonet.
+  </description>
+    </item>
+    
+    <item>
+      <title>Requesting Support</title>
+      <link>https://snoonet.org/posts/2015/10/04/requesting-support/</link>
+      <pubDate>Sun, 04 Oct 2015 19:37:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/10/04/requesting-support/</guid>
+      <description>Going forward, please submit all support requests, including network ban appeals, through our support system.
+The support system will allow us to track and respond to issues and inquiries in a more efficient and effective manner.
+If you require immediate assistance and are not currently banned from the network, Snoonet staff will be happy to assist you in the IRC #help channel. Please keep in mind that you may be redirected back to the support system to create a request due to the nature of your request.</description>
+    </item>
+    
+    <item>
+      <title>New Snoonet.org Website</title>
+      <link>https://snoonet.org/posts/2015/07/15/new-snoonetorg-website/</link>
+      <pubDate>Wed, 15 Jul 2015 15:11:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/07/15/new-snoonetorg-website/</guid>
+      <description>We are excited to announce that the new Snoonet.org website is live. The new website features a more modern design and includes embedded Kiwi webchat at https://snoonet.org/webchat. Accessing webchat through our website will allow users easier access to pages like our network rules, channel statistics, and help documentation while chatting.
+Feedback on the new site and suggestions for the future can be provided in our #snoonet channel. We recommend tagging Diss, as our new website exists mostly thanks to his hard work!</description>
+    </item>
+    
+    <item>
+      <title>Network and Channel Stats - Back Online</title>
+      <link>https://snoonet.org/posts/2015/03/22/network-and-channel-stats-back-online/</link>
+      <pubDate>Sun, 22 Mar 2015 15:49:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/03/22/network-and-channel-stats-back-online/</guid>
+      <description>After much anticipation, network and channel stats are now back online! Invite statistics to your channel to enable stats. You can check them out by typing !stats in your channel or going to chanstats.snoonet.org and clicking your channel name. See where you and your channel rank in the global statistics at stats.snoonet.org. To see other cool stat-related things go to www.snoonet.org/anope#Stats.
+Just a reminder that if you’d like to opt out of statistics, you may type &amp;lsquo;/msg nickserv set chanstats off&amp;rsquo;. The data already collected will not be removed. This is recommended for channels who do not want their members or quotes from their chat made public.
+If you haven’t already, you can also check out the services web portal at anope.snoonet.org. The services web portal will allow you to manage your modes and services information.</description>
+    </item>
+    
+    <item>
+      <title>Snoonet Bouncer Access on KiwiIRC</title>
+      <link>https://snoonet.org/posts/2015/03/16/snoonet-bouncer-access-on-kiwiirc/</link>
+      <pubDate>Mon, 16 Mar 2015 15:32:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/03/16/snoonet-bouncer-access-on-kiwiirc/</guid>
+      <description>We are pleased to announce that KiwiIRC now allows you to connect with Snoonet’s bouncer (BNC) service. Web BNC can be accessed at https://webbnc.snoonet.org. This change should enable more users to access our BNC service and use it on a regular basis.
+Prawnsalad, creator of KiwiIRC, has been working closely with our development team in order to make this possible. We would like to thank prawnsalad for his effort and his contributions to Snoonet. It is always a pleasure to work with someone who goes the extra mile to improve the user experience for our community.
+ What is a BNC?
+A BNC (or Bouncer) is a service which keeps you connected to IRC 24/7. Instead of connecting directly to Snoonet, you connect to the bouncer, which stays connected. The bouncer will play back messages which you missed while you were disconnected. This way, you can always be part of the conversation. How do I get one?
+Once you have a nick registered with NickServ for one month, you are eligible to request a BNC. You need to join ##bnc and type /requestbnc. Then, wait for an operator to approve your request. Usually this is done within an hour or two. When your request is approved, details on connecting to your account will be sent to your account via MemoServ. To read them, type /ms read new  Please see our BNC page for more information on Snoonet’s BNC service.</description>
+    </item>
+    
+    <item>
+      <title>Update on Snoonet&#39;s custom vhost program</title>
+      <link>https://snoonet.org/posts/2015/03/12/update-on-snoonets-custom-vhost-program/</link>
+      <pubDate>Thu, 12 Mar 2015 20:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/03/12/update-on-snoonets-custom-vhost-program/</guid>
+      <description>A month ago, we trialed a new service allowing users to request a custom vhost of their choosing, provided the custom host didn’t contain any slurs or violate any pre-existing network rules.
+Due to consensus among network staff and preparation for potential future network updates, we have decided to end this trial service.
+Users will no longer be allowed to apply for custom vhosts, but users who received custom vhosts before today will be able to keep them if they wish to do so. Those with custom vhosts who wish to revert back to a normal @user/accountname vhost should ask in #help and an oper will switch the vhost back.
+Community vhosts, e.g. @xboxone/XenoBen, can still be requested for users with flags in any channel which has over 40 members. If you have flags in a snoonet community or chat channel which meets the member requirement, you can request a custom @communityname/accountname vhost by typing /vhost #channel, or asking for assistance in #help.
+If you have any questions or suggestions regarding our vhost services, you can ask an oper in #snoonet (for general questions) or #help (for technical questions).</description>
+    </item>
+    
+    <item>
+      <title>In Remembrance of Edify</title>
+      <link>https://snoonet.org/posts/2015/02/28/in-remembrance-of-edify/</link>
+      <pubDate>Sat, 28 Feb 2015 18:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/02/28/in-remembrance-of-edify/</guid>
+      <description>Former long-time Snoonet network operator and reddit moderator /u/edify, remembered as Jarod Coonce by his friends and family, has passed away. He was known for organizing television AMAs, and made the television community on reddit &amp;ndash; from /r/thewalkingdead to /r/breakingbad &amp;ndash; what it is today.
+Jarod continued his role on Snoonet as a community manager, bringing countless communities to the network during its formative years. He selflessly helped in any way he could. Jarod single-handedly introduced over 300 users to Snoonet overnight by bringing attention to the #BreakingBad subreddit IRC channel, and bringing Live AMAs to the network from Breaking Bad actors. He truly was a force for change, and he will be missed.
+Snoonet extends our best wishes to his family and friends. He will be remembered far after his departure not only by us, but by his fellow moderators and the many people his actions touched.
+You can find a link to most of the AMAs edify organized here. One of his favorite charities was A Place Called Home, a safe haven for children and teens in Los Angeles. If you’d like to donate in his name, you can do so here.</description>
+    </item>
+    
+    <item>
+      <title>Network maintenance schedule</title>
+      <link>https://snoonet.org/posts/2015/01/27/network-maintenance-schedule/</link>
+      <pubDate>Tue, 27 Jan 2015 02:56:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2015/01/27/network-maintenance-schedule/</guid>
+      <description>Our official timeframe for network maintenance is Tuesday Night into Wednesday Morning between 9 PM PDT and 2 AM PDT. If needed, general network maintenance, server updates, or bug fixes will be performed during this timeframe. All users will be warned via global notice whenever major network maintenance (rebooting hubs, etc) is necessary. Users on specific servers requiring maintenance will be notified by staff via NOTICE or Private Message atleast 24 hours in advance.
+In the event of a newly released IRCd update, or new major vulnerability found with our base operating system, this schedule may be extended include Saturday Night/Sunday Morning.</description>
+    </item>
+    
+    <item>
+      <title>Services Announcement</title>
+      <link>https://snoonet.org/posts/2014/11/17/services-announcement/</link>
+      <pubDate>Mon, 17 Nov 2014 04:53:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2014/11/17/services-announcement/</guid>
+      <description>With the recent announcement of the end of major development of the Atheme IRC services suite, Snoonet has made the decision to convert the network to the Anope 2.0 services suite. This change will take affect on January 1st, 2015. Generally, there will be no change in the way you operate your channels, however, there are some differences in the services packages.
+A conversion guide will be written in the near future, and Snoonet will assist channel ops one on one, if necessary, to make the transition as seamless as possible. We will provide updates in the near future. Please join #anopeconversion if you have any questions. Thank you for your continued patronage.</description>
+    </item>
+    
+    <item>
+      <title>TOR connectivity</title>
+      <link>https://snoonet.org/posts/2014/10/24/tor-connectivity/</link>
+      <pubDate>Fri, 24 Oct 2014 21:56:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2014/10/24/tor-connectivity/</guid>
+      <description>Our tor service is back up online, with a new hidden service address: sylmrwllqsy7yapm.onion . Please visit http://www.snoonet.org/tor for instructions on how to set it up.</description>
+    </item>
+    
+    <item>
+      <title>Rule Additions</title>
+      <link>https://snoonet.org/posts/2014/07/09/rule-additions/</link>
+      <pubDate>Wed, 09 Jul 2014 12:30:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2014/07/09/rule-additions/</guid>
+      <description>Snoonet operations reserve the right to set temporary and permanent channel modes on any channel or user during attacks, to protect users from harmful spam messages (containing, or not containing), malicious dox (private information), malicious software/web pages, viruses, spam, flood. This rule will not allow for censorship and will only be considered when multiple users become targets for attackers. No private channels will be affected.
+Examples of modes: Setting channels to registered users only, modifying flood-toggles for channels, making users only receive messages from others that are familiar in channels, and incorporating the network utility sysop (System Operator) in channels where attacks are popular.
+Privacy In addition to the no-dox rule. Posting of information about anybody&amp;rsquo;s private life, school, home, hobbies and interests are prohibited unless publicly shared on the network, or a verbal agreement is given by the individual on which information is shared. Sharing information about yourself is at your discretion, and we will not punish any user for information that you shared in a public chat. Punishment of this rule will result in a ban from the network ranging from one month to permanent dismissal. To sum it up, nothing that a reasonable person would deem as &amp;lsquo;private information&amp;rsquo; may be shared with others. We will enforce it by looking in to how the information can be abused, or used to one&amp;rsquo;s advantage before issuing a warning or ban.</description>
+    </item>
+    
+    <item>
+      <title>BNC, Subreddit VHOST, and powerful user channel modes</title>
+      <link>https://snoonet.org/posts/2014/05/07/bnc-subreddit-vhost-and-powerful-user-channel-modes/</link>
+      <pubDate>Wed, 07 May 2014 21:31:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2014/05/07/bnc-subreddit-vhost-and-powerful-user-channel-modes/</guid>
+      <description>Want to always have your IRC nick connected? Be able to log in to your IRC nickname and resume your session from any computer, or device, from any any where at any time. We now offer BNC access for our users to connect to. This is a service that keeps an IRC nickname always connected to Snoonet and displays messages and chats you might have normally missed as soon as you log on. The service only allows you to have a bouncer (software: ZNC) connected to Snoonet, but will remain connected to Snoonet forever. If you do not log on the service for one full week, the bouncer will automatically be removed, and you&amp;rsquo;ll have to apply again.
+ /requestbnc - Type this command in any window on IRC and wait for a MemoServ/e-mail to be sent. You must be registered with NickServ to obtain access.  Big fan of a certain subreddit? Want a subreddit vhost? All you need is ChanServ access to the subreddit&amp;rsquo;s channel! User vhosts mask your address as *@subreddit/username  /vhost #subredditchannel - Only subreddits with 45 users or more in the channel will be accepted. This is to deter creating a subreddit or channel and having any mask desired.  New Powerful IRC Modes Our IRC sofrware now allows powerful channel modes to be set to control user population, spam attacks, or simply making your IRC chat easier to read and manage. Check out the channel mode list here! We&amp;rsquo;ve provided some documentation, but if you need more assistance feel free to ask us in #help on Snoonet.
+Client Modes to make IRC easier Again, our IRC software now allows for powerful usermodes to be set (/umode +modeshere) with features that can help the busiest of moderators and those wanting more privacy. Check out the user modes here! If you need any help, feel free to ask us in #help on Snoonet</description>
+    </item>
+    
+    <item>
+      <title>Snoonet will be turning 2 on Apr 28!</title>
+      <link>https://snoonet.org/posts/2014/04/07/snoonet-will-be-turning-on-apr-/</link>
+      <pubDate>Mon, 07 Apr 2014 20:01:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2014/04/07/snoonet-will-be-turning-on-apr-/</guid>
+      <description>On Apr. 28, 2014 Snoonet will be turning 2 years old! Many of the top 50 subreddit&amp;rsquo;s well respected mods have made a name for themselves as staff on the network. Alongside a few reddit admins that operate behind the scenes, we&amp;rsquo;d like to thank the subreddits and the users of Snoonet for calling our IRC network their chat home.
+What makes us unique? We are the first and only IRC network welcoming community oriented chats for reddit.com - We were created by rdv and Paradox who at the time was a reddit.com admin looking to give more to the community. We have an API backend to allow subreddits to easily configure and set up a chat on the network for their subreddits, bringing live chat straight from the threads.
+For our second birthday we&amp;rsquo;d like to give back! Visit us in /r/Snoonet and post a thread with idea(s) we can offer to the users!
+As of today, our top 10 consistent IRC communities are:
+#reddit (Owners: Paradox, rdv)
+#Games (Owners: Deimorz, Pharnaces)
+#news (Owner: douglasmacarthur)
+#f1 (Owners: Kreius, Vilkku, opiates)
+#sex (Owner: Elderthedog)
+#subredditdrama (Owner: MillenniumFalc0n)
+#TechSupport (Owner: Mikee)
+#android (Owner: IAmAN00bie)
+#bicycling (Owner: Wiggee)
+#anxiety (Owner: aperson)
+Wildcard Event Channel:
+#redditsquaredcircle (Owner: LegaleseFalcon)</description>
+    </item>
+    
+    <item>
+      <title>NickServ AJOIN</title>
+      <link>https://snoonet.org/posts/2013/12/08/nickserv-ajoin/</link>
+      <pubDate>Sun, 08 Dec 2013 19:25:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2013/12/08/nickserv-ajoin/</guid>
+      <description>This post is a PSA about a NickServ module we&amp;rsquo;ve recently enabled that will allow you to be auto-joined to a list of channels you&amp;rsquo;ve set upon identifying. This should be especially useful to webchat users due to the lack of client-side auto-join. To add a channel to your autojoin list use /msg nickserv ajoin add #channelname
+To delete a channel from your autojoin list use /msg nickserv ajoin del #channelname
+To see the channels currently on your autojoin list you can use /msg nickserv ajoin list
+As a reminder, you can get information and help with syntax on any NickServ or ChanServ command by messaging the appropriate service &amp;ldquo;help command&amp;rdquo;. So to see the syntax for the ajoin command you would do /msg nickserv help ajoin</description>
+    </item>
+    
+    <item>
+      <title>Snoonet transition guide</title>
+      <link>https://snoonet.org/posts/2013/10/20/snoonet-transition-guide/</link>
+      <pubDate>Sun, 20 Oct 2013 02:34:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2013/10/20/snoonet-transition-guide/</guid>
+      <description>With the move to InspIRCd, Snoonet now offers channel operators and users more ways to control their chat experience, regardless of client. Some things will have changed since we moved from the old network, and in order to make the transition as pain-free as possible, we have prepared this guide to help. If you have any problems, please don&amp;rsquo;t hesitate to drop by #help on irc.
+This guide is broken down into multiple parts. Changes affecting channel operators are listed first, while user-level changes are listed second. Services are not changing, so this guide does not cover any services (eg Nickserv, Chanserv)
+Channel Modes Most of the standard IRC channel modes will stay the same. Your bans will still work. Your invite exceptions may still work.
+However, things depending on old network features, such as quiets and ext-bans (such as the account ban, commonly used for invite exceptions, $a:Paradox for example) will not. The features are not gone, don&amp;rsquo;t worry, they just work differently now.
+Changes Quiets Many channels used +q to maintain a list of users who are prevented from speaking in the channel, but may still join and leave freely. This mode has been removed on the new network, and has been replaced with an extended ban.
+To quiet people on inspircd, you use the m extended ban. See the table below for some examples of how q bans on the old network become mute bans on the new network:
+   Old New     +q *!*@snoonet/operations/Paradox +b m:*!*@snoonet/operations/Paradox   +q *!*@192.168.1.1 +b m:*!*@192.168.1.1   +q NickName!*@* +b m:NickName!*@*   +q $~a (quiets all non-registered users) +M (not a ban, a chanmode)   +q $a:Paradox (account ban) +b m:R:Paradox    Bans, Extbans, and Invite Exceptions (+b, +e, and +I) Bans share many of the same syntax as quiets, which are listed above, and you can just omit the m: from the ban to make them apply as bans.
+   Name Old New     Registered user $a R:*   Account name $a:AccountName R:AccountName   Channel match $c:#chan j:#chan   Oper $o O:*   realname $r:realname r:realname   Can access channel $j:#chan n/a   Ban + realname $x:nick!user@host#realname n/a   SSL users $z z:*    Some extban changes introduce new features, while others can reproduce the old features using a combination of +b and +e modes.</description>
+    </item>
+    
+    <item>
+      <title>Snoonet&#39;s birthday</title>
+      <link>https://snoonet.org/posts/2013/04/28/snoonets-birthday/</link>
+      <pubDate>Sun, 28 Apr 2013 09:39:34 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2013/04/28/snoonets-birthday/</guid>
+      <description>Snoonet IRC network is 1 year old today - first live on 28th April 2012.
+We&amp;rsquo;ve had some stability issues in the early days, but things have smoothed out nicely over the year.
+Today we are host to over 70 active reddit communities, over 1000 regular users and 12 servers.
+Here&amp;rsquo;s to IRC and the future!</description>
+    </item>
+    
+    <item>
+      <title>Hiring Support Staff</title>
+      <link>https://snoonet.org/posts/2013/04/18/hiring-support-staff/</link>
+      <pubDate>Thu, 18 Apr 2013 05:44:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2013/04/18/hiring-support-staff/</guid>
+      <description> As we are growing and plans are coming in to play for reddit users to enter by the masses, we are hiring support staff with advanced knowledge of charybdis and atheme who can be on to help users. It is an entry position to progress through staff, and on to paid positions. Mods in this position will be granted certain privileges and expected to help users with common IRC issues. The webchat has been updated to make it more new-user friendly, however hundreds if not thousands of users will have questions and concerns. Our goal is to be there for them.
+We are asking for 10-15 support staff If you&amp;rsquo;d like to help Snoonet on this journey, e-mail Shane@snoonet.org with:  IRC Alias Operator/Staff Experience on IRC Knowledge of Atheme IRC Services Knowledge of Charybdis Your location in the world / Timezone Availability to help Any communities/subreddits/IRC Channels you moderate on a day to day basis  </description>
+    </item>
+    
+    <item>
+      <title>Updates</title>
+      <link>https://snoonet.org/posts/2013/02/03/updates/</link>
+      <pubDate>Sun, 03 Feb 2013 03:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2013/02/03/updates/</guid>
+      <description> Minecraft Server We now have a 100 player Minecraft Server:
+ MINECRAFT.SNOONET.ORG Applications for admins can be found at http://www.snoonet.org/mcapp  </description>
+    </item>
+    
+    <item>
+      <title>01/14/2013 - Gaming, Webchat, Network News</title>
+      <link>https://snoonet.org/posts/2013/01/14/gaming-webchat-network-news/</link>
+      <pubDate>Mon, 14 Jan 2013 10:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2013/01/14/gaming-webchat-network-news/</guid>
+      <description>IRC News On Wednesday, Jan. 16 we will be issuing patches and features for the Snoonet Webchat (http://webchat.snoonet.org/reddit) We are creating a backend for channels to be managed through a webpanel which will be the alpha stage for reddit/other communities&amp;rsquo; users to remotely set up/modify/view/update their community&amp;rsquo;s IRC channel access lists and settings, including ban lists and invex lists. For other IRC networks out there, check out www.kiwiirc.com as the developer has a lot of goals and a lot of options available to bring a live webchat to your network.
+We will be creating a few customized IRC bots that will offer a variety of options for different types of communities.
+Some examples will be a VIP-Ask Me Anything robot which will moderate the channel, and accept questions for VIPs to answer directly. The system will work by users submitting a question, and a moderator will approve the question. The questions will remain in a queue until the user is voiced, the bot states the question and the VIP and the user have a short period of time to ask and answer questions before moving on. All questions, answers, and conversation will be compiled in to a markup post which can easily be posted (or automatically) to a reddit thread where the Ask Me Anything thread may possibly continue.
+A channel protection bot for channel operators/moderators to utilize and change the settings of to set a &amp;lsquo;bad words&amp;rsquo; type filter list, where they may set punishments for bad words, phrases, links, etc. The bot will also have options to control punishing flooding/repeat lines/repeat offenders, as well as manage the ban lists. This is for channels that grow in size and need moderation while operators/mods aren&amp;rsquo;t around. For those familiar with our network bot &amp;lsquo;sysop&amp;rsquo; - it will be a user controlled/managed bot controlled by channel mods.
+While the above may be boring/uninteresting to some,
+Games Our network co-founder Paradox and network operator, Ricin will be hosting a large-scale Minecraft server for users to play on. More news will be posted about it as they will require help in moderating the server/keeping an eye on things. If you have any suggestions for other games you&amp;rsquo;d like hosted, feel free to contact us in #SnoonetGaming , http://irc.reddit.com or e-mail support@snoonet.org
+We have the resources to host multiple game servers, and will be hosting these servers while we code and produce the competitive gaming tournament aspect of Snoonet.</description>
+    </item>
+    
+    <item>
+      <title>Snoonet Maintenance</title>
+      <link>https://snoonet.org/posts/2013/01/04/snoonet-maintenance/</link>
+      <pubDate>Fri, 04 Jan 2013 06:15:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2013/01/04/snoonet-maintenance/</guid>
+      <description>On Monday, Jan. 7 at 2AM EST we will be issuing updates to the Snoonet IRCd servers.
+There will be some brief splits as we upgrade the operating systems on two of the nodes. We will be adding more nodes for clients to connect to for both IPv4 and IPv6. As our webchat reaches a more capable stage, these updates will be to prepare for the widespread user count anticipated by newcomers from Reddit Enhancement Suite/Reddit links.
+We will keep services downtime to a minimum, anticipating very little downtime.
+Snoonet is working on other projects aside from IRC/live chat services, and more news will be shared as the days come.
+We are also seeking client servers. We have plenty of servers, but we feel as if they will be of use in the very near future. If you can help, please e-mail Shane@snoonet.org and we will continue from there. Please have advanced knowledge and experience moderating large communities!
+Snoonet is here for ALL communities, reddit and otherwise. If you&amp;rsquo;d like to help us provide for the communities, shoot us an e-mail!
+If you have any concerns/questions, feel free to post at http://snoonet.reddit.com / e-mail us at support@snoonet.org / ask us in #help
+Sincerely, Snoonet Staff</description>
+    </item>
+    
+    <item>
+      <title>Snoonet Updates</title>
+      <link>https://snoonet.org/posts/2012/12/12/snoonet-updates/</link>
+      <pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://snoonet.org/posts/2012/12/12/snoonet-updates/</guid>
+      <description>Email Support We have set up an e-mail for those in need of support if they are having connection issues, or need any type of support outside of the chat network. Any suggestions or requests for any thing Snoonet are highly encouraged as well. This can be done by contacting us at support@snoonet.org - Be sure to include your nickname in the e-mail!
+Keeping in Touch We will be announcing things as we work on them via wallops (/mode yournick +w) for those interested, and discussing things in #snoonet - Recently we changed the default connect mode so users may opt in to these messages, rather than having to opt-out for things they are not concerned with.
+Webchat Snooonet webchat will be greatly updated. Much more stable and integrated more with the reddit lifestyle you know and love. It should be easier for everybody to use. We have made sure that all your existing webchat links will still work as normal so no need to worry about that.
+This will now pave the way for subreddit mods to embed or customize Snoonet webchat for their own communities. You may link to your IRC channel (chat room) with http://webchat.snoonet.org/yourchannelhere
+SSL/Fingerprint Information Due to recent changes in the Snoonet network infrastructure, our servers now use a single, self-signed certificate for all secure (SSL) connections. For our security-conscious clients, the below fingerprints may be used to verify the identity of a Snoonet server:
+99:5B:AC:FE:E6:A4:22:8F:51:2D:21:63:4B:5F:05:4D:E1:61:8D:6B
+The reason for self-signing is to offer encryption and security for those who seek it while handle issues with our paid/valid certificate to work with the IRCds. Our staff has been working very hard to make things the way the need to be after the unfortunate events with the .com to .org address change.</description>
+    </item>
+    
+  </channel>
+</rss>

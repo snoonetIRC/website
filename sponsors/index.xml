@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors on Snoonet</title>
+    <link>https://snoonet.org/sponsors/</link>
+    <description>Recent content in Sponsors on Snoonet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 10 Jan 2019 19:19:24 +0000</lastBuildDate>
+    
+	<atom:link href="https://snoonet.org/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Private Internet Access</title>
+      <link>https://snoonet.org/sponsors/private-internet-access/</link>
+      <pubDate>Thu, 10 Jan 2019 19:19:24 +0000</pubDate>
+      
+      <guid>https://snoonet.org/sponsors/private-internet-access/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

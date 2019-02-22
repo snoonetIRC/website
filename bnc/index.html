@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="generator" content="Hugo 0.55.0-DEV" />
+
+    <link
+        href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,italic,bolditalic"
+        rel="stylesheet"
+        type="text/css"
+    >
+
+    
+
+    <link
+        rel="stylesheet"
+        href="https://snoonet.org/scss/application-screen.min.1c99a3de8c36df00748ac682560f40b2fe10f793d33159c46bbf11da91f42c4c.css"
+        integrity="sha256-HJmj3ow23wB0isaCVg9Asv4Q95PTMVnEa78R2pH0LEw="
+        crossorigin="anonymous"
+        media="screen"
+    >
+
+    <title>Snoonet &middot; BNC Help</title>
+</head>
+
+    <body>
+        <header id="header">
+            <div class="wrap">
+                <hgroup>
+                    <h1>
+                        <a href="/">Snoonet</a>
+                        <span>BNC Help</span>
+                    </h1>
+                </hgroup>
+
+                <nav id="navigation">
+                    <ul>
+                        
+                            <li><a href="/">Updates</a></li>
+                        
+                            <li><a href="https://webchat.snoonet.org/">Webchat</a></li>
+                        
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <div id="content">
+            <aside id="sidebar">
+                <div>
+                    <div class="open" id="menutoggle"></div>
+                    <ul>
+                        
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">General</a>
+
+    <ul>
+        
+            <li><a href="/" class="icon-chat">Updates</a></li>
+        
+            <li><a href="https://webchat.snoonet.org/" class="icon-chat">Webchat</a></li>
+        
+            <li><a href="/community/" class="icon-chat">Communities</a></li>
+        
+            <li><a href="/irc-servers/" class="icon-chat">IRC Servers</a></li>
+        
+            <li><a href="https://status.snoonet.org/" class="icon-chat">Server Status</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Information</a>
+
+    <ul>
+        
+            <li><a href="/help/" class="icon-chat">Getting Started</a></li>
+        
+            <li><a href="/mission-statement/" class="icon-chat">Mission Statement</a></li>
+        
+            <li><a href="/why-snoonet/" class="icon-chat">Why Snoonet?</a></li>
+        
+            <li><a href="/staff/" class="icon-chat">Staff</a></li>
+        
+            <li><a href="/sponsors/" class="icon-chat">Sponsors</a></li>
+        
+            <li><a href="https://support.snoonet.org/" class="icon-chat">Support</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Rules and Guidelines</a>
+
+    <ul>
+        
+            <li><a href="/rules/" class="icon-chat">Network Rules</a></li>
+        
+            <li><a href="/help/" class="icon-chat">Help and Guidelines</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Service Info</a>
+
+    <ul>
+        
+            <li><a href="/ssl/" class="icon-chat">SSL Fingerprints</a></li>
+        
+            <li><a href="/privacy/" class="icon-chat">Privacy and Security</a></li>
+        
+            <li><a href="/tos/" class="icon-chat">Terms of Service</a></li>
+        
+            <li><a href="/privacy-policy/" class="icon-chat">Privacy Policy</a></li>
+        
+    </ul>
+</li>
+
+                    </ul>
+                </div>
+            </aside>
+            <div id="main">
+                <div id="spin-container">
+
+    <article class="post">
+        <header class="inline-header">
+            <h2>BNC Help</h2>
+        </header>
+
+        <section class="content">
+            
+
+<h2 id="what-is-a-bnc">What is a BNC?</h2>
+
+<p>A BNC (or Bouncer) is a service which keeps you connected to IRC 24/7. Instead
+of connecting directly to Snoonet, you connect to the bouncer, which stays
+connected. The bouncer will send you notifications while away when pinged or
+messaged and play back messages which you missed while you were disconnected.
+This way, you can always be part of the conversation.</p>
+
+<h2 id="how-do-i-get-one">How do I get one?</h2>
+
+<p>Once you have a nick registered with NickServ for one month, you are eligible to
+request a BNC. You need to join ##bnc and type <code>/requestbnc</code>. Then, wait for an
+operator to approve your request. Usually this is done within an hour or two.
+When your request is approved, details on connecting to your account will be sent to your account via MemoServ. To read them, type <em>/ms read new</em></p>
+
+<h2 id="how-do-i-check-how-long-my-nickname-has-been-registered">How do I check how long my nickname has been registered?</h2>
+
+<p>You can use the command /msg nickserv info NICKNAME to check how long you&rsquo;ve had
+an account. For example:</p>
+
+<pre><code>/msg nickserv info gonzobot
+</code></pre>
+
+<h2 id="what-are-the-restrictions">What are the restrictions?</h2>
+
+<ul>
+<li>Your BNC account will be deleted after 30 days of inactivity.</li>
+<li>All regular Snoonet rules apply to BNC users.</li>
+</ul>
+
+<h2 id="how-do-i-connect-through-my-bnc">How do I connect through my BNC?</h2>
+
+<p>Instead of connecting to <code>irc.snoonet.org</code> on port <code>6667</code>, you will connect
+to <code>bnc.snoonet.org</code> on port <code>5456</code> (SSL on port <code>5457</code>). Set a server
+password in your IRC client. This password should be &ldquo;username:password&rdquo;, using
+the credentials sent to you via MemoServ. <strong>These are not your NickServ credentials.</strong>
+Then connect to this server. If your bouncer becomes disconnected from Snoonet
+for any reason, type <code>/znc connect</code> into your BNC window to reconnect it.</p>
+
+<p>Examples of correct connection configurations:</p>
+
+<p><a href="#and">[AndChat]</a>
+
+<a href="#_" class="lightbox" id="and">
+    
+    <img src="/images/bnc/AndIRC.png">
+    
+    <img src="/images/bnc/AndIRC2.png">
+    
+
+</a>
+
+
+<a href="#hex">[HexChat]</a>
+
+<a href="#_" class="lightbox" id="hex">
+    
+    <img src="/images/bnc/HexChat.jpg">
+    
+
+</a>
+
+
+<a href="#holo">[HoloIRC]</a>
+
+<a href="#_" class="lightbox" id="holo">
+    
+    <img src="/images/bnc/HoloChat.png">
+    
+    <img src="/images/bnc/HoloChat2.png">
+    
+
+</a>
+
+
+<a href="#irssi">[irssi]</a>
+
+<a href="#_" class="lightbox" id="irssi">
+    
+    <img src="/images/bnc/irssi.png">
+    
+
+</a>
+
+
+<a href="#mutter">[Mutter]</a>
+
+<a href="#_" class="lightbox" id="mutter">
+    
+    <img src="/images/bnc/mutter.png">
+    
+    <img src="/images/bnc/mutter2.png">
+    
+
+</a>
+
+
+<a href="#pal">[Palaver]</a>
+
+<a href="#_" class="lightbox" id="pal">
+    
+    <img src="/images/bnc/Palaver.png">
+    
+    <img src="/images/bnc/Palaver2.png">
+    
+
+</a>
+
+
+<a href="#text">[Textual]</a>
+
+<a href="#_" class="lightbox" id="text">
+    
+    <img src="/images/bnc/Textual.png">
+    
+    <img src="/images/bnc/Textual2.png">
+    
+
+</a>
+
+</p>
+
+<h2 id="can-i-use-kiwiirc-with-bnc">Can I use KiwiIRC with BNC?</h2>
+
+<p>You can, the link you will need is <a href="https://kiwiirc.com/nextclient/">KiwiIRC</a>, and the connection configuration may be found <a href="#kiwi">[here]</a>
+
+<a href="#_" class="lightbox" id="kiwi">
+    
+    <img src="/images/bnc/KiwiIRC.png">
+    
+
+</a>
+
+.</p>
+
+<h2 id="what-modules-are-loaded">What modules are loaded?</h2>
+
+<p>Snoonet offers four modules on our free bouncers:</p>
+
+<ul>
+<li><code>nickserv</code>: <code>/msg Snoo_nickserv help</code>.</li>
+<li><code>perform</code>: <code>/msg Snoo_perform help</code>.</li>
+<li><code>push</code>: <code>/msg Snoo_push help</code>.</li>
+<li><code>simple_away</code>: <code>/msg Snoo_simple_away help</code>.</li>
+</ul>
+
+<h2 id="how-do-i-keep-myself-logged-in-to-nickserv">How do I keep myself logged in to NickServ?</h2>
+
+<p>Take advantage of the <code>nickserv</code> module to keep yourself logged in. Type
+<code>/msg Snoo_nickserv set password</code>, where <em>password</em> is your NickServ password.
+Your bouncer will automatically identify your nick for you should you ever
+reconnect for any reason.</p>
+
+<h2 id="how-do-i-receive-notifications-on-my-phone-or-mobile-device">How do I receive notifications on my phone or mobile device?</h2>
+
+<p>Full instructions for setting up notifications can be found on our <a href="/push">push</a>
+page.</p>
+
+<h2 id="can-i-enable-24-7-logging-on-my-bnc">Can I enable 24/7 logging on my BNC?</h2>
+
+<p>No, logging on the BNC is strictly prohibited. Although limited, server access
+is required for select staff to run and maintain the BNC service. While staff
+would never view the private logs of any users, we take the extra step of
+disabling logging completely to safeguard your privacy to the fullest extent
+possible. Users who wish to retain logs are advised to setup their own
+<a href="http://wiki.znc.in/ZNC">ZNC server</a> and enable the feature themselves.</p>
+
+        </section>
+    </article>
+                </div>
+
+                <div class="clear: both"></div>
+
+                <footer id="footer">
+                    <ul>
+                        <li>© 2019 Snoonet</li>
+                    </ul>
+                </footer>
+            </div>
+        </div>
+
+        <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"
+        ></script>
+
+        <script src="/js/application.js"></script>
+    </body>
+</html>

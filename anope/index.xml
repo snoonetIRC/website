@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anope on Snoonet</title>
+    <link>https://snoonet.org/anope/</link>
+    <description>Recent content in Anope on Snoonet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 30 Dec 2018 21:43:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://snoonet.org/anope/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Key</title>
+      <link>https://snoonet.org/anope/key/</link>
+      <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
+      
+      <guid>https://snoonet.org/anope/key/</guid>
+      <description>&amp;lt;these brackets&amp;gt; denote required information.
+{these brackets} denote that you may pick one of the options presented.
+[these brackets] denote entirely optional parameters.
+   Command Optional Alias     /msg NickServ [COMMAND] /ns [COMMAND]   /msg ChanServ [COMMAND] /cs [COMMAND]   /msg MemoServ [COMMAND] /ms [COMMAND]   /msg BotServ [COMMAND] /bs [COMMAND]    </description>
+    </item>
+    
+    <item>
+      <title>NickServ</title>
+      <link>https://snoonet.org/anope/nickserv/</link>
+      <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
+      
+      <guid>https://snoonet.org/anope/nickserv/</guid>
+      <description>General NickServ in-network help:
+/msg NickServ HELP [COMMAND]
+Without a [COMMAND] parameter, this will list the NickServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.
+To use the awesome features from NickServ, you must first register your nick. Make sure you&amp;rsquo;re using the nick that you want by typing:
+/nick &amp;lt;nick&amp;gt;
+Then type this to register your nick:
+/msg NickServ REGISTER &amp;lt;password&amp;gt; &amp;lt;email&amp;gt;
+Make sure that you use a valid email, as you&amp;rsquo;ll have to confirm that it is yours. If you don&amp;rsquo;t get the email you may have the server resend it to you using this command:
+/msg NickServ RESEND
+Every time you join Snoonet after registering your nick, you&amp;rsquo;ll be prompted for your password. Just type this:
+/msg NickServ IDENTIFY &amp;lt;password&amp;gt;
+and you&amp;rsquo;ll be logged in!
+Most clients offer a way to save your password so that you do not have to manually type it each time. For client specific help, visit #TechSupport!
+Forgot your password? No problem. Use this:
+/msg NickServ RESETPASS &amp;lt;nick&amp;gt; &amp;lt;email&amp;gt;
+Sometimes you get disconnected, but your nick is still present on the network. When this happens you can regain control of your nick by typing:
+/msg NickServ GHOST &amp;lt;nick&amp;gt; &amp;lt;password&amp;gt;
+Or
+/msg NickServ RECOVER &amp;lt;nick&amp;gt; &amp;lt;password&amp;gt;
+You can have multiple nicks. Just switch to the nick you want to add to your registered nick and type:
+/msg NickServ GROUP &amp;lt;mainnick&amp;gt; &amp;lt;password&amp;gt;
+to undo it, type: /msg NickServ UNGROUP [nick]
+To see all the nicknames you have in your group, type:
+/msg NickServ GLIST
+If you no longer wish to have your nickname registered, type:
+/msg NickServ DROP &amp;lt;nick&amp;gt;
+To view the information about your nick, such as when you registered, type:
+/msg NickServ INFO &amp;lt;nick&amp;gt;
+To edit the items that people can view about you with the INFO command such as your facebook or email, type:
+/msg NickServ SET [option]
+You can also set up a list of channels to join automatically when you log in! The command for this is:
+/msg NickServ AJOIN {ADD|DEL} [nickname] &amp;lt;channel&amp;gt; [key]
+To view your autojoin channels, type:
+/msg NickServ AJOIN LIST
+List channels you have access on:
+/msg ChanServ ALIST</description>
+    </item>
+    
+    <item>
+      <title>ChanServ</title>
+      <link>https://snoonet.org/anope/chanserv/</link>
+      <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
+      
+      <guid>https://snoonet.org/anope/chanserv/</guid>
+      <description>General ChanServ in-network help:
+/msg ChanServ HELP [COMMAND]
+Without a [COMMAND] parameter, this will list the ChanServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.
+Register a channel:
+/msg ChanServ REGISTER &amp;lt;channel&amp;gt; [description]
+Cancel the registration of a channel:
+/msg ChanServ DROP &amp;lt;channel&amp;gt; &amp;lt;channel&amp;gt;
+Note: enter the same channel name twice. You can only do this if it is YOUR channel or you have a Snoonet admin do it for you.
+List information about a registered channel:
+/msg ChanServ INFO &amp;lt;channel&amp;gt;
+This includes its founder, time of registration, and last time used. If the user issuing the command has the appropriate access for it, then the description, successor, last topic set, settings and expiration time will also be displayed when applicable.
+Invite someone to a channel:
+/msg ChanServ INVITE &amp;lt;channel&amp;gt; &amp;lt;nick&amp;gt;
+*Note: You can invite yourself into a channel if you have the correct flags in that channel.
+Set an entry message for a channel
+/msg ChanServ ENTRYMSG &amp;lt;channel&amp;gt; ADD &amp;lt;message&amp;gt;
+Remove an entry message for a channel
+/msg ChanServ ENTRYMSG &amp;lt;channel&amp;gt; CLEAR
+Kick a user:
+/msg ChanServ KICK &amp;lt;channel&amp;gt; {nick | mask} [reason]
+or
+!kick {nick | mask} [reason]
+Kicks a specified nick from a channel. You may kick by username or by hostmask.
+Ban a user:
+/msg ChanServ BAN &amp;lt;channel&amp;gt; [+expiry] {nick | mask} [reason]
+or
+!ban {nick | mask} [reason]
+Bans specified nick from a channel. You may ban by username or by hostmask.
+/msg ChanServ UNBAN &amp;lt;channel&amp;gt; [nick] Remove all bans preventing a user from entering a channel
+or
+!unban {nick | mask} [reason]
+View user flags:
+/msg ChanServ FLAGS &amp;lt;channel&amp;gt; LIST [mask | +flags]
+or
+!flags {nick | mask} [reason]
+Clear all flags:
+/msg ChanServ LIST channel CLEAR
+Add user flags:
+/msg ChanServ FLAGS channel MODIFY &amp;lt;username or hostmask&amp;gt; &amp;lt;+/- changes&amp;gt;
+or
+!flags modify {nick | mask} [reason]
+For example /msg ChanServ FLAGS #snoonet modify *!*@snoonet/* +Bc will set all Snoonet staff to be allowed to use Botserv SAY and ACT commands, as well as grant them the ability to use fantasy commands.
+   Flag Use     b Allowed to ban users   B Allowed to use SAY and ACT commands   c Allowed to use fantasy commands   f Allowed to modify or view the access list   F Allowed to issue commands restricted to channel founders   G Allowed to use GETKEY command   g Greet message displayed on join   H Automatic halfop upon join   h Allowed to (de)halfop users and him/herself   I Allowed to get full INFO output   i Allowed to use the INVITE command   K Allowed to use the AKICK command, modify badwords list   k Allowed to use the KICK command   m Allowed to read channel memos   N Prevents users being kicked by Services   O Automatic channel operator status upon join   o Allowed to (de)op users and him/herself   s Allowed to assign/unassign a bot, use MODE commands and set channel settings   t Allowed to change channel topics   u Allowed to unban users   V Automatic voice on join   v Allowed to (de)voice users and him/herself    You can also view the list of users that have access in a given channel by using /msg ChanServ ACCESS &amp;lt;channel&amp;gt; list</description>
+    </item>
+    
+    <item>
+      <title>BotServ</title>
+      <link>https://snoonet.org/anope/botserv/</link>
+      <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
+      
+      <guid>https://snoonet.org/anope/botserv/</guid>
+      <description>General BotServ in-network help:
+/msg BotServ HELP [COMMAND]
+Without a [COMMAND] parameter, this will list the BotServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.
+Botlist:
+/msg BotServ BOTLIST
+Lists all available bots on Snoonet.
+BotServ Info:
+/msg BotServ INFO {channel | nickname}
+Allows you to see BotServ information about a channel or a bot. If the parameter is a channel, then you&amp;rsquo;ll get information such as enabled kickers. If the parameter is a nick, you&amp;rsquo;ll get information about a bot, such as creation time or number of channels it is on.
+Assign a bot:
+/msg BotServ ASSIGN &amp;lt;channel&amp;gt; &amp;lt;nick&amp;gt;
+Assigns a bot to a channel. You can then configure the bot for the channel so it fits your needs. You can only assign one bot through BotServ at a time.
+Configure bot options:
+/msg BotServ SET &amp;lt;option&amp;gt; (channel | bot) &amp;lt;settings&amp;gt;
+For more information on a particular option and it’s settings, type /msg BotServ HELP set &amp;lt;option&amp;gt;.
+   Set Use     BANEXPIRE Configures the time bot bans expire in   DONTKICKOPS Protects ops against bot kicks   DONTKICKVOICES Proctects voices against bot kicks   FANTASY Enables fantaisist commands   GREET Enables greet messages   NOBOT Prevents a bot from being assigned to a channel   PRIVATE Prevents a bot from being assigned by non IRC operators    Configure kickers:
+/msg BotServ KICK &amp;lt;option&amp;gt; &amp;lt;channel&amp;gt; {ON|OFF} [settings]
+For more information on a particular option and it’s settings, type /msg BotServ HELP kick &amp;lt;option&amp;gt;
+   Kick Use     AMSG Allows bot to kick users who send the same message to multiple channels where BotServ bots are.   BADWORDS Allows bot to kick users who say certain words on the channels.   BOLDS Allows bot to kick users who use bolds.   CAPS Allows bot to kick users who are talking in caps.   COLORS Allows bot to kick users who use colors.   FLOOD Allows bot to kick users who are flooding the channel with multiple lines of text.   ITALICS Allows bot to kick users who use italics.   REPEAT Allows bot to kick users who are repeating themselves.   REVERSES Allows bot to kick users who use reverses.   UNDERLINES Allows bot to kick users who use underlines.</description>
+    </item>
+    
+    <item>
+      <title>MemoServ</title>
+      <link>https://snoonet.org/anope/memoserv/</link>
+      <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
+      
+      <guid>https://snoonet.org/anope/memoserv/</guid>
+      <description>General MemoServ in-network help:
+/msg MemoServ HELP [COMMAND]
+Without a [COMMAND] parameter, this will list the MemoServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.
+Information:
+MemoServ is a utility allowing IRC users to send short messages to other IRC users, whether they are online at the time or not, or to channels. Both the sender&amp;rsquo;s nickname and the target nickname or channel must be registered in order to send a memo.
+/msg MemoServ INFO
+Displays information on the number of memos you have, how many of them are unread, and how many total memos you can receive.
+/msg MemoServ INFO &amp;lt;channel&amp;gt;
+Displays information on the number of memos the channel has, how many of them are unread, and how many total memos the channel can receive.
+Set options:
+/msg MemoServ SET &amp;lt;option&amp;gt; &amp;lt;parameters&amp;gt;
+Sets various memo options.
+   Option Description     NOTIFY Changes when you will be notified about new memos (only for nicknames)   LIMIT Sets the maximum number of memos you can receive.    For more information on a specific option type /msg MemoServ HELP SET &amp;lt;option&amp;gt;.
+Read memos:
+/msg MemoServ READ [channel] {LAST | NEW | num | list}
+Sends you the text of the memos specified. If LAST is given, sends you the memo you most recently received. If NEW is given, sends you all of your new memos. Otherwise, sends you memo number num. You can also give a list of numbers, as in this example:
+/msg MemoServ READ 2-5,7-9
+Displays memos numbered 2 through 5 and 7 through 9.
+List memo:
+/msg MemoServ LIST [channel] [NEW | list]
+Lists any memos you currently have. With NEW, lists only new (unread) memos. Unread memos are marked with a &amp;ldquo;&amp;rdquo; to the left of the memo number. You can also specify a list of numbers, as in the example below:
+/msg MemoServ LIST 2-5,7-9
+Lists memos numbered 2 through 5 and 7 through 9.
+Ignore feature:
+To add a new ignore entry
+/msg MemoServ IGNORE [channel] ADD entry
+To delete an existing ignore entry
+/msg MemoServ IGNORE [channel] DELETE entry
+To list all ignore entries
+/msg MemoServ IGNORE [channel] LIST
+Allows you to set users (by nick or host) to ignore, keeping them from sending a memo to you or a channel. If someone on the memo ignore list tries to memo you or a channel they will not be told that you have them ignored.</description>
+    </item>
+    
+    <item>
+      <title>HostServ</title>
+      <link>https://snoonet.org/anope/hostserv/</link>
+      <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
+      
+      <guid>https://snoonet.org/anope/hostserv/</guid>
+      <description>General HostServ in-network help:
+/msg HostServ HELP [COMMAND]
+Without a [COMMAND] parameter, this will list the HostServ commands and descriptions. If you fill in the [command] parameter it will give you detailed instructions on that command.</description>
+    </item>
+    
+  </channel>
+</rss>

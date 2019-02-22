@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="generator" content="Hugo 0.55.0-DEV" />
+
+    <link
+        href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,italic,bolditalic"
+        rel="stylesheet"
+        type="text/css"
+    >
+
+    
+
+    <link
+        rel="stylesheet"
+        href="https://snoonet.org/scss/application-screen.min.1c99a3de8c36df00748ac682560f40b2fe10f793d33159c46bbf11da91f42c4c.css"
+        integrity="sha256-HJmj3ow23wB0isaCVg9Asv4Q95PTMVnEa78R2pH0LEw="
+        crossorigin="anonymous"
+        media="screen"
+    >
+
+    <title>Snoonet IRC Network</title>
+</head>
+
+    <body>
+        <header id="header">
+            <div class="wrap">
+                <hgroup>
+                    <h1>
+                        <a href="/">Snoonet</a>
+                        <span>Updates</span>
+                    </h1>
+                </hgroup>
+
+                <nav id="navigation">
+                    <ul>
+                        
+                            <li><a href="/">Updates</a></li>
+                        
+                            <li><a href="https://webchat.snoonet.org/">Webchat</a></li>
+                        
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <div id="content">
+            <aside id="sidebar">
+                <div>
+                    <div class="open" id="menutoggle"></div>
+                    <ul>
+                        
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">General</a>
+
+    <ul>
+        
+            <li><a href="/" class="icon-chat">Updates</a></li>
+        
+            <li><a href="https://webchat.snoonet.org/" class="icon-chat">Webchat</a></li>
+        
+            <li><a href="/community/" class="icon-chat">Communities</a></li>
+        
+            <li><a href="/irc-servers/" class="icon-chat">IRC Servers</a></li>
+        
+            <li><a href="https://status.snoonet.org/" class="icon-chat">Server Status</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Information</a>
+
+    <ul>
+        
+            <li><a href="/help/" class="icon-chat">Getting Started</a></li>
+        
+            <li><a href="/mission-statement/" class="icon-chat">Mission Statement</a></li>
+        
+            <li><a href="/why-snoonet/" class="icon-chat">Why Snoonet?</a></li>
+        
+            <li><a href="/staff/" class="icon-chat">Staff</a></li>
+        
+            <li><a href="/sponsors/" class="icon-chat">Sponsors</a></li>
+        
+            <li><a href="https://support.snoonet.org/" class="icon-chat">Support</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Rules and Guidelines</a>
+
+    <ul>
+        
+            <li><a href="/rules/" class="icon-chat">Network Rules</a></li>
+        
+            <li><a href="/help/" class="icon-chat">Help and Guidelines</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Service Info</a>
+
+    <ul>
+        
+            <li><a href="/ssl/" class="icon-chat">SSL Fingerprints</a></li>
+        
+            <li><a href="/privacy/" class="icon-chat">Privacy and Security</a></li>
+        
+            <li><a href="/tos/" class="icon-chat">Terms of Service</a></li>
+        
+            <li><a href="/privacy-policy/" class="icon-chat">Privacy Policy</a></li>
+        
+    </ul>
+</li>
+
+                    </ul>
+                </div>
+            </aside>
+            <div id="main">
+                <div id="spin-container">
+
+    
+
+    
+        <article class="post single">
+    <header class="inline-header">
+    <h2>
+        <a href="https://snoonet.org/posts/2018/11/22/important-changes-to-snoonet-and-a-partnership-with-irccom/">Important changes to Snoonet and a partnership with IRC.com</a>
+
+        <span class="h2-secondary">
+            <time
+                class="icon-time"
+                datetime="Thu, Nov 22, 2018"
+                title="Thu, Nov 22, 2018"
+            >
+                Thu, Nov 22, 2018
+            </time>
+        </span>
+    </h2>
+</header>
+
+
+    <section class="content"><p>Snoonet is expanding its family and linking up with the new IRC network, <a href="https://irc.com">IRC.com</a>. For Snoonet users, the only real change you’ll feel is an influx of new users with some new cloaks. Staff wise, we are taking on no new opers over the link, and all current staff will remain as they are.</p>
+
+<p>In order to reduce confusion between Snoonet and IRC.com users, a few changes will be made to cloaking and services bots. For most users, these changes will not be noticeable. Note that all these changes may not happen at once, for example, the cloak changes will take a bit more time than the rest.</p>
+
+<p><strong>1.</strong> Services will now display a vHost of <code>@services</code> instead of <code>@snoonet/services/*</code>. For example <code>NickServ!NickServ@snoonet/services/NickServ</code> will now simply be <code>NickServ!NickServ@services</code>.</p>
+
+<p><strong>2.</strong> vHosts for <strong><em>newly registered</em></strong> users will now either display <code>@irc.com/user/&lt;username&gt;</code> or <code>@snoonet.org/user/&lt;username&gt;</code> depending on which side of the network the user registered on.</p>
+
+<p><strong>3.</strong> Default and Snoo-ed nicks will change from <code>SnooXXXXX</code> to <code>GuestXXXXX</code> in order to be more network agnostic. Note that this will also affect how services force-nicks users to protect nicknames. As we understand that a number of channels ban Snoo-ed nicks we are providing a grace period of <strong>7 days</strong> to channel operators to update their ban lists.</p>
+
+<p><strong>4.</strong> Unregistered users will now display a cloak containing <code>@irc-&lt;hash&gt;.IP</code> instead of <code>@Snoonet-&lt;hash&gt;.IP</code>. <strong>Note that this will not affect old bans against Snoonet-<hash>.IP cloaks, both types will be checked where needed.</strong></p>
+
+<p><strong>TL;DR:</strong> The vHosts services bots use are changing to be more name agnostic. We’re making newly registered nicks have vhosts based on the side they registered on. We’re changing snoo-ed nicks to <code>Guest</code>. Cloaks are also undergoing changes to be more name agnostic, though bans on old ones will still work.</p>
+
+<p>If you have any questions or concerns please don&rsquo;t hesitate to ask a Snoonet staff member in #help or through our support system located at <a href="https://support.snoonet.org">https://support.snoonet.org/</a></p>
+</section>
+
+    <footer class="footer">
+        <a href='https://snoonet.org/posts/2018/11/22/important-changes-to-snoonet-and-a-partnership-with-irccom/'><nobr>Read More »</nobr></a>
+
+        <div class="clearfix"></div>
+    </footer>
+</article>
+
+    
+        <article class="post single">
+    <header class="inline-header">
+    <h2>
+        <a href="https://snoonet.org/posts/2018/05/24/updates-to-our-privacy-policy-and-services/">Updates to our Privacy Policy and Services</a>
+
+        <span class="h2-secondary">
+            <time
+                class="icon-time"
+                datetime="Thu, May 24, 2018"
+                title="Thu, May 24, 2018"
+            >
+                Thu, May 24, 2018
+            </time>
+        </span>
+    </h2>
+</header>
+
+
+    <section class="content">
+
+<p>As part of our ongoing mission to serve our users and their communities, Snoonet is implementing some changes to our services and our policies to better reflect our commitment to privacy and security. &nbsp;Specifically, we have made some changes in support of the EU General Data Protection Regulation (GDPR), which comes into effect on May 25, 2018.</p>
+
+<h2 id="a-brief-overview-of-some-of-the-changes">A brief overview of some of the changes:</h2>
+
+<ul>
+<li>Our new <a href="https://snoonet.org/privacy-policy">Privacy Policy</a> will come into effect on May 25, 2018.  The revised policy doesn&rsquo;t change the amount of data that we request from you, or impact how we use it.<br />
+Instead, the policy provides more details about the information we collect, how we use it, and how we comply with GDPR and other privacy legislation.  We have also provided information about how to request the removal of your information from both our IRC network and from services like our support system.<br /></li>
+<li>As announced yesterday, we no longer offer the Statistics bot as a network service, and have purged all data collected by the service.  For more information, please visit <a href="https://snoonet.org/Statistics">https://snoonet.org/Statistics</a>.</li>
+<li>We have updated the messages that are sent to you upon connecting to our IRC network to notify you of our revised Privacy Policy and to seek your consent to these changes.</li>
+</ul>
+
+<h2 id="additional-information">Additional information</h2>
+
+<p>Privacy and security have been a long-term priority for us at Snoonet, and you can review our <a href="https://snoonet.org/privacy">Privacy and Security</a> page for additional information about our network&rsquo;s privacy features, steps that you can take to protect your privacy when using our services, and some answers to frequently asked questions.</p>
+
+<p><strong>It&rsquo;s important to be aware that by using our services on or after May 25, 2018, you will be agreeing to the changes outlined in our <a href="https://snoonet.org/privacy-policy">Privacy Policy</a>.</strong>  If you do not agree to these changes, it is important that you stop using our services and take steps to delete your accounts and data. &nbsp;For more information, please consult the policy or contact us through our support system at <a href="https://support.snoonet.org">https://support.snoonet.org</a>.</p>
+</section>
+
+    <footer class="footer">
+        <a href='https://snoonet.org/posts/2018/05/24/updates-to-our-privacy-policy-and-services/'><nobr>Read More »</nobr></a>
+
+        <div class="clearfix"></div>
+    </footer>
+</article>
+
+    
+        <article class="post single">
+    <header class="inline-header">
+    <h2>
+        <a href="https://snoonet.org/posts/2017/10/23/updates-to-our-network-rules-and-terms-of-service/">Updates to our Network Rules and Terms of Service</a>
+
+        <span class="h2-secondary">
+            <time
+                class="icon-time"
+                datetime="Mon, Oct 23, 2017"
+                title="Mon, Oct 23, 2017"
+            >
+                Mon, Oct 23, 2017
+            </time>
+        </span>
+    </h2>
+</header>
+
+
+    <section class="content">
+
+<h2 id="from-snoonet-management">From: Snoonet Management</h2>
+
+<p>We&rsquo;ve refreshed our <a href="https://snoonet.org/rules">Network Rules</a> and updated our <a href="https://snoonet.org/tos">Terms of Service</a> to make things easier to understand. These changes will go into effect as Monday, October 23rd, 2017 at 05:00 GMT. Your continued use of Snoonet after this date and time will constitute your acceptance of these changes.</p>
+
+<h2 id="important-to-know">Important to know</h2>
+
+<ul>
+<li>We&rsquo;ve not made any major changes to our rules for some time. In fact, the only major changes we&rsquo;ve made are to update some of the information as certain pieces were out of date. We&rsquo;ve also moved certain items to different categories to make an easier read. You will now easily be able to find what you are looking for.</li>
+<li>Our Terms of Service have been updated to include that we run an Open Proxy Monitor on our network. This information has previously been communicated in our MOTD, shown to all users when they connect to Snoonet.</li>
+<li>Our Terms of Service have been updated to include how we protect our users from abuse.</li>
+</ul>
+
+<p>If you have any questions, we encourage you to join <a href="https://webchat.snoonet.org/snoonet">#snoonet</a> and ask your question there.</p>
+
+<p>Thanks for using Snoonet!</p>
+</section>
+
+    <footer class="footer">
+        <a href='https://snoonet.org/posts/2017/10/23/updates-to-our-network-rules-and-terms-of-service/'><nobr>Read More »</nobr></a>
+
+        <div class="clearfix"></div>
+    </footer>
+</article>
+
+    
+        <article class="post single">
+    <header class="inline-header">
+    <h2>
+        <a href="https://snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/">Snoonet joins the PrivateInternetAccess.com Family!</a>
+
+        <span class="h2-secondary">
+            <time
+                class="icon-time"
+                datetime="Thu, May 11, 2017"
+                title="Thu, May 11, 2017"
+            >
+                Thu, May 11, 2017
+            </time>
+        </span>
+    </h2>
+</header>
+
+
+    <section class="content">
+
+<h2 id="from-snoonet-foundation-shane-allen-jeff-sandberg">From: Snoonet Foundation (Shane Allen, Jeff Sandberg)</h2>
+
+<p>Snoonet is pleased to announce that it is the newest addition of the PrivateInternetAccess.com / London Trust Media, INC family.  Below is a written explanation of what is to be expected and our manifesto to keep IRC, its community culture, and all current operations as is but promote knowledge and growth moving in to the future.</p>
+
+<h2 id="what-is-this-and-what-does-it-mean">What is this, and what does it mean?</h2>
+
+<p>The vision is simple: Put a protective bubble around IRC culture and its communities, release funding for development and community events, and make sure the mission statement at www.snoonet.org/missions carries in to the future.
+No operational changes will be made, and things will continue as usual. This just gives us more resources and options to work with going in to the future.</p>
+
+<h2 id="why-does-this-matter">Why does this matter?</h2>
+
+<p>Snoonet was created Apr. 28, 2012 with one vision in mind: Create and maintain bad-ass stuff for the infinite amount of Reddit communities. In the 5 years of its existence, Snoonet has maintained a certain vision of valuing its communities by hiring
+ its community leaders to help protect, and provide a home for its userbases.</p>
+
+<p>London Trust Media and its subsidiary PrivateInternetAccess.com believe in a much bigger picture with regards to community culture. If we take a step back and look at it, the picture is clear. &ldquo;Be there for the communities, and allow them to grow without influencing community evolution.&rdquo;</p>
+
+<h2 id="how-did-this-come-about">How did this come about?</h2>
+
+<p>This past Christmas, I, Shane Allen reached out to PrivateInternetAccess. It&rsquo;s been a long journey over these years in both Snoonet life and my personal life. When reaching out I asked for one thing after explaining what Snoonet stood for and was about. I had asked for help buying my staff Christmas gifts and helping me to show them a thank you for believing in something we all put so much time in to build.  I expected maybe a few hundred dollars so I could buy some sweaters, coats, mittens, etc for the children of our staff, and maybe provide some food to the staff members who could use a little help.</p>
+
+<p>Because I was about something more than myself, the owner, and director of marketing took a great interest in our mission. After speaking with them for a bit I came to learn that they grew up on IRC and valued it so much as it&rsquo;s where they started off, like many of us learning to program, network with others, and run our community live chats. They then donated $25,000 - a global network of high powered servers, and offered up to $300,000 worth of free VPN accounts to show that they believe in being selfless, and just want to make the world better.</p>
+
+<p>I then traveled to the owner&rsquo;s house with some slight expectations, and some doubt &ndash; do nice things just happen to us? To my surprise, I was blown away after playing endless rounds of Mario Kart, and witnessing them hard at work with what they believe in.</p>
+
+<p>Day 1 of meeting them, they practiced their fighting and grappling - their way of keeping in shape and pushing each other to find new limits.  I saw the amount of funding and the reasoning behind it that they pump in to open source communities because they value FOSS, and support people working hard.
+I witnessed them come up with business ideas and carry them out within minutes of the ideas forming; something that would take me a year to do alone. - I bared witness to epic level awesomeness. Hackers, gamers, visionaries like us just doing their thing&hellip; making the world better.</p>
+
+<p>At the time of this statement, I write this from our new office in Denver, CO where I now hold the ability to make all community culture better, with my new title being</p>
+
+<p><b>Shane Allen, Community Relations Manager</b></p>
+</section>
+
+    <footer class="footer">
+        <a href='https://snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/'><nobr>Read More »</nobr></a>
+
+        <div class="clearfix"></div>
+    </footer>
+</article>
+
+    
+        <article class="post single">
+    <header class="inline-header">
+    <h2>
+        <a href="https://snoonet.org/posts/2017/01/09/snoonet-ircv-new-ghostbin/">Snoonet ircv3 / New Ghostbin</a>
+
+        <span class="h2-secondary">
+            <time
+                class="icon-time"
+                datetime="Mon, Jan 9, 2017"
+                title="Mon, Jan 9, 2017"
+            >
+                Mon, Jan 9, 2017
+            </time>
+        </span>
+    </h2>
+</header>
+
+
+    <section class="content">
+
+<h1 id="snoonet-looks-to-quickly-adopt-full-ircv3-capability">Snoonet looks to quickly adopt full IRCv3 capability.</h1>
+
+<p>We will be developing a new website based around <a href="https://github.com/thelounge/lounge">The Lounge</a> to give our website an actual use. We look forward to seeing  the implementation of IRCv3. When we get the &lsquo;Okay!&rsquo; we will upgrade all our IRCd software to implement full  IRCv3 functionality.</p>
+
+<h1 id="we-love-irc">We love IRC</h1>
+
+<p>IRC is an old protocol that can finally benefit from a face lift to make our modern clients better to use. Please look <a href="http://ircv3.net/">at the IRCv3 project here</a> and check out our road map. The aim is to upgrade the protocol of IRC to provide better functionality of future developments. We look to see its health and growth remain positive!</p>
+
+<h1 id="ircv3-roadmap-and-documentation">IRCv3 Roadmap and Documentation.</h1>
+
+<p>You can view the progress here: <a href="https://github.com/ircv3/ircv3-specifications/milestone/4/">https://github.com/ircv3/ircv3-specifications/milestone/4/</a><br>
+You can view the IRC documents here: <a href="http://ircdocs.horse">http://ircdocs.horse</a><br>
+You can view the clients progress here: <a href="http://ircv3.net/software/clients.html">http://ircv3.net/software/clients.html</a><br></p>
+
+<p>If you love IRC as well, try to help and pitch in where you can!</p>
+
+<h2 id="new-ghostbin">New Ghostbin</h2>
+
+<p>We setup our own ghostbin (secure pastes and syntax highlighting) at <a href="https://paste.snoonet.org">https://paste.snoonet.org</a></p>
+
+<p>Feel free to use it to send large amounts of text.</p>
+</section>
+
+    <footer class="footer">
+        <a href='https://snoonet.org/posts/2017/01/09/snoonet-ircv-new-ghostbin/'><nobr>Read More »</nobr></a>
+
+        <div class="clearfix"></div>
+    </footer>
+</article>
+
+    
+
+    
+
+
+    
+    
+
+    <nav class="pagination" role="pagination">
+        
+            «
+        
+
+        <ul class="pagination">
+            
+                <li class="pagination__item pagination__item--current">
+                    <a href="/" class="pagination__link">
+                        1
+                    </a>
+                </li>
+            
+                <li class="pagination__item">
+                    <a href="/page/2/" class="pagination__link">
+                        2
+                    </a>
+                </li>
+            
+                <li class="pagination__item">
+                    <a href="/page/3/" class="pagination__link">
+                        3
+                    </a>
+                </li>
+            
+                <li class="pagination__item">
+                    <a href="/page/4/" class="pagination__link">
+                        4
+                    </a>
+                </li>
+            
+                <li class="pagination__item">
+                    <a href="/page/5/" class="pagination__link">
+                        5
+                    </a>
+                </li>
+            
+                <li class="pagination__item">
+                    <a href="/page/6/" class="pagination__link">
+                        6
+                    </a>
+                </li>
+            
+                <li class="pagination__item">
+                    <a href="/page/7/" class="pagination__link">
+                        7
+                    </a>
+                </li>
+            
+                <li class="pagination__item">
+                    <a href="/page/8/" class="pagination__link">
+                        8
+                    </a>
+                </li>
+            
+                <li class="pagination__item">
+                    <a href="/page/9/" class="pagination__link">
+                        9
+                    </a>
+                </li>
+            
+        </ul>
+
+        
+            <a href="/page/2/">»</a>
+        
+    </nav>
+
+
+                </div>
+
+                <div class="clear: both"></div>
+
+                <footer id="footer">
+                    <ul>
+                        <li>© 2019 Snoonet</li>
+                    </ul>
+                </footer>
+            </div>
+        </div>
+
+        <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"
+        ></script>
+
+        <script src="/js/application.js"></script>
+    </body>
+</html>

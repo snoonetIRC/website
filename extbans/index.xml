@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Channel Modes on Snoonet</title>
+    <link>https://snoonet.org/extbans/</link>
+    <description>Recent content in Channel Modes on Snoonet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 30 Dec 2018 21:43:20 +0000</lastBuildDate>
+    
+	<atom:link href="https://snoonet.org/extbans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Matching Extbans</title>
+      <link>https://snoonet.org/extbans/matching_extbans/</link>
+      <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
+      
+      <guid>https://snoonet.org/extbans/matching_extbans/</guid>
+      <description>   Name Syntax Effect     Oper O:[operlevel] Matches the opertype. Can accept wildcards for all opers   Account R:[account] Matches the service account. Accepts a wildcard   Unregistered U:[ban] Matches an unregistered user who matches the [ban]   Channel j:[state][#channel] Matches a user in the channel. State defines the user&amp;rsquo;s level, such as +, %, or @   Gecos (realname) r:[gecos] Matches against the gecos (real name field)   Server s:[server] Matches against all users on the servername   SSL Fingerprint z:[fingerprint] Matches against all users with the ssl fingerprint. Accepts a wildcard    </description>
+    </item>
+    
+    <item>
+      <title>Acting Extbans</title>
+      <link>https://snoonet.org/extbans/acting_extbans/</link>
+      <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
+      
+      <guid>https://snoonet.org/extbans/acting_extbans/</guid>
+      <description>   Syntax Effect     A:[ban] Blocks matching users from using /INVITE   B:[ban] Disallows matching users from using ALL CAPS.   C:[ban] Blocks CTCPs from matching users.   N:[ban] Disallows matching users from changing their nickname while in the channel.   Q:[ban] Disallows /KICK from matching users.   S:[ban] Strips control codes from messages matching users.   T:[ban] Disallows NOTICEs from matching users to the channel   c:[ban] Blocks messages from matching users if they contain color codes.   m:[ban] Blocks messages to the channel from matching users.   p:[ban] Hides part messages from matching users.    </description>
+    </item>
+    
+  </channel>
+</rss>

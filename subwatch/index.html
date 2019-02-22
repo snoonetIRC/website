@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="generator" content="Hugo 0.55.0-DEV" />
+
+    <link
+        href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,italic,bolditalic"
+        rel="stylesheet"
+        type="text/css"
+    >
+
+    
+
+    <link
+        rel="stylesheet"
+        href="https://snoonet.org/scss/application-screen.min.1c99a3de8c36df00748ac682560f40b2fe10f793d33159c46bbf11da91f42c4c.css"
+        integrity="sha256-HJmj3ow23wB0isaCVg9Asv4Q95PTMVnEa78R2pH0LEw="
+        crossorigin="anonymous"
+        media="screen"
+    >
+
+    <title>Snoonet &middot; SubWatch</title>
+</head>
+
+    <body>
+        <header id="header">
+            <div class="wrap">
+                <hgroup>
+                    <h1>
+                        <a href="/">Snoonet</a>
+                        <span>SubWatch</span>
+                    </h1>
+                </hgroup>
+
+                <nav id="navigation">
+                    <ul>
+                        
+                            <li><a href="/">Updates</a></li>
+                        
+                            <li><a href="https://webchat.snoonet.org/">Webchat</a></li>
+                        
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <div id="content">
+            <aside id="sidebar">
+                <div>
+                    <div class="open" id="menutoggle"></div>
+                    <ul>
+                        
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">General</a>
+
+    <ul>
+        
+            <li><a href="/" class="icon-chat">Updates</a></li>
+        
+            <li><a href="https://webchat.snoonet.org/" class="icon-chat">Webchat</a></li>
+        
+            <li><a href="/community/" class="icon-chat">Communities</a></li>
+        
+            <li><a href="/irc-servers/" class="icon-chat">IRC Servers</a></li>
+        
+            <li><a href="https://status.snoonet.org/" class="icon-chat">Server Status</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Information</a>
+
+    <ul>
+        
+            <li><a href="/help/" class="icon-chat">Getting Started</a></li>
+        
+            <li><a href="/mission-statement/" class="icon-chat">Mission Statement</a></li>
+        
+            <li><a href="/why-snoonet/" class="icon-chat">Why Snoonet?</a></li>
+        
+            <li><a href="/staff/" class="icon-chat">Staff</a></li>
+        
+            <li><a href="/sponsors/" class="icon-chat">Sponsors</a></li>
+        
+            <li><a href="https://support.snoonet.org/" class="icon-chat">Support</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Rules and Guidelines</a>
+
+    <ul>
+        
+            <li><a href="/rules/" class="icon-chat">Network Rules</a></li>
+        
+            <li><a href="/help/" class="icon-chat">Help and Guidelines</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Service Info</a>
+
+    <ul>
+        
+            <li><a href="/ssl/" class="icon-chat">SSL Fingerprints</a></li>
+        
+            <li><a href="/privacy/" class="icon-chat">Privacy and Security</a></li>
+        
+            <li><a href="/tos/" class="icon-chat">Terms of Service</a></li>
+        
+            <li><a href="/privacy-policy/" class="icon-chat">Privacy Policy</a></li>
+        
+    </ul>
+</li>
+
+                    </ul>
+                </div>
+            </aside>
+            <div id="main">
+                <div id="spin-container">
+
+    <article class="post">
+        <header class="inline-header">
+            <h2>SubWatch</h2>
+        </header>
+
+        <section class="content">
+            
+
+<p>SubWatch is a thread announcer bot, it will alert the channel of new threads posted in subreddits of your choosing. It&rsquo;s able to watch private subreddits and announce threads based on keywords in the title.</p>
+
+<p>You can view the source code <a href="https://github.com/Dissimulate/SubWatch">here</a>.</p>
+
+<p>If you need assistance, you can <code>/join #subwatch</code> and ask for help.</p>
+
+<hr />
+
+<h2 id="how-do-i-get-subwatch-in-my-channel">How do I get SubWatch in my channel?</h2>
+
+<p><strong>/invite SubWatch</strong> - If you are a channel operator or have invite privileges, just /invite SubWatch to your channel as you would any other user.</p>
+
+<hr />
+
+<h2 id="what-are-the-commands">What are the commands?</h2>
+
+<p><strong>$add &lt;subreddit&gt; +/-[keywords] [subreddit] etc&hellip;</strong></p>
+
+<p>This will add a new subreddit to be watched in the channel. Keywords are optional and must be separated with &ldquo;|&rdquo;. If the subreddit has already been added, you can use this command to add new keywords to the list.</p>
+
+<p>Example: <code>$add pics +puppy +kitten -rabbit</code> will post new threads from /r/pics if they have &ldquo;puppy&rdquo; or &ldquo;kitten&rdquo; in the title, but not &ldquo;rabbit&rdquo;.</p>
+
+<p><strong>$del &lt;subreddit&gt; +/-[key|words] [subreddit] etc&hellip;</strong></p>
+
+<p>This will remove a subreddit from the channel&rsquo;s watch list. If keywords are specified, they will be removed from the keyword list and the subreddit will continue to be watched on the channel.</p>
+
+<p><strong>$list</strong></p>
+
+<p>This will list the subreddits currently being watched on the channel, along with any keywords that have been set.</p>
+
+<p><strong>$stop/$start</strong></p>
+
+<p>This will pause and unpause SubWatch on the channel.</p>
+
+<p><strong>$clear</strong></p>
+
+<p>This will clear the watch list for the channel.</p>
+
+<p><strong>$help</strong></p>
+
+<p>This will print the command usage in the channel.</p>
+
+<p><strong>Note:</strong> you must have +o or +h in the channel to use add/del/stop/start/clear.</p>
+
+<hr />
+
+<h2 id="how-to-add-private-subreddits">How to add private subreddits</h2>
+
+<p><strong>-</strong> Add <a href="http://reddit.com/u/SnoonetSubWatch">/u/SnoonetSubWatch</a> as an approved submitter to the subreddit.</p>
+
+<p><strong>-</strong> Create a wiki page at /r/[subreddit]/wiki/subwatch and add the name of the channel to grant permission. You can separate multiple channels with a comma, the content of the page for a single channel should simply be <code>#channelname</code>.</p>
+
+<p><strong>-</strong> Make sure the wiki isn&rsquo;t disabled on the subreddit.</p>
+
+<p><strong>-</strong> Add the subreddit as normal.</p>
+
+        </section>
+    </article>
+                </div>
+
+                <div class="clear: both"></div>
+
+                <footer id="footer">
+                    <ul>
+                        <li>© 2019 Snoonet</li>
+                    </ul>
+                </footer>
+            </div>
+        </div>
+
+        <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"
+        ></script>
+
+        <script src="/js/application.js"></script>
+    </body>
+</html>

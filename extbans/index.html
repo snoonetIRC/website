@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="generator" content="Hugo 0.55.0-DEV" />
+
+    <link
+        href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,italic,bolditalic"
+        rel="stylesheet"
+        type="text/css"
+    >
+
+    
+
+    <link
+        rel="stylesheet"
+        href="https://snoonet.org/scss/application-screen.min.1c99a3de8c36df00748ac682560f40b2fe10f793d33159c46bbf11da91f42c4c.css"
+        integrity="sha256-HJmj3ow23wB0isaCVg9Asv4Q95PTMVnEa78R2pH0LEw="
+        crossorigin="anonymous"
+        media="screen"
+    >
+
+    <title>Snoonet &middot; Channel Modes</title>
+</head>
+
+    <body>
+        <header id="header">
+            <div class="wrap">
+                <hgroup>
+                    <h1>
+                        <a href="/">Snoonet</a>
+                        <span>Channel Modes</span>
+                    </h1>
+                </hgroup>
+
+                <nav id="navigation">
+                    <ul>
+                        
+                            <li><a href="/">Updates</a></li>
+                        
+                            <li><a href="https://webchat.snoonet.org/">Webchat</a></li>
+                        
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <div id="content">
+            <aside id="sidebar">
+                <div>
+                    <div class="open" id="menutoggle"></div>
+                    <ul>
+                        
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">General</a>
+
+    <ul>
+        
+            <li><a href="/" class="icon-chat">Updates</a></li>
+        
+            <li><a href="https://webchat.snoonet.org/" class="icon-chat">Webchat</a></li>
+        
+            <li><a href="/community/" class="icon-chat">Communities</a></li>
+        
+            <li><a href="/irc-servers/" class="icon-chat">IRC Servers</a></li>
+        
+            <li><a href="https://status.snoonet.org/" class="icon-chat">Server Status</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Information</a>
+
+    <ul>
+        
+            <li><a href="/help/" class="icon-chat">Getting Started</a></li>
+        
+            <li><a href="/mission-statement/" class="icon-chat">Mission Statement</a></li>
+        
+            <li><a href="/why-snoonet/" class="icon-chat">Why Snoonet?</a></li>
+        
+            <li><a href="/staff/" class="icon-chat">Staff</a></li>
+        
+            <li><a href="/sponsors/" class="icon-chat">Sponsors</a></li>
+        
+            <li><a href="https://support.snoonet.org/" class="icon-chat">Support</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Rules and Guidelines</a>
+
+    <ul>
+        
+            <li><a href="/rules/" class="icon-chat">Network Rules</a></li>
+        
+            <li><a href="/help/" class="icon-chat">Help and Guidelines</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Service Info</a>
+
+    <ul>
+        
+            <li><a href="/ssl/" class="icon-chat">SSL Fingerprints</a></li>
+        
+            <li><a href="/privacy/" class="icon-chat">Privacy and Security</a></li>
+        
+            <li><a href="/tos/" class="icon-chat">Terms of Service</a></li>
+        
+            <li><a href="/privacy-policy/" class="icon-chat">Privacy Policy</a></li>
+        
+    </ul>
+</li>
+
+                    </ul>
+                </div>
+            </aside>
+            <div id="main">
+                <div id="spin-container">
+
+    <article class="post">
+        <header class="inline-header">
+            <h2>Channel Modes</h2>
+        </header>
+
+        <section class="content">
+            <p>Channel modes can be set by using the <em>mode</em> command. It looks like this: <code>/mode #channel +m</code></p>
+
+<p>Some modes take params, and their syntax is displayed next to their description.</p>
+
+<p>Keep in mind modes <strong>are</strong> case sensitive. <code>+B</code> and <code>+b</code> are different.</p>
+
+
+            <ol>
+                
+                    <li>
+                        <a href="#Matching%20Extbans">Matching Extbans</a>
+                    </li>
+                
+                    <li>
+                        <a href="#Acting%20Extbans">Acting Extbans</a>
+                    </li>
+                
+            </ol>
+        </section>
+    </article>
+
+    
+        <article class="post">
+            <header class="inline-header">
+                <h2 name="Matching Extbans" id="Matching Extbans">Matching Extbans</h2>
+            </header>
+
+            <section class="content">
+                <table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Syntax</th>
+<th>Effect</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>Oper</td>
+<td><code>O:[operlevel]</code></td>
+<td>Matches the opertype. Can accept wildcards for all opers</td>
+</tr>
+
+<tr>
+<td>Account</td>
+<td><code>R:[account]</code></td>
+<td>Matches the service account. Accepts a wildcard</td>
+</tr>
+
+<tr>
+<td>Unregistered</td>
+<td><code>U:[ban]</code></td>
+<td>Matches an unregistered user who matches the [ban]</td>
+</tr>
+
+<tr>
+<td>Channel</td>
+<td><code>j:[state][#channel]</code></td>
+<td>Matches a user in the channel. State defines the user&rsquo;s level, such as +, %, or @</td>
+</tr>
+
+<tr>
+<td>Gecos (realname)</td>
+<td><code>r:[gecos]</code></td>
+<td>Matches against the gecos (real name field)</td>
+</tr>
+
+<tr>
+<td>Server</td>
+<td><code>s:[server]</code></td>
+<td>Matches against all users on the servername</td>
+</tr>
+
+<tr>
+<td>SSL Fingerprint</td>
+<td><code>z:[fingerprint]</code></td>
+<td>Matches against all users with the ssl fingerprint. Accepts a wildcard</td>
+</tr>
+</tbody>
+</table>
+
+            </section>
+
+            <footer class="footer">
+                <p><em><a href="#top">back to top</a></em></p>
+
+            </footer>
+        </article>
+    
+        <article class="post">
+            <header class="inline-header">
+                <h2 name="Acting Extbans" id="Acting Extbans">Acting Extbans</h2>
+            </header>
+
+            <section class="content">
+                <table>
+<thead>
+<tr>
+<th>Syntax</th>
+<th>Effect</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>A:[ban]</code></td>
+<td>Blocks matching users from using <code>/INVITE</code></td>
+</tr>
+
+<tr>
+<td><code>B:[ban]</code></td>
+<td>Disallows matching users from using ALL CAPS.</td>
+</tr>
+
+<tr>
+<td><code>C:[ban]</code></td>
+<td>Blocks CTCPs from matching users.</td>
+</tr>
+
+<tr>
+<td><code>N:[ban]</code></td>
+<td>Disallows matching users from changing their nickname while in the channel.</td>
+</tr>
+
+<tr>
+<td><code>Q:[ban]</code></td>
+<td>Disallows /KICK from matching users.</td>
+</tr>
+
+<tr>
+<td><code>S:[ban]</code></td>
+<td>Strips control codes from messages matching users.</td>
+</tr>
+
+<tr>
+<td><code>T:[ban]</code></td>
+<td>Disallows NOTICEs from matching users to the channel</td>
+</tr>
+
+<tr>
+<td><code>c:[ban]</code></td>
+<td>Blocks messages from matching users if they contain color codes.</td>
+</tr>
+
+<tr>
+<td><code>m:[ban]</code></td>
+<td>Blocks messages to the channel from matching users.</td>
+</tr>
+
+<tr>
+<td><code>p:[ban]</code></td>
+<td>Hides part messages from matching users.</td>
+</tr>
+</tbody>
+</table>
+
+            </section>
+
+            <footer class="footer">
+                <p><em><a href="#top">back to top</a></em></p>
+
+            </footer>
+        </article>
+    
+                </div>
+
+                <div class="clear: both"></div>
+
+                <footer id="footer">
+                    <ul>
+                        <li>© 2019 Snoonet</li>
+                    </ul>
+                </footer>
+            </div>
+        </div>
+
+        <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"
+        ></script>
+
+        <script src="/js/application.js"></script>
+    </body>
+</html>

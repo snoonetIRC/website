@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="generator" content="Hugo 0.55.0-DEV" />
+
+    <link
+        href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,italic,bolditalic"
+        rel="stylesheet"
+        type="text/css"
+    >
+
+    
+
+    <link
+        rel="stylesheet"
+        href="https://snoonet.org/scss/application-screen.min.1c99a3de8c36df00748ac682560f40b2fe10f793d33159c46bbf11da91f42c4c.css"
+        integrity="sha256-HJmj3ow23wB0isaCVg9Asv4Q95PTMVnEa78R2pH0LEw="
+        crossorigin="anonymous"
+        media="screen"
+    >
+
+    <title>Snoonet &middot; BNC Push Notifications</title>
+</head>
+
+    <body>
+        <header id="header">
+            <div class="wrap">
+                <hgroup>
+                    <h1>
+                        <a href="/">Snoonet</a>
+                        <span>BNC Push Notifications</span>
+                    </h1>
+                </hgroup>
+
+                <nav id="navigation">
+                    <ul>
+                        
+                            <li><a href="/">Updates</a></li>
+                        
+                            <li><a href="https://webchat.snoonet.org/">Webchat</a></li>
+                        
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <div id="content">
+            <aside id="sidebar">
+                <div>
+                    <div class="open" id="menutoggle"></div>
+                    <ul>
+                        
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">General</a>
+
+    <ul>
+        
+            <li><a href="/" class="icon-chat">Updates</a></li>
+        
+            <li><a href="https://webchat.snoonet.org/" class="icon-chat">Webchat</a></li>
+        
+            <li><a href="/community/" class="icon-chat">Communities</a></li>
+        
+            <li><a href="/irc-servers/" class="icon-chat">IRC Servers</a></li>
+        
+            <li><a href="https://status.snoonet.org/" class="icon-chat">Server Status</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Information</a>
+
+    <ul>
+        
+            <li><a href="/help/" class="icon-chat">Getting Started</a></li>
+        
+            <li><a href="/mission-statement/" class="icon-chat">Mission Statement</a></li>
+        
+            <li><a href="/why-snoonet/" class="icon-chat">Why Snoonet?</a></li>
+        
+            <li><a href="/staff/" class="icon-chat">Staff</a></li>
+        
+            <li><a href="/sponsors/" class="icon-chat">Sponsors</a></li>
+        
+            <li><a href="https://support.snoonet.org/" class="icon-chat">Support</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Rules and Guidelines</a>
+
+    <ul>
+        
+            <li><a href="/rules/" class="icon-chat">Network Rules</a></li>
+        
+            <li><a href="/help/" class="icon-chat">Help and Guidelines</a></li>
+        
+    </ul>
+</li>
+
+
+                        
+                        
+                        <li class="category">
+    <a class="category-header">Service Info</a>
+
+    <ul>
+        
+            <li><a href="/ssl/" class="icon-chat">SSL Fingerprints</a></li>
+        
+            <li><a href="/privacy/" class="icon-chat">Privacy and Security</a></li>
+        
+            <li><a href="/tos/" class="icon-chat">Terms of Service</a></li>
+        
+            <li><a href="/privacy-policy/" class="icon-chat">Privacy Policy</a></li>
+        
+    </ul>
+</li>
+
+                    </ul>
+                </div>
+            </aside>
+            <div id="main">
+                <div id="spin-container">
+
+    <article class="post">
+        <header class="inline-header">
+            <h2>BNC Push Notifications</h2>
+        </header>
+
+        <section class="content">
+            
+
+<h2 id="what-is-push">What is push?</h2>
+
+<p>Push notifications are a free, convenient way to get notified when someone sends
+you a private message, mentions you in a channel, or says one of your highlight
+words while you are away from IRC. Notifications can be sent to your phone,
+tablet, mobile device, computer, or web browser.</p>
+
+<h2 id="requirements">Requirements</h2>
+
+<p>In order to receive push notifications, you&rsquo;ll need a Snoonet BNC account, a
+PushBullet account, and the PushBullet app installed on any devices on which you
+wish to receivel notifications. Instructions can be found in the setup
+instructions below.</p>
+
+<h2 id="setup">Setup</h2>
+
+<p>1) If you do not already have one, signup and configure your client for the
+   <a href="/bnc">Snoonet BNC</a></p>
+
+<p>2) Create a free account with <a href="https://www.pushbullet.com">PushBullet</a>.</p>
+
+<p>3) Install the <a href="https://www.pushbullet.com/apps">app</a> on all devices for which
+   you would like to receive push notifications.</p>
+
+<p>4) Go to your <a href="https://www.pushbullet.com/#settings/account">account settings</a>,
+   scroll to the bottom, and select <code>Create Access Token</code>. Copy the generated
+   code, you&rsquo;ll need it in the next step.</p>
+
+<p>5) Configure notifications to your account using
+   <code>/msg Snoo_push set token [Access Token (from step 4)]</code>.</p>
+
+<p>6) Enable notifications <code>/msg Snoo_push enable</code> and send a test message with
+   <code>/msg Snoo_push test</code> to confirm it&rsquo;s working - you should receive a &ldquo;Test
+   Message&rdquo; notification on your configured device(s).</p>
+
+<p>7) By default, you will always receive a notification on mentions or PMs. To
+   only receive notifications when away or disconnected,
+   <code>/msg Snoo_push set away_only yes</code> (you are automatically marked away when
+   all clients disconnect).</p>
+
+<h2 id="i-d-like-to-see-the-message-in-the-notification-instead-of-just-highlight-or-private-message">I&rsquo;d like to see the message in the notification instead of just &lsquo;Highlight&rsquo; or &lsquo;Private Message&rsquo;</h2>
+
+<p>You can turn the privacy option off using <code>/msg Snoo_push set private no</code></p>
+
+<h2 id="can-i-set-certain-highlight-words-to-receive-push-notifications-on">Can I set certain highlight words to receive push notifications on?</h2>
+
+<p>Yes. In addition to your current IRC nick, you can add and delete words from a
+highlight list. Please enter one word per command.</p>
+
+<ul>
+<li>To add a word: <code>/msg Snoo_push highlight add [word]</code></li>
+<li>To delete a word: <code>/msg Snoo_push highlight del [word]</code></li>
+<li>To view your highlight list: <code>/msg Snoo_push highlight list</code></li>
+</ul>
+
+<h2 id="can-i-ignore-certain-nicks">Can I ignore certain nicks?</h2>
+
+<p>Absolutely. The ignore list works the same way as the highlight list, with one
+nick per command.</p>
+
+<ul>
+<li>To add a nick: <code>/msg Snoo_push ignore add [nick]</code></li>
+<li>To delete a nick: <code>/msg Snoo_push ignore del [nick]</code></li>
+<li>To view your ignore list: <code>/msg Snoo_push ignore list</code></li>
+</ul>
+
+<h2 id="i-m-not-receiving-notifications">I&rsquo;m not receiving notifications</h2>
+
+<p>Set <code>/msg Snoo_push enabled</code> to turn notifications on. If they still are not
+working, make sure your token is properly set from steps 3 and 4. You can send a
+test notification with <code>/msg Snoo_push test</code></p>
+
+<h2 id="i-set-away-only-but-am-not-receiving-notifications-while-away-or-am-receiving-notifications-while-not-away">I set <em>away_only</em> but am not receiving notifications while away or am receiving notifications while not away</h2>
+
+<p>If you use multiple devices, please make sure you are properly set away or
+unaway in IRC by confirming with <code>/whois your_nick</code>, which should include an
+away message if you are away, and none if you are not. You are automatically set
+away after 60 seconds of disconnecting all clients from BNC and unaway when you
+return. You can manually set away with <code>/away &lt;reason&gt;</code>. To return from away,
+use <code>/away</code> and confirm via WHOIS.</p>
+
+<h2 id="i-received-a-notification-but-can-t-reply-in-the-app">I received a notification but can&rsquo;t reply in the app</h2>
+
+<p>PushBullet is a notification service only - you cannot send messages to IRC. If
+you would like to use IRC on your mobile device, our
+<a href="/bnc">BNC page</a> has instructions for configuring various clients.</p>
+
+<h2 id="do-notifications-require-any-identifying-information">Do notifications require any identifying information?</h2>
+
+<p>No. Your PushBullet token is a unique identifier tied to your account that is
+only used to send notifications from Snoonet to your device. The push software
+does not have access to your phone number or PushBullet account details.</p>
+
+<h2 id="does-snoonet-support-services-other-than-pushbullet">Does Snoonet support services other than PushBullet?</h2>
+
+<p>At this time, no. The module is custom written for Snoonet and currently only
+supports PushBullet. While we may add additional services later, there is no
+timeline for such features.</p>
+
+<h2 id="where-can-i-get-assistance">Where can I get assistance?</h2>
+
+<p>Feel free to ask in #help and someone will assist you. Issues related to
+PushBullet itself should be sent to their
+<a href="https://www.pushbullet.com/support">support</a> directly.</p>
+
+<p><em>Snoonet is not affiliated with PushBullet.</em></p>
+
+        </section>
+    </article>
+                </div>
+
+                <div class="clear: both"></div>
+
+                <footer id="footer">
+                    <ul>
+                        <li>© 2019 Snoonet</li>
+                    </ul>
+                </footer>
+            </div>
+        </div>
+
+        <script
+            src="https://code.jquery.com/jquery-3.3.1.min.js"
+            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+            crossorigin="anonymous"
+        ></script>
+
+        <script src="/js/application.js"></script>
+    </body>
+</html>
