@@ -1,14 +1,11 @@
 {{ $paginator := .Paginator }}
 
 {{ if or ($paginator.HasPrev) ($paginator.HasNext) }}
-    {{ $prev := "«" }}
-    {{ $next := "»" }}
-
     <nav class="pagination" role="pagination">
         {{ if $paginator.HasPrev }}
-            <a href="{{ $paginator.Prev.URL }}">{{ $prev }}</a>
+            <a href="{{ $paginator.Prev.URL }}">&laquo;</a>
         {{ else }}
-            {{ $prev }}
+            &laquo;
         {{ end }}
 
         <ul class="pagination">
@@ -22,9 +19,9 @@
         </ul>
 
         {{ if $paginator.HasNext }}
-            <a href="{{ $paginator.Next.URL }}">{{ $next }}</a>
+            <a href="{{ $paginator.Next.URL }}">&raquo;</a>
         {{ else }}
-            {{ $next }}
+            &raquo;
         {{ end }}
     </nav>
 {{ end }}
