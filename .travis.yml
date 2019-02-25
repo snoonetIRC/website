@@ -12,6 +12,7 @@ jobs:
     - stage: Staging Deploy
       script:
         - hugo -b "$STAGING_SITE_URL"
+        - echo "$CNAME_URL" > public/CNAME
       deploy:
         provider: pages
         github-token: "$GITHUB_OAUTH_TOKEN"
