@@ -8,8 +8,15 @@ install:
 
 jobs:
   include:
+    # Just generate the website
+    - stage: Test Build
+      if: branch = "master" AND type = "pull_request"
+      script:
+        - hugo
+
     # Build and deploy generated content to the gh-pages branch
     - stage: Staging Deploy
+      if: branch = "master" AND type = "push"
       script:
         - hugo -b "$STAGING_SITE_URL"
         - echo "$CNAME_URL" > public/CNAME
