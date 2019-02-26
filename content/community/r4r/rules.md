@@ -12,7 +12,7 @@ type: page
 
 Channel is strictly 18+
 
-1. Don’t be an asshole. This goes for sexist generalizations, racist and homophobic slurs/remarks, ad hominems, being obnoxious, etc. In general, respect people’s boundaries and be civil. If someone finds your humor or choice of topic offensive, please respect that. If you feel that someone is being rude to you, please speak up and/or notify a mod as soon as possible.
+1. Don't be an asshole. This goes for sexist generalizations, racist and homophobic slurs/remarks, ad hominems, being obnoxious, etc. In general, respect people's boundaries and be civil. If someone finds your humor or choice of topic offensive, please respect that. If you feel that someone is being rude to you, please speak up and/or notify a mod as soon as possible.
 
 2. Attention "whoring" is not tolerated in the channel. This means being overtly sexual, spamming pictures of yourself, asking for compliments, and just general attention seeking comments. Mods have the right to decide what is considered to be attention "whoring" and have the right to warn, kick, and ban if necessary.
 
@@ -26,13 +26,13 @@ Channel is strictly 18+
 
 7. Sending pms to those in the channel you do not know is prohobited, especially if they may be considered creepy or unsolicited. That includes asking ASL to every single person or messaging people with names that might seem 'female' PMing should be secondary to communication in the channel. Talk to the people, get to know them!
 
-8. Nothing said in here is private. However, don’t post people’s personal information without their consent (i.e., real names, Facebook profiles, etc.) This also includes scraping information from the chat and/or posting personal information from the chat publicly on the internet.
+8. Nothing said in here is private. However, don't post people's personal information without their consent (i.e., real names, Facebook profiles, etc.) This also includes scraping information from the chat and/or posting personal information from the chat publicly on the internet.
 
-9. If you are a chat regular, try to be friendly and welcoming to new people who are coming in. Also, if someone comes to the chat to discuss something serious, please don’t blow them off or make insensitive comments. We were all new at some point, and it can often be hard for newcomers to fit in with the group at first, so please take that into consideration.
+9. If you are a chat regular, try to be friendly and welcoming to new people who are coming in. Also, if someone comes to the chat to discuss something serious, please don't blow them off or make insensitive comments. We were all new at some point, and it can often be hard for newcomers to fit in with the group at first, so please take that into consideration.
 
 Instant Kick Rules/Policies:
 
-10. Making sleazy comments towards people in the chat room, such as "I can help with that", asking for pics, highlighting the presence or absence of women in the chatroom and offensive racial, homophobic, transphobic, and sexist slurs. It’s obnoxious. Harmless joking is fine, of course, but use common sense. Example: http://xkcd.com/322/
+10. Making sleazy comments towards people in the chat room, such as "I can help with that", asking for pics, highlighting the presence or absence of women in the chatroom and offensive racial, homophobic, transphobic, and sexist slurs. It's obnoxious. Harmless joking is fine, of course, but use common sense. Example: http://xkcd.com/322/
 
 11. Spamming of our channel bots, gonzobot and any other possible additions, can clog up the channel and make it difficult for people to have conversations. If OPs think you are using the bots a little too much within the channel, you will be asked to use the bot in a PM. If you continue spamming the Bot, you will be kicked.
 

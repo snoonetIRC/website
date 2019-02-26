@@ -37,7 +37,7 @@ type: page
 
 * Repeated and/or intentional ban evasion may earn you a timed network ban. To request a ban appeal, follow the policy of appeals (where one exists) or message the banning OP. Bans from Snoonet network channels or the Snoonet IRC network in its entirety must be addressed via [support ticket](https://support.snoonet.org).
 * Please respect your fellow users. Do not intentionally harass other users. This includes “trolling”. Action may be taken on a channel-to-channel basis, where such rules exist. If harassment is persistent, across multiple channels or targets a specific user for a length of time, the offending user may be banned.
-* Get along with others! We understand that there are multiple types of humor, but do not excessively attack any other user on this network. Please note that sarcasm doesn’t translate well over IRC.
+* Get along with others! We understand that there are multiple types of humor, but do not excessively attack any other user on this network. Please note that sarcasm doesn't translate well over IRC.
 * Posting the personal information of others is grounds for a permanent network ban. Attempting to collect personal info of users is dealt with in the same manner.
 * No solicitation. This includes, but is not limited to, public spam, private message spam, repeated solicitation of services, solicitation of other network channels, and vote brigading on social media (eg. encouraging others to upvote/downvote a thread on reddit).
 * Solicitation of services for financial gain is only permitted by asking the channel operators.

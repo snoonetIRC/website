@@ -143,7 +143,7 @@ You must be at least a halfoperator to remove a user from a channel. A removed u
 
 `/FPART <channel> <nick> [reason]`
 
-This command behaves identically to /REMOVE, the only difference being the <channel> and <nick> paramaters are switched around to match /KICK’s syntax. You must be at least a halfoperator to remove a user from a channel. A removed user will part with a message stating they were removed from the channel and by whom. This command overrides auto-rejoin. 
+This command behaves identically to /REMOVE, the only difference being the <channel> and <nick> paramaters are switched around to match /KICK's syntax. You must be at least a halfoperator to remove a user from a channel. A removed user will part with a message stating they were removed from the channel and by whom. This command overrides auto-rejoin. 
 
 ---
 
