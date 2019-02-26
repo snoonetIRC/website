@@ -14,7 +14,7 @@ The days are finally here. Snoonet and orangechat have made it simple to bring l
 
 # Here's what orangechat has to offer you and how Snoonet utilizes it:
 - No registration: just connect directly using your reddit account. We never have access to your password, and you never need to provide an email address.
-- Easy to use: no commands to remember and no prior knowledge required - we’re trying to keep it simple - no one should need a manual to join or moderate a chatroom.
+- Easy to use: no commands to remember and no prior knowledge required - we're trying to keep it simple - no one should need a manual to join or moderate a chatroom.
 - Connects with reddit.com: integrating with reddit lets us make some things very simple - for example, subreddit moderators are detected automatically, and can immediately begin managing the chatroom (including bans and invites).
 - Private messages, private chatrooms: turn a private message into a private chatroom by inviting other friends to the conversation. You can also rename your private chatrooms, making it easy to keep track of friends and teams… or just express yourself ;)
 - IRC link: Many subreddits already have existing IRC chatrooms and we want to help you keep all of your subreddit chat in one place. orangechat works directly with Snoonet which specifically serves the reddit community. Orangechat simply links existing channels on Snoonet with orangechat channels. Users comfortable with IRC can stay part of the conversation using any client of their choice while others can connect through orangechat.

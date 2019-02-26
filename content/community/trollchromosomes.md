@@ -12,7 +12,7 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 
-* We are #TrollChromsomes, the official IRC Chat for all the troll subs, mainly TrollXChromosomes and TrollYChromosome. We welcome all to come check us out! We are a safe and friendly place, and whether you go to the troll subs or just have found us from the server, we’d love to have you. The more the merrier. But even your favorite bar has rules, and you can find ours here: <a href="https://snoonet.org/TrollChromosomes">https://snoonet.org/TrollChromosomes</a>
+* We are #TrollChromsomes, the official IRC Chat for all the troll subs, mainly TrollXChromosomes and TrollYChromosome. We welcome all to come check us out! We are a safe and friendly place, and whether you go to the troll subs or just have found us from the server, we'd love to have you. The more the merrier. But even your favorite bar has rules, and you can find ours here: <a href="https://snoonet.org/TrollChromosomes">https://snoonet.org/TrollChromosomes</a>
 
 **What inspired this community?**
 
@@ -20,11 +20,11 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **What sets your community apart from others?**
 
-* We wanted to be welcoming to people and we’ve been told by numerous users that we’re the friendliest channel on the server. Most of our users tell us they haven’t even wandered out to the rest of Snoonet or IRC. But besides the friendliness? Imagine all of the openness, humor, and sense of community you feel in both TrollX and TrollY? Well that’s what you get with #TrollChromosomes!
+* We wanted to be welcoming to people and we've been told by numerous users that we're the friendliest channel on the server. Most of our users tell us they haven't even wandered out to the rest of Snoonet or IRC. But besides the friendliness? Imagine all of the openness, humor, and sense of community you feel in both TrollX and TrollY? Well that's what you get with #TrollChromosomes!
 
 **What is your goal with this community?**
 
-* Being an offshoot of the TrollX/YChromosome(s) communities, we strive to make all trolls happy. If you like IRC and you like TrollX and TrollY, then hopefully you’ll enjoy the chat with us. We just like having a place where people can hangout and reply to people instantly, instead of like on the website where comments are a lot slower and it’s sometimes not as easy to make friends that way unless you are very active in the communities. It’s also easier to make friends in the channel if you’re more of a lurker in the subreddits.
+* Being an offshoot of the TrollX/YChromosome(s) communities, we strive to make all trolls happy. If you like IRC and you like TrollX and TrollY, then hopefully you'll enjoy the chat with us. We just like having a place where people can hangout and reply to people instantly, instead of like on the website where comments are a lot slower and it's sometimes not as easy to make friends that way unless you are very active in the communities. It's also easier to make friends in the channel if you're more of a lurker in the subreddits.
 
 **What is your community (in)famous for?**
 
@@ -32,7 +32,7 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **What is the most popular post of all time in the subreddit?**
 
-* This is the most popular post and honestly I think it represents us pretty well sometimes: <a href="http://redd.it/2adbdt">http://redd.it/2adbdt</a>. But we don’t really have a lot of posts in {{< subreddit_link TrollChromosomes >}}, you should probably check TrollY and TrollX for their most popular posts.
+* This is the most popular post and honestly I think it represents us pretty well sometimes: <a href="http://redd.it/2adbdt">http://redd.it/2adbdt</a>. But we don't really have a lot of posts in {{< subreddit_link TrollChromosomes >}}, you should probably check TrollY and TrollX for their most popular posts.
 
 **Do you have any favorite quotes or posts from your users?**
 
@@ -44,7 +44,7 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 * &lt;Supercoolguy7&gt; I am Count Cockula
 * &lt;sleepybutt&gt; moose are basically velociraptors
 * &lt;redwest&gt; I get to climb men like jungle gyms if they're super tall and we're banging
-* If you’re interested, this is what people seem to search for when they request quotes. (Sans usernames.)<br>
+* If you're interested, this is what people seem to search for when they request quotes. (Sans usernames.)<br>
   96 .quote search dong<br>
   40 .quote search dildo<br>
   38 .quote search sex<br>
@@ -62,9 +62,9 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **Does your community have any traditions or special events?**
 
-* Every Wednesday (in the early mornings of EST) we have a new music theme week - whenever it hits Wednesday I find it’s frustrating that while the week is half over, we still have two more days until the weekend. So to break up the monotony redwest decided back in early September 2014 that there should be a new theme every week that the channel could enjoy to pick up Trollchat’s spirits. Suggestions are always welcome! Feel free to PM our mods or submit feedback on our website!
+* Every Wednesday (in the early mornings of EST) we have a new music theme week - whenever it hits Wednesday I find it's frustrating that while the week is half over, we still have two more days until the weekend. So to break up the monotony redwest decided back in early September 2014 that there should be a new theme every week that the channel could enjoy to pick up Trollchat's spirits. Suggestions are always welcome! Feel free to PM our mods or submit feedback on our website!
  This past Christmas (2014) we held our first Secret Santa, and we hope to do it again later this 2015.
 
 **Does your community have any associated social media or websites? (facebook/twitter/instagram/etc) Also, follow us on Twitter!**
 
-* We do! I would offer our website but it’s currently password protected to protect all of our users. Guess you’ll have to join to find out!
+* We do! I would offer our website but it's currently password protected to protect all of our users. Guess you'll have to join to find out!

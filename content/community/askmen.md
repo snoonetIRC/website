@@ -10,7 +10,7 @@ subreddit: "askmen"
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 
-#askmen is the IRC channel for the {{< subreddit_link AskMen >}} subreddit.  We’re here to allow subreddit participants to talk to each other.  Only rules are *be respectful, listen to the ops as directed, and have fun!*
+#askmen is the IRC channel for the {{< subreddit_link AskMen >}} subreddit.  We're here to allow subreddit participants to talk to each other.  Only rules are *be respectful, listen to the ops as directed, and have fun!*
 
 **What inspired this community?**
 

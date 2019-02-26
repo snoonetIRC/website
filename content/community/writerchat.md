@@ -32,8 +32,8 @@ The subreddit was unused and unadvertised for five months until August 2016, whe
 
 **We have only two rules:**
 
-Don’t be an asshole
-Don’t make us add more rules
+Don't be an asshole
+Don't make us add more rules
 Just these two rules have been the backbone of our attitudes and have worked well for over a year. Everyone in the community has a similar mindset for respect and helpfulness.
 
 **When you join IRC**

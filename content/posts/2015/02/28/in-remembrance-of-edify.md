@@ -11,4 +11,4 @@ Jarod continued his role on Snoonet as a community manager, bringing countless c
 
 Snoonet extends our best wishes to his family and friends. He will be remembered far after his departure not only by us, but by his fellow moderators and the many people his actions touched.
 
-[You can find a link to most of the AMAs edify organized here.](http://www.reddit.com/search?q=ama+author%3Aedify&restrict_sr=off&sort=relevance&t=all) One of his favorite charities was A Place Called Home, a safe haven for children and teens in Los Angeles. [If you’d like to donate in his name, you can do so here.](http://www.apch.org/)
+[You can find a link to most of the AMAs edify organized here.](http://www.reddit.com/search?q=ama+author%3Aedify&restrict_sr=off&sort=relevance&t=all) One of his favorite charities was A Place Called Home, a safe haven for children and teens in Los Angeles. [If you'd like to donate in his name, you can do so here.](http://www.apch.org/)

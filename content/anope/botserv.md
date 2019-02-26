@@ -42,7 +42,7 @@ weight: 4
 
 `/msg BotServ SET <option> (channel | bot) <settings>`
 
-*For more information on a particular option and it’s settings, type `/msg BotServ HELP set <option>`.*
+*For more information on a particular option and its settings, type `/msg BotServ HELP set <option>`.*
 
 | Set  | Use |
 |---|---------------------------------|
@@ -60,7 +60,7 @@ weight: 4
 
 `/msg BotServ KICK <option> <channel> {ON|OFF} [settings]`
 
-*For more information on a particular option and it’s settings, type `/msg BotServ HELP kick <option>`*
+*For more information on a particular option and its settings, type `/msg BotServ HELP kick <option>`*
 
 | Kick | Use |
 |---|---------------------------------|

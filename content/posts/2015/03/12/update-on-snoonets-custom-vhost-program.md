@@ -5,7 +5,7 @@ title: "Update on Snoonet's custom vhost program"
 type: post
 ---
 
-A month ago, we trialed a new service allowing users to request a custom vhost of their choosing, provided the custom host didn’t contain any slurs or violate any pre-existing network rules. 
+A month ago, we trialed a new service allowing users to request a custom vhost of their choosing, provided the custom host didn't contain any slurs or violate any pre-existing network rules. 
 
 Due to consensus among network staff and preparation for potential future network updates, we have decided to end this trial service.
 
