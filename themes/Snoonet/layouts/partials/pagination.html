@@ -1,7 +1,7 @@
 {{ $paginator := .Paginator }}
 
 {{ if or ($paginator.HasPrev) ($paginator.HasNext) }}
-    <nav class="pagination" role="pagination">
+    <nav class="pagination">
         {{ if $paginator.HasPrev }}
             <a href="{{ $paginator.Prev.URL }}">&laquo;</a>
         {{ else }}
