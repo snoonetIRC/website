@@ -4,7 +4,7 @@ title: "rdv"
 date: 2018-12-31T08:55:29Z
 draft: false
 type: page
-kind: "staff"
+kind: "staff_alumni"
 role: "Alumnus/Founder"
 favorite_channels: ""
 weight: 999

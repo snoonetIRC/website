@@ -5,7 +5,7 @@ date: 2018-12-31T08:55:29Z
 draft: false
 type: page
 kind: "staff"
-role: "Developer, Staff"
+role: "Staff, Developer"
 favorite_channels: "#aspergers, #casualconversation, #Sweden, #WetShaving"
 weight: 11
 ---

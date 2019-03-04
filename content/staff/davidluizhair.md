@@ -5,7 +5,7 @@ date: 2018-12-31T08:55:29Z
 draft: false
 type: page
 kind: "staff"
-role: "Community Manager"
+role: "Staff"
 favorite_channels: "#shenanigans, #relaxingroom, #casualconversation, #fuckduck, #conversations"
 weight: 5
 ---
