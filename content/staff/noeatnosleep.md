@@ -4,8 +4,8 @@ title: "noeatnosleep"
 date: 2018-12-31T08:55:29Z
 draft: false
 type: page
-kind: "staff"
-role: "LTM Liaison, General Manager"
+kind: "staff_top"
+role: "Network Director"
 favorite_channels: "#motorcycles"
 weight: 2
 ---
