@@ -62,7 +62,7 @@ Consistent with 18 U.S.C. § 2703(f), Snoonet will preserve records for up to 90
 4.	Identify the time period for which records are to be preserved (maximum 90 days);
 5.	Confirm that valid legal process is forthcoming;
 6.	Have a valid return official email address; and
-7.	Be sent on law enforcement letterhead to lawenforcement [at] snoonet.org with the subject line reading “Preservation Request – User: [insert relevant username here]”.
+7.	Be sent on law enforcement letterhead to lawenforcement [at] snoonet.org with the subject line reading "Preservation Request – User: [insert relevant username here]".
 
 Unless Snoonet receives an additional preservation request, Snoonet will, after 90 days, release the preservation and the preserved records will be subject to Snoonet's normal retention or destruction schedules.
 

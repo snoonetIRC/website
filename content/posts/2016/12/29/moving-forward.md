@@ -12,7 +12,7 @@ We would like to announce the appointment of bloodygonzo as our new Network Dire
 
 
 # Network Leadership
-Jeff “Paradox” Sandberg and Shane “rdv” Allen will be moving to founder roles, retiring from day-to-day operations.  They remain as network owners and will provide input and advice to network operations where appropriate, and will continue to play a role in identifying talent and managing staff.
+Jeff "Paradox" Sandberg and Shane "rdv" Allen will be moving to founder roles, retiring from day-to-day operations.  They remain as network owners and will provide input and advice to network operations where appropriate, and will continue to play a role in identifying talent and managing staff.
 
 # <a href="https://www.snoonet.org/bloodygonzo">bloodygonzo</a>
 bloodygonzo has made your network community bot gonzobot! You can see it <a href="https://www.snoonet.org/gonzobot">here</a> and utilize it! He helps new-comers with creating python modules, and has the idea of helping every body that needs something in their community! You can contact bloodygonzo at bloodygonzo@snoonet.org for additional information!
