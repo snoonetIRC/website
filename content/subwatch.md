@@ -1,5 +1,6 @@
 ---
 title: "SubWatch"
+aliases: [SubWatch]
 date: 2019-01-14T21:38:22Z
 draft: false
 type: page
