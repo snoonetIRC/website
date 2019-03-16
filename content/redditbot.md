@@ -1,5 +1,6 @@
 ---
 # This page is marked as "draft" due to dead content (redditBot)
+aliases: [ 'redditBot' ]
 title: "redditBot"
 date: 2019-01-14T21:45:41Z
 draft: true
