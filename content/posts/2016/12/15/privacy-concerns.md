@@ -16,7 +16,7 @@ However the users on Snoonet do keep private logs of the channels they are in, w
 
 I personally was doxxed, harassed, threatened, and belittled. However, I'll take one for the team.
 
-I made a post clarifying the situation <a href="https://www.reddit.com/r/Drama/comments/5igq1w/snoonet_owner_bans_techsupport_over_a_minor/">here on reddit</a>
+I made a post clarifying the situation [here on reddit](https://www.reddit.com/r/Drama/comments/5igq1w/snoonet_owner_bans_techsupport_over_a_minor/)
 
 
 ## SSL
@@ -25,10 +25,10 @@ We have a signed certificate for secure authentication.
 If you need help setting up your IRC client, please ask in #help
 
 ## Extra security online
-Snoonet will be working directly with <a href="https://www.privateinternetaccess.com/">Private Internet Access</a> to provide users with home VPNs for their home devices. This will help increase anonymity if users such are looking for extra security online.
+Snoonet will be working directly with [Private Internet Access](https://www.privateinternetaccess.com/) to provide users with home VPNs for their home devices. This will help increase anonymity if users such are looking for extra security online.
 The details have not yet been worked out on its partnership, however we look to have the ability to offer free, or reduced payment to users on Snoonet.
 
-## <a href="https://docs.google.com/forms/d/1Ot_vyJ5ak77X_qSCsQupPmUpcNe9x3hpGd7aXAGiSUA/viewform?ts=5852bf5a&edit_requested=true">If you would like to apply/be in the queue for a Private Internet Access VPN, make a post with this form</a>
+## [If you would like to apply/be in the queue for a Private Internet Access VPN, make a post with this form](https://docs.google.com/forms/d/1Ot_vyJ5ak77X_qSCsQupPmUpcNe9x3hpGd7aXAGiSUA/viewform?ts=5852bf5a&edit_requested=true)
 
 ## Snoonet's Mission Statement
 # www.snoonet.org/missions

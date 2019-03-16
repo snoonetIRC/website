@@ -8,7 +8,7 @@ kind: "social"
 subreddit: "CasualConversation"
 ---
 
-<h1><a href="http://CasualConversation.reddit.com">/r/CasualConversation</a></h1>
+<h1>[/r/CasualConversation](http://CasualConversation.reddit.com)</h1>
 [IRC channel](https://kiwiirc.com/client/irc.snoonet.org/casualconversation)
 
 

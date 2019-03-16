@@ -6,10 +6,10 @@ type: post
 ---
 
 # Snoonet looks to quickly adopt full IRCv3 capability.
-We will be developing a new website based around <a href="https://github.com/thelounge/lounge">The Lounge</a> to give our website an actual use. We look forward to seeing  the implementation of IRCv3. When we get the 'Okay!' we will upgrade all our IRCd software to implement full  IRCv3 functionality. 
+We will be developing a new website based around [The Lounge](https://github.com/thelounge/lounge) to give our website an actual use. We look forward to seeing  the implementation of IRCv3. When we get the 'Okay!' we will upgrade all our IRCd software to implement full  IRCv3 functionality. 
 
 # We love IRC
-IRC is an old protocol that can finally benefit from a face lift to make our modern clients better to use. Please look <a href="http://ircv3.net/">at the IRCv3 project here</a> and check out our road map. The aim is to upgrade the protocol of IRC to provide better functionality of future developments. We look to see its health and growth remain positive!
+IRC is an old protocol that can finally benefit from a face lift to make our modern clients better to use. Please look [at the IRCv3 project here](http://ircv3.net/) and check out our road map. The aim is to upgrade the protocol of IRC to provide better functionality of future developments. We look to see its health and growth remain positive!
 
 # IRCv3 Roadmap and Documentation.
 You can view the progress here: https://github.com/ircv3/ircv3-specifications/milestone/4/<br>

@@ -27,7 +27,7 @@ Snoonet takes the privacy of its users seriously. Snoonet therefore insists on c
 
 ---
 # <a name="what-is-snoonet">What is Snoonet?</a>
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 
 Snoonet is an Internet Relay Chat Network designed to be used by Reddit communities and users.  Snoonet is not affiliated with Reddit, Inc. in any way.
@@ -40,7 +40,7 @@ What Account Information does Snoonet have?
 
 ---
 # <a name="data-retention">Data Retention Information</a>
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 User Account Information is retained by Snoonet in accordance with Snoonet's privacy policy; some information is collected by Snoonet automatically and some information is provided to Snoonet at the user's discretion.
 
@@ -50,7 +50,7 @@ What information exists once a user has deleted their user account?
 
 ---
 # <a name="preserve">How do I make a preservation request?</a>
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 We do not retain data for law enforcement purposes unless we receive a valid preservation request before a user has deleted that content from our platform or before the Preservation Period expires.
 
@@ -72,7 +72,7 @@ No. However, users will be notified of any subsequent legal process that is not 
 
 ---
 # <a name="account-information">Requests for Snoonet Account Information</a>
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 Requests for user account information from law enforcement must be directed to Snoonet.
 
@@ -130,7 +130,7 @@ Snoonet does not provide expert witness testimony and does not have witnesses on
 
 ---
 # <a name="emergency-requests">Emergency Disclosure Requests</a>
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 Snoonet evaluates these requests on a case-by-case basis and may request additional information to verify the nature of the request and  the requestor's identity. It does not commit to producing records under any set of circumstances or within a particular timeline. To seek to compel Snoonet to produce information, please obtain and personally serve valid and sufficient legal process.
 
@@ -140,12 +140,12 @@ Snoonet may exercise its discretion to delay notice to users when emergency disc
 
 ---
 # <a name="foreign-requests">Foreign law enforcement requests</a>
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the account information or connection information.
 
 ---
 # <a name="submit">Submit a request</a>
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 [Click here](/le-request) to submit a law enforcement request.
