@@ -10,7 +10,7 @@ type: page
 <hr>
 
 <div align="right" float="right" padding-right="3px" margin="0">
-<a href="#purpose">Purpose</a>  ||  <a href="#ops">Channel Operators</a>  ||  <a href="#guidelines">Rules & Guidelines</a>  ||  <a href="https://www.reddit.com/r/SnoonetDepression/">Ban Appeals</a>  || <a href="https://kiwiirc.com/client/irc.snoonet.org/depression-alt" title="Webchat">Webchat</a>
+[Purpose](#purpose)  ||  [Channel Operators](#ops)  ||  [Rules & Guidelines](#guidelines)  ||  [Ban Appeals](https://www.reddit.com/r/SnoonetDepression/)  || [Webchat](https://kiwiirc.com/client/irc.snoonet.org/depression-alt)
 </div>
 
 ## <h2><a name="#purpose">Purpose</a></h2>
@@ -23,7 +23,7 @@ If you can not handle discussion of self harm and/or more specific suicide metho
 ## <a name="#ops">Channel Operators</a>
 The team handling #depression-alt is the same team that currently handles the #depression channel.
 
-If you need to contact an operator for assistance, you may find a list of operators by <a href="https://www.snoonet.org/depression#ops">clicking here</a>.
+If you need to contact an operator for assistance, you may find a list of operators by [clicking here](https://www.snoonet.org/depression#ops).
 
 <hr>
 

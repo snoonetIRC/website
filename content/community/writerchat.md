@@ -46,4 +46,4 @@ If no one else says anything, feel free to wait around for a while; the chat is 
 
 Feel free to message one of the OPs of the IRC or head over to {{< subreddit_link writerchat >}} on Reddit and send a modmail.
 
-<a href="https://www.reddit.com/r/writerchat/wiki/index">We also have a wiki that is constantly being updated.</a>
+[We also have a wiki that is constantly being updated.](https://www.reddit.com/r/writerchat/wiki/index)

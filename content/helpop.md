@@ -7,7 +7,7 @@ type: page
 
 #### InspIRCd Help System Categories:
 
-**<a href="#User Commands">User Commands</a>**
+**[User Commands](#User Commands)**
 
 **[User modes](umodes)**
 
@@ -32,7 +32,7 @@ type: page
 
 
 # User Commands
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 **General User Command Help:**
 
@@ -260,7 +260,7 @@ To add or remove more than one nick at a time, separate them with a comma and sp
 ---
 
 # User Modes
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 **General User Modes Help:**
 
@@ -274,7 +274,7 @@ Full list of [user modes](umodes) listed here.
 ---
 
 # Channel Modes
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 **General Channel Modes Help:**
 
@@ -288,7 +288,7 @@ Full list of [channel modes](/modes) listed here.
 ---
 
 # Extended Bans
-*<a href="#top">^back ^to ^top</a>*
+*[back to top](#top)*
 
 **General Extended Bans Help:**
 

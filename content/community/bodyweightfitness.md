@@ -22,8 +22,8 @@ Some quotes, from both the sub and IRC:
 
 "Just because it's bodyweight training doesn't mean it's no equipment training." - Saint Emmet, slayer of kipping, fixer of handstands, upholder of the true strict rep
 
-"I've hurt both my wrists from furious masturbation. What upper body exercises can I do?" - <a href="https://www.reddit.com/u/motobrit">/u/motobrit</a>
+"I've hurt both my wrists from furious masturbation. What upper body exercises can I do?" - [/u/motobrit](https://www.reddit.com/u/motobrit)
 
-"Well you can just go fuck yourself." - <a href="https://www.reddit.com/u/161803398874989">/u/161803398874989</a> 's second highest rated comment of all time
+"Well you can just go fuck yourself." - [/u/161803398874989](https://www.reddit.com/u/161803398874989) 's second highest rated comment of all time
 
-"What are boobs" - <a href="https://www.reddit.com/u/Antranik">/u/Antranik</a>
+"What are boobs" - [/u/Antranik](https://www.reddit.com/u/Antranik)

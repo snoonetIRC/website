@@ -19,4 +19,4 @@ I'm part of the operations team, being primarily responsible for maintaining our
 When I'm not doing network-related things, I can usually be found chatting in a handful of the [communities](https://snoonet.org/communities) that Snoonet hosts. If you see me, feel free to say hi, or send me a message at any time using **/msg Duck Hi**!
 
 
-<a href="https://duckhuntjs.com/" target="_blank">・゜゜・。。 ​ ・゜゜\​_0< QUA​CK!</a>
+[・゜゜・。。 ​ ・゜゜\​_0< QUA​CK!](https://duckhuntjs.com/)

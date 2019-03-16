@@ -14,7 +14,7 @@ subreddit: "metal"
 
 **What inspired this community?**
 
-* <a href="https://www.youtube.com/watch?v=AUOs6SNm_gU">.........Satan</a>.
+* [.........Satan](https://www.youtube.com/watch?v=AUOs6SNm_gU).
 
 **What sets your community apart from others?**
 
@@ -31,7 +31,7 @@ subreddit: "metal"
 **What is the most popular post of all time in the subreddit?**
 
 * Our top post of all time is a self-post discussion thread about the death of Slayer's Jeff Hanneman from 2013.
-* Way to be a downer, question guy. How about this <a href="https://www.reddit.com/r/Metal/comments/1m9ee3/petition_to_allow_gwar_to_perform_the_2015/">also-popular post</a> regarding a petition to allow Gwar to play the 2015 Super Bowl Halftime Show instead?
+* Way to be a downer, question guy. How about this [also-popular post](https://www.reddit.com/r/Metal/comments/1m9ee3/petition_to_allow_gwar_to_perform_the_2015/) regarding a petition to allow Gwar to play the 2015 Super Bowl Halftime Show instead?
 
 **Do you have any favorite quotes or posts from your users?**
 
@@ -53,5 +53,5 @@ subreddit: "metal"
 
 **Does your community have any associated social media or websites? (facebook/twitter/instagram/etc)**
 
-* We're mostly linked through individual Last.fm accounts. Come visit our non-profit community outreach sister-subreddit <a href="https://metaljerk.reddit.com">/r/metaljerk</a> and find out why It's All Metal™!
+* We're mostly linked through individual Last.fm accounts. Come visit our non-profit community outreach sister-subreddit [/r/metaljerk](https://metaljerk.reddit.com) and find out why It's All Metal™!
 

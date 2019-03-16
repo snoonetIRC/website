@@ -12,7 +12,7 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 
-* We are #TrollChromsomes, the official IRC Chat for all the troll subs, mainly TrollXChromosomes and TrollYChromosome. We welcome all to come check us out! We are a safe and friendly place, and whether you go to the troll subs or just have found us from the server, we'd love to have you. The more the merrier. But even your favorite bar has rules, and you can find ours here: <a href="https://snoonet.org/TrollChromosomes">https://snoonet.org/TrollChromosomes</a>
+* We are #TrollChromsomes, the official IRC Chat for all the troll subs, mainly TrollXChromosomes and TrollYChromosome. We welcome all to come check us out! We are a safe and friendly place, and whether you go to the troll subs or just have found us from the server, we'd love to have you. The more the merrier. But even your favorite bar has rules, and you can find ours here: [https://snoonet.org/TrollChromosomes](https://snoonet.org/TrollChromosomes)
 
 **What inspired this community?**
 
@@ -32,7 +32,7 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **What is the most popular post of all time in the subreddit?**
 
-* This is the most popular post and honestly I think it represents us pretty well sometimes: <a href="http://redd.it/2adbdt">http://redd.it/2adbdt</a>. But we don't really have a lot of posts in {{< subreddit_link TrollChromosomes >}}, you should probably check TrollY and TrollX for their most popular posts.
+* This is the most popular post and honestly I think it represents us pretty well sometimes: [http://redd.it/2adbdt](http://redd.it/2adbdt). But we don't really have a lot of posts in {{< subreddit_link TrollChromosomes >}}, you should probably check TrollY and TrollX for their most popular posts.
 
 **Do you have any favorite quotes or posts from your users?**
 
