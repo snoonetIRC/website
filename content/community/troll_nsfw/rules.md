@@ -6,7 +6,7 @@ draft: false
 type: page
 ---
 
-In addition to the [usual Snoonet network rules](https://snoonet.org/rules), follow the channel rules:
+In addition to the [usual Snoonet network rules](/rules), follow the channel rules:
 
 1. DON'T BE A SHITWEASEL. Mods reserve the right to interpret shitweaselness.
 2. No sexism, racism, homophobia, transphobia, harassment or rudeness will be tolerated.

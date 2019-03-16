@@ -8,7 +8,7 @@ type: page
 
 Welcome to the [##neopets](Webchat.snoonet.org/##neopets) IRC channel!
 
-This is a place for Neopians to discuss things. Have fun, relax, join in the conversations, or start your own conversation. There are some rules that you will need to abide by, in addition to the general [Snoonet Rules](https://www.snoonet.org/rules):
+This is a place for Neopians to discuss things. Have fun, relax, join in the conversations, or start your own conversation. There are some rules that you will need to abide by, in addition to the general [Snoonet Rules](/rules):
 
 * No racism, homophobia, transphobia, harassment, or [bigotry](http://en.wikipedia.org/wiki/Bigotry) of any kind.
 * Don't be a dick. The Channel OPs reserve the right to interpret dickishness.
@@ -41,4 +41,4 @@ When you've picked a nick that you like and you are ready to hang around, we rec
 
     /msg NickServ REGISTER password email
 
-*See [Snoonet's Help and; Guidelines](https://www.snoonet.org/help) for more.*
+*See [Snoonet's Help and; Guidelines](/help) for more.*

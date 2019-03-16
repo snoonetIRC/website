@@ -74,7 +74,7 @@ We ask all users to follow the same rule set for #depression, with the exception
 ## Channel Ban Appeals {#appeals}
 If you've recently been banned from one of our channels or have been instructed to read this section, please understand:
 
-- We prohibit ban evasion, which is [against Snoonet rules](https://snoonet.org/rules).
+- We prohibit ban evasion, which is [against Snoonet rules](/rules).
 - As it is important enough to list twice, ban evasion *for any reason* is prohibited and may result in a network ban.
 - Our staff does make every effort to keep banning users to an absolute minimum.
 

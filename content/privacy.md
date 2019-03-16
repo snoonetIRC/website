@@ -15,17 +15,17 @@ Snoonet's top priority is the privacy and safety of its users. We take great mea
 
 **User channels** are not visible in their WHOIS by others and is automatically set on connect with the `umode +I`. Users may elect to disable this user mode if they wish. Private and secret channels are never displayed to users not also in those channels, regardless of the user mode setting.
 
-**Private messages** can be restricted by users with a variety of user modes. PMs can be limited to users in common channels, registered users, or a configured whitelist. See [User Modes](https://snoonet.org/umodes) for more information.
+**Private messages** can be restricted by users with a variety of user modes. PMs can be limited to users in common channels, registered users, or a configured whitelist. See [User Modes](/umodes) for more information.
 
 # What can I do to protect my privacy?
 
 **Assume everything is public** Like anywhere on the internet, the best way to protect your privacy is to assume everything you share is public. While Snoonet does everything it can to protect your privacy, we cannot stop users from sharing information you share with them. Many users log their own channels and private messages, and some do not respect privacy as much as we would like.
 
-**Do not share personal information** Similar to the above guideline, any personal information you share is subject to the intent of others, malicious or not. While doxxing is strictly against our [rules](https://snoonet.org/rules) and will be dealt with accordingly, once information is shared online, it cannot be removed.
+**Do not share personal information** Similar to the above guideline, any personal information you share is subject to the intent of others, malicious or not. While doxxing is strictly against our [rules](/rules) and will be dealt with accordingly, once information is shared online, it cannot be removed.
 
-**Register your nickname** By registering your nickname with a strong password, only you can use your nick. This ensures that users you speak with know and can verify they are speaking with you and not someone attempting to impersonate you. For more information on registering, please see our [NickServ instructions](https://snoonet.org/anope#NickServ).
+**Register your nickname** By registering your nickname with a strong password, only you can use your nick. This ensures that users you speak with know and can verify they are speaking with you and not someone attempting to impersonate you. For more information on registering, please see our [NickServ instructions](/anope#NickServ).
 
-**Verify staff members** If you are requesting assistance in [#help](https://webchat.snoonet.org/help) or need to contact a staff member, please be sure to provide confidential or sensitive information only to Snoonet Staff. All staff are listed on our [Staff Directory](https://snoonet.org/staff) and can be verified on IRC with `/whois <nick>`. While we do not use any specific modes or characters to denote staff on the network, all staff members have `snoonet/rank/nick` as their vHost. Staff WHOIS also contains our role information, similar to `<user> is a member of Snoonet Staff`.
+**Verify staff members** If you are requesting assistance in [#help](https://webchat.snoonet.org/help) or need to contact a staff member, please be sure to provide confidential or sensitive information only to Snoonet Staff. All staff are listed on our [Staff Directory](/staff) and can be verified on IRC with `/whois <nick>`. While we do not use any specific modes or characters to denote staff on the network, all staff members have `snoonet/rank/nick` as their vHost. Staff WHOIS also contains our role information, similar to `<user> is a member of Snoonet Staff`.
 
 **Verify users** Similar to staff, regular users can often be verified before chatting. If you know a user whom you chat with has a registered account, you can verify their identity by checking their information with `/whois <nick>`. If logged in, they will have a `user/nick` vHost and a line saying `<nick> is logged in as <user>`.
 
@@ -39,7 +39,7 @@ Snoonet's top priority is the privacy and safety of its users. We take great mea
 
 **Can Snoonet Staff see my information?** Yes. In order to properly run the network and protect the safety of its users, all above information is visible to staff members. This information is never shared outside of staff and is used solely for the purposes of running the network, or as requested by users in need of support regarding their own information.
 
-**How can I connect securely to Snoonet?** Snoonet supports SSL for all connections to our [servers](https://snoonet.org/ircservers) and is most secure when all users connect via SSL. Additionally, users can [authenticate on connect](https://www.snoonet.org/connect-auth) to services via SASL and CertFP. Both can be combined to use SASL EXTERNAL, the most secure way to authenticate to IRC. *It is strongly recommended that all users connect via SSL.* See the following question for more information.
+**How can I connect securely to Snoonet?** Snoonet supports SSL for all connections to our [servers](/ircservers) and is most secure when all users connect via SSL. Additionally, users can [authenticate on connect](/connect-auth) to services via SASL and CertFP. Both can be combined to use SASL EXTERNAL, the most secure way to authenticate to IRC. *It is strongly recommended that all users connect via SSL.* See the following question for more information.
 
 **What information does SSL protect?** SSL encrypts everything that your computer sends to the server, and everything the server sends back to you. Most importantly, your username, password, and private messages are secured. This does not, however, secure public channels. Anyone can join a public channel and read what you say and most public channels are a mix of SSL and non-SSL users, so there is no guarantee information said in a public will not be visible to someone you do not wish to see it.
 
@@ -47,7 +47,7 @@ Snoonet's top priority is the privacy and safety of its users. We take great mea
 
 **Can channels be "spied" on?** No, all users can see when a staff member joins a shared channel. Although a module ([m_invisible](https://github.com/inspircd/inspircd-extras/blob/master/2.1/m_invisible.cpp)) exists to allow staff to join a channel unnoticed, it is not compiled or loaded on Snoonet's servers and thus not able to be used.
 
-**Does Snoonet maintain chat logs?** No. While users are free to log their own channels and private messages in accordance with our [rules](https://www.snoonet.org/rules), Snoonet does not maintain its own logs. Logs may be requested from users as needed to resolve specific issues but are not retained by Snoonet.
+**Does Snoonet maintain chat logs?** No. While users are free to log their own channels and private messages in accordance with our [rules](/rules), Snoonet does not maintain its own logs. Logs may be requested from users as needed to resolve specific issues but are not retained by Snoonet.
 
 **Are PMs truly private?** Yes. Unlike some other networks, Snoonet Staff are not able to monitor or log private messages between other users. All messages sent on Snoonet are visible exclusively between the two users messaging each other.
 

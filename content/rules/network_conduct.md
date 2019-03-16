@@ -37,7 +37,7 @@ weight: 2
   dealt with warnings and removal from the network.
 + Listen to network staff. They can be identified by the "snoonet/rank/nickname"
   hostmask. `/whois NICKNAME` to confirm that they are a Snoonet staff member.
-  You can view the staff directory [here](http://snoonet.org/staff)
+  You can view the staff directory [here](/staff)
 + Do not ignore network operators or channel operators. If you have an issue
   with the conduct of a network operator, kindly open an "Abuse" support ticket
   and your complaint will be noted and addressed. Issues with the conduct of an

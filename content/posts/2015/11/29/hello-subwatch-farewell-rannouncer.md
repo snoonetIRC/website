@@ -21,4 +21,4 @@ Please note: you must be a channel operator or halfop to use these commands.
 
 Want to keep a close eye on your subreddit?  SubWatch is also capable of announcing threads based on keywords in the title, and can securely announce threads from private subreddits. 
 
-You can view the commands and further information [here](https://www.snoonet.org/SubWatch).
+You can view the commands and further information [here](/SubWatch).

@@ -12,7 +12,7 @@ subreddits: [ "trollxchromosomes", "trollychromosome" ]
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include?**
 
-* We are #TrollChromsomes, the official IRC Chat for all the troll subs, mainly TrollXChromosomes and TrollYChromosome. We welcome all to come check us out! We are a safe and friendly place, and whether you go to the troll subs or just have found us from the server, we'd love to have you. The more the merrier. But even your favorite bar has rules, and you can find ours here: [https://snoonet.org/TrollChromosomes](https://snoonet.org/TrollChromosomes)
+* We are #TrollChromsomes, the official IRC Chat for all the troll subs, mainly TrollXChromosomes and TrollYChromosome. We welcome all to come check us out! We are a safe and friendly place, and whether you go to the troll subs or just have found us from the server, we'd love to have you. The more the merrier. But even your favorite bar has rules, and you can find ours here: [https://snoonet.org/TrollChromosomes](/TrollChromosomes)
 
 **What inspired this community?**
 

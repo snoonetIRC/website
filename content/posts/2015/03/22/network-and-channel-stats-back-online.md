@@ -5,7 +5,7 @@ title: "Network and Channel Stats - Back Online"
 type: post
 ---
 
-After much anticipation, network and channel stats are now back online! Invite statistics to your channel to enable stats. You can check them out by typing !stats in your channel or going to [chanstats.snoonet.org](https://chanstats.snoonet.org) and clicking your channel name. See where you and your channel rank in the global statistics at [stats.snoonet.org](https://stats.snoonet.org). To see other cool stat-related things go to [www.snoonet.org/anope#Stats](https://www.snoonet.org/anope#Stats).
+After much anticipation, network and channel stats are now back online! Invite statistics to your channel to enable stats. You can check them out by typing !stats in your channel or going to [chanstats.snoonet.org](https://chanstats.snoonet.org) and clicking your channel name. See where you and your channel rank in the global statistics at [stats.snoonet.org](https://stats.snoonet.org). To see other cool stat-related things go to [www.snoonet.org/anope#Stats](/anope#Stats).
 
 Just a reminder that if you'd like to opt out of statistics, you may type '/msg nickserv set chanstats off'. The data already collected will not be removed.  This is recommended for channels who do not want their members or quotes from their chat made public.
 

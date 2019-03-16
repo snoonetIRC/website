@@ -22,4 +22,4 @@ Orangechat is a webchat that integrates directly with reddit.com. You can use yo
 
 ## How can I apply?
 
-For more information and instructions on applying, see our [Guide Recruitment page](https://snoonet.org/recruit-guides). Applications will be open until June 12, 2016.
+For more information and instructions on applying, see our [Guide Recruitment page](/recruit-guides). Applications will be open until June 12, 2016.
