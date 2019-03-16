@@ -25,21 +25,21 @@ Please understand that although we are here to provide peer support, our channel
 
 ## Channel Operators {#ops}
 ### Channel Owner: 
-- [Duck](https://snoonet.org/duck)
+- [Duck](/staff/duck)
 
 ### Channel Admin: 
 - Caeli
 
 ### Channel Staff: 
-- [A_D](https://snoonet.org/A_D)
+- [A_D](/staff/a_d)
 - AHare
 - GhostyOne
 - jglauche
-- [Madbrad200](https://snoonet.org/Madbrad200)
+- [Madbrad200](/staff/madbrad200)
 - MuffinMedic
 - TheStrangeOne
 - toomin
-- [void](https://snoonet.org/void)
+- [void](/staff/void)
 
 
 ## Channel Rules & Guidelines {#guidelines}
