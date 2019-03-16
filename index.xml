@@ -946,7 +946,7 @@ Key:
 {these brackets} denote that you may pick one of the options presented.
 [these brackets] denote entirely optional parameters.
 
-User Commands ^back ^to ^top
+User Commands back to top
 General User Command Help:
 /helpop CUSER
 *This will list user commands. To see the detailed instructions for a command type /helpop [COMMAND]. Without a [COMMAND] parameter, this will list all /helpop commands and descriptions.
@@ -1594,7 +1594,7 @@ Signs of Life /r/irc , /r/snoonet , #snoonet, #help
       <pubDate>Thu, 03 Jan 2019 10:07:10 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/depression-alt/rules/</guid>
-      <description> #depression-alt  Purpose || Channel Operators || Rules &amp; Guidelines || Ban Appeals || Webchat  Purpose #depression-alt provides a space away from #depression where the rules are relaxed. Certain topics normally prohibited in the main channel will be permitted here, meaning that discretion is advised.
+      <description> #depression-alt  [Purpose](#purpose) || [Channel Operators](#ops) || [Rules &amp; Guidelines](#guidelines) || [Ban Appeals](https://www.reddit.com/r/SnoonetDepression/) || [Webchat](https://kiwiirc.com/client/irc.snoonet.org/depression-alt)  Purpose #depression-alt provides a space away from #depression where the rules are relaxed. Certain topics normally prohibited in the main channel will be permitted here, meaning that discretion is advised.
 If you can not handle discussion of self harm and/or more specific suicide methods, it is advised to immediately /part or /leave the channel. Network and channel rules still apply. Please see below for more information.
  Channel Operators The team handling #depression-alt is the same team that currently handles the #depression channel.
 If you need to contact an operator for assistance, you may find a list of operators by clicking here.
@@ -3065,16 +3065,16 @@ We use a signed wildcard certificate from COMODO RSA. Our SSL fingerprint is:
       <description>Law Enforcement Guidelines  What is Snoonet? Data Retention Information How do I make a preservation request? Requests for Snoonet Account Information Emergency Disclosure Requests Foreign law enforcement requests Submit a request  These guidelines provide U.S. law enforcement with information about Snoonet, its business and user records, and the legal process required to compel Snoonet to produce information regarding Snoonet users in the course of criminal and civil investigations.
 This guide is for informational purposes only. It is not a commitment by Snoonet to take specific action in a given circumstance and creates no contractual obligation.
 Snoonet takes the privacy of its users seriously. Snoonet therefore insists on compliance with procedural requirements, scrutinizes requests and legal process for facial validity and legal sufficiency, and objects to legal process, when appropriate. Although Snoonet provides these guidelines, Snoonet does not waive and expressly reserves all available rights and objections and your compliance with these guidelines does not necessarily equate with compliance with the relevant legal requirements.
-What is Snoonet? ^back ^to ^top
+What is Snoonet? back to top
 Snoonet is an Internet Relay Chat Network designed to be used by Reddit communities and users. Snoonet is not affiliated with Reddit, Inc. in any way.
 What Account Information does Snoonet have?
 • Users are not required to register their nicknames and therefore email addresses are not always available
 • If a user does choose to register their nickname, they are required to provide a valid email address to receive a verification code
-Data Retention Information ^back ^to ^top
+Data Retention Information back to top
 User Account Information is retained by Snoonet in accordance with Snoonet&amp;rsquo;s privacy policy; some information is collected by Snoonet automatically and some information is provided to Snoonet at the user&amp;rsquo;s discretion.
 What information exists once a user has deleted their user account?
 • Backup records of the account may be available but will vary depending on the time elapsed since the deletion.
-How do I make a preservation request? ^back ^to ^top
+How do I make a preservation request? back to top
 We do not retain data for law enforcement purposes unless we receive a valid preservation request before a user has deleted that content from our platform or before the Preservation Period expires.
 Consistent with 18 U.S.C. § 2703(f), Snoonet will preserve records for up to 90 days pending issuance of legal process if it receives a written preservation request in the form noted below:
  Signed by the requesting official; Include the Snoonet user name; Identify the records to be preserved; Identify the time period for which records are to be preserved (maximum 90 days); Confirm that valid legal process is forthcoming; Have a valid return official email address; and Be sent on law enforcement letterhead to lawenforcement [at] snoonet.</description>
@@ -3144,7 +3144,7 @@ Verify staff members If you are requesting assistance in #help or need to contac
       <description>SNOONET PRIVACY POLICY
 This Website (&amp;lsquo;Snoonet.org&#39;), and its owners Snoonet, (collectively, &amp;lsquo;We&amp;rsquo;, &amp;lsquo;Us&amp;rsquo;, or &amp;lsquo;Snoonet&#39;) wish to define and inform you of any and all of the instances in which your personal data and information may be saved and how it may be used by Snoonet, how it may be shared, and the level of protection we use to safeguard your personal information when using our services.
   TABLE OF CONTENTS
-   &amp;nbsp;Personal Information We Collect    &amp;nbsp;Uses of Personal Information Collected by Us   &amp;nbsp;Disclosure of Personal Information   &amp;nbsp;Data Retention   &amp;nbsp;CalOPPA Statement   &amp;nbsp;Maintaining the Security of Your Personal Information   &amp;nbsp;How We Transfer Personal Information Collected Internationally   &amp;nbsp;COPPA Disclosure   &amp;nbsp;How to Access and Control Your Personal Information   &amp;nbsp;Changes to this Privacy Policy    &amp;nbsp;
+   &amp;nbsp;[Personal Information We Collect](#collected-data)    &amp;nbsp;[Uses of Personal Information Collected by Us](#uses-of-data)   &amp;nbsp;[Disclosure of Personal Information](#disclosure)   &amp;nbsp;[Data Retention](#retention)   &amp;nbsp;[CalOPPA Statement](#caloppa)   &amp;nbsp;[Maintaining the Security of Your Personal Information](#infosec)   &amp;nbsp;[How We Transfer Personal Information Collected Internationally](#transfer)   &amp;nbsp;[COPPA Disclosure](#coppa)   &amp;nbsp;[How to Access and Control Your Personal Information](#access)   &amp;nbsp;[Changes to this Privacy Policy](#changes)    &amp;nbsp;
 PERSONAL INFORMATION WE COLLECT
 From All Users of Our IRC Network
  Internet Protocol (IP) address* for the purposes of account management and protection from abuse. (*You may use a virtual private network or &amp;ldquo;bouncer&amp;rdquo; service if you wish to obscure your IP address) Your user ID or &amp;ldquo;nickname&amp;rdquo; for the purposes of account management and protection from abuse.  From Users Who Have Registered an Account on Our IRC Network
