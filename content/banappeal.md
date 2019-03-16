@@ -13,7 +13,7 @@ Some bans are applied by network security robots, for example, if you accidental
 Where a ban has been applied based on your actions, we still encourage you to contact us.  We prefer to resolve issues through communication where possible, and we may use our discretion to lower/remove the ban entirely if ample reason and apology is given.
 
 ## Bans for being on a blacklist / Open Proxy Bans
-When you connect to Snoonet, your IP address will be queried against known bad host/open proxy blacklists. Additionally, in order to protect our network against unknown threats, this network utilizes the [Hybrid Open Proxy Monitor](https://github.com/ircd-seven/hopm) which scans specific commonly used ports on your host for open proxies. By connecting to Snoonet, you agree to be scanned. Scans will originate from **scan.snoonet.org**.
+When you connect to Snoonet, your IP address will be queried against known bad host/open proxy blacklists. Additionally, in order to protect our network against unknown threats, this network utilizes the [Hybrid Open Proxy Monitor](https://github.com/ircd-hybrid/hopm) which scans specific commonly used ports on your host for open proxies. By connecting to Snoonet, you agree to be scanned. Scans will originate from **scan.snoonet.org**.
 
 If you are banned because your IP address appears on one (or more) blacklists, you must address your concern directly with the blacklist identified in the ban message and ask for your IP to be removed. Snoonet is not responsible for the accuracy of the information contained in these blacklists. Until your IP(s) are removed, you may be repeatedly banned from connecting to Snoonet.
 
