@@ -19,7 +19,7 @@ On this page you'll find:
 
 ## Channel Rules
 
-Everyone is welcome as long as they can follow these rules, as well as the [Snoonet Network Rules](https://www.snoonet.org/rules):
+Everyone is welcome as long as they can follow these rules, as well as the [Snoonet Network Rules](/rules):
 
 - Be kind to each other! **Don't be rude, don't have a temper, and don't be discriminatory**. Show the people around you respect, and they'll reciprocate.
 

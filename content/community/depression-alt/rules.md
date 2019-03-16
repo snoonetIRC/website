@@ -23,7 +23,7 @@ If you can not handle discussion of self harm and/or more specific suicide metho
 ## <a name="#ops">Channel Operators</a>
 The team handling #depression-alt is the same team that currently handles the #depression channel.
 
-If you need to contact an operator for assistance, you may find a list of operators by [clicking here](https://www.snoonet.org/depression#ops).
+If you need to contact an operator for assistance, you may find a list of operators by [clicking here](/depression#ops).
 
 <hr>
 

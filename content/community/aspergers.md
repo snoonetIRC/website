@@ -12,4 +12,4 @@ We're the official IRC channel for the subreddit {{< subreddit_link aspergers >}
 
 We've got people on at all times of the day, across all sorts of time-zones. Activity wanes and grows all the time but you're welcome to idle about for as long as you want, or jump in and start or join a conversation. If you need any help, just chat to one of the channel staff and we'll get back to you as soon as we're available.
 
-We look forward to seeing you in the channel soon and we hope you have fun. You can see some more information about the channel and our rules [here](https://snoonet.org/aspergersrules).
+We look forward to seeing you in the channel soon and we hope you have fun. You can see some more information about the channel and our rules [here](/aspergersrules).

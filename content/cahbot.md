@@ -9,7 +9,7 @@ type: page
 
 CAHbot runs games of [Cards Against Humanity](http://www.cardsagainsthumanity.com/) on IRC.  Like an adult version of Apples to Apples or Mad Libs, players are provided with a random sentence to complete (black cards) and fill it in with words or phrases in their hand (white cards).  Each player takes a turn being the "Card Czar" - that is, the person that doesn't play a card that round, but instead selects the winner.
 
-CAHbot is run by [bloodygonzo](https://www.snoonet.org/bloodygonzo) on Snoonet, and is a [fork](https://github.com/snoonetIRC/irc-cah) of a project by [teelhi](https://github.com/teeli/irc-cah).  Cards Against Humanity IRC bot and its source code is licensed under a [Creative Commons BY-NC-SA 2.0 license](http://creativecommons.org/licenses/by-nc-sa/2.0/).
+CAHbot is run by [bloodygonzo](/bloodygonzo) on Snoonet, and is a [fork](https://github.com/snoonetIRC/irc-cah) of a project by [teelhi](https://github.com/teeli/irc-cah).  Cards Against Humanity IRC bot and its source code is licensed under a [Creative Commons BY-NC-SA 2.0 license](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 
 ---
 

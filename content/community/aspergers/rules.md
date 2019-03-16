@@ -10,7 +10,7 @@ type: page
 
 If an op asks you do something, there is probably a good reason for it! If you want to argue your case, either head over to the channel `##AspergersOpTalk` or PM us. We can be reasonable.
 
-All Network rules cascade down to all channels. Read the snoonet network rules [here](https://snoonet.org/rules).
+All Network rules cascade down to all channels. Read the snoonet network rules [here](/rules).
 
 Our channel rules are as follows
 

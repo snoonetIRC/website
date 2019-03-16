@@ -13,6 +13,6 @@ Snoonet recognizes that privacy and security are key issues for many of our user
 
 **User channels** are not visible in their WHOIS by others and is automatically set on connect with the `umode +I`. Users may elect to disable this user mode if they wish. Private and secret channels are never displayed to users not also in those channels, regardless of the user mode setting.
 
-**Private messages** can be restricted by users with a variety of user modes. PMs can be limited to users in common channels, registered users, or a configured whitelist. See [User Modes](https://snoonet.org/umodes) for more information.
+**Private messages** can be restricted by users with a variety of user modes. PMs can be limited to users in common channels, registered users, or a configured whitelist. See [User Modes](/umodes) for more information.
 
-For more information on how Snoonet protects you, ways you can protect yourself, and frequently asked questions, please see our [Privacy and Security page](https://snoonet.org/privacy). If you have any questions, feel free to ask a staff member in [#help](https://webchat.snoonet.org/help).
+For more information on how Snoonet protects you, ways you can protect yourself, and frequently asked questions, please see our [Privacy and Security page](/privacy). If you have any questions, feel free to ask a staff member in [#help](https://webchat.snoonet.org/help).

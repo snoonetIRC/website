@@ -14,4 +14,4 @@ Prawnsalad, creator of [KiwiIRC](https://kiwiirc.com/), has been working closely
 - **How do I get one?**  
     Once you have a nick registered with NickServ for one month, you are eligible to request a BNC. You need to join ##bnc and type */requestbnc*. Then, wait for an operator to approve your request. Usually this is done within an hour or two. When your request is approved, details on connecting to your account will be sent to your account via MemoServ. To read them, type */ms read new*
 
-Please see [our BNC page](https://www.snoonet.org/bnc) for more information on Snoonet's BNC service.
+Please see [our BNC page](/bnc) for more information on Snoonet's BNC service.

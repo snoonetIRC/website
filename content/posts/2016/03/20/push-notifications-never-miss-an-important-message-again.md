@@ -15,6 +15,6 @@ Push notifications are a free, convenient way to get notified when someone sends
 
 In order to receive push notifications, you'll need a Snoonet BNC account, a PushBullet account, and the PushBullet app installed on any devices on which you wish to receive notifications. Instructions can be found in the setup instructions below.
 
-To start receiving notifications, visit our [push](https://snoonet.org/push) page. Configuration is easy and only takes a few minutes.
+To start receiving notifications, visit our [push](/push) page. Configuration is easy and only takes a few minutes.
 
 If you need assistance, please ask in [#help](https://webchat.snoonet.org/help) and someone will assist you.

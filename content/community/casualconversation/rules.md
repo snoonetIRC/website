@@ -22,7 +22,7 @@ Tag or ping someone `type the first few letters of their nickname and hit tab`
 
 And when you're feelin' comfy, we recommend registering your name: `/msg NickServ REGISTER password email`
 
-→ *See [IRC Prelude](http://www.irchelp.org/irchelp/new2irc.html) & [Snoonet's Help & Guidelines](https://www.snoonet.org/help) for more.*
+→ *See [IRC Prelude](http://www.irchelp.org/irchelp/new2irc.html) & [Snoonet's Help & Guidelines](/help) for more.*
 
 ### Rules
 Be what you want other people to be. Like on the {{< subreddit_link casualconversation >}}, when in the channel you should aim to be as polite as possible. This makes others feel welcome and conversations can take place without users being rude to one another.
@@ -49,7 +49,7 @@ Keep it casual. We are all here to have a nice time chatting it up so let's all 
 
 Kicks are stern warnings. Multiple warnings or kicks will result in a ban at the discretion of the channel Ops.
 
-→  *All [#casualconversation](https://kiwiirc.com/client/irc.snoonet.org/casualconversation) rules fall under the umbrella rules of [Reddit](https://www.reddit.com/rules) and [Snoonet's Network](https://www.snoonet.org/rules).*
+→  *All [#casualconversation](https://kiwiirc.com/client/irc.snoonet.org/casualconversation) rules fall under the umbrella rules of [Reddit](https://www.reddit.com/rules) and [Snoonet's Network](/rules).*
 
 #### **Moderators**
 The role of mods is to regulate the channel and to keep the collective chill by enforcing the rules above.
@@ -66,7 +66,7 @@ Syntax | Function
 
 #### References  / Resources
 [Channel Stats](https://chanstats.snoonet.org/%23casualconversation.html)  
-Basics [IRC Prelude](http://www.irchelp.org/irchelp/new2irc.html) by [irchelp.org](http://www.irchelp.org/), [Snoonet Help](https://www.snoonet.org/help)  
+Basics [IRC Prelude](http://www.irchelp.org/irchelp/new2irc.html) by [irchelp.org](http://www.irchelp.org/), [Snoonet Help](/help)  
 Bot [Gonzobot Command List](http://saxton.edwardslabs.com/)  
 Signs of Life {{< subreddit_link irc >}}, {{< subreddit_link snoonet>}}, [#snoonet](https://kiwiirc.com/client/irc.snoonet.org/snoonet), [#help](https://kiwiirc.com/client/irc.snoonet.org/help)
 __________________

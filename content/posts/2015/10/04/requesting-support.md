@@ -5,7 +5,7 @@ title: "Requesting Support"
 type: post
 ---
 
-Going forward, please submit all support requests, including [network ban appeals](https://snoonet.org/banappeal), through our [support system](http://support.snoonet.org).  
+Going forward, please submit all support requests, including [network ban appeals](/banappeal), through our [support system](http://support.snoonet.org).  
 
 The support system will allow us to track and respond to issues and inquiries in a more efficient and effective manner.
 
