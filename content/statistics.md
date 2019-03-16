@@ -1,4 +1,5 @@
 ---
+aliases: [ 'Statistics' ]
 title: "Statistics"
 date: 2019-01-14T21:29:19Z
 draft: false

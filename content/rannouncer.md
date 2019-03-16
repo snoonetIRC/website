@@ -1,6 +1,7 @@
 ---
 # This page is marked as "draft" due to dead content (rAnnouncer)
 
+aliases: [ 'rAnnouncer' ]
 title: "rAnnouncer"
 date: 2019-01-14T21:46:42Z
 draft: true
