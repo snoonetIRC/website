@@ -7,7 +7,7 @@ type: community
 kind: "health_and_food"
 ---
 
-[Purpose](purpose)  ||  [Channel Operators](ops) ||  [Rules & Guidelines](guidelines)  ||  [Ban Appeals](appeals)  || [Webchat](https://webchat.snoonet.org/depression) || [Links & Resources](resources)
+[Purpose](#purpose)  ||  [Channel Operators](#ops) ||  [Rules & Guidelines](#guidelines)  ||  [Ban Appeals](#appeals)  || [Webchat](https://webchat.snoonet.org/depression) || [Links & Resources](#resources)
 
 **<span style="color: red; text-decoration: underline;">If you are experiencing thoughts of suicide or self-harm, please reach out to any of the [crisis resources](resources) listed below as opposed to using #depression.</span>**
 
@@ -21,7 +21,7 @@ Our main function is to listen, be here for one another and offer peer support. 
 
 Please understand that although we are here to provide peer support, our channel is not intended as a replacement for counselling from a qualified professional and as such, all information/advice provided by our users is to be considered anecdotal and does not carry any weight. Please note, **we are not affiliated with [/r/depression](https://reddit.com/r/depression)** – that said, they are a wonderful group and we encourage you to check them out.
 
-[back to top](top)
+[back to top](#top)
 
 ## Channel Operators {#ops}
 ### Channel Owner: 
@@ -79,8 +79,7 @@ If you've recently been banned from one of our channels or have been instructed 
 - Our staff does make every effort to keep banning users to an absolute minimum.
 
 
-
-Before you appeal your channel ban, it's important to understand why you've been banned from the channel. If you do not know why you were banned, please *message one of the [channel operators](#ops)*. Lastly, take a moment to review and familiarize yourself with our [rules](rules) before appealing your ban.
+Before you appeal your channel ban, it's important to understand why you've been banned from the channel. If you do not know why you were banned, please *message one of the [channel operators](#ops)*. Lastly, take a moment to review and familiarize yourself with our [rules](#rules) before appealing your ban.
 
 To access our ban appeals chat, please [click here](https://webchat.snoonet.org/DepressionAppeals).
 
@@ -101,8 +100,6 @@ Depressed mood lasting at least two years or longer. Those diagnosed with PDD ca
 
 
 [back to top](#top)
-
-<hr>
 
 ## Links & Resources {#resources}
 
@@ -131,5 +128,3 @@ We are not directly affiliated with these subreddits, but their communities are 
 - [Crisischat.org](http://www.crisischat.org)
 - [Befrienders](http://www.befrienders.org)
 - [7cupsoftea](http://www.7cupsoftea.com)
-
-
