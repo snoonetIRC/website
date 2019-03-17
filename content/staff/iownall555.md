@@ -6,7 +6,7 @@ draft: false
 type: page
 kind: "staff"
 role: "Staff"
-favorite_channels: "#linuxmasterrace, #redquasar, #linux_master_bait"
+favorite_channels: "#linuxmasterrace, #redquasar, #gnulag"
 weight: 13
 ---
 
