@@ -1,11 +1,13 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-LAST=`pwd`
+SRC_DIR="${HOME}/src"
+
 echo "Installing Hugo Extended Edition ^TM"
-mkdir $HOME/src
-cd $HOME/src
+mkdir -p $SRC_DIR
+pushd $SRC_DIR
 git clone https://github.com/gohugoio/hugo.git
 cd hugo
 go install --tags extended
-echo "Hugo installation complete. Returning to $LAST"
-cd $LAST
+echo "Hugo installation complete."
+popd
+
