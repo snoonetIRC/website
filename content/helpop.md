@@ -9,7 +9,7 @@ type: page
 
 **[User Commands](#User Commands)**
 
-**[User modes](umodes)**
+**[User modes](/umodes)**
 
 **[Channel modes](/modes)**
 
