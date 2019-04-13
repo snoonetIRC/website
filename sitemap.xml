@@ -1308,12 +1308,6 @@
   </url>
   
   <url>
-    <loc>https://staging.snoonet.org/staff/</loc>
-    <lastmod>2018-12-31T08:55:29+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://staging.snoonet.org/anope/</loc>
     <lastmod>2018-12-30T21:43:20+00:00</lastmod>
   </url>
@@ -1620,12 +1614,10 @@
   
   <url>
     <loc>https://staging.snoonet.org/README/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://staging.snoonet.org/communities/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1635,16 +1627,25 @@
   
   <url>
     <loc>https://staging.snoonet.org/community/</loc>
+    <lastmod>2019-01-03T10:35:14+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://staging.snoonet.org/posts/</loc>
+    <lastmod>2018-11-22T21:38:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://staging.snoonet.org/sponsors/</loc>
+    <lastmod>2019-01-10T19:19:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://staging.snoonet.org/staff/</loc>
+    <lastmod>2018-12-31T08:55:29+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
