@@ -82,4 +82,4 @@ Please type " /msg NickServ CONFIRM 2FrlEyZDs " in your IRC Client to complete r
 
 Για οποιεσδήποτε ερωτήσεις/καταγγελίες που αφορούν ΜΟΝΟ το #zougla μπορείτε να απευθυνθείτε στο κανάλι [#zougla-opers](https://webchat.snoonet.org/#zougla-opers) ή να στείλετε email μέσω της φόρμας [επικοινωνίας](https://chat.zougla.gr/contact).
 
-Μην στέλνετε email για θέματα που αφορούν την κεντρική ιστοσελίδα του [zougla.gr](http://zougla.gr)
+Μην στέλνετε email για θέματα που αφορούν την κεντρική ιστοσελίδα του [zougla.gr](https://zougla.gr)
