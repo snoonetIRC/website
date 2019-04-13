@@ -13,7 +13,7 @@ kind: "news_and_politics"
 
 Κανόνες και πολιτική λειτουργίας: 
 
-Το [zougla.gr](http://zougla.gr/) κατατάσσεται στις καλύτερες ιστοσελίδες ενημέρωσης στην Ελλάδα, σύμφωνα με το [Alexa Rank](https://www.alexa.com/siteinfo/zougla.gr)
+Το [zougla.gr](https://zougla.gr/) κατατάσσεται στις καλύτερες ιστοσελίδες ενημέρωσης στην Ελλάδα, σύμφωνα με το [Alexa Rank](https://www.alexa.com/siteinfo/zougla.gr)
 
 Οι χρήστες που συνδέονται στο #zougla οφείλουν να γνωρίζουν τους κανόνες και την πολιτική λειτουργίας του καναλιού.
 
