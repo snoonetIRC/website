@@ -9,7 +9,7 @@ kind: "health_and_food"
 
 [Purpose](#purpose)  ||  [Channel Operators](#ops) ||  [Rules & Guidelines](#guidelines)  ||  [Ban Appeals](#appeals)  || [Webchat](https://webchat.snoonet.org/depression) || [Links & Resources](#resources)
 
-**<span style="color: red; text-decoration: underline;">If you are experiencing thoughts of suicide or self-harm, please reach out to any of the [crisis resources](resources) listed below as opposed to using #depression.</span>**
+**<span style="color: red; text-decoration: underline;">If you are experiencing thoughts of suicide or self-harm, please reach out to any of the [crisis resources](#resources) listed below as opposed to using #depression.</span>**
 
 We are a peer support community aimed primarily at helping those struggling with depression. This page contains resources to aid those suffering from depression or its related ailments. Please consult these resources if you feel that you need assistance beyond peer help.
 
@@ -110,7 +110,7 @@ Depressed mood lasting at least two years or longer. Those diagnosed with PDD ca
 | Teen Crisis Textline        | Text "START" to 741-741         | Confidential and free 24/7 crisis chat platform |
 | The Trevor Project          | 1-100-4-U-TREVOR                | Hotline primarily aimed at LGBTQ teens. |
 | US Veterans Crisis Hotline  | 1-800-273-TALK or [Online Chat](http://www.veteranscrisisline.net) | Further information: [veteranscrisisline.net](http://www.veteranscrisisline.net)
-| SAMHSA Behavioral Health Treatment Services Locator (United States) | [findtreatment.samhsa.gov](findtreatment.samhsa.gov) |
+| SAMHSA Behavioral Health Treatment Services Locator (United States) | [findtreatment.samhsa.gov](https://findtreatment.samhsa.gov) |
 
 ### Related Subreddits {#othersubs}
 We are not directly affiliated with these subreddits, but their communities are fantastic and may provide additional help to you
