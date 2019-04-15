@@ -23,11 +23,11 @@ Additionally:
 I run [gonzobot](https://github.com/snoonetIRC/CloudBot) on Snoonet and enjoy
 customizing him to fit the needs of the various communities on Snoonet. My
 favorite hobby right now is smoking meat and every weekend I get the chance I
-try and smoke [brisket](http://imgur.com/a/0YJrc) or
-[pork shoulder](http://imgur.com/a/3ACnq), or
-[beef short ribs](http://imgur.com/a/aNyyZ).
+try and smoke [brisket](https://imgur.com/a/0YJrc) or
+[pork shoulder](https://imgur.com/a/3ACnq), or
+[beef short ribs](https://imgur.com/a/aNyyZ).
 Feel free to message me if you have any questions about Snoonet or ideas for
 improvement using: `/query bloodygonzo`.
 
-For additional staff information please see [/staff](the staff index).
+For additional staff information please see [the staff index](/staff).
 
