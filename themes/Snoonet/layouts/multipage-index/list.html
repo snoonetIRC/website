@@ -21,7 +21,7 @@
         <article class="post">
             <header class="inline-header">
                 {{ if .Params.altid }}
-                    <span name="{{ .Title }}" id="{{ .Title }}"></span>
+                    <span name="{{ .Params.altid }}" id="{{ .Params.altid }}"></span>
                 {{ end }}
 
                 <h2 name="{{ .Title }}" id="{{ .Title }}">{{ .Title }}</h2>
