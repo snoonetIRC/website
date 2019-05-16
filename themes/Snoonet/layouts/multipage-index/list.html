@@ -20,7 +20,12 @@
     {{ range .Data.Pages.ByWeight }}
         <article class="post">
             <header class="inline-header">
-                <h2 name="{{ .Title }}" id="{{ .Title }}">{{ .Title }}</h2>
+                {{ if .Params.altid }}
+                    <span name="{{ .Title }}" id="{{ .Title }}"></span>
+                    <h2 name="{{ .Params.altid }}" id="{{ .Params.altid }}">{{ .Title }}</h2>
+                {{ else }}
+                    <h2 name="{{ .Title }}" id="{{ .Title }}">{{ .Title }}</h2>
+                {{ end }}
             </header>
 
             <section class="content">
