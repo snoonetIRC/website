@@ -22,10 +22,9 @@
             <header class="inline-header">
                 {{ if .Params.altid }}
                     <span name="{{ .Title }}" id="{{ .Title }}"></span>
-                    <h2 name="{{ .Params.altid }}" id="{{ .Params.altid }}">{{ .Title }}</h2>
-                {{ else }}
-                    <h2 name="{{ .Title }}" id="{{ .Title }}">{{ .Title }}</h2>
                 {{ end }}
+
+                <h2 name="{{ .Title }}" id="{{ .Title }}">{{ .Title }}</h2>
             </header>
 
             <section class="content">
