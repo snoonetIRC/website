@@ -4,6 +4,7 @@ date: 2019-01-10T19:50:32Z
 draft: false
 type: multipage-index
 weight: 6
+altid: 'connect-auth'
 ---
 
 Snoonet uses IRCDs and Services that follow the IRCv3 standard, and as such, we offer several ways for a user to auth to services before joining channels.
