@@ -11,10 +11,9 @@ weight: 1
 + Available names may be freely registered with NickServ so long as they do not violate network policy.
 + There is a maximum of 5 grouped nicknames per account. Use [NickServ](/anope#NickServ)'s GROUP command as opposed to REGISTER.
 + Nickname squatting is not permitted. We ask that all registered or grouped names be put to use.
-+ Users may request ownership of their chosen nickname on Snoonet, but this is offered as a privilege and not a right.  To request a specific nickname, please contact us in #help.  Requests will be considered and discussed at the sole discretion of Snoonet staff.  We may refuse to drop nicknames that violate Snoonet rules, are historically significant, are reserved for network purposes, or for any other reason.  Nicknames must be inactive for at least 3 months before requested to be dropped.
 + Your nickname may not contain any racial slurs or bigotry. Names in violation of this are subject to being dropped and/or prohibited, with repeat offenders being banned.
 + Temporary/disposable email addresses are prohibited. Snoonet reserves the right to delete your registration if you register with a false/throwaway email address.
-+ By default, nicknames have an insane expiration date. Upon request, single accounts with only 1 name and at least 1 year of inactivity may be dropped. Nicknames grouped (/NS GROUP) to any single account may be ungrouped/dropped after at least 6 months of inactivity. Requests for nicknames to be dropped will be subject to staff discretion.
++ By default, nicknames have an insane expiration date. Upon request in the [#help](https://webchat.snoonet.org/help) channel, single accounts with only 1 name and at least 1 year of inactivity may be dropped. Nicknames grouped (/NS GROUP) to any single account may be ungrouped/dropped after at least 6 months of inactivity. Requests for nicknames to be dropped will be subject to staff discretion. Requests for nicknames that violate Snoonet guidelines will be refused.
 
 ## Hostmasks
 
