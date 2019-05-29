@@ -25,7 +25,7 @@ Snoonet's top priority is the privacy and safety of its users. We take great mea
 
 **Register your nickname** By registering your nickname with a strong password, only you can use your nick. This ensures that users you speak with know and can verify they are speaking with you and not someone attempting to impersonate you. For more information on registering, please see our [NickServ instructions](/anope#NickServ).
 
-**Verify staff members** If you are requesting assistance in [#help](https://webchat.snoonet.org/help) or need to contact a staff member, please be sure to provide confidential or sensitive information only to Snoonet Staff. All staff are listed on our [Staff Directory](/staff) and can be verified on IRC with `/whois <nick>`. While we do not use any specific modes or characters to denote staff on the network, all staff members have `snoonet/rank/nick` as their vHost. Staff WHOIS also contains our role information, similar to `<user> is a member of Snoonet Staff`.
+**Verify staff members** If you are requesting assistance in [#help](https://webchat.snoonet.org/help) or need to contact a staff member, please be sure to provide confidential or sensitive information only to Snoonet Staff. All staff are listed on our [Staff Directory](/staff) and can be verified on IRC with `/whois <nick>` or with `/stats P`. While we do not use any specific modes or characters to denote staff on the network, all staff members have `snoonet/rank/nick` as their vHost. Staff WHOIS also contains our role information, similar to `<user> is a member of Snoonet Staff`.
 
 **Verify users** Similar to staff, regular users can often be verified before chatting. If you know a user whom you chat with has a registered account, you can verify their identity by checking their information with `/whois <nick>`. If logged in, they will have a `user/nick` vHost and a line saying `<nick> is logged in as <user>`.
 
@@ -43,7 +43,7 @@ Snoonet's top priority is the privacy and safety of its users. We take great mea
 
 **What information does SSL protect?** SSL encrypts everything that your computer sends to the server, and everything the server sends back to you. Most importantly, your username, password, and private messages are secured. This does not, however, secure public channels. Anyone can join a public channel and read what you say and most public channels are a mix of SSL and non-SSL users, so there is no guarantee information said in a public will not be visible to someone you do not wish to see it.
 
-**Does Snoonet allow bouncers, VPNs, and proxies?** Users who wish to obscure their IP address may connect to all servers via a VPN or bouncer service. For users using a bouncer, there is no time limit for maintaining your connection. While proxies are allowed, Snoonet reserved the right to scan for proxies and act as needed to protect the network if such services are being used maliciously.
+**Does Snoonet allow bouncers, VPNs and proxies?** Users who wish to obscure their IP address may connect using a VPN or IRC bouncer service. For users connecting with a bouncer, we do not impose a time limit on your connection. Open proxies or other malicious hosts are not permitted to access Snoonet.
 
 **Can channels be "spied" on?** No, all users can see when a staff member joins a shared channel. Although a module ([m_invisible](https://github.com/inspircd/inspircd-extras/blob/master/2.1/m_invisible.cpp)) exists to allow staff to join a channel unnoticed, it is not compiled or loaded on Snoonet's servers and thus not able to be used.
 
