@@ -9,4 +9,4 @@ type: post
 We now have a 100 player Minecraft Server:
 
 - MINECRAFT.SNOONET.ORG
-- Applications for admins can be found at http://snoonet.org/mcapp
+- Applications for admins can be found at https://snoonet.org/mcapp
