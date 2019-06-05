@@ -12,7 +12,7 @@ weight: 13
 
 Hi,
 
-I'm Madbrad200 - or just Brad! I'm usually using this nick or some variation of `[word]brad200`. If you need me for something, I can be found pretty much everywhere but I mostly chat in [#Psychic](https://kiwiirc.com/client/irc.snoonet.org/psychic), [#textfriends](https://kiwiirc.com/client/irc.snoonet.org/textfriends) or [#mnfh](https://kiwiirc.com/client/irc.snoonet.org/mnfh). Feel free to also send me a pm with `/query Madbrad200 Hi!` or `/msg Madbrad200 hi` :D
+I'm Madbrad200 - or just Brad! I'm usually using this nick or some variation of `[word]brad200`. If you need me for something, I can be found pretty much everywhere but I mostly chat in {{< webchat channel="#psychic" title="#Psychic" >}}, {{< webchat channel="#textfriends" title="#textfriends" >}} or {{< webchat channel="#mnfh" title="#mnfh" >}}. Feel free to also send me a pm with `/query Madbrad200 Hi!` or `/msg Madbrad200 hi` :D
 
 About me: I'm from the UK (specifically Leicester, which is definitely not northern), I love art, music (primarily [grime](https://en.wikipedia.org/wiki/Grime_\(music_genre\))), politics, history, flags and just generally learning about weird things. I'm also particularly fond of interactive fiction but I haven't wrote much of anything in a few years.
 
