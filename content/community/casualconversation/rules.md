@@ -6,8 +6,8 @@ draft: false
 type: page
 ---
 
-## [#casualconversation](https://kiwiirc.com/client/irc.snoonet.org/casualconversation)
-**Looking for live conversation?** Share a story, ask a question, or start a conversation about anything you desire in our [irc channel](https://kiwiirc.com/client/irc.snoonet.org/casualconversation). Maybe you'll make some friends in the process.
+## {{< webchat channel="#casualconversation" title="#casualconversation" >}}
+**Looking for live conversation?** Share a story, ask a question, or start a conversation about anything you desire in our {{< webchat channel="#casualconversation" title="IRC channel" >}}. Maybe you'll make some friends in the process.
 
 ### Starter Commands 
 *If you are new to IRC, here are a few starter commands*—  
@@ -49,7 +49,7 @@ Keep it casual. We are all here to have a nice time chatting it up so let's all 
 
 Kicks are stern warnings. Multiple warnings or kicks will result in a ban at the discretion of the channel Ops.
 
-→  *All [#casualconversation](https://kiwiirc.com/client/irc.snoonet.org/casualconversation) rules fall under the umbrella rules of [Reddit](https://www.reddit.com/rules) and [Snoonet's Network](/rules).*
+→  *All {{< webchat channel="#casualconversation" title="#casualconversation" >}} rules fall under the umbrella rules of [Reddit](https://www.reddit.com/rules) and [Snoonet's Network](/rules).*
 
 #### **Moderators**
 The role of mods is to regulate the channel and to keep the collective chill by enforcing the rules above.
@@ -68,7 +68,7 @@ Syntax | Function
 [Channel Stats](https://chanstats.snoonet.org/%23casualconversation.html)  
 Basics [IRC Prelude](http://www.irchelp.org/irchelp/new2irc.html) by [irchelp.org](http://www.irchelp.org/), [Snoonet Help](/help)  
 Bot [Gonzobot Command List](http://saxton.edwardslabs.com/)  
-Signs of Life {{< subreddit_link irc >}}, {{< subreddit_link snoonet>}}, [#snoonet](https://kiwiirc.com/client/irc.snoonet.org/snoonet), [#help](https://kiwiirc.com/client/irc.snoonet.org/help)
+Signs of Life {{< subreddit_link irc >}}, {{< subreddit_link snoonet>}}, {{< webchat channel="#snoonet" title="#snoonet" >}}, {{< webchat channel="#help" title="#help" >}}
 __________________
 ^**Feedback?** [^Message ^the ^Mods](https://www.reddit.com/message/compose?to=%2Fr%2FCasualConversation) ^·    ^Made ^with ^♥
 

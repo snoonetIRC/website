@@ -9,7 +9,7 @@ subreddit: "CasualConversation"
 ---
 
 <h1>[/r/CasualConversation](http://CasualConversation.reddit.com)</h1>
-[IRC channel](https://kiwiirc.com/client/irc.snoonet.org/casualconversation)
+{{< webchat channel="#casualconversation" title="IRC channel" >}}
 
 
 **Can you give us a description of your community: what it's about, what rules you may have and any resources you would like to include**
@@ -20,7 +20,7 @@ subreddit: "CasualConversation"
 
 * {{< subreddit_link CasualConversation >}} is a subreddit for general chat about *almost* anything that you can think of. The main rules here are to "respect others" and "Don't take things too seriously." Mostly we just want people to have a friendly place to have conversations but we do have a [detailed rules page here](http://www.reddit.com/r/CasualConversation/wiki/rules). Oh we also have a Snoonet rules page that can be found at https://www.snoonet.org/ccrules.
 
-We have a bunch of resources for our community, our [Steam group](http://steamcommunity.com/groups/rCasualConversation), [Music room](https://plug.dj/casualconversation), [Minecraft server](http://www.reddit.com/r/casualminecrafting) and of course our [Snoonet channel](https://kiwiirc.com/client/irc.snoonet.org/casualconversation).
+We have a bunch of resources for our community, our [Steam group](http://steamcommunity.com/groups/rCasualConversation), [Music room](https://plug.dj/casualconversation), [Minecraft server](http://www.reddit.com/r/casualminecrafting) and of course our {{< webchat channel="#casualconversation" title="Snoonet channel" >}}.
 
 
 **What inspired this community?**

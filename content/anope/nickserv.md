@@ -35,7 +35,7 @@ Every time you join Snoonet after registering your nick, you'll be prompted for 
 
 and you'll be logged in!
 
-*Most clients offer a way to save your password so that you do not have to manually type it each time. For client specific help, visit [#TechSupport!](http://webchat.snoonet.org/techsupport)*
+*Most clients offer a way to save your password so that you do not have to manually type it each time. For client specific help, visit {{< webchat channel="#techsupport" title="#TechSupport" >}}.*
 
 ---
 

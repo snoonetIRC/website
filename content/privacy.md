@@ -25,17 +25,17 @@ Snoonet's top priority is the privacy and safety of its users. We take great mea
 
 **Register your nickname** By registering your nickname with a strong password, only you can use your nick. This ensures that users you speak with know and can verify they are speaking with you and not someone attempting to impersonate you. For more information on registering, please see our [NickServ instructions](/anope#NickServ).
 
-**Verify staff members** If you are requesting assistance in [#help](https://webchat.snoonet.org/help) or need to contact a staff member, please be sure to provide confidential or sensitive information only to Snoonet Staff. All staff are listed on our [Staff Directory](/staff) and can be verified on IRC with `/whois <nick>` or with `/stats P`. While we do not use any specific modes or characters to denote staff on the network, all staff members have `snoonet/rank/nick` as their vHost. Staff WHOIS also contains our role information, similar to `<user> is a member of Snoonet Staff`.
+**Verify staff members** If you are requesting assistance in {{< webchat channel="#help" title="#help" >}} or need to contact a staff member, please be sure to provide confidential or sensitive information only to Snoonet Staff. All staff are listed on our [Staff Directory](/staff) and can be verified on IRC with `/whois <nick>` or with `/stats P`. While we do not use any specific modes or characters to denote staff on the network, all staff members have `snoonet/rank/nick` as their vHost. Staff WHOIS also contains our role information, similar to `<user> is a member of Snoonet Staff`.
 
 **Verify users** Similar to staff, regular users can often be verified before chatting. If you know a user whom you chat with has a registered account, you can verify their identity by checking their information with `/whois <nick>`. If logged in, they will have a `user/nick` vHost and a line saying `<nick> is logged in as <user>`.
 
-**Report suspicious users** If you believe a user is sharing personal information ("doxxing"), harassing yourself or another user, or impersonating users or staff, please let us know in [#help](https://webchat.snoonet.org/help) and a staff member will assist you.
+**Report suspicious users** If you believe a user is sharing personal information ("doxxing"), harassing yourself or another user, or impersonating users or staff, please let us know in {{< webchat channel="#help" title="#help" >}} and a staff member will assist you.
 
 # Frequently Asked Questions
 
 **Why is my information visible when I look myself up?** While your WHOIS and NickServ info is hidden from users, it is always visible to yourself. Your channel list, IP address, and host will be visible if you WHOIS yourself. Additionally, your NickServ information will be visible to you if you are properly logged in and identified.
 
-**Are there any "secret" staff members?** No. All staff members are visible to users and can be verified as outlined in the above section regarding verification of staff members. Any user who cannot be verified in these ways should be reported in [#help](https://webchat.snoonet.org/help) to a verified staff member.
+**Are there any "secret" staff members?** No. All staff members are visible to users and can be verified as outlined in the above section regarding verification of staff members. Any user who cannot be verified in these ways should be reported in {{< webchat channel="#help" title="#help" >}} to a verified staff member.
 
 **Can Snoonet Staff see my information?** Yes. In order to properly run the network and protect the safety of its users, all above information is visible to staff members. This information is never shared outside of staff and is used solely for the purposes of running the network, or as requested by users in need of support regarding their own information.
 
@@ -55,7 +55,7 @@ Snoonet's top priority is the privacy and safety of its users. We take great mea
 
 **Is it possible for users to obtain my IP via DCC?** No, Direct Client-to-Client (DCC) is disabled on Snoonet. Users cannot establish direct connections between each other for chatting or file sharing. If you wish to share files, please use a public file sharing service.
 
-**Who can I talk to about a privacy-related concern?** Please ask if you can private message a staff member in [#help](https://webchat.snoonet.org/help) and we will be glad to assist you. All correspondence between users and staff is confidential, although information may be shared with other staff members as needed to resolve the issue and protect the network and our users. Please verify staff members as outlined above before sending any information.
+**Who can I talk to about a privacy-related concern?** Please ask if you can private message a staff member in {{< webchat channel="#help" title="#help" >}} and we will be glad to assist you. All correspondence between users and staff is confidential, although information may be shared with other staff members as needed to resolve the issue and protect the network and our users. Please verify staff members as outlined above before sending any information.
 
 # Children's Online Privacy Protection Act
 

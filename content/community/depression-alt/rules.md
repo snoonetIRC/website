@@ -10,7 +10,7 @@ type: page
 <hr>
 
 <div align="right" float="right" padding-right="3px" margin="0">
-[Purpose](#purpose)  ||  [Channel Operators](#ops)  ||  [Rules & Guidelines](#guidelines)  ||  [Ban Appeals](https://www.reddit.com/r/SnoonetDepression/)  || [Webchat](https://kiwiirc.com/client/irc.snoonet.org/depression-alt)
+[Purpose](#purpose) || [Channel Operators](#ops) || [Rules & Guidelines](#guidelines) || [Ban Appeals](https://www.reddit.com/r/SnoonetDepression/) || {{< webchat channel="#depression-alt" >}}
 </div>
 
 ## <h2><a name="#purpose">Purpose</a></h2>

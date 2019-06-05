@@ -54,5 +54,5 @@ weight: 2
   flooders.
 + If a channel is getting spammed and no operators are around, or if you just
   need help with something network-related, join
-  [#help](http://webchat.snoonet.org/help).
+  {{< webchat channel="#help" title="#help" >}}.
 

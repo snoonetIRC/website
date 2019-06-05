@@ -1,4 +1,4 @@
---- 
+---
 date: 2016-09-23T04:27:00
 draft: false
 title: "New Servers in Europe and Asia"
@@ -9,4 +9,4 @@ Snoonet is proud to introduce Calvin (London) and Hobbes (Singapore) to the netw
 
 We have also added a new hub in Europe to increase reliability. This will ensure that users outside of North America are not as affected by maintenance and remain connected to each other in the rare event of a netsplit.
 
-If you have any questions, please ask a staff member in [#help](https://webchat.snoonet.org/help) and remember, "It's a wonderful world Hobbes ol' buddy... Let's go exploring!"
+If you have any questions, please ask a staff member in {{< webchat channel="#help" title="#help" >}} and remember, "It's a wonderful world Hobbes ol' buddy... Let's go exploring!"

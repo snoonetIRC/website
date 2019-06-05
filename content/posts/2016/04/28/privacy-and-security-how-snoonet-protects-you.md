@@ -15,4 +15,4 @@ Snoonet recognizes that privacy and security are key issues for many of our user
 
 **Private messages** can be restricted by users with a variety of user modes. PMs can be limited to users in common channels, registered users, or a configured whitelist. See [User Modes](/umodes) for more information.
 
-For more information on how Snoonet protects you, ways you can protect yourself, and frequently asked questions, please see our [Privacy and Security page](/privacy). If you have any questions, feel free to ask a staff member in [#help](https://webchat.snoonet.org/help).
+For more information on how Snoonet protects you, ways you can protect yourself, and frequently asked questions, please see our [Privacy and Security page](/privacy). If you have any questions, feel free to ask a staff member in {{< webchat channel="#help" title="#help" >}}.

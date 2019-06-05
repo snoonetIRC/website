@@ -7,5 +7,5 @@ type: multipage-index
 
 ***If you are looking for help with other users or need live support,
 [generate a support ticket](/support) or
-[join #help](http://webchat.snoonet.org/help) on the network.***
+{{< webchat channel="#help" title="join #help" >}} on the network.***
 

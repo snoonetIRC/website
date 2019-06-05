@@ -60,7 +60,7 @@ For more information, please see our [Privacy and Security page](/privacy).
   Additionally, If you own a username on reddit, you will be able to use the
   corresponding nickname on Snoonet.
 * Custom webchat built in cooperation with Snoonet, and simple, short-form
-  channel links (http://webchat.snoonet.org/channelname).
+  channel links ({{< webchat_plain >}}/channelname).
 
 ## Snoonet Mumble server
 

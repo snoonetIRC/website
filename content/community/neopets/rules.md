@@ -6,7 +6,7 @@ draft: false
 type: page
 ---
 
-Welcome to the [##neopets](Webchat.snoonet.org/##neopets) IRC channel!
+Welcome to the {{< webchat channel="##neopets" title="##neopets" >}} IRC channel!
 
 This is a place for Neopians to discuss things. Have fun, relax, join in the conversations, or start your own conversation. There are some rules that you will need to abide by, in addition to the general [Snoonet Rules](/rules):
 

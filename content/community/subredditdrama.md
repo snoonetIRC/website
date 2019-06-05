@@ -14,4 +14,4 @@ Although it was initially founded to be a meta subreddit for general drama and c
 
 If you're a meta redditor, if you like drama, or you want to know keep up with whatever current reddit shitstorm is brewing, {{< subreddit_link subredditdrama >}} is the place.
 
-[#subredditdrama](http://webchat.snoonet.org/subredditdrama) is a casual channel for discussion of drama and just about anything else. Saying mean things about MillenniumFalc0n will earn you the respect of every one. Except MillenniumFalc0n, of course, because he hates fun.
+{{< webchat channel="#subredditdrama" title="#subredditdrama" >}} is a casual channel for discussion of drama and just about anything else. Saying mean things about MillenniumFalc0n will earn you the respect of every one. Except MillenniumFalc0n, of course, because he hates fun.
