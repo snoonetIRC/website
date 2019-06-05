@@ -1,0 +1,10 @@
+{{/*
+    Usage:
+
+    For a plain webchat link:
+        {{< webchat >}}
+
+    For a link to a channel:
+        {{< webchat channel="channelname" title="Webchat" >}}
+*/}}
+<a href="{{ .Site.Params.webchatBaseURL }}{{ .Get "channel" }}">{{ or (.Get "title") "Webchat" }}</a>
