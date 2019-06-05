@@ -41,7 +41,7 @@ Make sure that you use a valid email, as you&amp;rsquo;ll have to confirm that i
 Every time you join Snoonet after registering your nick, you&amp;rsquo;ll be prompted for your password. Just type this:
 /msg NickServ IDENTIFY &amp;lt;password&amp;gt;
 and you&amp;rsquo;ll be logged in!
-Most clients offer a way to save your password so that you do not have to manually type it each time. For client specific help, visit #TechSupport!
+Most clients offer a way to save your password so that you do not have to manually type it each time. For client specific help, visit #TechSupport.
 Forgot your password? No problem. Use this:
 /msg NickServ RESETPASS &amp;lt;nick&amp;gt; &amp;lt;email&amp;gt;
 Sometimes you get disconnected, but your nick is still present on the network. When this happens you can regain control of your nick by typing:
