@@ -18,5 +18,5 @@ Specifically, community volunteers will work with subreddit communities and prov
 We are primarily looking for people with ideas, energy, and a willingness to contribute to the community. Community volunteers will not be network operators, and as such, extensive familiarity with IRC commands, prior experience, and a specific time commitment are not required. We are looking for people with knowledge of basic IRC commands, including how to set up channels and assist others in that respect. If joining Snoonet staff is something that interests you, this would be a great way to get to know us, gain experience working with our communities, and be considered for future staffing needs.
 
 
-If you are interested in applying, please visit [https://snoonet.org/vol](/vol) and send an application to [apply@snoonet.org](mailto:apply@snoonet.org).</div>
+If you are interested in applying, please visit the [Volunteer Application](/vol) and send an application to [apply@snoonet.org](mailto:apply@snoonet.org).</div>
 

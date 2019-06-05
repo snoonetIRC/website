@@ -20,7 +20,7 @@ bloodygonzo has made your network community bot gonzobot! You can see it [here](
 # What does this mean?
 We expect to continue to strive towards the goals of our Mission Statement.  We'll continue supporting communities as usual, offering network assistance in #help and discussion in #snoonet.  Expect updates from bloodygonzo in the New Year as we move forward together.
 
-The new network director will be focusing entirely on snoonet.org/missions
+The new network director will be focusing entirely on the [mission statement](/missions)
 
 Keep it real.
 

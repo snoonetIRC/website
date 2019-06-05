@@ -18,7 +18,7 @@ subreddit: "CasualConversation"
 
 **What sets your community apart from others?**
 
-* {{< subreddit_link CasualConversation >}} is a subreddit for general chat about *almost* anything that you can think of. The main rules here are to "respect others" and "Don't take things too seriously." Mostly we just want people to have a friendly place to have conversations but we do have a [detailed rules page here](http://www.reddit.com/r/CasualConversation/wiki/rules). Oh we also have a Snoonet rules page that can be found at https://snoonet.org/ccrules.
+* {{< subreddit_link CasualConversation >}} is a subreddit for general chat about *almost* anything that you can think of. The main rules here are to "respect others" and "Don't take things too seriously." Mostly we just want people to have a friendly place to have conversations but we do have a [detailed rules page here](http://www.reddit.com/r/CasualConversation/wiki/rules). Oh we also have a [Snoonet rules page](/ccrules).
 
 We have a bunch of resources for our community, our [Steam group](http://steamcommunity.com/groups/rCasualConversation), [Music room](https://plug.dj/casualconversation), [Minecraft server](http://www.reddit.com/r/casualminecrafting) and of course our {{< webchat channel="#casualconversation" title="Snoonet channel" >}}.
 
