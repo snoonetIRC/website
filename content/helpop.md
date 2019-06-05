@@ -32,7 +32,8 @@ type: page
 
 
 # User Commands
-*[back to top](#top)*
+
+{{< back_to_top >}}
 
 **General User Command Help:**
 
@@ -260,7 +261,8 @@ To add or remove more than one nick at a time, separate them with a comma and sp
 ---
 
 # User Modes
-*[back to top](#top)*
+
+{{< back_to_top >}}
 
 **General User Modes Help:**
 
@@ -274,7 +276,8 @@ Full list of [user modes](umodes) listed here.
 ---
 
 # Channel Modes
-*[back to top](#top)*
+
+{{< back_to_top >}}
 
 **General Channel Modes Help:**
 
@@ -288,7 +291,8 @@ Full list of [channel modes](/modes) listed here.
 ---
 
 # Extended Bans
-*[back to top](#top)*
+
+{{< back_to_top >}}
 
 **General Extended Bans Help:**
 
