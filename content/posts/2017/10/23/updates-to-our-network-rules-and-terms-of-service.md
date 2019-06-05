@@ -14,6 +14,6 @@ We've refreshed our [Network Rules](/rules) and updated our [Terms of Service](/
 * Our Terms of Service have been updated to include that we run an Open Proxy Monitor on our network. This information has previously been communicated in our MOTD, shown to all users when they connect to Snoonet.
 * Our Terms of Service have been updated to include how we protect our users from abuse.
 
-If you have any questions, we encourage you to join [#snoonet](https://webchat.snoonet.org/snoonet) and ask your question there.
+If you have any questions, we encourage you to join {{< webchat channel="snoonet" title="#snoonet" >}} and ask your question there.
 
 Thanks for using Snoonet!

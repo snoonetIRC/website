@@ -13,6 +13,6 @@ Unless you /umode -I, users will now be unable to see channels that you are in. 
 
 ## Looking for new channels?
 
-If you are looking to find new channels, please visit https://snoonet.org/communities.  
+If you are looking to find new channels, please visit [the communities page](/communities).
 
-If you'd like your channel to be added to this list, please ask in [#help](https://webchat.snoonet.org/help) or submit a ticket [here](https://support.snoonet.org).
+If you'd like your channel to be added to this list, please ask in {{< webchat channel="help" title="#help" >}} or submit a ticket [here](https://support.snoonet.org).
