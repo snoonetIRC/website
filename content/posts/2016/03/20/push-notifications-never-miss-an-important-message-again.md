@@ -17,4 +17,4 @@ In order to receive push notifications, you'll need a Snoonet BNC account, a Pus
 
 To start receiving notifications, visit our [push](/push) page. Configuration is easy and only takes a few minutes.
 
-If you need assistance, please ask in {{< webchat channel="help" title="#help" >}} and someone will assist you.
+If you need assistance, please ask in {{< webchat channel="#help" title="#help" >}} and someone will assist you.

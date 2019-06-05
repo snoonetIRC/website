@@ -24,6 +24,6 @@ We hold many contests throughout the year, culminating on our annual novelette c
 
 Our [chat room](https://kiwiirc.com/client/irc.snoonet.org/writingprompts) is a great place to come for both idle chit chat as well as ask for a critique on your writing. It's a warm and welcoming environment where we offer plenty of help and encouragement in your writing endeavors. Discussions can range anywhere from gaming to subreddit policy, and everything in between. Usually it's utter seething madness though. We kinda like it that way.
 
-We hold word sprints in which we see who can write the most words in a set period of time on whatever story they happen to be working on. There is also a side project called Writer's Tabletop™ Fantasy RPG which is a role playing game, now hosted in {{< webchat channel="wtfrpg" title="#wtfrpg" >}}.
+We hold word sprints in which we see who can write the most words in a set period of time on whatever story they happen to be working on. There is also a side project called Writer's Tabletop™ Fantasy RPG which is a role playing game, now hosted in {{< webchat channel="#wtfrpg" title="#wtfrpg" >}}.
 
-Our main chat room is always open, so {{< webchat channel="writingprompts" title="drop by" >}} and say hello. We hope to see you there!
+Our main chat room is always open, so {{< webchat channel="#writingprompts" title="drop by" >}} and say hello. We hope to see you there!

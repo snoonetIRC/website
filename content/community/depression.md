@@ -7,7 +7,7 @@ type: community
 kind: "health_and_food"
 ---
 
-[Purpose](#purpose) || [Channel Operators](#ops) || [Rules & Guidelines](#guidelines) || [Ban Appeals](#appeals) || {{< webchat channel="depression" >}} || [Links & Resources](#resources)
+[Purpose](#purpose) || [Channel Operators](#ops) || [Rules & Guidelines](#guidelines) || [Ban Appeals](#appeals) || {{< webchat channel="#depression" >}} || [Links & Resources](#resources)
 
 **<span style="color: red; text-decoration: underline;">If you are experiencing thoughts of suicide or self-harm, please reach out to any of the [crisis resources](#resources) listed below as opposed to using #depression.</span>**
 
@@ -65,7 +65,7 @@ In order to keep our channel safe and welcome for others, we reserve the right t
 ## Introducing #depression-offtopic {#casual}
 As of December 19th, 2018, we're happy to launch a new sister channel called #depression-offtopic. The purpose of this new channel is to allow our user base to engage in casual and/or idle chatter while allowing the main channel to remain for on-topic discussions, as necessary.
 
-To access this channel, please {{< webchat channel="depression-offtopic" title="click here" >}}.
+To access this channel, please {{< webchat channel="#depression-offtopic" title="click here" >}}.
 
 We ask all users to follow the same rule set for #depression, with the exception being that as chat will generally flow more quickly in a casual chat channel, users should avoid using the channel if they are easily overwhelmed by a fast-paced chat.
 
@@ -81,7 +81,7 @@ If you've recently been banned from one of our channels or have been instructed 
 
 Before you appeal your channel ban, it's important to understand why you've been banned from the channel. If you do not know why you were banned, please *message one of the [channel operators](#ops)*. Lastly, take a moment to review and familiarize yourself with our [rules](#rules) before appealing your ban.
 
-To access our ban appeals chat, please {{< webchat channel="DepressionAppeals" title="click here" >}}.
+To access our ban appeals chat, please {{< webchat channel="#DepressionAppeals" title="click here" >}}.
 
 [back to top](#top)
 
