@@ -10,7 +10,7 @@ type: post
 Snoonet is pleased to announce that it is the newest addition of the PrivateInternetAccess.com / London Trust Media, INC family.  Below is a written explanation of what is to be expected and our manifesto to keep IRC, its community culture, and all current operations as is but promote knowledge and growth moving in to the future.
 
 ## What is this, and what does it mean?
-The vision is simple: Put a protective bubble around IRC culture and its communities, release funding for development and community events, and make sure the mission statement at www.snoonet.org/missions carries in to the future.
+The vision is simple: Put a protective bubble around IRC culture and its communities, release funding for development and community events, and make sure the mission statement at snoonet.org/missions carries in to the future.
 No operational changes will be made, and things will continue as usual. This just gives us more resources and options to work with going in to the future.
 
 ## Why does this matter?

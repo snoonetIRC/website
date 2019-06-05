@@ -21,7 +21,7 @@ type: page
 
 **If you are online and available to users, stay oped in the channel, and de-oped if you are offline, busy, or otherwise unavailable.** To op yourself just type in: `!op` and `!deop` to de-op yourself.
 
-* Use your discretion when dealing with problematic users. Sometimes a simple topic change could handle the situation. Sometimes a user may deserve a warning. Sometimes a user will not relent until they are banned. You may choose to PM a user about their behavior or maybe just gently prod them in channel. However you choose to do it, a warning is preferred before any more severe action. Try referring people to the link to #anxiety rules in the topic. (www.snoonet.org/anxietyrules) Typically, the process should be:
+* Use your discretion when dealing with problematic users. Sometimes a simple topic change could handle the situation. Sometimes a user may deserve a warning. Sometimes a user will not relent until they are banned. You may choose to PM a user about their behavior or maybe just gently prod them in channel. However you choose to do it, a warning is preferred before any more severe action. Try referring people to the link to #anxiety rules in the topic. (snoonet.org/anxietyrules) Typically, the process should be:
  1. Warning (You may do this as many times as you feel necessary)
  2. Removal (You may do this as many times as you feel necessary)
  3. Ban  (If a user returns after being banned, contact Snoonet staff as it is against Snoonet policy)

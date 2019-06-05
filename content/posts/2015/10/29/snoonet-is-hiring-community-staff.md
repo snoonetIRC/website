@@ -22,6 +22,6 @@ We are NOT looking for operators who are solely interested in providing network 
 ## Applications and Inquiries 
 
 If you are interested in applying, please visit 
-[https://www.snoonet.org/vol](/vol) and send an application to [apply@snoonet.org](mailto:apply@snoonet.org).  
+[https://snoonet.org/vol](/vol) and send an application to [apply@snoonet.org](mailto:apply@snoonet.org).  
 
 If you have any questions about our community team or our work, please feel free to PM Ari or ScarletAngel.
