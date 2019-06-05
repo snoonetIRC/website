@@ -14,7 +14,7 @@ I'm flotwig. You might have heard me called flotty, flotsam, Just Wiggy™, or t
 
 I've been on IRC since 2007 or 2008 and I've been on Snoonet since week two of its existence. Nowadays, I'm a more active IRCer than I am a redditor.
 
-My favorite channels are [##PartyMansion](https://webchat.snoonet.org/##PartyMansion),  [#safefromparadox](https://webchat.snoonet.org/#safefromparadox), and  [#idlerpg](https://webchat.snoonet.org/#idlerpg).
+My favorite channels are {{< webchat channel="##PartyMansion" title="##PartyMansion" >}}, {{< webchat channel="#safefromparadox" title="#safefromparadox" >}}, and {{< webchat channel="#idlerpg" title="#idlerpg" >}}.
 
 Back in the day, I operated an IRC server for Snoonet. Now, I operate several smaller non-IRC servers. I run:
 

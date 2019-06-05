@@ -6,7 +6,7 @@ draft: false
 type: page
 ---
 
-Hi, [#socialskills](Webchat.snoonet.org/#socialskills) is an irc channel hosted on snoonet for those looking to have friendly conversation and/or receive advice in regards to social relationships. Keep in mind  that we are not professionals. For advice and help with mental health troubles #depression and #anxiety are better. Hope to see you there!
+Hi, {{< webchat channel="#socialskills" title="#socialskills" >}} is an irc channel hosted on snoonet for those looking to have friendly conversation and/or receive advice in regards to social relationships. Keep in mind  that we are not professionals. For advice and help with mental health troubles #depression and #anxiety are better. Hope to see you there!
 
 In addition to the general [Snoonet Rules](/rules) you will need to abide by the following channel rules:
 
