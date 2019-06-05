@@ -6,7 +6,7 @@ type: multipage-index
 weight: 3
 ---
 
-The absolute easiest way to connect to Snoonet is by using our webchat. Many subreddits you may have heard of Snoonet from will provide direct links to the chat. Our webchat uses the KiwiIRC client. To connect to Snoonet webchat simply visit [webchat.snoonet.org](http://webchat.snoonet.org) and choose a nickname.
+The absolute easiest way to connect to Snoonet is by using our webchat. Many subreddits you may have heard of Snoonet from will provide direct links to the chat. Our webchat uses the KiwiIRC client. To connect to Snoonet webchat simply visit {{< webchat title="the webchat" >}} and choose a nickname.
 
 The webchat can be used anywhere, at work, at home, or on mobile. This simplicity comes with the drawback of a few less features than a desktop client. A desktop client is customizable and has more functions. If you want to use a desktop client just read the next section. If you have problems setting up the desktop client you can always go back to the webchat, it's just a click away.
 

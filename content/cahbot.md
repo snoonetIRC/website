@@ -15,7 +15,7 @@ CAHbot is run by [bloodygonzo](/bloodygonzo) on Snoonet, and is a [fork](https:/
 
 ## Where Can I Play?
 
-CAHBot is currently set up in [##cah](https://webchat.snoonet.org/##cah) on Snoonet.  You can join a public game in this channel, or **/query bloodygonzo** and arrange for your channel to host a private game.
+CAHBot is currently set up in {{< webchat channel="##cah" title="##cah" >}} on Snoonet.  You can join a public game in this channel, or **/query bloodygonzo** and arrange for your channel to host a private game.
 
 ---
 
