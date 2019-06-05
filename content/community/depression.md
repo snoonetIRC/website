@@ -21,7 +21,7 @@ Our main function is to listen, be here for one another and offer peer support. 
 
 Please understand that although we are here to provide peer support, our channel is not intended as a replacement for counselling from a qualified professional and as such, all information/advice provided by our users is to be considered anecdotal and does not carry any weight. Please note, **we are not affiliated with [/r/depression](https://reddit.com/r/depression)** – that said, they are a wonderful group and we encourage you to check them out.
 
-[back to top](#top)
+{{< back_to_top >}}
 
 ## Channel Operators {#ops}
 ### Channel Owner: 
@@ -59,8 +59,7 @@ In order to keep our channel safe and welcome for others, we reserve the right t
 
 <center>**#depression is a place to seek support from others. Should your visit not be for the purposes of seeking peer advice or support, please keep general discussions or venting to a minimum.**</center>
 
-[back to top](#top)
-
+{{< back_to_top >}}
 
 ## Introducing #depression-offtopic {#casual}
 As of December 19th, 2018, we're happy to launch a new sister channel called #depression-offtopic. The purpose of this new channel is to allow our user base to engage in casual and/or idle chatter while allowing the main channel to remain for on-topic discussions, as necessary.
@@ -69,7 +68,7 @@ To access this channel, please [click here](https://webchat.snoonet.org/depressi
 
 We ask all users to follow the same rule set for #depression, with the exception being that as chat will generally flow more quickly in a casual chat channel, users should avoid using the channel if they are easily overwhelmed by a fast-paced chat.
 
-[back to top](#top)
+{{< back_to_top >}}
 
 ## Channel Ban Appeals {#appeals}
 If you've recently been banned from one of our channels or have been instructed to read this section, please understand:
@@ -83,8 +82,7 @@ Before you appeal your channel ban, it's important to understand why you've been
 
 To access our ban appeals chat, please [click here](https://webchat.snoonet.org/DepressionAppeals).
 
-[back to top](#top)
-
+{{< back_to_top >}}
 
 ##  General Information on Depression {#info}
 
@@ -98,8 +96,7 @@ Severe symptoms that interfere with one's ability to work, sleep, study, eat, an
 
 Depressed mood lasting at least two years or longer. Those diagnosed with PDD can have bouts of MDD alongside the PDD, but the main point is that the symptoms must last for at least 2 years.
 
-
-[back to top](#top)
+{{< back_to_top >}}
 
 ## Links & Resources {#resources}
 

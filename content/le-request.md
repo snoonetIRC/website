@@ -18,7 +18,8 @@ The information on this page is to only be used by law enforcement personnel.  F
 
 ---
 # <a name="preserve">Preservation Request</a>
-*[back to top](#top)*
+
+{{< back_to_top >}}
 
 To submit a preservation request, do the following:
 
@@ -29,7 +30,8 @@ To submit a preservation request, do the following:
 2) Send an email to lawenforcement [at] snoonet.org
 ---
 # <a name="user-information">Requests for Snoonet User Account Information</a>
-*[back to top](#top)*
+
+{{< back_to_top >}}
 
 To submit a Snoonet user account information request, do the following:
 
@@ -41,7 +43,8 @@ To submit a Snoonet user account information request, do the following:
 
 ---
 # <a name="emergency-request">Emergency Disclosure Requests</a>
-*[back to top](#top)*
+
+{{< back_to_top >}}
 
 To submit an emergency disclosure request, do the following:
 
