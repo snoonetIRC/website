@@ -5,12 +5,11 @@ title: "Privacy Concerns"
 type: post
 ---
 
-## Our Privacy Mission
-# www.snoonet.org/privacy
+## [Our Privacy Mission](/privacy)
 
 There's been chatter about Snoonet, or myself Shane "rdv" Allen individually as Snoonet's owner that we log all traffic on Snoonet, which is incorrect. I'll clarify in a short, simple post.
 
-These accusations are false, the logs are fabricated, and targeted to hinder Snoonet's vision. Snoonet does not log messages on its network, or have any ability to spy on its users. The staff at http://www.snoonet.org/staff all work together to keep each other accountable for their actions. I would be no exception, even as Snoonet's owner.
+These accusations are false, the logs are fabricated, and targeted to hinder Snoonet's vision. Snoonet does not log messages on its network, or have any ability to spy on its users. [The staff](/staff) all work together to keep each other accountable for their actions. I would be no exception, even as Snoonet's owner.
 
 However the users on Snoonet do keep private logs of the channels they are in, which can not be avoided on any platform.
 
@@ -30,6 +29,5 @@ The details have not yet been worked out on its partnership, however we look to 
 
 ## [If you would like to apply/be in the queue for a Private Internet Access VPN, make a post with this form](https://docs.google.com/forms/d/1Ot_vyJ5ak77X_qSCsQupPmUpcNe9x3hpGd7aXAGiSUA/viewform?ts=5852bf5a&edit_requested=true)
 
-## Snoonet's Mission Statement
-# www.snoonet.org/missions
+## [Snoonet's Mission Statement](/missions)
 This is a reminder of what Snoonet is about. Trolls will not sway this vision.

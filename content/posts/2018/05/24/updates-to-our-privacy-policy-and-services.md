@@ -10,7 +10,7 @@ As part of our ongoing mission to serve our users and their communities, Snoonet
 ## A brief overview of some of the changes:  
  * Our new [Privacy Policy](/privacy-policy) will come into effect on May 25, 2018.  The revised policy doesn't change the amount of data that we request from you, or impact how we use it.  
  Instead, the policy provides more details about the information we collect, how we use it, and how we comply with GDPR and other privacy legislation.  We have also provided information about how to request the removal of your information from both our IRC network and from services like our support system.   
- * As announced yesterday, we no longer offer the Statistics bot as a network service, and have purged all data collected by the service.  For more information, please visit [https://snoonet.org/Statistics](/Statistics).
+ * As announced yesterday, we no longer offer the Statistics bot as a network service, and have purged all data collected by the service.  For more information, please visit the [Statistics page](/Statistics).
  * We have updated the messages that are sent to you upon connecting to our IRC network to notify you of our revised Privacy Policy and to seek your consent to these changes.
 
 ## Additional information

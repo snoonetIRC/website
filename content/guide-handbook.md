@@ -21,24 +21,24 @@ These channels also grant you access to `Sherlock`, a user tracking bot used for
 Automatic half-op is enabled in `#optalk`, `#help`, `#snoonet`, and `#staff`. However, Community Guides are not granted any OPER or services access beyond what you already have on a per-channel basis as an OP or half-OP.
 
 # Policies and Procedures
-For our standard set of network rules see the network rules page: https://snoonet.org/rules
+For our standard set of network rules see the [network rules page](/rules)
 
-Information about Snoonet BNC can be found here: https://snoonet.org/bnc
+Information about Snoonet BNC can be found on the [BNC page](/bnc)
 
-The guidelines for channels can be found here: https://snoonet.org/channel-rules
+The guidelines for channels can be found on the [channel rules page](/channel-rules)
 
-More info here: https://snoonet.org/help
+[More info](/help)
 
 ## Important Resources
-Channel modes: https://snoonet.org/modes
+[Channel modes](/modes)
 
-User modes: https://snoonet.org/umodes
+[User modes](/umodes)
 
-Anope Commands: https://snoonet.org/anope
+[Anope Commands](/anope)
 
-Snoonet Bots: https://snoonet.org/bots
+[Snoonet Bots](/bots)
 
-Why Snoonet: https://snoonet.org/whysnoonet
+[Why Snoonet](/whysnoonet)
 
 NickServ: `/ns help`
 ChanServ: `/cs help`
