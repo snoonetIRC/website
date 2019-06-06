@@ -36,7 +36,7 @@ If you have any questions or concerns please don&amp;rsquo;t hesitate to ask a S
       <description>As part of our ongoing mission to serve our users and their communities, Snoonet is implementing some changes to our services and our policies to better reflect our commitment to privacy and security. &amp;nbsp;Specifically, we have made some changes in support of the EU General Data Protection Regulation (GDPR), which comes into effect on May 25, 2018.
 A brief overview of some of the changes:  Our new Privacy Policy will come into effect on May 25, 2018. The revised policy doesn&amp;rsquo;t change the amount of data that we request from you, or impact how we use it.
 Instead, the policy provides more details about the information we collect, how we use it, and how we comply with GDPR and other privacy legislation. We have also provided information about how to request the removal of your information from both our IRC network and from services like our support system.
- As announced yesterday, we no longer offer the Statistics bot as a network service, and have purged all data collected by the service. For more information, please visit https://snoonet.org/Statistics. We have updated the messages that are sent to you upon connecting to our IRC network to notify you of our revised Privacy Policy and to seek your consent to these changes.  Additional information Privacy and security have been a long-term priority for us at Snoonet, and you can review our Privacy and Security page for additional information about our network&amp;rsquo;s privacy features, steps that you can take to protect your privacy when using our services, and some answers to frequently asked questions.
+ As announced yesterday, we no longer offer the Statistics bot as a network service, and have purged all data collected by the service. For more information, please visit the Statistics page. We have updated the messages that are sent to you upon connecting to our IRC network to notify you of our revised Privacy Policy and to seek your consent to these changes.  Additional information Privacy and security have been a long-term priority for us at Snoonet, and you can review our Privacy and Security page for additional information about our network&amp;rsquo;s privacy features, steps that you can take to protect your privacy when using our services, and some answers to frequently asked questions.
 It&amp;rsquo;s important to be aware that by using our services on or after May 25, 2018, you will be agreeing to the changes outlined in our Privacy Policy. If you do not agree to these changes, it is important that you stop using our services and take steps to delete your accounts and data. &amp;nbsp;For more information, please consult the policy or contact us through our support system at https://support.snoonet.org.</description>
     </item>
     
@@ -58,7 +58,7 @@ Thanks for using Snoonet!</description>
       
       <guid>https://staging.snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/</guid>
       <description>From: Snoonet Foundation (Shane Allen, Jeff Sandberg) Snoonet is pleased to announce that it is the newest addition of the PrivateInternetAccess.com / London Trust Media, INC family. Below is a written explanation of what is to be expected and our manifesto to keep IRC, its community culture, and all current operations as is but promote knowledge and growth moving in to the future.
-What is this, and what does it mean? The vision is simple: Put a protective bubble around IRC culture and its communities, release funding for development and community events, and make sure the mission statement at www.snoonet.org/missions carries in to the future. No operational changes will be made, and things will continue as usual. This just gives us more resources and options to work with going in to the future.
+What is this, and what does it mean? The vision is simple: Put a protective bubble around IRC culture and its communities, release funding for development and community events, and make sure the mission statement carries in to the future. No operational changes will be made, and things will continue as usual. This just gives us more resources and options to work with going in to the future.
 Why does this matter? Snoonet was created Apr. 28, 2012 with one vision in mind: Create and maintain bad-ass stuff for the infinite amount of Reddit communities. In the 5 years of its existence, Snoonet has maintained a certain vision of valuing its communities by hiring its community leaders to help protect, and provide a home for its userbases.
 London Trust Media and its subsidiary PrivateInternetAccess.com believe in a much bigger picture with regards to community culture. If we take a step back and look at it, the picture is clear. &amp;ldquo;Be there for the communities, and allow them to grow without influencing community evolution.&amp;rdquo;
 How did this come about? This past Christmas, I, Shane Allen reached out to PrivateInternetAccess. It&amp;rsquo;s been a long journey over these years in both Snoonet life and my personal life. When reaching out I asked for one thing after explaining what Snoonet stood for and was about. I had asked for help buying my staff Christmas gifts and helping me to show them a thank you for believing in something we all put so much time in to build. I expected maybe a few hundred dollars so I could buy some sweaters, coats, mittens, etc for the children of our staff, and maybe provide some food to the staff members who could use a little help.
@@ -91,7 +91,7 @@ Feel free to use it to send large amounts of text.</description>
 Network Leadership Jeff &amp;ldquo;Paradox&amp;rdquo; Sandberg and Shane &amp;ldquo;rdv&amp;rdquo; Allen will be moving to founder roles, retiring from day-to-day operations. They remain as network owners and will provide input and advice to network operations where appropriate, and will continue to play a role in identifying talent and managing staff.
 bloodygonzo bloodygonzo has made your network community bot gonzobot! You can see it here and utilize it! He helps new-comers with creating python modules, and has the idea of helping every body that needs something in their community! You can contact bloodygonzo at bloodygonzo@snoonet.org for additional information!
 What does this mean? We expect to continue to strive towards the goals of our Mission Statement. We&amp;rsquo;ll continue supporting communities as usual, offering network assistance in #help and discussion in #snoonet. Expect updates from bloodygonzo in the New Year as we move forward together.
-The new network director will be focusing entirely on www.snoonet.org/missions
+The new network director will be focusing entirely on the mission statement
 Keep it real.</description>
     </item>
     
@@ -125,14 +125,14 @@ What we need:  nodejs devs webdeveloper/designer for a simple re-design of the c
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/posts/2016/12/15/privacy-concerns/</guid>
-      <description>Our Privacy Mission www.snoonet.org/privacy There&amp;rsquo;s been chatter about Snoonet, or myself Shane &amp;ldquo;rdv&amp;rdquo; Allen individually as Snoonet&amp;rsquo;s owner that we log all traffic on Snoonet, which is incorrect. I&amp;rsquo;ll clarify in a short, simple post.
-These accusations are false, the logs are fabricated, and targeted to hinder Snoonet&amp;rsquo;s vision. Snoonet does not log messages on its network, or have any ability to spy on its users. The staff at http://www.snoonet.org/staff all work together to keep each other accountable for their actions. I would be no exception, even as Snoonet&amp;rsquo;s owner.
+      <description>Our Privacy Mission There&amp;rsquo;s been chatter about Snoonet, or myself Shane &amp;ldquo;rdv&amp;rdquo; Allen individually as Snoonet&amp;rsquo;s owner that we log all traffic on Snoonet, which is incorrect. I&amp;rsquo;ll clarify in a short, simple post.
+These accusations are false, the logs are fabricated, and targeted to hinder Snoonet&amp;rsquo;s vision. Snoonet does not log messages on its network, or have any ability to spy on its users. The staff all work together to keep each other accountable for their actions. I would be no exception, even as Snoonet&amp;rsquo;s owner.
 However the users on Snoonet do keep private logs of the channels they are in, which can not be avoided on any platform.
 I personally was doxxed, harassed, threatened, and belittled. However, I&amp;rsquo;ll take one for the team.
 I made a post clarifying the situation here on reddit
 SSL If you feel your messages are being spied on by your internet service provider, the government, or even on Snoonet&amp;rsquo;s end, please connect to irc.snoonet.org on port 6697. We have a signed certificate for secure authentication. If you need help setting up your IRC client, please ask in #help
 Extra security online Snoonet will be working directly with Private Internet Access to provide users with home VPNs for their home devices. This will help increase anonymity if users such are looking for extra security online. The details have not yet been worked out on its partnership, however we look to have the ability to offer free, or reduced payment to users on Snoonet.
-If you would like to apply/be in the queue for a Private Internet Access VPN, make a post with this form Snoonet&amp;rsquo;s Mission Statement www.snoonet.org/missions This is a reminder of what Snoonet is about. Trolls will not sway this vision.</description>
+If you would like to apply/be in the queue for a Private Internet Access VPN, make a post with this form Snoonet&amp;rsquo;s Mission Statement This is a reminder of what Snoonet is about. Trolls will not sway this vision.</description>
     </item>
     
     <item>
@@ -288,7 +288,7 @@ Responsibilities Community staff will assist with various projects designed to i
 On a day-to-day basis, responsibilities will also include assisting with support requests in #help and in our ticket system, drafting communications about upcoming events or ongoing issues, and generally providing users and channel operators with support and assistance.
 Qualifications We are primarily looking for people with ideas, energy, and a willingness to contribute to the community. Community staff WILL be network operators, and as such, we are looking for people with knowledge of basic IRC commands, including how to set up channels and assist others in that respect.
 We are NOT looking for operators who are solely interested in providing network support at this point in time. Applicants should be interested in working with communities and demonstrate the motivation, creativity, and initiative necessary to succeed on a volunteer team.
-Applications and Inquiries If you are interested in applying, please visit https://www.snoonet.org/vol and send an application to apply@snoonet.org.
+Applications and Inquiries If you are interested in applying, please visit Volunteer Application and send an application to apply@snoonet.org.
 If you have any questions about our community team or our work, please feel free to PM Ari or ScarletAngel.</description>
     </item>
     
@@ -331,7 +331,7 @@ Feedback on the new site and suggestions for the future can be provided in our #
       <pubDate>Sun, 22 Mar 2015 15:49:00 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/posts/2015/03/22/network-and-channel-stats-back-online/</guid>
-      <description>After much anticipation, network and channel stats are now back online! Invite statistics to your channel to enable stats. You can check them out by typing !stats in your channel or going to chanstats.snoonet.org and clicking your channel name. See where you and your channel rank in the global statistics at stats.snoonet.org. To see other cool stat-related things go to www.snoonet.org/anope#Stats.
+      <description>After much anticipation, network and channel stats are now back online! Invite statistics to your channel to enable stats. You can check them out by typing !stats in your channel or going to chanstats.snoonet.org and clicking your channel name. See where you and your channel rank in the global statistics at stats.snoonet.org. To see other cool stat-related things, see the Anope Stats reference.
 Just a reminder that if you&amp;rsquo;d like to opt out of statistics, you may type &amp;lsquo;/msg nickserv set chanstats off&amp;rsquo;. The data already collected will not be removed. This is recommended for channels who do not want their members or quotes from their chat made public.
 If you haven&amp;rsquo;t already, you can also check out the services web portal at anope.snoonet.org. The services web portal will allow you to manage your modes and services information.</description>
     </item>
@@ -400,7 +400,7 @@ A conversion guide will be written in the near future, and Snoonet will assist c
       <pubDate>Fri, 24 Oct 2014 21:56:00 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/posts/2014/10/24/tor-connectivity/</guid>
-      <description>Our tor service is back up online, with a new hidden service address: sylmrwllqsy7yapm.onion . Please visit http://www.snoonet.org/tor for instructions on how to set it up.</description>
+      <description>Our tor service is back up online, with a new hidden service address: sylmrwllqsy7yapm.onion . Please visit the TOR help page for instructions on how to set it up.</description>
     </item>
     
     <item>
@@ -506,7 +506,7 @@ We are asking for 10-15 support staff If you&amp;rsquo;d like to help Snoonet on
       
       <guid>https://staging.snoonet.org/posts/2013/02/03/updates/</guid>
       <description> Minecraft Server We now have a 100 player Minecraft Server:
- MINECRAFT.SNOONET.ORG Applications for admins can be found at http://www.snoonet.org/mcapp  </description>
+ MINECRAFT.SNOONET.ORG Applications for admins can be found at Minecraft Admin Applications  </description>
     </item>
     
     <item>
