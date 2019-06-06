@@ -11,6 +11,9 @@ pluralizelisttitles = false
 
 disablePathToLower = true
 
+# https://gohugo.io/variables/git/
+enableGitInfo = true
+
 # https://gohugo.io/getting-started/configuration/#blackfriday-options
 [blackfriday]
 fractions = false
@@ -18,6 +21,7 @@ fractions = false
 [params]
     webchatBaseURL = "https://webchat.snoonet.org/"
     redditBaseURL  = "https://reddit.com"
+    repositoryURL  = "https://github.com/snoonetIRC/static-web/"
 
     [params.communityTypes]
         [[params.communityTypes.beauty_and_relationships]]
