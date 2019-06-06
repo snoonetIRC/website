@@ -16,7 +16,7 @@ This Website ('Snoonet.org'), and its owners Snoonet, (collectively, 'We', 'Us',
 ---
 
 ## PERSONAL INFORMATION WE COLLECT
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
 
 From All Users of Our IRC Network
 
@@ -37,7 +37,7 @@ From the Snoonet Website and Support System
 
 ---
 ## USES OF PERSONAL INFORMATION COLLECTED BY US
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
 
 
 * E-mail address is used to confirm account ownership, for certain limited non-marketing communications by Snoonet to users, or to respond to support requests submitted through our support system.
@@ -48,49 +48,49 @@ Snoonet does not collect or log any chat information whatsoever. However, users 
 
 ---
 ## DISCLOSURE AND USE OF PERSONAL INFORMATION
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
 
 Snoonet may be required to provide your personal information to law enforcement in the event of a criminal investigation, criminal prosecution, or civil subpoena. Snoonet will comply with legal instruments that follow proper procedure and are sufficiently narrow in their scope as to not infringe on the civil liberties of others.
 
 ---
 ## DATA RETENTION
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
 
 We retain all account information and data indefinitely unless a client requests that their information be deleted. We retain at most thirty (30) days of login activity after which the data is purged from our system. We do not maintain any logs of user chat activity. To request that your information be deleted, see the [ "How to Access and Control Your Personal Information"](#how-to-access-and-control-your-personal-information) section below.
 
 ---
 ## CalOPPA STATEMENT
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
  
 The State of California requires us to post specific language related to our privacy policy. By default, Snoonet does not share your private information with any third parties aside from the disclosures already made in this privacy policy. However, if you wish to inquire into specifics and verify that Snoonet does not share the personal information of our users with third parties for direct marketing purposes, you may contact [operations@snoonet.org](mailto:operations@snoonet.org).
 
 ---
 ## MAINTAINING THE SECURITY OF YOUR PERSONAL INFORMATION
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
 
 Your personal information is safeguarded by Snoonet. You may access your personal information maintained by Snoonet on our IRC network via a command or by submitting a ticket through our support system. Personal information stored by Snoonet can also be made accessible to other third-parties on the Snoonet network on an opt-in basis only. All personal information maintained by Snoonet is stored in an encrypted form on a server located in the United States.
 
 ---
 ## HOW WE TRANSFER PERSONAL INFORMATION COLLECTED INTERNATIONALLY
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
 
 We collect information globally and primarily store that information in the United States.
 
 ---
 ## COPPA DISCLOSURE - ABOUT CHILDREN'S ONLINE PRIVACY
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
 
 The Children's Online Privacy Protection Act (COPPA) was passed to give parents increased control over what information is collected from their children online and how such information is used. The law applies to websites and services directed to, and which knowingly collect information from, children under the age of 13. Our online services are not directed to children under the age of 13, nor is information knowingly collected from them. For additional information on COPPA protections, please see the FTC website at[ https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
 ---
 ## HOW TO ACCESS AND CONTROL YOUR PERSONAL INFORMATION
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
 
 You may access or delete your personal information from the IRC network at any time via a command. To view information shared with Snoonet, use the &ldquo;/msg NickServ INFO &lt;nickname&gt;&rdquo; command. To delete your user account, use the "/msg NickServ DROP &lt;nickname&gt;&rdquo; which requires a secondary confirmation. You may also change the email address associated with your account via a channel command. Another means to delete the personal information maintained by Snoonet is to request that your account information be deleted by the Snoonet support team. The Snoonet support team may be reached at [https://support.snoonet.org](https://support.snoonet.org). 
 
 ---
 ## CHANGES TO THIS PRIVACY POLICY
-[Back to Top ](#snoonet-privacy-policy)
+{{< back_to_top >}}
 
 BY CONTINUING TO USE THIS WEBSITE AND/OR SERVICES, YOU AGREE THAT YOU CONSENT TO THIS MOST RECENT PRIVACY POLICY. YOU AGREE THAT SNOONET MAY MAKE CHANGES TO THIS PRIVACY POLICY AT ANY TIME WITHOUT ANY GIVEN NOTICE AT ITS DISCRETION.
 
