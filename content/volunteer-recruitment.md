@@ -3,6 +3,7 @@ title: "Volunteer Recruitment"
 date: 2019-01-14T21:47:37Z
 draft: false
 type: page
+aliases: [ '/vol' ]
 ---
 
 Sorry, we are not currently accepting applications at this time.
