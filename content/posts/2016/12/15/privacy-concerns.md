@@ -29,5 +29,5 @@ The details have not yet been worked out on its partnership, however we look to 
 
 ## [If you would like to apply/be in the queue for a Private Internet Access VPN, make a post with this form](https://docs.google.com/forms/d/1Ot_vyJ5ak77X_qSCsQupPmUpcNe9x3hpGd7aXAGiSUA/viewform?ts=5852bf5a&edit_requested=true)
 
-## [Snoonet's Mission Statement](/missions)
+## [Snoonet's Mission Statement](/mission-statement)
 This is a reminder of what Snoonet is about. Trolls will not sway this vision.
