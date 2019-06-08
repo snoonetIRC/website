@@ -36,7 +36,6 @@ Please understand that although we are here to provide peer support, our channel
 - GhostyOne
 - jglauche
 - [Madbrad200](/staff/madbrad200)
-- MuffinMedic
 - TheStrangeOne
 - toomin
 - [void](/staff/void)
