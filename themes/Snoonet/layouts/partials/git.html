@@ -1,0 +1,16 @@
+{{ $repoURL := .Site.Params.repositoryURL }}
+
+{{ with .GitInfo }}
+    <em>
+        Last modification:
+        <a
+            href="{{ $repoURL }}commit/{{ .Hash }}"
+        >
+            {{ .AbbreviatedHash }}
+        </a>
+        &middot;
+        {{ .AuthorName }}
+        &middot;
+        {{ dateFormat "Mon, Jan 2, 2006 15:04:05" .AuthorDate }}
+    </em>
+{{ end }}

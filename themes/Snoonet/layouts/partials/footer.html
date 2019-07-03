@@ -4,6 +4,9 @@
 
                 <footer id="footer">
                     <ul>
+                        {{ if eq .Kind "page" }}
+                            {{ partial "git.html" . }}
+                        {{ end }}
                         <li>&copy; {{ now.Format "2006"}} Snoonet</li>
                     </ul>
                 </footer>
