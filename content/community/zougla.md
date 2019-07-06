@@ -41,7 +41,7 @@ kind: "news_and_politics"
 
 Στη συνέχεια θα σας έρθει ένα email της μορφής:
 
-You have requested to register the nickname test123 on Snoonet. Please type " /msg NickServ CONFIRM eSTJOPWv8 " in your IRC Client to complete registration.
+You have requested to register the nickname Giwrgos on Snoonet. Please type " /msg NickServ CONFIRM eSTJOPWv8 " in your IRC Client to complete registration.   
 
 Αντιγράφετε το παρακάτω μήνυμα: **/msg NickServ CONFIRM eSTJOPWv8** για να ολοκληρωθεί η εγγραφή σας.
 
