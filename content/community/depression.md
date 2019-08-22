@@ -74,7 +74,7 @@ If you've recently been banned from one of our channels or have been instructed 
 
 - We prohibit ban evasion, which is [against Snoonet rules](/rules).
 - As it is important enough to list twice, ban evasion *for any reason* is prohibited and may result in a network ban.
-- Our staff does make every effort to keep banning users to an absolute minimum.
+- Our staff make every effort to keep banning users to an absolute minimum.
 
 
 Before you appeal your channel ban, it's important to understand why you've been banned from the channel. If you do not know why you were banned, please *message one of the [channel operators](#ops)*. Lastly, take a moment to review and familiarize yourself with our [rules](#rules) before appealing your ban.
