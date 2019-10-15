@@ -42,7 +42,7 @@ Please understand that although we are here to provide peer support, our channel
 
 
 ## Channel Rules & Guidelines {#guidelines}
-(Last updated: December 19th, 2018)
+(Last updated: October 13th, 2019)
 
 **Please be respectful towards others.**
 
@@ -55,6 +55,8 @@ Please understand that although we are here to provide peer support, our channel
 
 
 In order to keep our channel safe and welcome for others, we reserve the right to remove any user at any time, with or without notice and for any reason.
+
+Our channel operators are well equipped to deal with most channel issues. To ping a channel operator, simply message "?ops" in the channel. Please do not attempt to mediate between users/operators and the channel rules during this time and allow the operators to do their jobs.
 
 <center>**#depression is a place to seek support from others. Should your visit not be for the purposes of seeking peer advice or support, please keep general discussions or venting to a minimum.**</center>
 
