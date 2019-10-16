@@ -8,8 +8,8 @@ kind: "technology_and_science"
 subreddit: ""
 ---
 
-<h1>[GNU/Lag](https://gnulag.net)</h1>
-<h3>*Warning: This channel contains content that is not suitable for users under 18 years of age.*</h3>
+# [GNU/Lag](https://gnulag.net)
+### *Warning: This channel contains content that is not suitable for users under 18 years of age.*
 {{< webchat channel="#gnulag" title="IRC channel" >}}
 
 
