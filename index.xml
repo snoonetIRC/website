@@ -418,18 +418,6 @@ I, personally, maintain a number of servers for the Snoonet network, as well as 
     </item>
     
     <item>
-      <title>linuxdaemon</title>
-      <link>https://staging.snoonet.org/staff/linuxdaemon/</link>
-      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/staff/linuxdaemon/</guid>
-      <description>Hi! I&amp;rsquo;m linuxdaemon on Snoonet. I&amp;rsquo;m mostly working in the background, keeping snoonet and its userbase secure. I&amp;rsquo;m mostly active as a member of the dev team, but I&amp;rsquo;m generally around for any community issues that may arise.
-I can be reached on IRC via PM /query linuxdaemon or via email at linuxdaemon@snoonet.org
-Outside of Snoonet, I am a Computer Science student, currently studying for my bachelors.
-My keybase proof can be found here including my client SSL fingerprint</description>
-    </item>
-    
-    <item>
       <title>ricin</title>
       <link>https://staging.snoonet.org/staff/ricin/</link>
       <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
@@ -528,20 +516,6 @@ Feel free to ask me about my Small Dog.
     </item>
     
     <item>
-      <title>A_D</title>
-      <link>https://staging.snoonet.org/staff/a_d/</link>
-      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/staff/a_d/</guid>
-      <description>Ohai, I&amp;rsquo;m A_D, also sometimes known as Roy_Mustang or A_Dragon.
-You can find me in a whole lot of channels, usually I&amp;rsquo;ll be active in #casualconversation and #aspergers, but I do pop up elsewhere pretty often too, I&amp;rsquo;m always in #help and if I am around I will be pinged by any message in that channel. In my free time I like to play games like Factorio, RimWorld and MineCraft, browse Reddit or sit around writing client scripts of varying complexity. I&amp;rsquo;m happy to be PMed at any time, you can do so with /query A_D or /query Roy_Mustang If you&amp;rsquo;re not sure which, drop into #help and have a look at the user list, or better yet, ping me in #snoonet, A_D or Roy_Mustang will always ping me, no matter my nick. You can also e-mail me at A_D@snoonet.org
-If you&amp;rsquo;re not sure that you&amp;rsquo;re talking to me, you can whois me, I will always have a staff vhost and will almost always be connected using a client certificate with the fingerprint 42E8 817B B764 0649 7E47 398B A9A0 A434. you can check this in my whois;
-* [A_D] has client certificate fingerprint 42e8817bb76406497e47398ba9a0a434
-Otherwise, if you really need to verify its me, you can get me to PGP sign something. My public key is on keybase.io if you want to verify something I gave you, you can do so at keybase.io/verify, just paste the text into the block and hit the verify button.
- -----BEGIN PGP SIGNED MESSAGE----- Hash: SHA256 Here is a message for you to verify. This key is owned by me, A_D, A_D@snoonet.org and is listed on https://keybase.io/a_d I sometimes go by the aliases Roy_Mustang and A_Dragon This message can be verified on https://keybase.io/verify or by using my public key My client certificate has the fingerprint 42E8 817B B764 0649 7E47 398B A9A0 A434 My public key has the fingerprint 8707 71C4 2D4B 9BC4 7F27 3F76 C242 F3DD 220F A945 This message was written on Tuesday, March 20, 2018 at 06:47 AM, GMT+2 -----BEGIN PGP SIGNATURE----- Version: GnuPG v2 iQIcBAEBCAAGBQJasJJ/AAoJEMJC890iD6lFfIIQALCUvY8RSZDXfAQEfpTvMBD2 c9gWaenUVffNk5M9zlORymkQI3Cs8IyWEb86c9dcPf+PsKpP4dNDnELITb3VFMBS S84pdyZrxPAfmlID7Cj02G7xE4AQp5RU5ct89Dqz23FXv44+LP0RWk9VDVpBZC5F Q4ZZjdun88Nua/1pERyn54vTxEdZwo7vOVYWZd5zJh65PnKHrKuOt8cK8oMEr3Vo DyyV1Qb7TaWGCnFnP+qnERbrcD0r9mPbmkAVLjqmG66tTy95P5rKosN13T3gvSvB 4GayTzbBTZdQPJz1TWAoBnh+e27Yx/tvzDOrklSx4q+u0xfhhLSGGGIJJhhckXYn OmhgibdnMBeOzJu3uhUYLhelz/3IJMxzc9CnS9a63Do9AFwQMaFqf+MvZd1mxYux UCmJe7KQhJcJQPeJ5zz4caTn7XbiV/BfGvdn6vbPY5Iqc75k8IbrSm+r/uGaHIJG VfYSxGTUvXIJm4WWOvp94gIFKt9wOeACklsdxqUS/5fjswdGVj3gPjn/cyN071Dc bppw/JJhkdIg7X9bmi1KtW6pIlOeqcjQgSCyVLf7VHJ0POEKXsLgtpf06HukYSpz 9Gq4P1lWc6nXAYYAnj9js6+z9RT6m+Xtg7ezsqSP9aMQJBdaLGb4GqYOEUZ+Jnh6 0iHQA20d7kL69JoUsIJe =8JG9 -----END PGP SIGNATURE-----  </description>
-    </item>
-    
-    <item>
       <title>jotun</title>
       <link>https://staging.snoonet.org/staff/jotun/</link>
       <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
@@ -621,18 +595,6 @@ My favorite channels are ##PartyMansion, #safefromparadox, and #idlerpg.
 Back in the day, I operated an IRC server for Snoonet. Now, I operate several smaller non-IRC servers. I run:
  Statistics: A bot which collects and computes various statistics about users. Status: A beta Snoonet status monitor, so you don&amp;rsquo;t have to ask &amp;ldquo;is it just me?&amp;rdquo; next time you can&amp;rsquo;t connect. Unfortunately not quite finished because we are still transitioning over to Anope. Various internal systems, including mail and DNS for irc.snoonet.org.  I strongly believe in Snoonet&amp;rsquo;s ability to sustain growth for the future. We&amp;rsquo;ve come from being ecstatic at having a hundred users to regularly seeing bursts of over three thousand. At the time of this writing, we have 1,462 independent, user-created channels and 2,698 users online&amp;hellip; at 10 AM on a Sunday. Things are good and they&amp;rsquo;re getting better.
  flotwig  </description>
-    </item>
-    
-    <item>
-      <title>iownall555</title>
-      <link>https://staging.snoonet.org/staff/iownall555/</link>
-      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/staff/iownall555/</guid>
-      <description>Greetings! I am iownall555.
-I typically hang out in #linuxmasterrace and a bunch of other channels and have an interest in Linux, FOSS, gaming and programming (primarily Python and a bit of Perl, C and recently Kotlin). Feel free to ask me for help in person if you need it or join #help if your query is specifically network related.
-I have a website located here that contains my programming projects among other things. Furthermore as I use PGP my key can be found on Keybase or on my website under the &amp;ldquo;About&amp;rdquo; section.
-[12:08:33] »» [iownall555] is a level 5 enchanted Snoonet Staff of +3 spam-reduction.</description>
     </item>
     
     <item>
@@ -3182,15 +3144,6 @@ There are no plans to restore our Tor hidden service at this time.</description>
       <guid>https://staging.snoonet.org/why-snoonet/</guid>
       <description>Snoonet is a network run by redditors, for redditors.  Thousands of redditors and hundreds of subreddits already use Snoonet every day. Snoonet provides better security and support because of our focus on reddit users and reddit communities. We serve as a centralized reddit hub. Whether you&amp;rsquo;re a casual or serious user, there&amp;rsquo;s a reddit-related channel for you.  Snoonet protects your privacy  IPs and registration information are visible only to yourself and Snoonet Staff. User channels are hidden from their WHOIS - Other users cannot view what channels you are in unless you explicitly allow it. Private messages can be restricted to only users you want to message you  For more information, please see our Privacy and Security page.
 Snoonet offers a free BNC (ZNC)  Learn about our BNC setup, and policy. Exceptions can be made for users from large subreddits. Don&amp;rsquo;t miss out on chats, we offer an always connected service so your nickname stays connected 24/7. Make sure to have a registered nickname before issuing this command: /requestbnc  Snoonet offers notifications to your phone, tablet, or mobile device  Read more about push notifications to keep up-to-date on IRC when away from your computer. Receive a notification on your mobile device whenever you are pinged or messaged. Reply directly from your device using your client of choice.  Snoonet offers subreddit vhosts (*@subreddit/username)  You need to have a registered nickname in order to use this command. You must also be in the appropriate subreddit channel with 40 or more users (and be on the access list): Please inquire in #help or open a ticket on our support platform to have your vhost assigned.  Snoonet offers custom services and policies catered to reddit and unique to our network.  Channel bots created specifically for redditors, which any channel op can /invite.  SubWatch - automatically posts subreddit threads, is able to watch private subreddits and announce threads based on keywords in the title. gonzobot - a customized Cloudbot implementation for the communities on Snoonet.  Priority enforcement for reddit nicks and channels. Mods of corresponding subreddits get preference for IRC channels, and unlike on Freenode and other networks, you no longer have to use the #reddit-channelname format. Additionally, If you own a username on reddit, you will be able to use the corresponding nickname on Snoonet. Custom webchat built in cooperation with Snoonet, and simple, short-form channel links (https://webchat.</description>
-    </item>
-    
-    <item>
-      <title>linuxdaemon PGP</title>
-      <link>https://staging.snoonet.org/staff/linuxdaemon/pgp/</link>
-      <pubDate>Sun, 30 Dec 2018 21:43:20 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/staff/linuxdaemon/pgp/</guid>
-      <description> -----BEGIN PGP SIGNED MESSAGE----- Hash: SHA256 Keybase Proof: I hereby claim: - -I am linuxdaemon on snoonet. https://snoonet.org/staff - -I am linuxdaemon on keybase. https://keybase.io/linuxdaemon - -I have a public key whose fingerprint is 6BA9 FA94 713C 0CE7 A6DE F3F6 54D8 57A6 E89C 03E4 - -I have a client SSL certificate whose fingerprint is 33BA AA09 71A7 A1CA A46C 91C4 7369 03C3 - -I have a client SSL certificate whose fingerprint is BB1E 0E89 1077 0B0B 5387 1F52 1BA5 1531 - -The above SSL fingerprint can be verified on IRC by checking my WHOIS info /whois linuxdaemon To claim this, I have signed this proof with the aforementioned key, yielding this cleartext signature -----BEGIN PGP SIGNATURE----- Version: GnuPG v2 iQIcBAEBCAAGBQJY8JtPAAoJEFTYV6bonAPkKWMP/RljSYJmsoA6mA6FqNLU30gB l6aplfMPL9rH7+qcwXjDOje+jR/sIApGWZoSwb9D85GvrrAsrq/92iJI52BdRp82 B8wSE4zQ3MY4YaXJiYgrzVv2Mlq62BaqU7yLPfnwu9yLVEanLTmCv262RDDhqvE9 FCntY7JGMrS+GtXE1Wb4ZZO5RNItEbF+Q191Gv1zo/b1Yo58H435GGo3u88zGy0T ZtSsAJO7jlF7y1bZoR3xrXG8qLaRpJFRCK4XPntpQ8opfN3cpec0/Zp3OP3QuTMO ZdTeV5D0i6rOCGrdMU/JsMaoTlPcYgGR06H9bjIhJ+QYYZv8GBMFgNCMDlzAR6eI GMqnMI8p1PrCwOBVGQtYjZOhhzeF6dFPKxCr/EfPB58Rs+jWHU+XpHCkzeN/MsHC +9tsotZ2nynKYF9pDcgaOympfywRkReLnZ9Jz1fcLa9kgVyjtDQOpjlMEZQfPDuA FgRcw1LpRpKXCYdvAWhOzy4IlaIhTFugrDCxufNs7LXB9/uyIK+iDS/jdHaz8NmR FjzG4xMsLIB7JAPTawsYJ1IL/8RZvuI31FzF7k4QpRpBm0yTBUYfvDbnrdjjEVRA 3rM0NgFbFi4Q2FfKxKIoruv19lScFW9AiiiK30fArf6Mpc4I0kZ1OFXh9qPRQTJg zshEzL7YAg5g9zsDLBnY =4V5f -----END PGP SIGNATURE-----  </description>
     </item>
     
     <item>
