@@ -1,13 +1,13 @@
 ---
 title: "Privacy Policy"
-date: 2018-12-30T21:43:20Z
+date: 2019-10-28T21:02:20Z
 draft: false
 type: page
 ---
 
 # SNOONET PRIVACY POLICY
 
-This Website ('Snoonet.org'), and its owners Snoonet, (collectively, 'We', 'Us', or 'Snoonet') wish to define and inform you of any and all of the instances in which your personal data and information may be saved and how it may be used by Snoonet, how it may be shared, and the level of protection we use to safeguard your personal information when using our services.
+This Website ('Snoonet.org'), and its parent IRC.com, (collectively, 'We', 'Us', or 'Snoonet') wish to define and inform you of any and all of the instances in which your personal data and information may be saved and how it may be used by Snoonet, how it may be shared, and the level of protection we use to safeguard your personal information when using our services.
 
 ---
 
@@ -100,6 +100,6 @@ For all civil or law enforcement requests, please see [Law-Enforcement Guideline
 
 While Snoonet agrees to accept service of law enforcement requests based on the above method listed above, Snoonet does NOT waive any legal rights based on this accommodation.
 
-*Last revised* May 24, 2018
+*Last revised* October 28, 2019
 
 
