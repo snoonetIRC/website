@@ -12,11 +12,11 @@ weight: 3
 
 # Duck (duck@snoonet.org)
 
-Hello all, Duck here! Thanks for using Snoonet!
+Hello all, Duck here! Thanks for flying Snoonet!
 
-I'm part of the operations team, being primarily responsible for maintaining our server infrastructure and making sure things are up-to-date, as well as assisting the staff team with rule & guideline enforcement across the network as needed. I'm also involved with the [InspIRCd project](https://www.inspircd.org/), whose software powers this network.
+I joined staff in mid 2017 and presently oversee operations on the network as the Network Director. Part of my mission is to assist our [staff](/staff) with rules & guideline enforcement and to assist in the maintenance of our server infrastructure. I'm also involved with [InspIRCd](https://www.inspircd.org/), whose software powers this network.
 
-When I'm not doing network-related things, I can usually be found chatting in a handful of the [communities](/communities) that Snoonet hosts. If you see me, feel free to say hi, or send me a message at any time using **/msg Duck Hi**!
+While not doing network-related things, I may be found chatting in a handful of the [communities](/communities) that we host. If you see me around, feel free to say hi, or send me a message at any time using **/msg Duck Hi**!
 
 
 [・゜゜・。。 ​ ・゜゜\​_0< QUA​CK!](https://duckhuntjs.com/)
