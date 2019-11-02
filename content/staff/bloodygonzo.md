@@ -4,7 +4,7 @@ title: "bloodygonzo"
 date: 2019-04-13T09:33:29Z
 draft: false
 type: page
-kind: "staff"
+kind: "staff_alumni"
 role: "Alumnus"
 favorite_channels: ""
 no_link: true
@@ -12,7 +12,7 @@ no_link: true
 
 ## bloodygonzo (alumnus)
 
-I am the Network Director of Snoonet. My goal for Snoonet is to: 
+I am the Network Director of Snoonet. My goal for Snoonet is to:
 
 * Stabilize and secure the network with the best tools in automation, monitoring, and security.
 * Build on the established team of volunteer staff to create an excellent experience for the communities on Snoonet.
