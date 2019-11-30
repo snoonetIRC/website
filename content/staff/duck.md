@@ -7,7 +7,7 @@ type: page
 kind: "staff_top"
 role: "Network Director"
 favorite_channels: "#depression, #fuckduck"
-weight: 3
+weight: 2
 ---
 
 # Duck (duck@snoonet.org)
