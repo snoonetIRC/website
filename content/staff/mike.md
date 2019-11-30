@@ -5,9 +5,9 @@ date: 2018-12-31T08:55:29Z
 draft: false
 type: page
 kind: "staff"
-role: "Staff, Developer"
+role: "Assistant Network Director"
 favorite_channels: "#metal"
-weight: 5
+weight: 3
 ---
 
 Hi, I'm Mike.
