@@ -31,7 +31,7 @@ Please understand that although we are here to provide peer support, our channel
 - Caeli
 
 ### Channel Staff: 
-- [A_D](/staff/a_d)
+- A_D
 - AHare
 - GhostyOne
 - jglauche
