@@ -27,7 +27,7 @@ To submit a preservation request, do the following:
 
 •  For Reddit Username field, fill in your Title and full name (e.g. Officer Joe Smith)
 
-2) Send an email to lawenforcement [at] snoonet.org
+2) Send an email to {{< email "lawenforcement" >}}
 ---
 # <a name="user-information">Requests for Snoonet User Account Information</a>
 
@@ -39,7 +39,7 @@ To submit a Snoonet user account information request, do the following:
 
 • For Reddit Username field, fill in your Title and full name (e.g. Officer Joe Smith)
 
-2) Send an email to lawenforcement [at] snoonet.org
+2) Send an email to {{< email "lawenforcement" >}}
 
 ---
 # <a name="emergency-request">Emergency Disclosure Requests</a>
@@ -52,6 +52,6 @@ To submit an emergency disclosure request, do the following:
 
 • For Reddit Username field, fill in your Title and full name (e.g. Officer Joe Smith)
 
-2) Send an email to LEemergency [at] snoonet.org
+2) Send an email to {{< email "LEemergency" >}}
 
 The request will automatically be assigned an ticket number and an additional form will be sent to you.  Fill out the additional form and attach it to the ticket or reply to the automated email with the completed form.

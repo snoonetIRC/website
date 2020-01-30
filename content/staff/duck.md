@@ -10,7 +10,7 @@ favorite_channels: "#depression, #fuckduck"
 weight: 2
 ---
 
-# Duck (duck@snoonet.org)
+# Duck {{< email "duck" >}}
 
 Hello all, Duck here! Thanks for flying Snoonet!
 
