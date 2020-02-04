@@ -9,7 +9,7 @@ kind: "health_and_food"
 
 [Purpose](#purpose) || [Channel Operators](#ops) || [Rules & Guidelines](#guidelines) || [Ban Appeals](#appeals) || {{< webchat channel="#depression" >}} || [Links & Resources](#resources)
 
-**<span style="color: red; text-decoration: underline;">If you are experiencing thoughts of suicide or self-harm, please reach out to any of the [crisis resources](#resources) listed below as opposed to using #depression.</span>**
+**<span style="color: red; text-decoration: underline;">If you are experiencing thoughts of suicide or self-harm, please reach out to any of the [crisis resources](#resources) listed below as opposed to using #depression.</span>** {#disclaimer}
 
 We are a peer support community aimed primarily at helping those struggling with depression. This page contains resources to aid those suffering from depression or its related ailments. Please consult these resources if you feel that you need assistance beyond peer help.
 
@@ -42,28 +42,30 @@ Please understand that although we are here to provide peer support, our channel
 
 
 ## Channel Rules & Guidelines {#guidelines}
-(Last updated: October 13th, 2019)
+(Last updated: February 4th, 2020)
 
 **Please be respectful towards others.**
 
-- Be mindful of other conversations going on in the channel as multiple concurrent conversations can be both distracting and confusing for others.
-- Use discretion when discussing sensitive topics (politics, drugs, religion, etc.) in the channel.
-- Solicitation of any kind is strictly prohibited in the channel.
-- Please do not bring drama into our channel from other IRC channels. Likewise, don’t transmit drama from our channel to elsewhere.
-- Do not post the personal information of yourself or of others in the channel.
-- Explicit discussions of suicide methods or self-harming are prohibited in the channel.
+- Be mindful of other conversations taking place as multiple concurrent conversations can be either distracting or overwhelming for others.
+- Use discretion when discussing sensitive topics (drugs, religion, sex, etc.) in the channel.
+- Keep all discussions concerning [politics](https://en.wikipedia.org/wiki/Politics) in {{< webchat channel="#depression-offtopic" title="#depression-offtopic" >}}
+
+**Do not:**
+- Bring drama into our channel from elsewhere. Likewise, Kindly refrain from bringing drama from our channel into other channels.
+- Post personally identifying information about yourself.
+- [Explicitly discuss suicide methods or self-harming.](#disclaimer)
 
 
 In order to keep our channel safe and welcome for others, we reserve the right to remove any user at any time, with or without notice and for any reason.
 
-Our channel operators are well equipped to deal with most channel issues. To ping a channel operator, simply message "?ops" in the channel. Please do not attempt to mediate between users/operators and the channel rules during this time and allow the operators to do their jobs.
+Our channel operators are well equipped to deal with most channel issues. To ping a channel operator, simply message "?ops" in the channel or message any channel operator in private. Please do not attempt to mediate between users/operators and the channel rules during this time and allow the operators to do their jobs.
 
 <center>**#depression is a place to seek support from others. Should your visit not be for the purposes of seeking peer advice or support, please keep general discussions or venting to a minimum.**</center>
 
 {{< back_to_top >}}
 
 ## Introducing #depression-offtopic {#casual}
-As of December 19th, 2018, we're happy to launch a new sister channel called #depression-offtopic. The purpose of this new channel is to allow our user base to engage in casual and/or idle chatter while allowing the main channel to remain for on-topic discussions, as necessary.
+As of December 19th, 2018, we're happy to launch a new sister channel called #depression-offtopic. The purpose of this new channel is to allow users to engage in casual conversations while allowing the main channel to remain for on-topic discussions, as necessary.
 
 To access this channel, please {{< webchat channel="#depression-offtopic" title="click here" >}}.
 
@@ -76,7 +78,7 @@ If you've recently been banned from one of our channels or have been instructed 
 
 - We prohibit ban evasion, which is [against Snoonet rules](/rules).
 - As it is important enough to list twice, ban evasion *for any reason* is prohibited and may result in a network ban.
-- Our staff make every effort to keep banning users to an absolute minimum.
+- Our staff make every effort to keep banning users, either temporarily or permanently, to an absolute minimum.
 
 
 Before you appeal your channel ban, it's important to understand why you've been banned from the channel. If you do not know why you were banned, please *message one of the [channel operators](#ops)*. Lastly, take a moment to review and familiarize yourself with our [rules](#rules) before appealing your ban.
