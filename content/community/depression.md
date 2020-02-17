@@ -51,6 +51,7 @@ Please understand that although we are here to provide peer support, our channel
 - Keep all discussions concerning [politics](https://en.wikipedia.org/wiki/Politics) in {{< webchat channel="#depression-offtopic" title="#depression-offtopic" >}}
 
 **Do not:**
+
 - Bring drama into our channel from elsewhere. Likewise, Kindly refrain from bringing drama from our channel into other channels.
 - Post personally identifying information about yourself.
 - Explicitly discuss [suicide methods or self-harming.](#disclaimer)
