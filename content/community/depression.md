@@ -53,7 +53,7 @@ Please understand that although we are here to provide peer support, our channel
 **Do not:**
 - Bring drama into our channel from elsewhere. Likewise, Kindly refrain from bringing drama from our channel into other channels.
 - Post personally identifying information about yourself.
-- [Explicitly discuss suicide methods or self-harming.](#disclaimer)
+- Explicitly discuss [suicide methods or self-harming.](#disclaimer)
 
 
 In order to keep our channel safe and welcome for others, we reserve the right to remove any user at any time, with or without notice and for any reason.
