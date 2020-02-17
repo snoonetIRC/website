@@ -9,7 +9,7 @@ kind: "health_and_food"
 
 [Purpose](#purpose) || [Channel Operators](#ops) || [Rules & Guidelines](#guidelines) || [Ban Appeals](#appeals) || {{< webchat channel="#depression" >}} || [Links & Resources](#resources)
 
-**<span style="color: red; text-decoration: underline;">If you are experiencing thoughts of suicide or self-harm, please reach out to any of the [crisis resources](#resources) listed below as opposed to using #depression.</span>** {#disclaimer}
+**<span style="color: red; text-decoration: underline;">If you are experiencing thoughts of suicide or self-harm, please reach out to any of the [crisis resources](#resources) listed below as opposed to using #depression.</span>**
 
 We are a peer support community aimed primarily at helping those struggling with depression. This page contains resources to aid those suffering from depression or its related ailments. Please consult these resources if you feel that you need assistance beyond peer help.
 
@@ -54,7 +54,7 @@ Please understand that although we are here to provide peer support, our channel
 
 - Bring drama into our channel from elsewhere. Likewise, Kindly refrain from bringing drama from our channel into other channels.
 - Post personally identifying information about yourself.
-- Explicitly discuss [suicide methods or self-harming.](#disclaimer)
+- Explicitly discuss suicide methods or self-harming.
 
 
 In order to keep our channel safe and welcome for others, we reserve the right to remove any user at any time, with or without notice and for any reason.
