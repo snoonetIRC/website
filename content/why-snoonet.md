@@ -62,15 +62,6 @@ For more information, please see our [Privacy and Security page](/privacy).
 * Custom webchat built in cooperation with Snoonet, and simple, short-form
   channel links ({{< webchat_plain >}}/channelname).
 
-## Snoonet Mumble server
-
-[Mumble](http://wiki.mumble.info/wiki/Main_Page) is great for getting together
-with a group of people to voice chat casually, or for having more serious
-meetings. Our public server information is as follows:
-
-* Server: mumble.snoonet.org
-* Port: 64738
-
 ## Upcoming features
 
 * Integration with Reddit Enhancement Suite for an experience directly tied to reddit.
