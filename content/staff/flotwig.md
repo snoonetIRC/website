@@ -6,7 +6,7 @@ draft: false
 type: page
 kind: "staff"
 role: "Staff"
-favorite_channels: "##PartyMansion, ##flotwig, #staff"
+favorite_channels: "#gnulag, ##PartyMansion, ##flotwig, #staff"
 weight: 13
 ---
 
@@ -14,14 +14,6 @@ I'm flotwig. You might have heard me called flotty, flotsam, Just Wiggy™, or t
 
 I've been on IRC since 2007 or 2008 and I've been on Snoonet since week two of its existence. Nowadays, I'm a more active IRCer than I am a redditor.
 
-My favorite channels are {{< webchat channel="##PartyMansion" title="##PartyMansion" >}}, {{< webchat channel="#safefromparadox" title="#safefromparadox" >}}, and {{< webchat channel="#idlerpg" title="#idlerpg" >}}.
-
-Back in the day, I operated an IRC server for Snoonet. Now, I operate several smaller non-IRC servers. I run:
-
-* [Statistics](https://chanstats.snoonet.org/): A bot which collects and computes various statistics about users.
-* [Status](https://status.snoonet.org/): A beta Snoonet status monitor, so you don't have to ask "is it just me?" next time you can't connect. Unfortunately not quite finished because we are still transitioning over to Anope.
-* Various internal systems, including mail and DNS for irc.snoonet.org.
-
-I strongly believe in Snoonet's ability to sustain growth for the future. We've come from being ecstatic at having a hundred users to regularly seeing bursts of over three thousand. At the time of this writing, we have 1,462 independent, user-created channels and 2,698 users online... at 10 AM on a Sunday. Things are good and they're getting better.
+My favorite channels are {{< webchat channel="#gnulag" title="#gnulag" >}}, {{< webchat channel="##PartyMansion" title="##PartyMansion" >}}, {{< webchat channel="#safefromparadox" title="#safefromparadox" >}}, and {{< webchat channel="#idlerpg" title="#idlerpg" >}}.
 
  - flotwig
