@@ -20,7 +20,7 @@ This Website ('Snoonet.org'), and its parent IRC.com, (collectively, 'We', 'Us',
 
 From All Users of Our IRC Network
 
-* Internet Protocol (IP) address* for the purposes of account management and protection from abuse. (*You may use a virtual private network or 'bouncer' service if you wish to obscure your IP address) 
+* Internet Protocol (IP) address* for the purposes of account management and protection from abuse. (*You may use a virtual private network or 'bouncer' service if you wish to obscure your IP address)
 * Your user ID or 'nickname' for the purposes of account management and protection from abuse.
 
 From Users Who Have Registered an Account on Our IRC Network
@@ -61,8 +61,8 @@ We retain all account information and data indefinitely unless a client requests
 ---
 ## CalOPPA STATEMENT
 {{< back_to_top >}}
- 
-The State of California requires us to post specific language related to our privacy policy. By default, Snoonet does not share your private information with any third parties aside from the disclosures already made in this privacy policy. However, if you wish to inquire into specifics and verify that Snoonet does not share the personal information of our users with third parties for direct marketing purposes, you may contact [operations@snoonet.org](mailto:operations@snoonet.org).
+
+The State of California requires us to post specific language related to our privacy policy. By default, Snoonet does not share your private information with any third parties aside from the disclosures already made in this privacy policy. However, if you wish to inquire into specifics and verify that Snoonet does not share the personal information of our users with third parties for direct marketing purposes, you may contact {{< email "operations" >}}.
 
 ---
 ## MAINTAINING THE SECURITY OF YOUR PERSONAL INFORMATION
@@ -86,7 +86,7 @@ The Children's Online Privacy Protection Act (COPPA) was passed to give parents 
 ## HOW TO ACCESS AND CONTROL YOUR PERSONAL INFORMATION
 {{< back_to_top >}}
 
-You may access or delete your personal information from the IRC network at any time via a command. To view information shared with Snoonet, use the &ldquo;/msg NickServ INFO &lt;nickname&gt;&rdquo; command. To delete your user account, use the "/msg NickServ DROP &lt;nickname&gt;&rdquo; which requires a secondary confirmation. You may also change the email address associated with your account via a channel command. Another means to delete the personal information maintained by Snoonet is to request that your account information be deleted by the Snoonet support team. The Snoonet support team may be reached at [https://support.snoonet.org](https://support.snoonet.org). 
+You may access or delete your personal information from the IRC network at any time via a command. To view information shared with Snoonet, use the &ldquo;/msg NickServ INFO &lt;nickname&gt;&rdquo; command. To delete your user account, use the "/msg NickServ DROP &lt;nickname&gt;&rdquo; which requires a secondary confirmation. You may also change the email address associated with your account via a channel command. Another means to delete the personal information maintained by Snoonet is to request that your account information be deleted by the Snoonet support team. The Snoonet support team may be reached at [https://support.snoonet.org](https://support.snoonet.org).
 
 ---
 ## CHANGES TO THIS PRIVACY POLICY
@@ -96,10 +96,9 @@ BY CONTINUING TO USE THIS WEBSITE AND/OR SERVICES, YOU AGREE THAT YOU CONSENT TO
 
 Snoonet will not share the personal information of users with third parties for direct marketing purposes.
 
-For all civil or law enforcement requests, please see [Law-Enforcement Guidelines](/le-guidelines) and/or contact [operations@Snoonet.org](mailto:operations@snoonet.org). If you have a request that requires mailing or courier, please see [Law-Enforcement Requests](/le-request).
+For all civil or law enforcement requests, please see [Law-Enforcement Guidelines](/le-guidelines) and/or contact {{< email "operations" >}}. If you have a request that requires mailing or courier, please see [Law-Enforcement Requests](/le-request).
 
 While Snoonet agrees to accept service of law enforcement requests based on the above method listed above, Snoonet does NOT waive any legal rights based on this accommodation.
 
 *Last revised* October 28, 2019
-
 

@@ -1,4 +1,4 @@
---- 
+---
 date: 2016-12-29T00:00:00
 draft: false
 title: "Moving Forward!"
@@ -15,7 +15,7 @@ We would like to announce the appointment of bloodygonzo as our new Network Dire
 Jeff "Paradox" Sandberg and Shane "rdv" Allen will be moving to founder roles, retiring from day-to-day operations.  They remain as network owners and will provide input and advice to network operations where appropriate, and will continue to play a role in identifying talent and managing staff.
 
 # [bloodygonzo](/bloodygonzo)
-bloodygonzo has made your network community bot gonzobot! You can see it [here](/gonzobot) and utilize it! He helps new-comers with creating python modules, and has the idea of helping every body that needs something in their community! You can contact bloodygonzo at bloodygonzo@snoonet.org for additional information!
+bloodygonzo has made your network community bot gonzobot! You can see it [here](/gonzobot) and utilize it! He helps new-comers with creating python modules, and has the idea of helping every body that needs something in their community! You can contact bloodygonzo at {{< email "bloodygonzo" >}} for additional information!
 
 # What does this mean?
 We expect to continue to strive towards the goals of our Mission Statement.  We'll continue supporting communities as usual, offering network assistance in #help and discussion in #snoonet.  Expect updates from bloodygonzo in the New Year as we move forward together.

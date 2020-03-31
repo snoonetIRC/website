@@ -1,4 +1,4 @@
---- 
+---
 date: 2013-01-14T10:00:00
 draft: false
 title: "01/14/2013 - Gaming, Webchat, Network News"
@@ -14,16 +14,16 @@ Some examples will be a VIP-Ask Me Anything robot which will moderate the channe
 
 A channel protection bot for channel operators/moderators to utilize and change the settings of to set a 'bad words' type filter list, where they may set punishments for bad words, phrases, links, etc. The bot will also have options to control punishing flooding/repeat lines/repeat offenders, as well as manage the ban lists. This is for channels that grow in size and need moderation while operators/mods aren't around. For those familiar with our network bot 'sysop' - it will be a user controlled/managed bot controlled by channel mods.
 
-While the above may be boring/uninteresting to some, 
+While the above may be boring/uninteresting to some,
 
 # Games
-Our network co-founder Paradox and network operator, Ricin will be hosting a large-scale Minecraft server for users to play on. More news will be posted about it as they will require help in moderating the server/keeping an eye on things. If you have any suggestions for other games you'd like hosted, feel free to contact us in {{< webchat channel="#SnoonetGaming" title="SnoonetGaming" >}}, {{< subreddit_link "irc" >}} or e-mail support@snoonet.org.
+Our network co-founder Paradox and network operator, Ricin will be hosting a large-scale Minecraft server for users to play on. More news will be posted about it as they will require help in moderating the server/keeping an eye on things. If you have any suggestions for other games you'd like hosted, feel free to contact us in {{< webchat channel="#SnoonetGaming" title="SnoonetGaming" >}}, {{< subreddit_link "irc" >}} or e-mail {{< email "support" >}}.
 
 We have the resources to host multiple game servers, and will be hosting these servers while we code and produce the competitive gaming tournament aspect of Snoonet.org, where teams can compete in games to win cash, or play for free to win smaller prizes. [More can be read in our mission statement!](/mission-statement).
 
 So in the upcoming days, you'll see a few changes to the webchat, as well as us announcing our Minecraft / other server information.
 
-If you have any suggestions/questions, we can be contacted on IRC in {{< webchat channel="#snoonet" title="#snoonet" >}} - support@snoonet.org or {{< subreddit_link irc >}}.
+If you have any suggestions/questions, we can be contacted on IRC in {{< webchat channel="#snoonet" title="#snoonet" >}} - {{< email "support" >}} or {{< subreddit_link irc >}}.
 
 
 Thank you for reading, and making Snoonet possible!

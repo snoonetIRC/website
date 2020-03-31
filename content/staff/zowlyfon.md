@@ -14,4 +14,4 @@ Hi, my name is Zowlyfon. I am a Free Software enthusiast studying Computer Scien
 
 I am mainly active in #linuxmasterrace and I can also be contacted in #snoonet or via PM.
 
-My email address is Zowlyfon@snoonet.org
+My email address is {{< email "zowlyfon" >}}.
