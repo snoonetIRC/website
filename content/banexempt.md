@@ -23,7 +23,7 @@ Some users are malicious and try to ruin it for many others, however we are here
 
 ## What to do
 
-For us to add an exemption so that you are not banned. Please e-mail support@snoonet.org with your IP address (www.whatismyip.com and copy your IP) the identd that you connect with (If you don't know what it is, state so in the e-mail) and your IRC nickname so we may add an exemption for you specifically. We will e-mail you back within a few minutes and you will be able to connect to our services.
+For us to add an exemption so that you are not banned. Please e-mail {{< email "support" >}} with your IP address (www.whatismyip.com and copy your IP) the identd that you connect with (If you don't know what it is, state so in the e-mail) and your IRC nickname so we may add an exemption for you specifically. We will e-mail you back within a few minutes and you will be able to connect to our services.
 
 Sorry for the inconvenience
 

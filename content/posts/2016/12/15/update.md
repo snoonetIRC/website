@@ -22,9 +22,9 @@ Our current website is old and outdated. We'd like to keep our active admin back
 - Be laid back, and able to work as a team
 - Take initiative. We'll give you freedom to be yourself and go with the flow. That's how we operate.
 
-
 ## Apply
-# E-mail operations@snoonet.org with:
+
+# E-mail {{ email "operations" }} with:
 - IRC Nick
 - Age
 - Location

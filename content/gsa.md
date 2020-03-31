@@ -9,7 +9,7 @@ type: page
 
 ## Seeking Game Admins
 
-We are seeking a few active game server administrators for a 32-man TF2 and 16-man Garry's Mod server. As of now, these are the two servers that we will host. If you have other suggestions for games and feel that they'll be popular and widely supported, please e-mail support@snoonet.org with the subject line "Game Server Inquiry." Please include your suggestion and why you feel the game server should be hosted.
+We are seeking a few active game server administrators for a 32-man TF2 and 16-man Garry's Mod server. As of now, these are the two servers that we will host. If you have other suggestions for games and feel that they'll be popular and widely supported, please e-mail {{< email "support" >}} with the subject line "Game Server Inquiry." Please include your suggestion and why you feel the game server should be hosted.
 
 Volunteers will be given full admin privileges to the game server, the ability to upload mods, maps, files, and tools for the game server, and in some cases (for trusted users), SSH access.
 

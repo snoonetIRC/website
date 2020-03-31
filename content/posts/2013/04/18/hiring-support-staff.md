@@ -9,7 +9,7 @@ type: post
 
 # We are asking for 10-15 support staff
 
-# If you'd like to help Snoonet on this journey, e-mail Shane@snoonet.org with:
+# If you'd like to help Snoonet on this journey, e-mail {{< email "shane" >}} with:
 
 - IRC Alias
 - Operator/Staff Experience on IRC

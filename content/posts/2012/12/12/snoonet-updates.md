@@ -7,7 +7,7 @@ type: post
 
 # Email Support
 
-We have set up an e-mail for those in need of support if they are having connection issues, or need any type of support outside of the chat network. Any suggestions or requests for any thing Snoonet are **highly encouraged** as well. This can be done by contacting us at **support@snoonet.org** - Be sure to include your nickname in the e-mail!
+We have set up an e-mail for those in need of support if they are having connection issues, or need any type of support outside of the chat network. Any suggestions or requests for any thing Snoonet are **highly encouraged** as well. This can be done by contacting us at {{< email "support" >}} - Be sure to include your nickname in the e-mail!
 
 # Keeping in Touch
 
