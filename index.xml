@@ -3223,17 +3223,6 @@ Check out the news release from Private Internet Access here</description>
     </item>
     
     <item>
-      <title>12/15/16 Update</title>
-      <link>https://staging.snoonet.org/posts/2016/12/15/update/</link>
-      <pubDate>Thu, 15 Dec 2016 15:00:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2016/12/15/update/</guid>
-      <description>Adding some developers that can help out We&amp;rsquo;re currently working on a few projects for the communities. One being https://lounge.snoonet.org which is an IRC Cloud alternative and is developed in nodejs. The folks over at freenode (irc.freenode.net #thelounge) are also helping with developing their project, however we are looking for a local team to help with this, and future projects involving nodejs.
-Our current website is old and outdated. We&amp;rsquo;d like to keep our active admin back end, but would like to redesign it. The current active website is at: https://github.com/snoonetIRC/website
-What we need:  nodejs devs webdeveloper/designer for a simple re-design of the current snoonet.org website Python developers. We code a lot of python stuff, and the more intelligent and active people, the better. reddit bot expert. We&amp;rsquo;d like to offer some community tools for reddit. We can do this ourselves, but would like additional help with the projects.  Requirements  Be mature, and at least 18 years of age. Be laid back, and able to work as a team Take initiative. We&amp;rsquo;ll give you freedom to be yourself and go with the flow. That&amp;rsquo;s how we operate.  Apply E-mail {{ email &amp;ldquo;operations&amp;rdquo; }} with:  IRC Nick Age Location Time available What you want to help out with, and if you have a passion to actually do it.  Please be in good standing with Snoonet. You will be working closely with the staff in the #staff channel, but not given direct operator access. That will be gained in time as trust builds.</description>
-    </item>
-    
-    <item>
       <title>Privacy Concerns</title>
       <link>https://staging.snoonet.org/posts/2016/12/15/privacy-concerns/</link>
       <pubDate>Thu, 15 Dec 2016 00:00:00 +0000</pubDate>
@@ -3389,21 +3378,6 @@ You can view the commands and further information here.</description>
 What does this mean? Unless you /umode -I, users will now be unable to see channels that you are in. If you wish -I to persist, please type /msg nickserv keepmodes on
 Looking for new channels? If you are looking to find new channels, please visit the communities page.
 If you&amp;rsquo;d like your channel to be added to this list, please ask in #help or submit a ticket here.</description>
-    </item>
-    
-    <item>
-      <title>Snoonet is hiring community staff!</title>
-      <link>https://staging.snoonet.org/posts/2015/10/29/snoonet-is-hiring-community-staff/</link>
-      <pubDate>Thu, 29 Oct 2015 16:16:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2015/10/29/snoonet-is-hiring-community-staff/</guid>
-      <description>Snoonet is looking to hire community staff members. Applicants should be active and engaged in our IRC communities and be interested in volunteering their time to make the network a better place.
-Responsibilities Community staff will assist with various projects designed to improve the user experience on Snoonet. They will be expected to consult with communities, specifically with an eye to understanding community needs and suggesting tools and policies that should be developed to assist with community moderation and growth.
-On a day-to-day basis, responsibilities will also include assisting with support requests in #help and in our ticket system, drafting communications about upcoming events or ongoing issues, and generally providing users and channel operators with support and assistance.
-Qualifications We are primarily looking for people with ideas, energy, and a willingness to contribute to the community. Community staff WILL be network operators, and as such, we are looking for people with knowledge of basic IRC commands, including how to set up channels and assist others in that respect.
-We are NOT looking for operators who are solely interested in providing network support at this point in time. Applicants should be interested in working with communities and demonstrate the motivation, creativity, and initiative necessary to succeed on a volunteer team.
-Applications and Inquiries If you are interested in applying, please visit Volunteer Application and send an application to apply [at] snoonet.org.
-If you have any questions about our community team or our work, please feel free to PM Ari or ScarletAngel.</description>
     </item>
     
     <item>
@@ -3601,16 +3575,6 @@ To quiet people on inspircd, you use the m extended ban. See the table below for
 We&amp;rsquo;ve had some stability issues in the early days, but things have smoothed out nicely over the year.
 Today we are host to over 70 active reddit communities, over 1000 regular users and 12 servers.
 Here&amp;rsquo;s to IRC and the future!</description>
-    </item>
-    
-    <item>
-      <title>Hiring Support Staff</title>
-      <link>https://staging.snoonet.org/posts/2013/04/18/hiring-support-staff/</link>
-      <pubDate>Thu, 18 Apr 2013 05:44:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2013/04/18/hiring-support-staff/</guid>
-      <description> As we are growing and plans are coming in to play for reddit users to enter by the masses, we are hiring support staff with advanced knowledge of charybdis and atheme who can be on to help users. It is an entry position to progress through staff, and on to paid positions. Mods in this position will be granted certain privileges and expected to help users with common IRC issues. The webchat has been updated to make it more new-user friendly, however hundreds if not thousands of users will have questions and concerns. Our goal is to be there for them.
-We are asking for 10-15 support staff If you&amp;rsquo;d like to help Snoonet on this journey, e-mail shane [at] snoonet.org with:  IRC Alias Operator/Staff Experience on IRC Knowledge of Atheme IRC Services Knowledge of Charybdis Your location in the world / Timezone Availability to help Any communities/subreddits/IRC Channels you moderate on a day to day basis  </description>
     </item>
     
     <item>

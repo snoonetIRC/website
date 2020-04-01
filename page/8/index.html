@@ -142,483 +142,6 @@
         <article class="post single">
     <header class="inline-header">
     <h2>
-        <a href="https://staging.snoonet.org/posts/2013/10/20/snoonet-transition-guide/">Snoonet transition guide</a>
-
-        <span class="h2-secondary">
-            <time
-                class="icon-time"
-                datetime="2013-10-20T02:34:00Z"
-                title="Sun, Oct 20, 2013"
-            >
-                Sun, Oct 20, 2013
-            </time>
-        </span>
-    </h2>
-</header>
-
-
-    <section class="content">
-
-<p>With the move to InspIRCd, Snoonet now offers channel operators and users more ways to control their chat experience, regardless of client. Some things will have changed since we moved from the old network, and in order to make the transition as pain-free as possible, we have prepared this guide to help. If you have any problems, please don&rsquo;t hesitate to drop by #help on irc.</p>
-
-<p>This guide is broken down into multiple parts. Changes affecting channel operators are listed first, while user-level changes are listed second. Services are <strong>not</strong> changing, so this guide does not cover any services (eg Nickserv, Chanserv)</p>
-
-<h1 id="channel-modes">Channel Modes</h1>
-
-<p>Most of the standard IRC channel modes will stay the same. Your bans will still work. Your invite exceptions <em>may</em> still work.</p>
-
-<p>However, things depending on old network features, such as quiets and ext-bans (such as the account ban, commonly used for invite exceptions, <code>$a:Paradox</code> for example) will not. The features are not gone, don&rsquo;t worry, they just work differently now.</p>
-
-<h3 id="changes">Changes</h3>
-
-<h3 id="quiets">Quiets</h3>
-
-<p>Many channels used <code>+q</code> to maintain a list of users who are prevented from speaking in the channel, but may still join and leave freely. This mode has been removed on the new network, and has been replaced with an extended ban.</p>
-
-<p>To quiet people on inspircd, you use the <code>m</code> extended ban. See the table below for some examples of how <code>q</code> bans on the old network become mute bans on the new network:</p>
-
-<table>
-<thead>
-<tr>
-<th>Old</th>
-<th>New</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td><code>+q *!*@snoonet/operations/Paradox</code></td>
-<td><code>+b m:*!*@snoonet/operations/Paradox</code></td>
-</tr>
-
-<tr>
-<td><code>+q *!*@192.168.1.1</code></td>
-<td><code>+b m:*!*@192.168.1.1</code></td>
-</tr>
-
-<tr>
-<td><code>+q NickName!*@*</code></td>
-<td><code>+b m:NickName!*@*</code></td>
-</tr>
-
-<tr>
-<td><code>+q $~a</code> (quiets all non-registered users)</td>
-<td><code>+M</code> (not a ban, a chanmode)</td>
-</tr>
-
-<tr>
-<td><code>+q $a:Paradox</code> (account ban)</td>
-<td><code>+b m:R:Paradox</code></td>
-</tr>
-</tbody>
-</table>
-
-<h3 id="bans-extbans-and-invite-exceptions-b-e-and-i">Bans, Extbans, and Invite Exceptions (+b, +e, and +I)</h3>
-
-<p>Bans share many of the same syntax as quiets, which are listed above, and you can just omit the <code>m:</code> from the ban to make them apply as bans.</p>
-
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Old</th>
-<th>New</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Registered user</td>
-<td><code>$a</code></td>
-<td><code>R:*</code></td>
-</tr>
-
-<tr>
-<td>Account name</td>
-<td><code>$a:AccountName</code></td>
-<td><code>R:AccountName</code></td>
-</tr>
-
-<tr>
-<td>Channel match</td>
-<td><code>$c:#chan</code></td>
-<td><code>j:#chan</code></td>
-</tr>
-
-<tr>
-<td>Oper</td>
-<td><code>$o</code></td>
-<td><code>O:*</code></td>
-</tr>
-
-<tr>
-<td>realname</td>
-<td><code>$r:realname</code></td>
-<td><code>r:realname</code></td>
-</tr>
-
-<tr>
-<td>Can access channel</td>
-<td><code>$j:#chan</code></td>
-<td><em>n/a</em></td>
-</tr>
-
-<tr>
-<td>Ban + realname</td>
-<td><code>$x:nick!user@host#realname</code></td>
-<td><em>n/a</em></td>
-</tr>
-
-<tr>
-<td>SSL users</td>
-<td><code>$z</code></td>
-<td><code>z:*</code></td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Some extban changes introduce new features, while others can reproduce the old features using a combination of <code>+b</code> and <code>+e</code> modes. See the <a href="/modes">Modes</a> page for details</em></p>
-
-<h3 id="other-modes">Other modes</h3>
-
-<p>With the transition we have lost some modes, gained some new ones, and others have changed. They are listed below. If a mode is not listed, it should be the same</p>
-
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Old</th>
-<th>New</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Registered Join only</td>
-<td><code>+r</code></td>
-<td><code>R</code></td>
-</tr>
-
-<tr>
-<td>Strip color codes</td>
-<td><code>+c</code></td>
-<td><code>S</code></td>
-</tr>
-
-<tr>
-<td>Anyone can Invite</td>
-<td><code>+g</code></td>
-<td><code>A</code></td>
-</tr>
-
-<tr>
-<td>Light Moderated</td>
-<td><code>+z</code></td>
-<td><em>n/a</em></td>
-</tr>
-
-<tr>
-<td>Forward</td>
-<td><code>+f</code></td>
-<td><code>+b *!*@*#otherchan</code></td>
-</tr>
-
-<tr>
-<td>Free Target</td>
-<td><code>+F</code></td>
-<td><em>n/a</em></td>
-</tr>
-</tbody>
-</table>
-
-<p><em>Some channel mode changes introduce new features, while others are still possible using a combination of <code>+b</code> and <code>+e</code> modes with extbans. See the <a href="/modes">Modes</a> page for details</em></p>
-
-<h2 id="new-features">New features</h2>
-
-<h3 id="channel-modes-1">Channel Modes</h3>
-
-<p>The network transition introduces many new modes for channel operators, which provide an unprecedented level of control over channels. They are listed below. This listing <em>excludes</em> modes previously listed. For a comprehensive, up to date list of modes, check out the <a href="/modes">Modes</a> page</p>
-
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Syntax</th>
-<th>Description</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Block Caps</td>
-<td><code>+B</code></td>
-<td>Blocks all caps messages</td>
-</tr>
-
-<tr>
-<td>Block color</td>
-<td><code>+c</code></td>
-<td>Blocks messages containing color codes</td>
-</tr>
-
-<tr>
-<td>Delay Join</td>
-<td><code>+D</code></td>
-<td>Hides join messages until a user speaks</td>
-</tr>
-
-<tr>
-<td>Delay message</td>
-<td><code>+d [sec]</code></td>
-<td>Prevents a user from talking for <code>sec</code> seconds</td>
-</tr>
-
-<tr>
-<td>Prevent Nickflood</td>
-<td><code>+F [num]:[sec]</code></td>
-<td>Allows only <code>num</code> nick changes every <code>sec</code> seconds</td>
-</tr>
-
-<tr>
-<td>Prevent Message flood</td>
-<td><code>+f {*}[num]:[sec]</code></td>
-<td>Allows only <code>num</code> messages every <code>sec</code> seconds. Bans if <code>*</code> is included</td>
-</tr>
-
-<tr>
-<td>Censor</td>
-<td><code>+G</code></td>
-<td>Uses the network-defined search and replace censor for channel messages</td>
-</tr>
-
-<tr>
-<td>Custom Censor</td>
-<td><code>+g [keyword]</code></td>
-<td>Allows channel owners to block specific keywords from their channel. Uses glob syntax</td>
-</tr>
-
-<tr>
-<td>Channel History</td>
-<td><code>+H [num]:[sec]</code></td>
-<td>When a user connects, show the last <code>[num]</code> lines within <code>[sec]</code> seconds</td>
-</tr>
-
-<tr>
-<td>Delay Kick rejoin</td>
-<td><code>+J [sec]</code></td>
-<td>Prevents a kicked user from rejoining the network until <code>[sec]</code> seconds has elapsed</td>
-</tr>
-
-<tr>
-<td>Prevent Knock</td>
-<td><code>+K</code></td>
-<td>Prevents users from KNOCKing to join the channel</td>
-</tr>
-
-<tr>
-<td>Forward when full</td>
-<td><code>+L [#chan]</code></td>
-<td>When a channel reaches its <code>+l</code> limit, forwards users to the specified channel</td>
-</tr>
-
-<tr>
-<td>No Nick Changes</td>
-<td><code>+N</code></td>
-<td>Users cannot change Nicks in the channel</td>
-</tr>
-
-<tr>
-<td>No Channel Kicks</td>
-<td><code>+Q</code></td>
-<td>Disabled channel kicks from users. Doesn&rsquo;t include services</td>
-</tr>
-
-<tr>
-<td>No Notices</td>
-<td><code>+T</code></td>
-<td>Blocks user notices in the channel</td>
-</tr>
-
-<tr>
-<td>Auditorium</td>
-<td><code>+u</code></td>
-<td>Hides joins, parts/quits, and the nick list from non-opers. Great for large, active channels</td>
-</tr>
-
-<tr>
-<td>Auto-mode</td>
-<td><code>+w [flag]:[banmask]</code></td>
-<td>Automatically applies a flag (channel mode, i.e +o for op) to anyone who matches the banmask on join</td>
-</tr>
-
-<tr>
-<td>Exempt chanops</td>
-<td><code>+X [permission]:[mode]</code></td>
-<td>Exempts anyone with a matching user mode from permissions. See <a href="/modes">Modes</a> for details</td>
-</tr>
-
-<tr>
-<td>SSL Only</td>
-<td><code>+z</code></td>
-<td>Channel in which only SSL users may chat</td>
-</tr>
-</tbody>
-</table>
-
-<h1 id="user-modes">User Modes</h1>
-
-<p>User modes are something most users don&rsquo;t have to worry about, but for your reference, here are the changes between the old network and the new. For more details, see the <a href="/umodes">User Modes</a> page</p>
-
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Old</th>
-<th>New</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>Deaf (no channel messages)</td>
-<td><code>+D</code></td>
-<td><code>+d</code></td>
-</tr>
-
-<tr>
-<td>Caller ID</td>
-<td><code>+g</code></td>
-<td><code>+g</code></td>
-</tr>
-
-<tr>
-<td>Invisible</td>
-<td><code>+i</code></td>
-<td><code>+i</code></td>
-</tr>
-
-<tr>
-<td>No Forwarding</td>
-<td><code>+Q</code></td>
-<td><em>n/a</em></td>
-</tr>
-
-<tr>
-<td>Block Unidentified</td>
-<td><code>+R</code></td>
-<td><code>+R</code></td>
-</tr>
-
-<tr>
-<td>See wallops</td>
-<td><code>+w</code></td>
-<td><code>+w</code></td>
-</tr>
-
-<tr>
-<td>Basic IP cloaking</td>
-<td><code>+x</code></td>
-<td><code>+x</code></td>
-</tr>
-</tbody>
-</table>
-
-<h1 id="client-specific-information">Client-specific information</h1>
-
-<p>Quassel users may need to restart their core to properly see the new usermodes.</p>
-</section>
-
-    <footer class="footer">
-        <a href='https://staging.snoonet.org/posts/2013/10/20/snoonet-transition-guide/'>Read More &raquo;</a>
-
-        <div class="clearfix"></div>
-    </footer>
-</article>
-
-    
-        <article class="post single">
-    <header class="inline-header">
-    <h2>
-        <a href="https://staging.snoonet.org/posts/2013/04/28/snoonets-birthday/">Snoonet&#39;s birthday</a>
-
-        <span class="h2-secondary">
-            <time
-                class="icon-time"
-                datetime="2013-04-28T09:39:34Z"
-                title="Sun, Apr 28, 2013"
-            >
-                Sun, Apr 28, 2013
-            </time>
-        </span>
-    </h2>
-</header>
-
-
-    <section class="content"><p>Snoonet IRC network is 1 year old today - first live on 28th April 2012.</p>
-
-<p>We&rsquo;ve had some stability issues in the early days, but things have smoothed out nicely over the year.</p>
-
-<p>Today we are host to over 70 active reddit communities, over 1000 regular users and 12 servers.</p>
-
-<p>Here&rsquo;s to IRC and the future!</p>
-</section>
-
-    <footer class="footer">
-        <a href='https://staging.snoonet.org/posts/2013/04/28/snoonets-birthday/'>Read More &raquo;</a>
-
-        <div class="clearfix"></div>
-    </footer>
-</article>
-
-    
-        <article class="post single">
-    <header class="inline-header">
-    <h2>
-        <a href="https://staging.snoonet.org/posts/2013/04/18/hiring-support-staff/">Hiring Support Staff</a>
-
-        <span class="h2-secondary">
-            <time
-                class="icon-time"
-                datetime="2013-04-18T05:44:00Z"
-                title="Thu, Apr 18, 2013"
-            >
-                Thu, Apr 18, 2013
-            </time>
-        </span>
-    </h2>
-</header>
-
-
-    <section class="content">
-
-<p>As we are growing and plans are coming in to play for reddit users to enter by the masses, we are hiring support staff with advanced knowledge of charybdis and atheme who can be on to help users. It is an entry position to progress through staff, and on to paid positions. Mods in this position will be granted certain privileges and expected to help users with common IRC issues. The webchat has been updated to make it more new-user friendly, however hundreds if not thousands of users will have questions and concerns. Our goal is to be there for them.</p>
-
-<h1 id="we-are-asking-for-10-15-support-staff">We are asking for 10-15 support staff</h1>
-
-<h1 id="if-you-d-like-to-help-snoonet-on-this-journey-e-mail-hahahugoshortcode-0xc000235400-1-hbhb-with">If you&rsquo;d like to help Snoonet on this journey, e-mail <span class="email-link">shane [at] snoonet.org</span> with:</h1>
-
-<ul>
-<li>IRC Alias</li>
-<li>Operator/Staff Experience on IRC</li>
-<li>Knowledge of Atheme IRC Services</li>
-<li>Knowledge of Charybdis</li>
-<li>Your location in the world / Timezone</li>
-<li>Availability to help</li>
-<li>Any communities/subreddits/IRC Channels you moderate on a day to day basis</li>
-</ul>
-</section>
-
-    <footer class="footer">
-        <a href='https://staging.snoonet.org/posts/2013/04/18/hiring-support-staff/'>Read More &raquo;</a>
-
-        <div class="clearfix"></div>
-    </footer>
-</article>
-
-    
-        <article class="post single">
-    <header class="inline-header">
-    <h2>
         <a href="https://staging.snoonet.org/posts/2013/02/03/updates/">Updates</a>
 
         <span class="h2-secondary">
@@ -716,6 +239,101 @@
 </article>
 
     
+        <article class="post single">
+    <header class="inline-header">
+    <h2>
+        <a href="https://staging.snoonet.org/posts/2013/01/04/snoonet-maintenance/">Snoonet Maintenance</a>
+
+        <span class="h2-secondary">
+            <time
+                class="icon-time"
+                datetime="2013-01-04T06:15:00Z"
+                title="Fri, Jan 4, 2013"
+            >
+                Fri, Jan 4, 2013
+            </time>
+        </span>
+    </h2>
+</header>
+
+
+    <section class="content"><p>On Monday, Jan. 7 at 2AM EST we will be issuing updates to the Snoonet IRCd servers.</p>
+
+<p>There will be some brief splits as we upgrade the operating systems on two of the nodes. We will be adding more nodes for clients to connect to for both IPv4 and IPv6. As our webchat reaches a more capable stage, these updates will be to prepare for the widespread user count anticipated by newcomers from Reddit Enhancement Suite/Reddit links.</p>
+
+<p>We will keep services downtime to a minimum, anticipating very little downtime.</p>
+
+<p>Snoonet is working on other projects aside from IRC/live chat services, and more news will be shared as the days come.</p>
+
+<p>We are also seeking client servers. We have plenty of servers, but we feel as if they will be of use in the very near future. If you can help, please e-mail <span class="email-link">shane [at] snoonet.org</span> and we will continue from there. Please have advanced knowledge and experience moderating large communities!</p>
+
+<p>Snoonet is here for ALL communities, reddit and otherwise. If you&rsquo;d like to help us provide for the communities, shoot us an e-mail!</p>
+
+<p>If you have any concerns/questions, feel free to post at <a href="http://snoonet.reddit.com">http://snoonet.reddit.com</a> / e-mail us at <span class="email-link">support [at] snoonet.org</span> / ask us in #help</p>
+
+<p>Sincerely,
+Snoonet Staff</p>
+</section>
+
+    <footer class="footer">
+        <a href='https://staging.snoonet.org/posts/2013/01/04/snoonet-maintenance/'>Read More &raquo;</a>
+
+        <div class="clearfix"></div>
+    </footer>
+</article>
+
+    
+        <article class="post single">
+    <header class="inline-header">
+    <h2>
+        <a href="https://staging.snoonet.org/posts/2012/12/12/snoonet-updates/">Snoonet Updates</a>
+
+        <span class="h2-secondary">
+            <time
+                class="icon-time"
+                datetime="2012-12-12T00:00:00Z"
+                title="Wed, Dec 12, 2012"
+            >
+                Wed, Dec 12, 2012
+            </time>
+        </span>
+    </h2>
+</header>
+
+
+    <section class="content">
+
+<h1 id="email-support">Email Support</h1>
+
+<p>We have set up an e-mail for those in need of support if they are having connection issues, or need any type of support outside of the chat network. Any suggestions or requests for any thing Snoonet are <strong>highly encouraged</strong> as well. This can be done by contacting us at <span class="email-link">support [at] snoonet.org</span> - Be sure to include your nickname in the e-mail!</p>
+
+<h1 id="keeping-in-touch">Keeping in Touch</h1>
+
+<p>We will be announcing things as we work on them via wallops (/mode yournick +w) for those interested, and discussing things in #snoonet - Recently we changed the default connect mode so users may opt in to these messages, rather than having to opt-out for things they are not concerned with.</p>
+
+<h1 id="webchat">Webchat</h1>
+
+<p>Snooonet webchat will be greatly updated. Much more stable and integrated more with the reddit lifestyle you know and love. It should be easier for everybody to use. We have made sure that all your existing webchat links will still work as normal so no need to worry about that.</p>
+
+<p>This will now pave the way for subreddit mods to embed or customize Snoonet webchat for their own communities. You may link to your IRC channel (chat room) with <code>https://webchat.snoonet.org//yourchannelhere</code></p>
+
+<h1 id="ssl-fingerprint-information">SSL/Fingerprint Information</h1>
+
+<p>Due to recent changes in the Snoonet network infrastructure, our servers now use a single, self-signed certificate for all secure (SSL) connections. For our security-conscious clients, the below fingerprints may be used to verify the identity of a Snoonet server:</p>
+
+<p><code>99:5B:AC:FE:E6:A4:22:8F:51:2D:21:63:4B:5F:05:4D:E1:61:8D:6B</code></p>
+
+<p>The reason for self-signing is to offer encryption and security for those who seek it while handle issues with our paid/valid certificate to work with the IRCds. Our staff has been working very hard to <strong>make things the way the need to be</strong> after the unfortunate events with the .com to .org address change.</p>
+</section>
+
+    <footer class="footer">
+        <a href='https://staging.snoonet.org/posts/2012/12/12/snoonet-updates/'>Read More &raquo;</a>
+
+        <div class="clearfix"></div>
+    </footer>
+</article>
+
+    
 
     
 
@@ -775,16 +393,10 @@
                     </a>
                 </li>
             
-                <li class="pagination__item">
-                    <a href="/page/9/" class="pagination__link">
-                        9
-                    </a>
-                </li>
-            
         </ul>
 
         
-            <a href="/page/9/">&raquo;</a>
+            &raquo;
         
     </nav>
 
