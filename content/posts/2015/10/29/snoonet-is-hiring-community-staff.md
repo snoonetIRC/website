@@ -1,6 +1,6 @@
 ---
 date: 2015-10-29T16:16:00
-draft: false
+draft: true
 title: "Snoonet is hiring community staff!"
 type: post
 ---
