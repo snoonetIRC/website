@@ -2,7 +2,7 @@
 date: 2016-03-20T02:51:00
 draft: false
 title: "Push Notifications - Never miss an important message again"
-type: post
+type: "post"
 ---
 
 Snoonet is excited to add push notifications, a new way to stay up-to-date when away from your computer. Powered by PushBullet, Snoonet can now send a notification to your mobile device when pinged or PMed while away from your computer. With push, never miss an important message again.

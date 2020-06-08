@@ -2,7 +2,7 @@
 date: 2016-12-15T23:48:00
 draft: false
 title: "Introducing our newest partner - Private Internet Access!"
-type: post
+type: "post"
 ---
 
 Today, Snoonet is pleased to announce our newest partner - Private Internet Access!

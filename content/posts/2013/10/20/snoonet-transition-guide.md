@@ -2,7 +2,7 @@
 date: 2013-10-20T02:34:00
 draft: false
 title: "Snoonet transition guide"
-type: post
+type: "post"
 ---
 
 With the move to InspIRCd, Snoonet now offers channel operators and users more ways to control their chat experience, regardless of client. Some things will have changed since we moved from the old network, and in order to make the transition as pain-free as possible, we have prepared this guide to help. If you have any problems, please don't hesitate to drop by #help on irc.

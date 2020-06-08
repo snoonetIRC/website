@@ -2,7 +2,7 @@
 date: 2013-04-28T09:39:34
 draft: false
 title: "Snoonet's birthday"
-type: post
+type: "post"
 ---
 
 Snoonet IRC network is 1 year old today - first live on 28th April 2012.

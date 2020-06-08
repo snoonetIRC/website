@@ -2,7 +2,7 @@
 date: 2016-08-17T23:00:00
 draft: false
 title: "IRC software and Server upgrades (Maintenance Window)"
-type: post
+type: "post"
 ---
 
 Snoonet will be undergoing server updates on the morning of August 31st at 02:00 UTC. The maintenance window will last for approximately 4 hours (subject to change, sudden catastrophic failure, and/or ThatOneRoadie pouring maple syrup on the Canadian servers).

@@ -2,7 +2,7 @@
 date: 2015-11-22T02:57:00
 draft: false
 title: "Change to the Default User Modes on Snoonet"
-type: post
+type: "post"
 ---
 
 We know that many communities are concerned about privacy for their users.  To that end, in addition to masking user's IPs, we are now setting +I as a default usermode. 

@@ -2,7 +2,7 @@
 date: 2015-02-28T18:00:00
 draft: false
 title: "In Remembrance of Edify"
-type: post
+type: "post"
 ---
 
 Former long-time Snoonet network operator and reddit moderator /u/edify, remembered as Jarod Coonce by his friends and family, [has passed away](http://ksnt.com/2015/02/28/topeka-fire-department-responds-to-fatal-house-fire/). He was known for organizing television AMAs, and made the television community on reddit -- from /r/thewalkingdead to /r/breakingbad -- what it is today. 

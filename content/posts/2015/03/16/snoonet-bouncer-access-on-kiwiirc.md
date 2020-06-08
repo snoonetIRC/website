@@ -2,7 +2,7 @@
 date: 2015-03-16T15:32:00
 draft: false
 title: "Snoonet Bouncer Access on KiwiIRC"
-type: post
+type: "post"
 ---
 
 We are pleased to announce that [KiwiIRC](https://kiwiirc.com/) now allows you to connect with Snoonet's bouncer (BNC) service.  Web BNC can be accessed at [https://webbnc.snoonet.org](https://webbnc.snoonet.org).  This change should enable more users to access our BNC service and use it on a regular basis.  

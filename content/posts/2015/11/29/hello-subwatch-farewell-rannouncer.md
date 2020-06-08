@@ -2,7 +2,7 @@
 date: 2015-11-29T01:58:00
 draft: false
 title: "Hello SubWatch, Farewell rAnnouncer"
-type: post
+type: "post"
 ---
 
 We're pleased to introduce SubWatch, a new bot on our network.  Subwatch announces new reddit threads on your channel from subreddits of your choosing, and will be replacing rAnnouncer, which is being decommissioned.  You will need to transfer your settings in order for your channel to continue receiving thread alerts.

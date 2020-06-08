@@ -2,7 +2,7 @@
 date: 2014-05-07T21:31:00
 draft: false
 title: "BNC, Subreddit VHOST, and powerful user channel modes"
-type: post
+type: "post"
 ---
 
 # Want to always have your IRC nick connected? Be able to log in to your IRC nickname and resume your session from any computer, or device, from any any where at any time.

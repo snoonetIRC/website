@@ -2,7 +2,7 @@
 date: 2014-04-07T20:01:00
 draft: false
 title: "Snoonet will be turning 2 on Apr 28!"
-type: post
+type: "post"
 ---
 
 On Apr. 28, 2014 Snoonet will be turning 2 years old! Many of the top 50 subreddit's well respected mods have made a name for themselves as staff on the network. Alongside a few reddit admins that operate behind the scenes, we'd like to thank the subreddits and the users of Snoonet for calling our IRC network their chat home.

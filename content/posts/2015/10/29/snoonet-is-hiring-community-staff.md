@@ -2,7 +2,7 @@
 date: 2015-10-29T16:16:00
 draft: true
 title: "Snoonet is hiring community staff!"
-type: post
+type: "post"
 ---
 
 Snoonet is looking to hire community staff members.  Applicants should be active and engaged in our IRC communities and be interested in volunteering their time to make the network a better place.

@@ -2,7 +2,7 @@
 date: 2015-03-12T20:00:00
 draft: false
 title: "Update on Snoonet's custom vhost program"
-type: post
+type: "post"
 ---
 
 A month ago, we trialed a new service allowing users to request a custom vhost of their choosing, provided the custom host didn't contain any slurs or violate any pre-existing network rules. 

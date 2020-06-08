@@ -2,7 +2,7 @@
 date: 2014-07-09T12:30:00
 draft: false
 title: "Rule Additions"
-type: post
+type: "post"
 ---
 
 Snoonet operations reserve the right to set temporary and permanent channel modes on any channel or user during attacks, to protect users from harmful spam messages (containing, or not containing), malicious dox (private information), malicious software/web pages, viruses, spam, flood. This rule will not allow for censorship and will only be considered when multiple users become targets for attackers. No private channels will be affected.
