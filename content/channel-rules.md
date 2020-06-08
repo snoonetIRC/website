@@ -4,7 +4,7 @@
 title: "Channel Rules"
 date: 2019-01-14T22:16:08Z
 draft: false
-type: page
+type: "page"
 ---
 
 # Registering a Channel

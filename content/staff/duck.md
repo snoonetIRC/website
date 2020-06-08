@@ -3,7 +3,7 @@ aliases: [ 'Duck' ]
 title: "Duck"
 date: 2018-12-31T08:55:29Z
 draft: false
-type: page
+type: "page"
 kind: "staff_top"
 role: "Network Director"
 favorite_channels: "#depression, #fuckduck"

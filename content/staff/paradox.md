@@ -3,7 +3,7 @@ aliases: [ 'Paradox' ]
 title: "Paradox"
 date: 2018-12-31T08:55:29Z
 draft: false
-type: page
+type: "page"
 kind: "staff_top"
 role: "Founder"
 favorite_channels: "#reddit, #memenetics"

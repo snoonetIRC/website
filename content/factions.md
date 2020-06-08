@@ -4,7 +4,7 @@
 title: "Factions"
 date: 2019-01-14T21:25:59Z
 draft: true
-type: page
+type: "page"
 ---
 
 <font size="32" color="red">Final Date: June 19, 2017 - The funds come from faction leaders.</font>

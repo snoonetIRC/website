@@ -3,7 +3,7 @@ aliases: [ 'bloodygonzo' ]
 title: "bloodygonzo"
 date: 2019-04-13T09:33:29Z
 draft: false
-type: page
+type: "page"
 kind: "staff_alumni"
 role: "Alumnus"
 favorite_channels: ""

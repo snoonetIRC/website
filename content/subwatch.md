@@ -3,7 +3,7 @@ title: "SubWatch"
 aliases: [SubWatch]
 date: 2019-01-14T21:38:22Z
 draft: false
-type: page
+type: "page"
 ---
 
 SubWatch is a thread announcer bot, it will alert the channel of new threads posted in subreddits of your choosing. It's able to watch private subreddits and announce threads based on keywords in the title.

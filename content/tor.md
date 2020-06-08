@@ -2,7 +2,7 @@
 title: "Tor"
 date: 2018-12-30T21:43:20Z
 draft: false
-type: page
+type: "page"
 ---
 
 Connections to Snoonet using Tor are not supported. You will need to utilize an

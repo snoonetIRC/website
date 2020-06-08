@@ -3,7 +3,7 @@ aliases: [ 'casualminecrafting' ]
 title: "#casualminecrafting"
 date: 2019-01-02T21:38:01Z
 draft: false
-type: community
+type: "community"
 kind: "gaming"
 subreddit: "casualminecrafting"
 ---

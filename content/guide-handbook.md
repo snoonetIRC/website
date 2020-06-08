@@ -5,7 +5,7 @@
 title: "Guide Handbook"
 date: 2019-01-14T21:30:01Z
 draft: false
-type: page
+type: "page"
 ---
 
 # Overview

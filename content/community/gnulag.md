@@ -3,7 +3,7 @@ aliases: [ 'GNUlag', 'GNULag' ]
 title: "#gnulag"
 date: 2019-16-10T14:32:00Z
 draft: false
-type: community
+type: "community"
 kind: "technology_and_science"
 subreddit: ""
 ---

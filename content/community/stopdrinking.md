@@ -3,7 +3,7 @@ aliases: [ 'stopdrinking' ]
 title: "#stopdrinking"
 date: 2019-01-02T21:45:18Z
 draft: false
-type: community
+type: "community"
 kind: "health_and_food"
 subreddit: "stopdrinking"
 ---

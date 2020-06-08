@@ -4,7 +4,7 @@
 title: "memebot"
 date: 2019-01-14T21:43:10Z
 draft: true
-type: page
+type: "page"
 ---
 
 memebot is an IRC bot that places a caption on an image and uploads it to imgur. There's a variety of images you may choose from, otherwise memebot will pick one at random.

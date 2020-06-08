@@ -3,7 +3,7 @@ aliases: [ 'subredditdrama' ]
 title: "#subredditdrama"
 date: 2019-01-02T22:05:39Z
 draft: false
-type: community
+type: "community"
 kind: "moderation_and_reddit"
 subreddit: "subredditdrama"
 ---

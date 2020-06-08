@@ -3,7 +3,7 @@ aliases: [ 'writingprompts' ]
 title: "#writingprompts"
 date: 2019-01-02T21:53:33Z
 draft: false
-type: community
+type: "community"
 kind: "literature"
 subreddit: "writingprompts"
 ---

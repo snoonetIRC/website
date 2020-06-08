@@ -4,7 +4,7 @@ aliases: [ 'redditBot' ]
 title: "redditBot"
 date: 2019-01-14T21:45:41Z
 draft: true
-type: page
+type: "page"
 ---
 
 redditBot is an IRC bot that provides information from reddit upon request. It is designed to sit in a channel and be queried for data about reddit users and subreddits.

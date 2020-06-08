@@ -2,6 +2,6 @@
 aliases: [ 'greece' ]
 title: "#greece"
 draft: false
-type: community
+type: "community"
 kind: "regional"
 ---

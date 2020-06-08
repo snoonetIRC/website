@@ -3,7 +3,7 @@ aliases: [ 'bodyweightfitness' ]
 title: "#bodyweightfitness"
 date: 2019-01-02T21:41:18Z
 draft: false
-type: community
+type: "community"
 kind: "health_and_food"
 subreddit: "bodyweightfitness"
 ---

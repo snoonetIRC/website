@@ -3,7 +3,7 @@ aliases: [ 'partymansion' ]
 title: "##PartyMansion rules"
 date: 2019-01-03T10:07:10Z
 draft: false
-type: page
+type: "page"
 ---
 
 We want ##PartyMansion to be a fun place for hedonism, coke, booze, strippers, and Dr Phil worship. Don't be a dick and spoil the party for everyone else.

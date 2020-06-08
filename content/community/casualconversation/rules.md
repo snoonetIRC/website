@@ -3,7 +3,7 @@ aliases: [ 'ccrules' ]
 title: "#casualconversation rules"
 date: 2019-01-03T10:07:10Z
 draft: false
-type: page
+type: "page"
 ---
 
 ## {{< webchat channel="#casualconversation" title="#casualconversation" >}}

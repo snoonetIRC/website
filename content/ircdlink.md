@@ -5,7 +5,7 @@
 title: "IRCd Link"
 date: 2019-01-14T22:10:43Z
 draft: true
-type: page
+type: "page"
 ---
 
 ## Looking to link with our IRC network?

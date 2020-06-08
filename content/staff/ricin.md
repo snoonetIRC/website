@@ -3,7 +3,7 @@ aliases: [ 'ricin' ]
 title: "ricin"
 date: 2018-12-31T08:55:29Z
 draft: false
-type: page
+type: "page"
 kind: "staff"
 role: "Staff"
 favorite_channels: ""

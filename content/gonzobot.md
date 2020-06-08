@@ -2,7 +2,7 @@
 title: "gonzobot"
 date: 2019-01-14T21:50:56Z
 draft: false
-type: page
+type: "page"
 ---
 
 Welcome to the help page for [gonzobot](https://github.com/snoonetIRC/CloudBot), a fork of the awesome IRC bot [Cloudbot](https://github.com/CloudBotIRC/CloudBot) that has been customized for Snoonet. To send gonzobot a command use '.' or '@' as a prefix to any of the commands listed below, the terms listed in parenthesis are aliases and will work the same as the command. *Example:* `.cake bloodygonzo`

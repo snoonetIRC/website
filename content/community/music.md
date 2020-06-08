@@ -3,7 +3,7 @@ aliases: [ 'music' ]
 title: "#music"
 date: 2019-01-02T22:09:18Z
 draft: false
-type: community
+type: "community"
 kind: "music"
 subreddit: "music"
 ---

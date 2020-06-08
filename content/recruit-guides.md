@@ -5,7 +5,7 @@
 title: "Recruit Guides"
 date: 2019-01-14T21:31:32Z
 draft: false
-type: page
+type: "page"
 ---
 
 # From: Snoonet Management

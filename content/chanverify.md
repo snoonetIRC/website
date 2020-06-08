@@ -4,7 +4,7 @@
 title: "Chanverify"
 date: 2019-01-14T21:26:55Z
 draft: true
-type: page
+type: "page"
 ---
 
 ## Why you're here

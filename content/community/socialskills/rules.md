@@ -3,7 +3,7 @@ aliases: [ 'socialskillsrules' ]
 title: "#socialskills rules"
 date: 2019-01-03T10:07:10Z
 draft: false
-type: page
+type: "page"
 ---
 
 Hi, {{< webchat channel="#socialskills" title="#socialskills" >}} is an irc channel hosted on snoonet for those looking to have friendly conversation and/or receive advice in regards to social relationships. Keep in mind  that we are not professionals. For advice and help with mental health troubles #depression and #anxiety are better. Hope to see you there!

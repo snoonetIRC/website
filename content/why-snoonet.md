@@ -2,7 +2,7 @@
 title: "Why Snoonet?"
 date: 2018-12-30T21:43:20Z
 draft: false
-type: page
+type: "page"
 ---
 
 ## Snoonet is a network run by redditors, for redditors.

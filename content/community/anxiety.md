@@ -3,7 +3,7 @@ aliases: [ 'anxiety' ]
 title: "#anxiety"
 date: 2019-01-02T19:25:50Z
 draft: false
-type: community
+type: "community"
 kind: "health_and_food"
 subreddit: "anxiety"
 ---

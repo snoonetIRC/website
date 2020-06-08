@@ -3,7 +3,7 @@ aliases: [ 'trollnsfw' ]
 title: "#Troll_NSFW rules"
 date: 2019-01-03T10:07:10Z
 draft: false
-type: page
+type: "page"
 ---
 
 In addition to the [usual Snoonet network rules](/rules), follow the channel rules:
