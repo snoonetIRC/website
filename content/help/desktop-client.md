@@ -10,7 +10,7 @@ IRC is a fairly popular chat protocol, it has many thousands of users around the
 
 Choosing an IRC client comes down to preference, but here are some of the more popular ones:
 
-* [Adiirc](https://www.adiirc.com/index.php) (Free - WIndows/Mac OS/Linux)
+* [AdiIRC](https://www.adiirc.com/index.php) (Free - WIndows/Mac OS/Linux)
 * [Colloquy](http://colloquy.info/) (Free - Mac OS)
 * [HexChat](http://hexchat.github.io/) (Free - Windows/Mac OS/Linux)
 * [IceChat](http://www.icechat.net/site/) (Free - WIndows)
@@ -20,7 +20,6 @@ Choosing an IRC client comes down to preference, but here are some of the more p
 * [Smuxi](https://www.smuxi.org/main/) (Free - Windows/Mac OS/Linux)
 * [Textual](http://www.codeux.com/textual/) (Paid - Mac OS)
 * [weechat](http://weechat.org) (Free - Mac OS/Linux - Command line client/Advanced)
-* [XChat](http://xchat.org/) (Free - Windows/Linux)
 
 All these clients are different (some more, some less) but they all have some stuff in common. They all allow for storing a list of networks and for setting global information about yourself, like a nickname and your real name (you don't have to put your actual name there, you can put anything in the real name field). So you should choose your desired nickname and move on to the next steps.
 
