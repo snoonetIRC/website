@@ -10,10 +10,10 @@ IRC is a fairly popular chat protocol, it has many thousands of users around the
 
 Choosing an IRC client comes down to preference, but here are some of the more popular ones:
 
-* [AdiIRC](https://www.adiirc.com/index.php) (Free - WIndows/Mac OS/Linux)
+* [AdiIRC](https://www.adiirc.com/index.php) (Free - Windows/Mac OS/Linux)
 * [Colloquy](http://colloquy.info/) (Free - Mac OS)
 * [HexChat](http://hexchat.github.io/) (Free - Windows/Mac OS/Linux)
-* [IceChat](http://www.icechat.net/site/) (Free - WIndows)
+* [IceChat](http://www.icechat.net/site/) (Free - Windows)
 * [irssi](http://www.irssi.org/) (Free - Mac OS/Linux - Command line client/Advanced)
 * [LimeChat](http://limechat.net/mac/) (Free - Mac OS)
 * [mIRC](http://www.mirc.com/) (Paid - Windows)
