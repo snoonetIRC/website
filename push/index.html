@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="generator" content="Hugo 0.54.0" />
+    <meta name="generator" content="Hugo 0.70.0" />
 
     <link
         href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,italic,bolditalic"
@@ -16,8 +16,8 @@
 
     <link
         rel="stylesheet"
-        href="https://staging.snoonet.org/scss/application-screen.min.37d1093021ee57aaa1e46839f7219fee51bae620dabf92d17bd699135ba1808b.css"
-        integrity="sha256-N9EJMCHuV6qh5Gg59yGf7lG65iDav5LRe9aZE1uhgIs="
+        href="https://staging.snoonet.org/scss/application-screen.min.a581b7585446fadefd0586d4c2fbf9bda620b39daf3d42fbb37b5272244c658c.css"
+        integrity="sha256-pYG3WFRG&#43;t79BYbUwvv5vaYgs52vPUL7s3tSciRMZYw="
         crossorigin="anonymous"
         media="screen"
     >
@@ -142,113 +142,95 @@
         </header>
 
         <section class="content">
-            
-
-<h2 id="what-is-push">What is push?</h2>
-
+            <h2 id="what-is-push">What is push?</h2>
 <p>Push notifications are a free, convenient way to get notified when someone sends
 you a private message, mentions you in a channel, or says one of your highlight
 words while you are away from IRC. Notifications can be sent to your phone,
 tablet, mobile device, computer, or web browser.</p>
-
 <h2 id="requirements">Requirements</h2>
-
 <p>In order to receive push notifications, you&rsquo;ll need a Snoonet BNC account, a
 PushBullet account, and the PushBullet app installed on any devices on which you
 wish to receivel notifications. Instructions can be found in the setup
 instructions below.</p>
-
 <h2 id="setup">Setup</h2>
-
-<p>1) If you do not already have one, signup and configure your client for the
-   <a href="/bnc">Snoonet BNC</a></p>
-
-<p>2) Create a free account with <a href="https://www.pushbullet.com">PushBullet</a>.</p>
-
-<p>3) Install the <a href="https://www.pushbullet.com/apps">app</a> on all devices for which
-   you would like to receive push notifications.</p>
-
-<p>4) Go to your <a href="https://www.pushbullet.com/#settings/account">account settings</a>,
-   scroll to the bottom, and select <code>Create Access Token</code>. Copy the generated
-   code, you&rsquo;ll need it in the next step.</p>
-
-<p>5) Configure notifications to your account using
-   <code>/msg Snoo_push set token [Access Token (from step 4)]</code>.</p>
-
-<p>6) Enable notifications <code>/msg Snoo_push enable</code> and send a test message with
-   <code>/msg Snoo_push test</code> to confirm it&rsquo;s working - you should receive a &ldquo;Test
-   Message&rdquo; notification on your configured device(s).</p>
-
-<p>7) By default, you will always receive a notification on mentions or PMs. To
-   only receive notifications when away or disconnected,
-   <code>/msg Snoo_push set away_only yes</code> (you are automatically marked away when
-   all clients disconnect).</p>
-
-<h2 id="i-d-like-to-see-the-message-in-the-notification-instead-of-just-highlight-or-private-message">I&rsquo;d like to see the message in the notification instead of just &lsquo;Highlight&rsquo; or &lsquo;Private Message&rsquo;</h2>
-
+<ol>
+<li>
+<p>If you do not already have one, signup and configure your client for the
+<a href="/bnc">Snoonet BNC</a></p>
+</li>
+<li>
+<p>Create a free account with <a href="https://www.pushbullet.com">PushBullet</a>.</p>
+</li>
+<li>
+<p>Install the <a href="https://www.pushbullet.com/apps">app</a> on all devices for which
+you would like to receive push notifications.</p>
+</li>
+<li>
+<p>Go to your <a href="https://www.pushbullet.com/#settings/account">account settings</a>,
+scroll to the bottom, and select <code>Create Access Token</code>. Copy the generated
+code, you&rsquo;ll need it in the next step.</p>
+</li>
+<li>
+<p>Configure notifications to your account using
+<code>/msg Snoo_push set token [Access Token (from step 4)]</code>.</p>
+</li>
+<li>
+<p>Enable notifications <code>/msg Snoo_push enable</code> and send a test message with
+<code>/msg Snoo_push test</code> to confirm it&rsquo;s working - you should receive a &ldquo;Test
+Message&rdquo; notification on your configured device(s).</p>
+</li>
+<li>
+<p>By default, you will always receive a notification on mentions or PMs. To
+only receive notifications when away or disconnected,
+<code>/msg Snoo_push set away_only yes</code> (you are automatically marked away when
+all clients disconnect).</p>
+</li>
+</ol>
+<h2 id="id-like-to-see-the-message-in-the-notification-instead-of-just-highlight-or-private-message">I&rsquo;d like to see the message in the notification instead of just &lsquo;Highlight&rsquo; or &lsquo;Private Message&rsquo;</h2>
 <p>You can turn the privacy option off using <code>/msg Snoo_push set private no</code></p>
-
 <h2 id="can-i-set-certain-highlight-words-to-receive-push-notifications-on">Can I set certain highlight words to receive push notifications on?</h2>
-
 <p>Yes. In addition to your current IRC nick, you can add and delete words from a
 highlight list. Please enter one word per command.</p>
-
 <ul>
 <li>To add a word: <code>/msg Snoo_push highlight add [word]</code></li>
 <li>To delete a word: <code>/msg Snoo_push highlight del [word]</code></li>
 <li>To view your highlight list: <code>/msg Snoo_push highlight list</code></li>
 </ul>
-
 <h2 id="can-i-ignore-certain-nicks">Can I ignore certain nicks?</h2>
-
 <p>Absolutely. The ignore list works the same way as the highlight list, with one
 nick per command.</p>
-
 <ul>
 <li>To add a nick: <code>/msg Snoo_push ignore add [nick]</code></li>
 <li>To delete a nick: <code>/msg Snoo_push ignore del [nick]</code></li>
 <li>To view your ignore list: <code>/msg Snoo_push ignore list</code></li>
 </ul>
-
-<h2 id="i-m-not-receiving-notifications">I&rsquo;m not receiving notifications</h2>
-
+<h2 id="im-not-receiving-notifications">I&rsquo;m not receiving notifications</h2>
 <p>Set <code>/msg Snoo_push enabled</code> to turn notifications on. If they still are not
 working, make sure your token is properly set from steps 3 and 4. You can send a
 test notification with <code>/msg Snoo_push test</code></p>
-
-<h2 id="i-set-away-only-but-am-not-receiving-notifications-while-away-or-am-receiving-notifications-while-not-away">I set <em>away_only</em> but am not receiving notifications while away or am receiving notifications while not away</h2>
-
+<h2 id="i-set-away_only-but-am-not-receiving-notifications-while-away-or-am-receiving-notifications-while-not-away">I set <em>away_only</em> but am not receiving notifications while away or am receiving notifications while not away</h2>
 <p>If you use multiple devices, please make sure you are properly set away or
 unaway in IRC by confirming with <code>/whois your_nick</code>, which should include an
 away message if you are away, and none if you are not. You are automatically set
 away after 60 seconds of disconnecting all clients from BNC and unaway when you
 return. You can manually set away with <code>/away &lt;reason&gt;</code>. To return from away,
 use <code>/away</code> and confirm via WHOIS.</p>
-
-<h2 id="i-received-a-notification-but-can-t-reply-in-the-app">I received a notification but can&rsquo;t reply in the app</h2>
-
+<h2 id="i-received-a-notification-but-cant-reply-in-the-app">I received a notification but can&rsquo;t reply in the app</h2>
 <p>PushBullet is a notification service only - you cannot send messages to IRC. If
 you would like to use IRC on your mobile device, our
 <a href="/bnc">BNC page</a> has instructions for configuring various clients.</p>
-
 <h2 id="do-notifications-require-any-identifying-information">Do notifications require any identifying information?</h2>
-
 <p>No. Your PushBullet token is a unique identifier tied to your account that is
 only used to send notifications from Snoonet to your device. The push software
 does not have access to your phone number or PushBullet account details.</p>
-
 <h2 id="does-snoonet-support-services-other-than-pushbullet">Does Snoonet support services other than PushBullet?</h2>
-
 <p>At this time, no. The module is custom written for Snoonet and currently only
 supports PushBullet. While we may add additional services later, there is no
 timeline for such features.</p>
-
 <h2 id="where-can-i-get-assistance">Where can I get assistance?</h2>
-
 <p>Feel free to ask in #help and someone will assist you. Issues related to
 PushBullet itself should be sent to their
 <a href="https://www.pushbullet.com/support">support</a> directly.</p>
-
 <p><em>Snoonet is not affiliated with PushBullet.</em></p>
 
         </section>
@@ -266,14 +248,14 @@ PushBullet itself should be sent to their
     <em>
         Last modification:
         <a
-            href="https://github.com/snoonetIRC/static-web/commit/e74629d632b359db5242f936e72cebb2ecca040f"
+            href="https://github.com/snoonetIRC/static-web/commit/26cc1646308be830acda05a5d76117249e11dc47"
         >
-            e74629d
+            26cc164
         </a>
         &middot;
-        linuxdaemon
+        Mike Jones
         &middot;
-        Sat, Apr 13, 2019 11:00:09
+        Wed, Jun 17, 2020 15:07:28
     </em>
 
 

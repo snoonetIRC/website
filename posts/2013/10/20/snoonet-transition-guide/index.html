@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="generator" content="Hugo 0.54.0" />
+    <meta name="generator" content="Hugo 0.70.0" />
 
     <link
         href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,italic,bolditalic"
@@ -16,8 +16,8 @@
 
     <link
         rel="stylesheet"
-        href="https://staging.snoonet.org/scss/application-screen.min.37d1093021ee57aaa1e46839f7219fee51bae620dabf92d17bd699135ba1808b.css"
-        integrity="sha256-N9EJMCHuV6qh5Gg59yGf7lG65iDav5LRe9aZE1uhgIs="
+        href="https://staging.snoonet.org/scss/application-screen.min.a581b7585446fadefd0586d4c2fbf9bda620b39daf3d42fbb37b5272244c658c.css"
+        integrity="sha256-pYG3WFRG&#43;t79BYbUwvv5vaYgs52vPUL7s3tSciRMZYw="
         crossorigin="anonymous"
         media="screen"
     >
@@ -160,26 +160,15 @@
     
 </ul>
 
-            
-
-<p>With the move to InspIRCd, Snoonet now offers channel operators and users more ways to control their chat experience, regardless of client. Some things will have changed since we moved from the old network, and in order to make the transition as pain-free as possible, we have prepared this guide to help. If you have any problems, please don&rsquo;t hesitate to drop by #help on irc.</p>
-
+            <p>With the move to InspIRCd, Snoonet now offers channel operators and users more ways to control their chat experience, regardless of client. Some things will have changed since we moved from the old network, and in order to make the transition as pain-free as possible, we have prepared this guide to help. If you have any problems, please don&rsquo;t hesitate to drop by #help on irc.</p>
 <p>This guide is broken down into multiple parts. Changes affecting channel operators are listed first, while user-level changes are listed second. Services are <strong>not</strong> changing, so this guide does not cover any services (eg Nickserv, Chanserv)</p>
-
 <h1 id="channel-modes">Channel Modes</h1>
-
 <p>Most of the standard IRC channel modes will stay the same. Your bans will still work. Your invite exceptions <em>may</em> still work.</p>
-
 <p>However, things depending on old network features, such as quiets and ext-bans (such as the account ban, commonly used for invite exceptions, <code>$a:Paradox</code> for example) will not. The features are not gone, don&rsquo;t worry, they just work differently now.</p>
-
 <h3 id="changes">Changes</h3>
-
 <h3 id="quiets">Quiets</h3>
-
 <p>Many channels used <code>+q</code> to maintain a list of users who are prevented from speaking in the channel, but may still join and leave freely. This mode has been removed on the new network, and has been replaced with an extended ban.</p>
-
 <p>To quiet people on inspircd, you use the <code>m</code> extended ban. See the table below for some examples of how <code>q</code> bans on the old network become mute bans on the new network:</p>
-
 <table>
 <thead>
 <tr>
@@ -187,39 +176,31 @@
 <th>New</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td><code>+q *!*@snoonet/operations/Paradox</code></td>
 <td><code>+b m:*!*@snoonet/operations/Paradox</code></td>
 </tr>
-
 <tr>
 <td><code>+q *!*@192.168.1.1</code></td>
 <td><code>+b m:*!*@192.168.1.1</code></td>
 </tr>
-
 <tr>
 <td><code>+q NickName!*@*</code></td>
 <td><code>+b m:NickName!*@*</code></td>
 </tr>
-
 <tr>
 <td><code>+q $~a</code> (quiets all non-registered users)</td>
 <td><code>+M</code> (not a ban, a chanmode)</td>
 </tr>
-
 <tr>
 <td><code>+q $a:Paradox</code> (account ban)</td>
 <td><code>+b m:R:Paradox</code></td>
 </tr>
 </tbody>
 </table>
-
 <h3 id="bans-extbans-and-invite-exceptions-b-e-and-i">Bans, Extbans, and Invite Exceptions (+b, +e, and +I)</h3>
-
 <p>Bans share many of the same syntax as quiets, which are listed above, and you can just omit the <code>m:</code> from the ban to make them apply as bans.</p>
-
 <table>
 <thead>
 <tr>
@@ -228,50 +209,42 @@
 <th>New</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Registered user</td>
 <td><code>$a</code></td>
 <td><code>R:*</code></td>
 </tr>
-
 <tr>
 <td>Account name</td>
 <td><code>$a:AccountName</code></td>
 <td><code>R:AccountName</code></td>
 </tr>
-
 <tr>
 <td>Channel match</td>
 <td><code>$c:#chan</code></td>
 <td><code>j:#chan</code></td>
 </tr>
-
 <tr>
 <td>Oper</td>
 <td><code>$o</code></td>
 <td><code>O:*</code></td>
 </tr>
-
 <tr>
 <td>realname</td>
 <td><code>$r:realname</code></td>
 <td><code>r:realname</code></td>
 </tr>
-
 <tr>
 <td>Can access channel</td>
 <td><code>$j:#chan</code></td>
 <td><em>n/a</em></td>
 </tr>
-
 <tr>
 <td>Ban + realname</td>
 <td><code>$x:nick!user@host#realname</code></td>
 <td><em>n/a</em></td>
 </tr>
-
 <tr>
 <td>SSL users</td>
 <td><code>$z</code></td>
@@ -279,13 +252,9 @@
 </tr>
 </tbody>
 </table>
-
 <p><em>Some extban changes introduce new features, while others can reproduce the old features using a combination of <code>+b</code> and <code>+e</code> modes. See the <a href="/modes">Modes</a> page for details</em></p>
-
 <h3 id="other-modes">Other modes</h3>
-
 <p>With the transition we have lost some modes, gained some new ones, and others have changed. They are listed below. If a mode is not listed, it should be the same</p>
-
 <table>
 <thead>
 <tr>
@@ -294,38 +263,32 @@
 <th>New</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Registered Join only</td>
 <td><code>+r</code></td>
 <td><code>R</code></td>
 </tr>
-
 <tr>
 <td>Strip color codes</td>
 <td><code>+c</code></td>
 <td><code>S</code></td>
 </tr>
-
 <tr>
 <td>Anyone can Invite</td>
 <td><code>+g</code></td>
 <td><code>A</code></td>
 </tr>
-
 <tr>
 <td>Light Moderated</td>
 <td><code>+z</code></td>
 <td><em>n/a</em></td>
 </tr>
-
 <tr>
 <td>Forward</td>
 <td><code>+f</code></td>
 <td><code>+b *!*@*#otherchan</code></td>
 </tr>
-
 <tr>
 <td>Free Target</td>
 <td><code>+F</code></td>
@@ -333,15 +296,10 @@
 </tr>
 </tbody>
 </table>
-
 <p><em>Some channel mode changes introduce new features, while others are still possible using a combination of <code>+b</code> and <code>+e</code> modes with extbans. See the <a href="/modes">Modes</a> page for details</em></p>
-
 <h2 id="new-features">New features</h2>
-
 <h3 id="channel-modes-1">Channel Modes</h3>
-
 <p>The network transition introduces many new modes for channel operators, which provide an unprecedented level of control over channels. They are listed below. This listing <em>excludes</em> modes previously listed. For a comprehensive, up to date list of modes, check out the <a href="/modes">Modes</a> page</p>
-
 <table>
 <thead>
 <tr>
@@ -350,116 +308,97 @@
 <th>Description</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Block Caps</td>
 <td><code>+B</code></td>
 <td>Blocks all caps messages</td>
 </tr>
-
 <tr>
 <td>Block color</td>
 <td><code>+c</code></td>
 <td>Blocks messages containing color codes</td>
 </tr>
-
 <tr>
 <td>Delay Join</td>
 <td><code>+D</code></td>
 <td>Hides join messages until a user speaks</td>
 </tr>
-
 <tr>
 <td>Delay message</td>
 <td><code>+d [sec]</code></td>
 <td>Prevents a user from talking for <code>sec</code> seconds</td>
 </tr>
-
 <tr>
 <td>Prevent Nickflood</td>
 <td><code>+F [num]:[sec]</code></td>
 <td>Allows only <code>num</code> nick changes every <code>sec</code> seconds</td>
 </tr>
-
 <tr>
 <td>Prevent Message flood</td>
 <td><code>+f {*}[num]:[sec]</code></td>
 <td>Allows only <code>num</code> messages every <code>sec</code> seconds. Bans if <code>*</code> is included</td>
 </tr>
-
 <tr>
 <td>Censor</td>
 <td><code>+G</code></td>
 <td>Uses the network-defined search and replace censor for channel messages</td>
 </tr>
-
 <tr>
 <td>Custom Censor</td>
 <td><code>+g [keyword]</code></td>
 <td>Allows channel owners to block specific keywords from their channel. Uses glob syntax</td>
 </tr>
-
 <tr>
 <td>Channel History</td>
 <td><code>+H [num]:[sec]</code></td>
 <td>When a user connects, show the last <code>[num]</code> lines within <code>[sec]</code> seconds</td>
 </tr>
-
 <tr>
 <td>Delay Kick rejoin</td>
 <td><code>+J [sec]</code></td>
 <td>Prevents a kicked user from rejoining the network until <code>[sec]</code> seconds has elapsed</td>
 </tr>
-
 <tr>
 <td>Prevent Knock</td>
 <td><code>+K</code></td>
 <td>Prevents users from KNOCKing to join the channel</td>
 </tr>
-
 <tr>
 <td>Forward when full</td>
 <td><code>+L [#chan]</code></td>
 <td>When a channel reaches its <code>+l</code> limit, forwards users to the specified channel</td>
 </tr>
-
 <tr>
 <td>No Nick Changes</td>
 <td><code>+N</code></td>
 <td>Users cannot change Nicks in the channel</td>
 </tr>
-
 <tr>
 <td>No Channel Kicks</td>
 <td><code>+Q</code></td>
 <td>Disabled channel kicks from users. Doesn&rsquo;t include services</td>
 </tr>
-
 <tr>
 <td>No Notices</td>
 <td><code>+T</code></td>
 <td>Blocks user notices in the channel</td>
 </tr>
-
 <tr>
 <td>Auditorium</td>
 <td><code>+u</code></td>
 <td>Hides joins, parts/quits, and the nick list from non-opers. Great for large, active channels</td>
 </tr>
-
 <tr>
 <td>Auto-mode</td>
 <td><code>+w [flag]:[banmask]</code></td>
 <td>Automatically applies a flag (channel mode, i.e +o for op) to anyone who matches the banmask on join</td>
 </tr>
-
 <tr>
 <td>Exempt chanops</td>
 <td><code>+X [permission]:[mode]</code></td>
 <td>Exempts anyone with a matching user mode from permissions. See <a href="/modes">Modes</a> for details</td>
 </tr>
-
 <tr>
 <td>SSL Only</td>
 <td><code>+z</code></td>
@@ -467,11 +406,8 @@
 </tr>
 </tbody>
 </table>
-
 <h1 id="user-modes">User Modes</h1>
-
 <p>User modes are something most users don&rsquo;t have to worry about, but for your reference, here are the changes between the old network and the new. For more details, see the <a href="/umodes">User Modes</a> page</p>
-
 <table>
 <thead>
 <tr>
@@ -480,44 +416,37 @@
 <th>New</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Deaf (no channel messages)</td>
 <td><code>+D</code></td>
 <td><code>+d</code></td>
 </tr>
-
 <tr>
 <td>Caller ID</td>
 <td><code>+g</code></td>
 <td><code>+g</code></td>
 </tr>
-
 <tr>
 <td>Invisible</td>
 <td><code>+i</code></td>
 <td><code>+i</code></td>
 </tr>
-
 <tr>
 <td>No Forwarding</td>
 <td><code>+Q</code></td>
 <td><em>n/a</em></td>
 </tr>
-
 <tr>
 <td>Block Unidentified</td>
 <td><code>+R</code></td>
 <td><code>+R</code></td>
 </tr>
-
 <tr>
 <td>See wallops</td>
 <td><code>+w</code></td>
 <td><code>+w</code></td>
 </tr>
-
 <tr>
 <td>Basic IP cloaking</td>
 <td><code>+x</code></td>
@@ -525,9 +454,7 @@
 </tr>
 </tbody>
 </table>
-
 <h1 id="client-specific-information">Client-specific information</h1>
-
 <p>Quassel users may need to restart their core to properly see the new usermodes.</p>
 
         </section>
@@ -556,14 +483,14 @@
     <em>
         Last modification:
         <a
-            href="https://github.com/snoonetIRC/static-web/commit/e74629d632b359db5242f936e72cebb2ecca040f"
+            href="https://github.com/snoonetIRC/static-web/commit/26cc1646308be830acda05a5d76117249e11dc47"
         >
-            e74629d
+            26cc164
         </a>
         &middot;
-        linuxdaemon
+        Mike Jones
         &middot;
-        Sat, Apr 13, 2019 11:00:09
+        Wed, Jun 17, 2020 15:07:28
     </em>
 
 

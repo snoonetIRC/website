@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Snoonet</title>
@@ -33,11 +33,10 @@ If you have any questions or concerns please don&amp;rsquo;t hesitate to ask a S
       <pubDate>Thu, 24 May 2018 20:25:00 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/posts/2018/05/24/updates-to-our-privacy-policy-and-services/</guid>
-      <description>As part of our ongoing mission to serve our users and their communities, Snoonet is implementing some changes to our services and our policies to better reflect our commitment to privacy and security. &amp;nbsp;Specifically, we have made some changes in support of the EU General Data Protection Regulation (GDPR), which comes into effect on May 25, 2018.
+      <description>As part of our ongoing mission to serve our users and their communities, Snoonet is implementing some changes to our services and our policies to better reflect our commitment to privacy and security. Specifically, we have made some changes in support of the EU General Data Protection Regulation (GDPR), which comes into effect on May 25, 2018.
 A brief overview of some of the changes:  Our new Privacy Policy will come into effect on May 25, 2018. The revised policy doesn&amp;rsquo;t change the amount of data that we request from you, or impact how we use it.
-Instead, the policy provides more details about the information we collect, how we use it, and how we comply with GDPR and other privacy legislation. We have also provided information about how to request the removal of your information from both our IRC network and from services like our support system.
- As announced yesterday, we no longer offer the Statistics bot as a network service, and have purged all data collected by the service. For more information, please visit the Statistics page. We have updated the messages that are sent to you upon connecting to our IRC network to notify you of our revised Privacy Policy and to seek your consent to these changes.  Additional information Privacy and security have been a long-term priority for us at Snoonet, and you can review our Privacy and Security page for additional information about our network&amp;rsquo;s privacy features, steps that you can take to protect your privacy when using our services, and some answers to frequently asked questions.
-It&amp;rsquo;s important to be aware that by using our services on or after May 25, 2018, you will be agreeing to the changes outlined in our Privacy Policy. If you do not agree to these changes, it is important that you stop using our services and take steps to delete your accounts and data. &amp;nbsp;For more information, please consult the policy or contact us through our support system at https://support.snoonet.org.</description>
+Instead, the policy provides more details about the information we collect, how we use it, and how we comply with GDPR and other privacy legislation. We have also provided information about how to request the removal of your information from both our IRC network and from services like our support system. As announced yesterday, we no longer offer the Statistics bot as a network service, and have purged all data collected by the service. For more information, please visit the Statistics page. We have updated the messages that are sent to you upon connecting to our IRC network to notify you of our revised Privacy Policy and to seek your consent to these changes.  Additional information Privacy and security have been a long-term priority for us at Snoonet, and you can review our Privacy and Security page for additional information about our network&amp;rsquo;s privacy features, steps that you can take to protect your privacy when using our services, and some answers to frequently asked questions.
+It&amp;rsquo;s important to be aware that by using our services on or after May 25, 2018, you will be agreeing to the changes outlined in our Privacy Policy. If you do not agree to these changes, it is important that you stop using our services and take steps to delete your accounts and data. For more information, please consult the policy or contact us through our support system at https://support.snoonet.org.</description>
     </item>
     
     <item>
@@ -73,10 +72,7 @@ Because I was about something more than myself, the owner, and director of marke
       <guid>https://staging.snoonet.org/posts/2017/01/09/snoonet-ircv-new-ghostbin/</guid>
       <description>Snoonet looks to quickly adopt full IRCv3 capability. We will be developing a new website based around The Lounge to give our website an actual use. We look forward to seeing the implementation of IRCv3. When we get the &amp;lsquo;Okay!&amp;rsquo; we will upgrade all our IRCd software to implement full IRCv3 functionality.
 We love IRC IRC is an old protocol that can finally benefit from a face lift to make our modern clients better to use. Please look at the IRCv3 project here and check out our road map. The aim is to upgrade the protocol of IRC to provide better functionality of future developments. We look to see its health and growth remain positive!
-IRCv3 Roadmap and Documentation. You can view the progress here: https://github.com/ircv3/ircv3-specifications/milestone/4/
-You can view the IRC documents here: http://ircdocs.horse
-You can view the clients progress here: http://ircv3.net/software/clients.html
-If you love IRC as well, try to help and pitch in where you can!
+IRCv3 Roadmap and Documentation. You can view the progress here: https://github.com/ircv3/ircv3-specifications/milestone/4/You can view the IRC documents here: http://ircdocs.horseYou can view the clients progress here: http://ircv3.net/software/clients.htmlIf you love IRC as well, try to help and pitch in where you can!
 New Ghostbin We setup our own ghostbin (secure pastes and syntax highlighting) at https://paste.snoonet.org
 Feel free to use it to send large amounts of text.</description>
     </item>
@@ -234,7 +230,7 @@ If you need assistance, please ask in #help and someone will assist you.</descri
       <pubDate>Sat, 19 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/posts/2016/03/19/snoonet-rule-updates/</guid>
-      <description> Network Conduct  Solicitation of services to earn financial gain is only permitted by asking the channel operators. No user is to request money from others. While we understand many are in times of need, please register a gofundme account and state why you are asking for money. Please ask permission from the channel operators. Begging, and contacting multiple users requesting money is a network offense and will be dealt with warnings and removal from the network.  Channel Rules  Channels may be freely registered on Snoonet, however if subreddit moderators claim an already-registered channel with the same name as their subreddit it shall be granted upon request. Communities that have existed on Snoonet for a long period of time will be granted special exemptions. To prevent hostile takeovers of channels, Snoonet operations staff will work with the entire mod team of the subreddit to find the best solution.  </description>
+      <description>Network Conduct  Solicitation of services to earn financial gain is only permitted by asking the channel operators. No user is to request money from others. While we understand many are in times of need, please register a gofundme account and state why you are asking for money. Please ask permission from the channel operators. Begging, and contacting multiple users requesting money is a network offense and will be dealt with warnings and removal from the network.  Channel Rules  Channels may be freely registered on Snoonet, however if subreddit moderators claim an already-registered channel with the same name as their subreddit it shall be granted upon request. Communities that have existed on Snoonet for a long period of time will be granted special exemptions. To prevent hostile takeovers of channels, Snoonet operations staff will work with the entire mod team of the subreddit to find the best solution.  </description>
     </item>
     
     <item>
@@ -245,10 +241,10 @@ If you need assistance, please ask in #help and someone will assist you.</descri
       <guid>https://staging.snoonet.org/posts/2015/11/29/hello-subwatch-farewell-rannouncer/</guid>
       <description>We&amp;rsquo;re pleased to introduce SubWatch, a new bot on our network. Subwatch announces new reddit threads on your channel from subreddits of your choosing, and will be replacing rAnnouncer, which is being decommissioned. You will need to transfer your settings in order for your channel to continue receiving thread alerts.
 To switch between rAnnouncer and SubWatch, please take the following steps:
-&amp;bull; Type \subreddit list to view rAnnouncer&amp;rsquo;s subreddits.
-&amp;bull; /invite SubWatch #channel to have SubWatch join your channel.
-&amp;bull; Type $add [subreddit name] for each of the subreddits you wish to transfer.
-&amp;bull; /kick #channel rAnnouncer
+• Type \subreddit list to view rAnnouncer&amp;rsquo;s subreddits.
+• /invite SubWatch #channel to have SubWatch join your channel.
+• Type $add [subreddit name] for each of the subreddits you wish to transfer.
+• /kick #channel rAnnouncer
 Please note: you must be a channel operator or halfop to use these commands.
 Want to keep a close eye on your subreddit? SubWatch is also capable of announcing threads based on keywords in the title, and can securely announce threads from private subreddits.
 You can view the commands and further information here.</description>
@@ -272,7 +268,7 @@ If you&amp;rsquo;d like your channel to be added to this list, please ask in #he
       <pubDate>Sat, 24 Oct 2015 22:45:00 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/posts/2015/10/24/the-ducks-are-migrating/</guid>
-      <description> Something spooky is happening on Snoonet. The ducks must have been scared off by something&amp;hellip;where did they go? Wait&amp;hellip;that looks like meatcat, running for dear life out of #foreveralone! Did they finally chase him off? &amp;hellip;WAIT! Is that a zombie behind him?
+      <description>Something spooky is happening on Snoonet. The ducks must have been scared off by something&amp;hellip;where did they go? Wait&amp;hellip;that looks like meatcat, running for dear life out of #foreveralone! Did they finally chase him off? &amp;hellip;WAIT! Is that a zombie behind him?
 It&amp;rsquo;s time to choose: you can .bang the monsters and save your fellow redditors or .bef the monsters and let them eat all of your friends.
 Later today, the monster hunt will be released.
 Rules:  All hunting must be done in a channel with at least 10 other people hunting. If you invite gonzobot into #mycoolmonsterhunting channel and there are not 10 other people actively hunting with you you will be disqualified from the contest. The highest average number of kills will win, so killing monsters in 100+ channels will not help you out at all. If there are other ways people find to cheat the system, those involved will be disqualified. Data analysis will be done before the winners are selected. To qualify in the contest, nicknames must be registered or grouped under a registered account.  Prizes:  Each winner will be given 2 custom vhost coupons which will entitle them to a custom hostname of their choosing, within reason. Winners can choose to give one or both of these coupons away, or use them both for themselves. If you would like to add to the pot by donating extra Humble Bundle license keys or anything else, please modmail /r/snoonet. We will distribute rewards as evenly as we can between the two winners. We&amp;rsquo;d be happy to promote any additional contributions, including who or what communities have donated the prizes. We will include any updates to the prize list here and anywhere else that the contest is announced, including /r/snoonet and @snoonet.  </description>
@@ -432,7 +428,7 @@ Wildcard Event Channel:
       <description>This post is a PSA about a NickServ module we&amp;rsquo;ve recently enabled that will allow you to be auto-joined to a list of channels you&amp;rsquo;ve set upon identifying. This should be especially useful to webchat users due to the lack of client-side auto-join. To add a channel to your autojoin list use /msg nickserv ajoin add #channelname
 To delete a channel from your autojoin list use /msg nickserv ajoin del #channelname
 To see the channels currently on your autojoin list you can use /msg nickserv ajoin list
-As a reminder, you can get information and help with syntax on any NickServ or ChanServ command by messaging the appropriate service &amp;ldquo;help command&amp;rdquo;. So to see the syntax for the ajoin command you would do /msg nickserv help ajoin</description>
+As a reminder, you can get information and help with syntax on any NickServ or ChanServ command by messaging the appropriate service &amp;ldquo;help command&amp;quot;. So to see the syntax for the ajoin command you would do /msg nickserv help ajoin</description>
     </item>
     
     <item>
@@ -469,7 +465,7 @@ Here&amp;rsquo;s to IRC and the future!</description>
       <pubDate>Sun, 03 Feb 2013 03:00:00 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/posts/2013/02/03/updates/</guid>
-      <description> Minecraft Server We now have a 100 player Minecraft Server:
+      <description>Minecraft Server We now have a 100 player Minecraft Server:
  MINECRAFT.SNOONET.ORG Applications for admins can be found at Minecraft Admin Applications  </description>
     </item>
     

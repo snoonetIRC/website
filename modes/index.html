@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="generator" content="Hugo 0.54.0" />
+    <meta name="generator" content="Hugo 0.70.0" />
 
     <link
         href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,italic,bolditalic"
@@ -16,8 +16,8 @@
 
     <link
         rel="stylesheet"
-        href="https://staging.snoonet.org/scss/application-screen.min.37d1093021ee57aaa1e46839f7219fee51bae620dabf92d17bd699135ba1808b.css"
-        integrity="sha256-N9EJMCHuV6qh5Gg59yGf7lG65iDav5LRe9aZE1uhgIs="
+        href="https://staging.snoonet.org/scss/application-screen.min.a581b7585446fadefd0586d4c2fbf9bda620b39daf3d42fbb37b5272244c658c.css"
+        integrity="sha256-pYG3WFRG&#43;t79BYbUwvv5vaYgs52vPUL7s3tSciRMZYw="
         crossorigin="anonymous"
         media="screen"
     >
@@ -143,9 +143,7 @@
 
         <section class="content">
             <p>Channel modes can be set by using the <em>mode</em> command. It looks like this: <code>/mode #channel +m</code></p>
-
 <p>Some modes take params, and their syntax is displayed next to their description.</p>
-
 <p>Keep in mind modes <strong>are</strong> case sensitive. <code>+B</code> and <code>+b</code> are different.</p>
 
 
@@ -184,272 +182,227 @@
 <th>Description</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>Allow invite</td>
 <td><code>A</code></td>
 <td>Allows anyone to invite anyone else to the channel.</td>
 </tr>
-
 <tr>
 <td>Block Caps</td>
 <td><code>B</code></td>
 <td>Block all caps lines from the channel</td>
 </tr>
-
 <tr>
 <td>No CTCP</td>
 <td><code>C</code></td>
 <td>Blocks CTCPs, other than ACTION, from the channel</td>
 </tr>
-
 <tr>
 <td>Delay Join</td>
 <td><code>D</code></td>
 <td>Hide JOINs until the user speaks</td>
 </tr>
-
 <tr>
 <td>Nick Flood</td>
 <td><code>F [num]:[sec]</code></td>
 <td>Allows only <code>[num]</code> nick changes every <code>[sec]</code></td>
 </tr>
-
 <tr>
 <td>Chan history</td>
 <td><code>H [num]:[sec]</code></td>
 <td>On join, replays the last <code>[num]</code> lines from within the last <code>[sec]</code> seconds to the connecting user</td>
 </tr>
-
 <tr>
 <td>Invite Exception</td>
 <td><code>I n!u@h</code></td>
 <td>Allows matching masks to have a permanent channel invite</td>
 </tr>
-
 <tr>
 <td>Kick Rejoin Delay</td>
 <td><code>J [sec]</code></td>
 <td>Disallows a user from rejoining the channel until <code>[sec]</code> seconds after a kick</td>
 </tr>
-
 <tr>
 <td>No Knock</td>
 <td><code>K</code></td>
 <td>Prevents KNOCK attempts against the channel</td>
 </tr>
-
 <tr>
 <td>Redirect when full</td>
 <td><code>L [#channel]</code></td>
 <td>Forwards users to <code>[#channel]</code> when the channel limit is reached</td>
 </tr>
-
 <tr>
 <td>Registered only speech</td>
 <td><code>M</code></td>
 <td>Prevents non-registered users from speaking</td>
 </tr>
-
 <tr>
 <td>No Nicks</td>
 <td><code>N</code></td>
 <td>Prevents Nick Changes for any user in the channel</td>
 </tr>
-
 <tr>
 <td>Oper only</td>
 <td><code>O</code></td>
 <td>Restricts a channel to only network operators</td>
 </tr>
-
 <tr>
 <td>Permanent</td>
 <td><code>P</code></td>
 <td>Channel will continue to exist even when empty and over server restarts</td>
 </tr>
-
 <tr>
 <td>No Kicks</td>
 <td><code>Q</code></td>
 <td>Prevents any kicks. Does not affect services</td>
 </tr>
-
 <tr>
 <td>Registered users only</td>
 <td><code>R</code></td>
 <td>Only registered users may join the channel</td>
 </tr>
-
 <tr>
 <td>Strip Color</td>
 <td><code>S</code></td>
 <td>Strips color codes from messages in the channel, but allows the message through, sans colors</td>
 </tr>
-
 <tr>
 <td>No Notices</td>
 <td><code>T</code></td>
 <td>Prevents any <code>NOTICEs</code> to be sent to the entire channel</td>
 </tr>
-
 <tr>
 <td>Rate Limit</td>
 <td><code>U [num]:[sec]</code></td>
 <td>Prevents <code>[num]</code> or more messages in <code>[sec]</code>. Similar to <code>+f</code>, but only blocks messages when the rate is exceeded, instead of kicking.</td>
 </tr>
-
 <tr>
 <td>Exempt Modes</td>
 <td><code>X [permission]:[mode]</code></td>
 <td>Gives users with <code>[mode]</code> additional permissions. See below</td>
 </tr>
-
 <tr>
 <td>Oper-join (prefix: <code>!</code>)</td>
 <td><code>Y [nick]</code></td>
 <td>Marks a staff member on official business, can only be set by an oper</td>
 </tr>
-
 <tr>
 <td>Dummy List</td>
 <td><code>Z</code></td>
 <td>A dummy mode used by <code>m_namedmodes.so</code> allowing you to view the current channel modes as named modes. <code>/mode #channel Z</code> will output the list, same as <code>/prop #channel</code></td>
 </tr>
-
 <tr>
 <td>Ban</td>
 <td><code>b n!u@h</code></td>
 <td>Bans the matching mask from the channel</td>
 </tr>
-
 <tr>
 <td>Block Color</td>
 <td><code>c</code></td>
 <td>Blocks color lines from the channel</td>
 </tr>
-
 <tr>
 <td>Delay Msg</td>
 <td><code>d [sec]</code></td>
 <td>Prevent a user from speaking for <code>[sec]</code> seconds after joining</td>
 </tr>
-
 <tr>
 <td>Ban Exception</td>
 <td><code>e n!u@h</code></td>
 <td>Exempt a mask from a <code>+b</code> that would otherwise affect them</td>
 </tr>
-
 <tr>
 <td>Message Flood</td>
 <td><code>f {*}[num]:[sec]</code></td>
 <td>Allow <code>[num]</code> messages every <code>[sec]</code>. If you add the <code>*</code>, it will ban the user if they go over this limit</td>
 </tr>
-
 <tr>
 <td>Channel Filter</td>
 <td><code>g [keyword]</code></td>
 <td>Allows channel ops to block specific keywords from their channels. Uses a basic GLOB syntax</td>
 </tr>
-
 <tr>
 <td>Halfop (prefix: <code>%</code>)</td>
 <td><code>h [nick]</code></td>
 <td>Gives a user Half-op. Half-ops can do everything but op other users</td>
 </tr>
-
 <tr>
 <td>Invite only users</td>
 <td><code>i</code></td>
 <td>Makes a channel invite only</td>
 </tr>
-
 <tr>
 <td>Join Throttle</td>
 <td><code>j [num]:[sec]</code></td>
 <td>Allow only <code>[num]</code> joins every <code>[sec]</code> seconds</td>
 </tr>
-
 <tr>
 <td>Channel Key</td>
 <td><code>k [key]</code></td>
 <td>Sets the pass key required to join a channel</td>
 </tr>
-
 <tr>
 <td>Channel Limit</td>
 <td><code>l [num]</code></td>
 <td>Prevents more than <code>[num]</code> users from joining the channel</td>
 </tr>
-
 <tr>
 <td>Moderated</td>
 <td><code>m</code></td>
 <td>Prevents non-voiced users from speaking</td>
 </tr>
-
 <tr>
 <td>No outside messages</td>
 <td><code>n</code></td>
 <td>Prevents users not on the channel from sending messages to the channel</td>
 </tr>
-
 <tr>
 <td>Op (prefix: <code>@</code>)</td>
 <td><code>o [nick]</code></td>
 <td>Op the user matching <code>[nick]</code></td>
 </tr>
-
 <tr>
 <td>Private</td>
 <td><code>p</code></td>
 <td>Channel will not show up in <code>/LIST</code>, but <em>will</em> show up in user&rsquo;s <code>WHOIS</code></td>
 </tr>
-
 <tr>
 <td>Registered</td>
 <td><code>r</code></td>
 <td>Marks a channel as registered with services</td>
 </tr>
-
 <tr>
 <td>Secret</td>
 <td><code>s</code></td>
 <td>Hides the channel from both <code>/LIST</code> and <code>/WHOIS</code>.</td>
 </tr>
-
 <tr>
 <td>Topiclock</td>
 <td><code>t</code></td>
 <td>Prevents users without +h or +o from changing the topic.</td>
 </tr>
-
 <tr>
 <td>Auditorium</td>
 <td><code>u</code></td>
 <td>Users can only see their own nick and the nicks of operators in the nick list for the channel.</td>
 </tr>
-
 <tr>
 <td>Voice (prefix: <code>+</code>)</td>
 <td><code>v [nick]</code></td>
 <td>Voices the nick provided</td>
 </tr>
-
 <tr>
 <td>Auto Mode</td>
 <td><code>w [mode]:[n!u@h]</code></td>
 <td>Automatically gives users matching the mask the flag. See below</td>
 </tr>
-
 <tr>
 <td>Global Message Flood</td>
 <td><code>x [num]:[sec]</code></td>
 <td>Snoonet custom mode which will notify opers of a channel flood</td>
 </tr>
-
 <tr>
 <td>SSL users only</td>
 <td><code>z</code></td>
@@ -474,36 +427,26 @@
             </header>
 
             <section class="content">
-                
-
-<h2 id="auto-mode">Auto-mode</h2>
-
+                <h2 id="auto-mode">Auto-mode</h2>
 <p><code>w [mode]:[n!u@h]</code></p>
-
 <p>Auto-mode allows you to automatically voice, op, or set other modes on users joining your channel. This is a powerful feature, that can replace the necessity for <em>some</em> bots</p>
-
 <p><code>[mode]</code> is one of the prefix modes, such as h for halfop, o for operator, or v for voiced.</p>
-
 <p>Hostmask is any matching mask, including extbans</p>
-
 <h2 id="exempt-modes">Exempt Modes</h2>
-
 <p><code>X [permission]:[mode]</code></p>
-
 <p>Exempt modes allows you to set more granular permissions, based on user modes
 Example: /mode #channel +X censor:v will allow voiced users and higher to bypass the censorship(chanmode +g) filters</p>
-
 <p><code>[mode]</code> is one of the prefix modes, such as h for halfop, o for operator, or v for voiced.</p>
-
 <p><code>[permission]</code> is one of the following:</p>
-
 <ul>
 <li><strong>topiclock:</strong> permission required to change the topic if +t is set</li>
 <li><strong>auditorium-vis:</strong> permission required to always be visible in a <code>+u</code> channel</li>
 <li><strong>auditorium-see:</strong> permission required to see all the users in a <code>+u</code> channel</li>
 <li><strong>blockcaps:</strong> permission to send caps in a <code>+B</code> channel</li>
-<li><strong>blockcolor:</strong> permission to use color in a <code>+c</code> channel
-<!-- + **censor:** permission to bypass censors in a `+G` channel --></li>
+<li><strong>blockcolor:</strong> permission to use color in a <code>+c</code> channel</li>
+</ul>
+<!-- raw HTML omitted -->
+<ul>
 <li><strong>filter:</strong> permission to bypass channel-level filters in a <code>+g</code> channel</li>
 <li><strong>flood:</strong> Permission to bypass flood limits in a <code>+f</code> channel</li>
 <li><strong>nickflood:</strong> Permission to bypass nick flood limits in a <code>+F</code> channel</li>

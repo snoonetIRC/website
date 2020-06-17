@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Community on Snoonet</title>
@@ -289,22 +289,12 @@
     </item>
     
     <item>
-      <title>#IRCDrama</title>
-      <link>https://staging.snoonet.org/community/ircdrama/</link>
-      <pubDate>Thu, 03 Jan 2019 10:07:11 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/community/ircdrama/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>#casualconversation</title>
       <link>https://staging.snoonet.org/community/casualconversation/</link>
       <pubDate>Thu, 03 Jan 2019 10:07:11 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/casualconversation/</guid>
-      <description>/r/CasualConversation IRC channel
-Can you give us a description of your community: what it&amp;rsquo;s about, what rules you may have and any resources you would like to include
+      <description>Can you give us a description of your community: what it&amp;rsquo;s about, what rules you may have and any resources you would like to include
  We do. I like to change up the colors on our CSS page for different holidays throughout the year. We also have a neat announcement bar that pops up when you scroll down, it normally has a quirky quote on it.  What sets your community apart from others?
   /r/CasualConversation is a subreddit for general chat about almost anything that you can think of. The main rules here are to &amp;ldquo;respect others&amp;rdquo; and &amp;ldquo;Don&amp;rsquo;t take things too seriously.&amp;rdquo; Mostly we just want people to have a friendly place to have conversations but we do have a detailed rules page here. Oh we also have a Snoonet rules page.  We have a bunch of resources for our community, our Steam group, Music room, Minecraft server and of course our Snoonet channel.
 What inspired this community?
@@ -387,6 +377,15 @@ We are currently attempting to train dagbot (@dagb0t) to be a genuine, passionat
       <pubDate>Thu, 03 Jan 2019 10:07:11 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/hugs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#IRCDrama</title>
+      <link>https://staging.snoonet.org/community/ircdrama/</link>
+      <pubDate>Thu, 03 Jan 2019 10:07:11 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/community/ircdrama/</guid>
       <description></description>
     </item>
     
@@ -488,30 +487,6 @@ Can you give us a description of your community: what it&amp;rsquo;s about, what
     </item>
     
     <item>
-      <title>##PartyMansion rules</title>
-      <link>https://staging.snoonet.org/community/partymansion/rules/</link>
-      <pubDate>Thu, 03 Jan 2019 10:07:10 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/community/partymansion/rules/</guid>
-      <description>We want ##PartyMansion to be a fun place for hedonism, coke, booze, strippers, and Dr Phil worship. Don&amp;rsquo;t be a dick and spoil the party for everyone else. Since &amp;ldquo;don&amp;rsquo;t be a dick&amp;rdquo; seems to be misunderstood, here is a comprehensive list of rules in place that you will need to follow in order for ##PartyMansion to remain a happy place of food porn, shitty music, and poor meme-ing.
-##PartyMansion&amp;rsquo;s Rules:
- Don&amp;rsquo;t be a dick. &amp;ndash; To expand, don&amp;rsquo;t do anything to intentionally attack another user. If a channel op requests for you to stop; stop. Failure to do so will result in a kick/quiet, and possibly a channel ban. Depending on the nature of the incident, the ban may be permanent. We have a very strong no-dick policy.
- No real names! Refrain from using the names of users in the channel - respect their right to privacy and refer to them by their IRC nicks only.
- Don&amp;rsquo;t be a dick.
- No homophobic/racist/transphobic/sexist or otherwise discriminatory language or sentiments. Please bear in mind that not everyone is from the same walk of life as you are, words you might find acceptable can be offensive to others. In these cases, please refer to Rule #1.
- Don&amp;rsquo;t be a dick.
- No excessive bot spam. Bots in their nature can be very spammy and we understand this, but please respect the channel and exercise restraint.
- Don&amp;rsquo;t be a dick.
- No flooding. If you have logs or something similar to post, put them in a paste at either privatepaste.com or pastebin.com.
- Don&amp;rsquo;t be a dick.
- Tag your NSFW pictures/links.
- Don&amp;rsquo;t be a dick.
- Lurking is discouraged. We regularly remove lurkers from the channel, so please make an attempt to be part of the community. This is us looking out for our channel regulars and not a slight on you &amp;ndash; a channel filled with lurkers is a channel filled with potential leaks. Lurking in its broadest sense is failure to participate in the channel after multiple warnings/pings, yet being active elsewhere.
-  If any problems arise, feel free to contact a channel op/halfop via PM.
-&amp;ndash;Please note that all kicks/bans are at the discretion of the channel ops. If you have concerns with any of the decisions made then please contact one of the ops via private message so as not to disrupt the channel further&amp;ndash;</description>
-    </item>
-    
-    <item>
       <title>##neopets rules</title>
       <link>https://staging.snoonet.org/community/neopets/rules/</link>
       <pubDate>Thu, 03 Jan 2019 10:07:10 +0000</pubDate>
@@ -521,10 +496,34 @@ Can you give us a description of your community: what it&amp;rsquo;s about, what
 This is a place for Neopians to discuss things. Have fun, relax, join in the conversations, or start your own conversation. There are some rules that you will need to abide by, in addition to the general Snoonet Rules:
  No racism, homophobia, transphobia, harassment, or bigotry of any kind. Don&amp;rsquo;t be a dick. The Channel OPs reserve the right to interpret dickishness. No flooding or spamming the channel. Do not ask for personal information. Do not post personal information of others. This is grounds for a network ban. Mark all NSFW or NSFL links as such. If you can&amp;rsquo;t open it in front of a church, it needs to be marked. Respect your fellow users. No harassment or trolling of any kind. If you want to talk dirty, send nudes, or use bigoted language: do it in PM. If you want to argue about the channel rules, do it in PM.  Multiple warnings will result in removal from the channel or a ban. All kicks/removals/bans are at the discretion of the channel OPs.
 If you have any issues with a user in the channel or need help you can type the name of an OP to get their attention, or you can /msg opsname message.
-If you are new to IRC here are a few starter commands— To change your name from a Snooname:
+ If you are new to IRC here are a few starter commands— To change your name from a Snooname:
 /nick username  To set auto-join:
 /msg NickServ AJOIN ADD ##neopets  When you&amp;rsquo;ve picked a nick that you like and you are ready to hang around, we recommend registering your name:
 /msg NickServ REGISTER password email  See Snoonet&amp;rsquo;s Help and; Guidelines for more.</description>
+    </item>
+    
+    <item>
+      <title>##PartyMansion rules</title>
+      <link>https://staging.snoonet.org/community/partymansion/rules/</link>
+      <pubDate>Thu, 03 Jan 2019 10:07:10 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/community/partymansion/rules/</guid>
+      <description>We want ##PartyMansion to be a fun place for hedonism, coke, booze, strippers, and Dr Phil worship. Don&amp;rsquo;t be a dick and spoil the party for everyone else. Since &amp;ldquo;don&amp;rsquo;t be a dick&amp;rdquo; seems to be misunderstood, here is a comprehensive list of rules in place that you will need to follow in order for ##PartyMansion to remain a happy place of food porn, shitty music, and poor meme-ing.
+##PartyMansion&amp;rsquo;s Rules:
+  Don&amp;rsquo;t be a dick. &amp;ndash; To expand, don&amp;rsquo;t do anything to intentionally attack another user. If a channel op requests for you to stop; stop. Failure to do so will result in a kick/quiet, and possibly a channel ban. Depending on the nature of the incident, the ban may be permanent. We have a very strong no-dick policy.
+  No real names! Refrain from using the names of users in the channel - respect their right to privacy and refer to them by their IRC nicks only.
+  Don&amp;rsquo;t be a dick.
+  No homophobic/racist/transphobic/sexist or otherwise discriminatory language or sentiments. Please bear in mind that not everyone is from the same walk of life as you are, words you might find acceptable can be offensive to others. In these cases, please refer to Rule #1.
+  Don&amp;rsquo;t be a dick.
+  No excessive bot spam. Bots in their nature can be very spammy and we understand this, but please respect the channel and exercise restraint.
+  Don&amp;rsquo;t be a dick.
+  No flooding. If you have logs or something similar to post, put them in a paste at either privatepaste.com or pastebin.com.
+  Don&amp;rsquo;t be a dick.
+  Tag your NSFW pictures/links.
+  Don&amp;rsquo;t be a dick.
+  Lurking is discouraged. We regularly remove lurkers from the channel, so please make an attempt to be part of the community. This is us looking out for our channel regulars and not a slight on you &amp;ndash; a channel filled with lurkers is a channel filled with potential leaks. Lurking in its broadest sense is failure to participate in the channel after multiple warnings/pings, yet being active elsewhere.
+  If any problems arise, feel free to contact a channel op/halfop via PM.
+&amp;ndash;Please note that all kicks/bans are at the discretion of the channel ops. If you have concerns with any of the decisions made then please contact one of the ops via private message so as not to disrupt the channel further&amp;ndash;</description>
     </item>
     
     <item>
@@ -535,16 +534,6 @@ If you are new to IRC here are a few starter commands— To change your name fro
       <guid>https://staging.snoonet.org/community/troll_politics/rules/</guid>
       <description>In addition to the usual Snoonet network rules, follow the channel rules:
  DON&amp;rsquo;T BE A SHITWEASEL. Mods reserve the right to interpret shitweaselness. No sexism, racism, homophobia, transphobia, harassment or rudeness will be tolerated. If you are experiencing current harassment in the chat, whether in the main room or private chat, please copy the log and email the transcript to an active op, or if none are available to Ops@TrollChromosomes.com and the mods will respond appropriately. No unsolicited PMs. This means you. Do not advertise. This includes, but is not limited to, public spam, private message spam, repeated solicitation of services, and solicitation of other network channels. Posting the personal information of others is grounds for a permanent ban. Attempting to collect personal info of users is dealt with in the same manner. A good rule of thumb is if you have to log into to see it, you shouldn&amp;rsquo;t share it. Exchanges for money, goods, or services are strictly prohibited. No NSFW links allowed unless it relates to political content. Please respect your fellow users. Do not intentionally harass other users. This includes &amp;ldquo;trolling.&amp;rdquo; Get along with others! We understand that there are multiple types of humor, but do not excessively attack any other user on this network. Please note that sarcasm doesn&amp;rsquo;t translate well over IRC. Please be mindful that this is an internet chat room mostly consisting of trollX- &amp;amp; Yers – we enjoy the fact that we can have a friendly, welcoming atmosphere for people that can also be very flirty and sexual too. If anyone asks you to back off because they feel uncomfortable from your attention or words, please feel mindful that this isn&amp;rsquo;t a personal attack on you but instead the person in question just wants to feel comfortable. 18+ members only Want to talk dirty? Do it in a PM. Want to send nudes? Do it in PM.  </description>
-    </item>
-    
-    <item>
-      <title>#Troll_NSFW rules</title>
-      <link>https://staging.snoonet.org/community/troll_nsfw/rules/</link>
-      <pubDate>Thu, 03 Jan 2019 10:07:10 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/community/troll_nsfw/rules/</guid>
-      <description>In addition to the usual Snoonet network rules, follow the channel rules:
- DON&amp;rsquo;T BE A SHITWEASEL. Mods reserve the right to interpret shitweaselness. No sexism, racism, homophobia, transphobia, harassment or rudeness will be tolerated. If you are experiencing current harassment in the chat, whether in the main room or private chat, please copy the log and email the transcript to Ops@TrollChromosomes.com and the mods will respond appropriately. No unsolicited PMs. This means you. Do not advertise. This includes, but is not limited to, public spam, private message spam, repeated solicitation of services, and solicitation of other network channels. Posting the personal information of others is grounds for a permanent ban. Attempting to collect personal info of users is dealt with in the same manner. A good rule of thumb is if you have to log into to see it, you shouldn&amp;rsquo;t share it. Exchanges for money, goods, or services are strictly prohibited. Assume all links are NSFW. It&amp;rsquo;s still a good idea to mark them, and be as descriptive as possible. Please respect your fellow users. Do not intentionally harass other users. This includes &amp;ldquo;trolling.&amp;rdquo; Get along with others! We understand that there are multiple types of humor, but do not excessively attack any other user on this network. Please note that sarcasm doesn&amp;rsquo;t translate well over IRC. Please be mindful that this is an internet chat room mostly consisting of trollX- &amp;amp; Yers – we enjoy the fact that we can have a friendly, welcoming atmosphere for people that can also be very flirty and sexual too. If anyone asks you to back off because they feel uncomfortable from your attention or words, please feel mindful that this isn&amp;rsquo;t a personal attack on you but instead the person in question just wants to feel comfortable. 18+ members only Want to talk dirty? Do it in a PM. Want to send nudes? You can do it in the channel, but remember, there&amp;rsquo;s a lot of people in this channel. Do not make a big deal about the presence or absence of women in channel. The same goes for demanding pics, making a big deal about someone being female, specifically looking for women to talk to, etc.  If you do not follow the rules, you may be muted, kicked, and/or banned at the discretion of the ops. If you have an issue with this, message the mod in question. Don&amp;rsquo;t drag your drama into the main channel or other channels.</description>
     </item>
     
     <item>
@@ -604,7 +593,7 @@ On general behaviour: Even though most of us are on the Autistic Spectrum, you s
       
       <guid>https://staging.snoonet.org/community/casualconversation/rules/</guid>
       <description>#casualconversation Looking for live conversation? Share a story, ask a question, or start a conversation about anything you desire in our IRC channel. Maybe you&amp;rsquo;ll make some friends in the process.
-Starter Commands *If you are new to IRC, here are a few starter commands*—
+Starter Commands If you are new to IRC, here are a few starter commands—
 To change your name from a Snooname: /nick username
 Set auto-join: /msg NickServ AJOIN ADD #casualconversation
 Send someone a PM: /query username
@@ -612,10 +601,8 @@ Tag or ping someone type the first few letters of their nickname and hit tab
 And when you&amp;rsquo;re feelin&amp;rsquo; comfy, we recommend registering your name: /msg NickServ REGISTER password email
 → See IRC Prelude &amp;amp; Snoonet&amp;rsquo;s Help &amp;amp; Guidelines for more.
 Rules Be what you want other people to be. Like on the /r/casualconversation, when in the channel you should aim to be as polite as possible. This makes others feel welcome and conversations can take place without users being rude to one another.
- Respect others.
-  Remember—you&amp;rsquo;re speaking with humans.
- Don&amp;rsquo;t take things too seriously.
-  Keep it casual. We are all here to have a nice time chatting it up so let&amp;rsquo;s all just have a good time.
+ Respect others.  Remember—you&amp;rsquo;re speaking with humans.
+ Don&amp;rsquo;t take things too seriously.  Keep it casual. We are all here to have a nice time chatting it up so let&amp;rsquo;s all just have a good time.
 Warning(s) will be given for…
  Posting NSFW links and excessive immature sexual discussion Flooding and spamming the channel Abusing the bots Advertising and self-promotion Posting memes Discussing subreddit drama &amp;amp; Any other behavior that holds up the general conversation  Kicks are stern warnings. Multiple warnings or kicks will result in a ban at the discretion of the channel Ops.
 → All #casualconversation rules fall under the umbrella rules of Reddit and Snoonet&amp;rsquo;s Network.
@@ -624,7 +611,7 @@ Extras    Syntax Function     /me action Posts an action   .tell nick Leaves a m
 Basics IRC Prelude by irchelp.org, Snoonet Help
 Bot Gonzobot Command List
 Signs of Life /r/irc, /r/snoonet, #snoonet, #help
-^Feedback? 0 ^· ^Made ^with ^♥</description>
+ ^Feedback? ^Message ^the ^Mods ^· ^Made ^with ^♥</description>
     </item>
     
     <item>
@@ -633,11 +620,11 @@ Signs of Life /r/irc, /r/snoonet, #snoonet, #help
       <pubDate>Thu, 03 Jan 2019 10:07:10 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/depression-alt/rules/</guid>
-      <description> #depression-alt  [Purpose](#purpose) || [Channel Operators](#ops) || [Rules &amp; Guidelines](#guidelines) || [Ban Appeals](https://www.reddit.com/r/SnoonetDepression/) || Webchat  Purpose #depression-alt provides a space away from #depression where the rules are relaxed. Certain topics normally prohibited in the main channel will be permitted here, meaning that discretion is advised.
+      <description>#depression-alt Purpose #depression-alt provides a space away from #depression where the rules are relaxed. Certain topics normally prohibited in the main channel will be permitted here, meaning that discretion is advised.
 If you can not handle discussion of self harm and/or more specific suicide methods, it is advised to immediately /part or /leave the channel. Network and channel rules still apply. Please see below for more information.
- Channel Operators The team handling #depression-alt is the same team that currently handles the #depression channel.
+Channel Operators The team handling #depression-alt is the same team that currently handles the #depression channel.
 If you need to contact an operator for assistance, you may find a list of operators by clicking here.
- Rules &amp;amp; Guidelines  In order to encourage open discussion, try to keep discussions in the channel. Please use discretion when discussing certain sensitive topics (such as politics and/or religion) in the channel. You may not advertise your own channel or service through our channel or directly through our users unless authorization has been provided by channel operators. Please refrain from bringing drama into our channel from other IRC channels. Additionally, please do not share others&amp;rsquo; personal information in the channel. Graphic depictions of specific suicide/self harm methods and abuse as well as glorification of suicide/self harm are prohibited in this channel. Any decisions made by our operators are final. If you believe that a decision made by particular operator is unfair, please try talking to that operator directly, or message another channel operator.  </description>
+Rules &amp;amp; Guidelines  In order to encourage open discussion, try to keep discussions in the channel. Please use discretion when discussing certain sensitive topics (such as politics and/or religion) in the channel. You may not advertise your own channel or service through our channel or directly through our users unless authorization has been provided by channel operators. Please refrain from bringing drama into our channel from other IRC channels. Additionally, please do not share others&amp;rsquo; personal information in the channel. Graphic depictions of specific suicide/self harm methods and abuse as well as glorification of suicide/self harm are prohibited in this channel. Any decisions made by our operators are final. If you believe that a decision made by particular operator is unfair, please try talking to that operator directly, or message another channel operator.  </description>
     </item>
     
     <item>
@@ -649,14 +636,14 @@ If you need to contact an operator for assistance, you may find a list of operat
       <description>#R4R Channel Rules
 (Note: All subreddit rules are also required to be followed, visit the sidebar of the subreddit if you don&amp;rsquo;t know them. Snoonet rules are also to be followed and enforced)
 Channel is strictly 18+
- Don&amp;rsquo;t be an asshole. This goes for sexist generalizations, racist and homophobic slurs/remarks, ad hominems, being obnoxious, etc. In general, respect people&amp;rsquo;s boundaries and be civil. If someone finds your humor or choice of topic offensive, please respect that. If you feel that someone is being rude to you, please speak up and/or notify a mod as soon as possible.
- Attention &amp;ldquo;whoring&amp;rdquo; is not tolerated in the channel. This means being overtly sexual, spamming pictures of yourself, asking for compliments, and just general attention seeking comments. Mods have the right to decide what is considered to be attention &amp;ldquo;whoring&amp;rdquo; and have the right to warn, kick, and ban if necessary.
- Want to talk dirty? Do it in a PM. Want to send nudes? Do it in a PM. Want to ask for pictures? Do it in a PM.
- For links containing nudity, please tag them NSFW when they are posted. People do IRC from work! For privacy and safety reasons, send nudes via PM and only when both parties want to send/see said pictures. Not everyone wants to see your, your brother&amp;rsquo;s, your grandma&amp;rsquo;s or your next door neighbour&amp;rsquo;s butt. Public decency. Please.
- Blatant trolling, extreme creepy behavior, or making serious personal threats will typically be met with an immediate ban. However, since not every situation is the same, OPs reserve the right to warn/kick/ban as they see fit.
- Do not come into the channel asking &amp;ldquo;ASL,&amp;rdquo; &amp;ldquo;WHERE R THE GIRLS?&amp;rdquo; &amp;ldquo;HOT GRLS PM ME!&amp;rdquo; and saying that the channel is a sausagefest. This is not a meat market.
- Sending pms to those in the channel you do not know is prohobited, especially if they may be considered creepy or unsolicited. That includes asking ASL to every single person or messaging people with names that might seem &amp;lsquo;female&amp;rsquo; PMing should be secondary to communication in the channel. Talk to the people, get to know them!
- Nothing said in here is private. However, don&amp;rsquo;t post people&amp;rsquo;s personal information without their consent (i.e., real names, Facebook profiles, etc.) This also includes scraping information from the chat and/or posting personal information from the chat publicly on the internet.</description>
+  Don&amp;rsquo;t be an asshole. This goes for sexist generalizations, racist and homophobic slurs/remarks, ad hominems, being obnoxious, etc. In general, respect people&amp;rsquo;s boundaries and be civil. If someone finds your humor or choice of topic offensive, please respect that. If you feel that someone is being rude to you, please speak up and/or notify a mod as soon as possible.
+  Attention &amp;ldquo;whoring&amp;rdquo; is not tolerated in the channel. This means being overtly sexual, spamming pictures of yourself, asking for compliments, and just general attention seeking comments. Mods have the right to decide what is considered to be attention &amp;ldquo;whoring&amp;rdquo; and have the right to warn, kick, and ban if necessary.
+  Want to talk dirty? Do it in a PM. Want to send nudes? Do it in a PM. Want to ask for pictures? Do it in a PM.
+  For links containing nudity, please tag them NSFW when they are posted. People do IRC from work! For privacy and safety reasons, send nudes via PM and only when both parties want to send/see said pictures. Not everyone wants to see your, your brother&amp;rsquo;s, your grandma&amp;rsquo;s or your next door neighbour&amp;rsquo;s butt. Public decency. Please.
+  Blatant trolling, extreme creepy behavior, or making serious personal threats will typically be met with an immediate ban. However, since not every situation is the same, OPs reserve the right to warn/kick/ban as they see fit.
+  Do not come into the channel asking &amp;ldquo;ASL,&amp;rdquo; &amp;ldquo;WHERE R THE GIRLS?&amp;rdquo; &amp;ldquo;HOT GRLS PM ME!&amp;rdquo; and saying that the channel is a sausagefest. This is not a meat market.
+  Sending pms to those in the channel you do not know is prohobited, especially if they may be considered creepy or unsolicited. That includes asking ASL to every single person or messaging people with names that might seem &amp;lsquo;female&amp;rsquo; PMing should be secondary to communication in the channel. Talk to the people, get to know them!
+  Nothing said in here is private. However, don&amp;rsquo;t post people&amp;rsquo;s personal information without their consent (i.e., real names, Facebook profiles, etc.) This also includes scraping information from the chat and/or posting personal information from the chat publicly on the internet.</description>
     </item>
     
     <item>
@@ -682,7 +669,7 @@ Don&amp;rsquo;t be easily offended Don&amp;rsquo;t let remarks get to you. If so
 In addition to the general Snoonet Rules you will need to abide by the following channel rules:
  Above all else, being socially awkward is ok, being mean is not Be respectful of others Keep in mind some of the people here are socially awkward, be patient with them Bringing drama from another channel is not allowed Circlejerks about how much you dislike someone in the chat are not allowed, you will be kicked/banned if you are seen participating in one Trolling and troll advice on socializing will result in punishment If you feel any of these rules have been broken please pm GhostyOne or one of the other OPs Have fun!  Multiple warnings will result in removal from the channel or a ban. All kicks/removals/bans are at the discretion of the channel OPs.
 If you have any issues with a user in the channel or need help you can type the name of an OP to get their attention, or you can /msg opsname message.
-If you are new to IRC here are a few starter commands— To change your name from a Snooname:
+ If you are new to IRC here are a few starter commands— To change your name from a Snooname:
 /nick username  To set auto-join:
 /msg NickServ AJOIN ADD #socialskills  When you&amp;rsquo;ve picked a nick that you like and you are ready to hang around, we recommend registering your name:
 /msg NickServ REGISTER password email  See Snoonet&amp;rsquo;s Help and; Guidelines for more.</description>
@@ -694,21 +681,22 @@ If you are new to IRC here are a few starter commands— To change your name fro
       <pubDate>Thu, 03 Jan 2019 10:07:10 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/streetfighter/rules/</guid>
-      <description> #StreetFighter Welcome to the official irc channel for /r/streetfighter on Snoonet! This channel is a place for Street Fighter fans to gather and discuss the games, strategies, tournaments, and more.
-On this page you&amp;rsquo;ll find: &amp;gt;Channel Rules
- Guide to a Pleasant IRC Experience
-Links to Useful Information Outside of IRC
+      <description>#StreetFighter Welcome to the official irc channel for /r/streetfighter on Snoonet! This channel is a place for Street Fighter fans to gather and discuss the games, strategies, tournaments, and more.
+On this page you&amp;rsquo;ll find:
+ Channel Rules
+  Guide to a Pleasant IRC Experience
+  Links to Useful Information Outside of IRC
  Channel Rules Everyone is welcome as long as they can follow these rules, as well as the Snoonet Network Rules:
- Be kind to each other! Don&amp;rsquo;t be rude, don&amp;rsquo;t have a temper, and don&amp;rsquo;t be discriminatory. Show the people around you respect, and they&amp;rsquo;ll reciprocate.
- Mark all NSFW links as such.
- Please keep arguments civil. If things start to get out of hand, take it to a private message.
+  Be kind to each other! Don&amp;rsquo;t be rude, don&amp;rsquo;t have a temper, and don&amp;rsquo;t be discriminatory. Show the people around you respect, and they&amp;rsquo;ll reciprocate.
+  Mark all NSFW links as such.
+  Please keep arguments civil. If things start to get out of hand, take it to a private message.
   Please check back here every so often. The rules are a bit fluid and may change. It&amp;rsquo;s always a good idea to keep up to date!
 Guide to a Pleasant IRC Experience Follow this quick guide for a more enjoyable IRC experience.
- Use /nick  to change your irc nick. We&amp;rsquo;d recommend your Reddit username, but it&amp;rsquo;s not required.
- Use /msg nickserv register   to create an account for your nick. This is a great way to make sure nobody can ever impersonate you.
- Use /msg NickServ AJOIN ADD #streetfighter to add this channel to your autojoin list so that you&amp;rsquo;ll automatically join when you connect to SnooNet.
- When looking for a game, state your region and platform. It&amp;rsquo;ll help you find other players faster. Example: &amp;ldquo; Anyone want to play SF4? I&amp;rsquo;m in the US on PC&amp;rdquo;
- We have a really cool bot with commands like .schedule and .streams that&amp;rsquo;ll give you the schedule for whatever tournaments might be going on, as well as what Twitch channels they&amp;rsquo;re streaming on.
+  Use /nick to change your irc nick. We&amp;rsquo;d recommend your Reddit username, but it&amp;rsquo;s not required.
+  Use /msg nickserv register to create an account for your nick. This is a great way to make sure nobody can ever impersonate you.
+  Use /msg NickServ AJOIN ADD #streetfighter to add this channel to your autojoin list so that you&amp;rsquo;ll automatically join when you connect to SnooNet.
+  When looking for a game, state your region and platform. It&amp;rsquo;ll help you find other players faster. Example: &amp;ldquo;Anyone want to play SF4? I&amp;rsquo;m in the US on PC&amp;rdquo;
+  We have a really cool bot with commands like .schedule and .streams that&amp;rsquo;ll give you the schedule for whatever tournaments might be going on, as well as what Twitch channels they&amp;rsquo;re streaming on.
   Links to Useful Information Outside of IRC The following are various links you might find useful in improving your SF4 game.
  A glossary of Street Fighter terms and notation
 /r/StreetFighter Beginner&amp;rsquo;s Guide
@@ -719,22 +707,23 @@ The Footsie Handbook by Sonic Hurricane
     </item>
     
     <item>
+      <title>#Troll_NSFW rules</title>
+      <link>https://staging.snoonet.org/community/troll_nsfw/rules/</link>
+      <pubDate>Thu, 03 Jan 2019 10:07:10 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/community/troll_nsfw/rules/</guid>
+      <description>In addition to the usual Snoonet network rules, follow the channel rules:
+ DON&amp;rsquo;T BE A SHITWEASEL. Mods reserve the right to interpret shitweaselness. No sexism, racism, homophobia, transphobia, harassment or rudeness will be tolerated. If you are experiencing current harassment in the chat, whether in the main room or private chat, please copy the log and email the transcript to Ops@TrollChromosomes.com and the mods will respond appropriately. No unsolicited PMs. This means you. Do not advertise. This includes, but is not limited to, public spam, private message spam, repeated solicitation of services, and solicitation of other network channels. Posting the personal information of others is grounds for a permanent ban. Attempting to collect personal info of users is dealt with in the same manner. A good rule of thumb is if you have to log into to see it, you shouldn&amp;rsquo;t share it. Exchanges for money, goods, or services are strictly prohibited. Assume all links are NSFW. It&amp;rsquo;s still a good idea to mark them, and be as descriptive as possible. Please respect your fellow users. Do not intentionally harass other users. This includes &amp;ldquo;trolling.&amp;rdquo; Get along with others! We understand that there are multiple types of humor, but do not excessively attack any other user on this network. Please note that sarcasm doesn&amp;rsquo;t translate well over IRC. Please be mindful that this is an internet chat room mostly consisting of trollX- &amp;amp; Yers – we enjoy the fact that we can have a friendly, welcoming atmosphere for people that can also be very flirty and sexual too. If anyone asks you to back off because they feel uncomfortable from your attention or words, please feel mindful that this isn&amp;rsquo;t a personal attack on you but instead the person in question just wants to feel comfortable. 18+ members only Want to talk dirty? Do it in a PM. Want to send nudes? You can do it in the channel, but remember, there&amp;rsquo;s a lot of people in this channel. Do not make a big deal about the presence or absence of women in channel. The same goes for demanding pics, making a big deal about someone being female, specifically looking for women to talk to, etc.  If you do not follow the rules, you may be muted, kicked, and/or banned at the discretion of the ops. If you have an issue with this, message the mod in question. Don&amp;rsquo;t drag your drama into the main channel or other channels.</description>
+    </item>
+    
+    <item>
       <title>A Guide to Being an Op in #anxiety</title>
       <link>https://staging.snoonet.org/community/anxiety/mods/</link>
       <pubDate>Thu, 03 Jan 2019 10:07:10 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/anxiety/mods/</guid>
       <description>What is my job as an op? Help keep the channel as a safe and healing place that&amp;rsquo;s enjoyable to all who stop by and/or frequent the channel. Do this by:  Be kind, remember to mind triggers like everyone else Making users feel welcome (welcoming new users to the channel when you can and involving users in conversations) Overseeing conversations in channel and keeping an eye out for rule breakers and trolls Stop people that are there solely to cause trouble (trolls - those pushing buttons on purpose) or anyone harassing another user Also by being a voiced user it lets other users know you are someone to PM if they are having issues either personal, or in the channel For any user that seems to be or claims to be suicidal, refer them to the suicide hotline 1 (800) 273-8255 - National Suicide Prevention Lifeline or http://www.suicide.org/international-suicide-hotlines.html. We are not professionals. If the problem persists, warn them that you will have to mute or ban them, if they persist; remove their chat privilege with !mute or !ban  When issues come up what is the protocol for dealing with them? If you are online and available to users, stay oped in the channel, and de-oped if you are offline, busy, or otherwise unavailable. To op yourself just type in: !op and !deop to de-op yourself.
- Use your discretion when dealing with problematic users. Sometimes a simple topic change could handle the situation. Sometimes a user may deserve a warning. Sometimes a user will not relent until they are banned. You may choose to PM a user about their behavior or maybe just gently prod them in channel. However you choose to do it, a warning is preferred before any more severe action. Try referring people to the link to #anxiety rules in the topic. Typically, the process should be:  Warning (You may do this as many times as you feel necessary) Removal (You may do this as many times as you feel necessary) Ban (If a user returns after being banned, contact Snoonet staff as it is against Snoonet policy)  Use this document to track troublemakers. Please try to include a reason and/or expiration for your bans when appropriate. Expiration is specified as an integer followed by one of d (days), h (hours), or m (minutes). Combinations (such as 1h30m) are not permitted. Feel free to discuss issues with your fellow ops/voiced users in #anxietymods.</description>
-    </item>
-    
-    <item>
-      <title>#RLB</title>
-      <link>https://staging.snoonet.org/community/rlb/</link>
-      <pubDate>Thu, 03 Jan 2019 10:03:05 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/community/rlb/</guid>
-      <description></description>
+ Use your discretion when dealing with problematic users. Sometimes a simple topic change could handle the situation. Sometimes a user may deserve a warning. Sometimes a user will not relent until they are banned. You may choose to PM a user about their behavior or maybe just gently prod them in channel. However you choose to do it, a warning is preferred before any more severe action. Try referring people to the link to #anxiety rules in the topic. Typically, the process should be:   Warning (You may do this as many times as you feel necessary) Removal (You may do this as many times as you feel necessary) Ban (If a user returns after being banned, contact Snoonet staff as it is against Snoonet policy)   Use this document to track troublemakers. Please try to include a reason and/or expiration for your bans when appropriate. Expiration is specified as an integer followed by one of d (days), h (hours), or m (minutes). Combinations (such as 1h30m) are not permitted. Feel free to discuss issues with your fellow ops/voiced users in #anxietymods.</description>
     </item>
     
     <item>
@@ -764,6 +753,15 @@ Aside from a secret santa/exchange we do, not particularly. Meetups have been or
       <pubDate>Thu, 03 Jan 2019 10:03:05 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/rainbow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#RLB</title>
+      <link>https://staging.snoonet.org/community/rlb/</link>
+      <pubDate>Thu, 03 Jan 2019 10:03:05 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/community/rlb/</guid>
       <description></description>
     </item>
     
@@ -1180,24 +1178,6 @@ What inspired this community?
     </item>
     
     <item>
-      <title>#SyrianCivilWar</title>
-      <link>https://staging.snoonet.org/community/syriancivilwar/</link>
-      <pubDate>Thu, 03 Jan 2019 09:46:40 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/community/syriancivilwar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>#UkrainianConflict</title>
-      <link>https://staging.snoonet.org/community/ukrainianconflict/</link>
-      <pubDate>Thu, 03 Jan 2019 09:46:40 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/community/ukrainianconflict/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>#againstmensrights</title>
       <link>https://staging.snoonet.org/community/againstmensrights/</link>
       <pubDate>Thu, 03 Jan 2019 09:46:40 +0000</pubDate>
@@ -1230,6 +1210,24 @@ What inspired this community?
       <pubDate>Thu, 03 Jan 2019 09:46:40 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#SyrianCivilWar</title>
+      <link>https://staging.snoonet.org/community/syriancivilwar/</link>
+      <pubDate>Thu, 03 Jan 2019 09:46:40 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/community/syriancivilwar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#UkrainianConflict</title>
+      <link>https://staging.snoonet.org/community/ukrainianconflict/</link>
+      <pubDate>Thu, 03 Jan 2019 09:46:40 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/community/ukrainianconflict/</guid>
       <description></description>
     </item>
     
@@ -1273,7 +1271,7 @@ What inspired this community?
  Our IRC community has been running with a fairly consistent number of users for over three years, and is currently one of Snoonet&amp;rsquo;s most active chats. We would like to continue in a similar fashion but extend an invitation to new users.  What is your community (in)famous for?
  Our lawyers say we shouldn&amp;rsquo;t talk about it right now. But we&amp;rsquo;re pretty famous for our unimpeachable musical recommendations! Not a fan of metal? Come hang out for a while and you will be.  What is the most popular post of all time in the subreddit?
  Our top post of all time is a self-post discussion thread about the death of Slayer&amp;rsquo;s Jeff Hanneman from 2013. Way to be a downer, question guy. How about this also-popular post regarding a petition to allow Gwar to play the 2015 Super Bowl Halftime Show instead?  Do you have any favorite quotes or posts from your users?
- We have a bot that handles quotes for us. Let&amp;rsquo;s just say there&amp;rsquo;s a reason why /u/dustin_the_wind has 29 quotes stored on the bot. &amp;lt; sabytmobile&amp;gt; Dunwich? &amp;lt; Dunwich&amp;gt; sabyt? &amp;lt; sabytmobile&amp;gt; Hi &amp;lt; Dunwich&amp;gt; hi &amp;lt; grisher&amp;gt; hi &amp;lt;@Mike&amp;gt; hi &amp;lt;@Shreddit&amp;gt; hi &amp;lt; t_deg&amp;gt; hi &amp;lt; Jalkion&amp;gt; hi &amp;lt; Blasphemophagher&amp;gt; hi &amp;lt; jesusfucknugget&amp;gt; hi &amp;lt; quorthon&amp;gt; hi &amp;lt; grrrreg&amp;gt; hi  What do you hope your community gains from this subreddit?
+ We have a bot that handles quotes for us. Let&amp;rsquo;s just say there&amp;rsquo;s a reason why /u/dustin_the_wind has 29 quotes stored on the bot. &amp;lt; sabytmobile_&amp;gt; Dunwich? &amp;lt; Dunwich&amp;gt; sabyt? &amp;lt; sabytmobile_&amp;gt; Hi &amp;lt; Dunwich&amp;gt; hi &amp;lt; grisher&amp;gt; hi &amp;lt;@Mike&amp;gt; hi &amp;lt;@Shreddit&amp;gt; hi &amp;lt; t_deg&amp;gt; hi &amp;lt; Jalkion&amp;gt; hi &amp;lt; Blasphemophagher&amp;gt; hi &amp;lt; jesusfucknugget&amp;gt; hi &amp;lt; quorthon&amp;gt; hi &amp;lt; grrrreg&amp;gt; hi  What do you hope your community gains from this subreddit?
   /r/metal is primarily a place to share and discuss music. There&amp;rsquo;s so much new music out there that we can&amp;rsquo;t possibly hope to have it all in one place, so it spills over to #metal. We&amp;rsquo;re also a great place to come for more in-depth recommendations. Whether you like grindcore, black metal, stoner, thrash, doom or any of the million other subgenres of metal, there&amp;rsquo;s someone in #metal who has devoted his or her life to being a pedant about it!</description>
     </item>
     
@@ -1611,7 +1609,7 @@ Our main chat room is always open, so drop by and say hello. We hope to see you 
       <pubDate>Wed, 02 Jan 2019 21:48:34 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/100daysofketo/</guid>
-      <description> Can you give us a description of your community: what it&amp;rsquo;s about, what rules you may have and any resources you would like to include? The 100daysofketo community is directly linked to our subreddit: /r/100daysofketo. It was started as a support community for people who are on the keto diet who wanted to commit to 100 days of keto eating. Every 100 days (or so), we start a new round with goal setting, and continue through the 100 days with various challenges and events to keep people motivated to succeed!
+      <description>Can you give us a description of your community: what it&amp;rsquo;s about, what rules you may have and any resources you would like to include? The 100daysofketo community is directly linked to our subreddit: /r/100daysofketo. It was started as a support community for people who are on the keto diet who wanted to commit to 100 days of keto eating. Every 100 days (or so), we start a new round with goal setting, and continue through the 100 days with various challenges and events to keep people motivated to succeed!
 Our only rule is don&amp;rsquo;t be an asshole!
 What inspired this community? Starting and sticking with a new diet is hard! Especially when it is as restrictive as keto can be sometimes. I know that when I started I felt really overwhelmed. Sometimes, even waiting 10 minutes for a response on a Reddit post was too long to wait and I had fallen off the wagon due to a misunderstanding or over-emotional problem. We started our online community as a way to provide immediate feedback and support and also to foster a more face-to-face interactive community for our users.
 What sets your community apart from others? Compared to the other keto communities, we are less about the science and technical aspects and more about the day-in day-out nitty gritty of sticking to the diet. Our channel serves as another line of support for those days when you need assistance and just want to talk to someone who&amp;rsquo;s experiencing the same problems that you may be having. We&amp;rsquo;re all here to help each other!
@@ -1702,7 +1700,7 @@ If you come to our IRC channel, you&amp;rsquo;ll find a bunch of helpful and kno
 Some quotes, from both the sub and IRC:
 &amp;ldquo;Just because it&amp;rsquo;s bodyweight training doesn&amp;rsquo;t mean it&amp;rsquo;s no equipment training.&amp;rdquo; - Saint Emmet, slayer of kipping, fixer of handstands, upholder of the true strict rep
 &amp;ldquo;I&amp;rsquo;ve hurt both my wrists from furious masturbation. What upper body exercises can I do?&amp;rdquo; - /u/motobrit
-&amp;ldquo;Well you can just go fuck yourself.&amp;rdquo; - /u/161803398874989 &amp;rsquo;s second highest rated comment of all time</description>
+&amp;ldquo;Well you can just go fuck yourself.&amp;rdquo; - /u/161803398874989 &amp;lsquo;s second highest rated comment of all time</description>
     </item>
     
     <item>
@@ -2002,7 +2000,7 @@ What is the most popular post of all time in the subreddit? A discussion thread 
       <pubDate>Wed, 02 Jan 2019 19:40:19 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/community/longdistance/</guid>
-      <description> Can you give us a description of your community:  We are a support community dedicated to helping couples in Long Distance Relationships! No matter how many miles or kilometers apart, we&amp;rsquo;re all here to reach a common goal&amp;hellip;.to close the distance! Bashing, harassing, trolling, flaming or spamming will result in post removal and a VERY possible ban.  What inspired this community?  Many people have long distance relationships, and having a place to post and talk about them is a great way for people in LDRs to feel supported.  What sets your community apart from others?  We&amp;rsquo;re the only community on Reddit that supports those in long-distance relationships  What is your goal with this community?  To support everyone in a LDR, until they close the distance. (They&amp;rsquo;re welcome to stick around afterward though!)  What is your community (in)famous for?  Couple selfies from meeting our SOs  What is the most popular post of all time in the subreddit?  &amp;hellip; A couple selfie, from a lady that surprised her guy by arriving early!  </description>
+      <description>Can you give us a description of your community:  We are a support community dedicated to helping couples in Long Distance Relationships! No matter how many miles or kilometers apart, we&amp;rsquo;re all here to reach a common goal&amp;hellip;.to close the distance! Bashing, harassing, trolling, flaming or spamming will result in post removal and a VERY possible ban.  What inspired this community?  Many people have long distance relationships, and having a place to post and talk about them is a great way for people in LDRs to feel supported.  What sets your community apart from others?  We&amp;rsquo;re the only community on Reddit that supports those in long-distance relationships  What is your goal with this community?  To support everyone in a LDR, until they close the distance. (They&amp;rsquo;re welcome to stick around afterward though!)  What is your community (in)famous for?  Couple selfies from meeting our SOs  What is the most popular post of all time in the subreddit?  &amp;hellip; A couple selfie, from a lady that surprised her guy by arriving early!  </description>
     </item>
     
     <item>
@@ -2055,7 +2053,7 @@ What is your goal with this community?
  Make IRC great again. Take over snoonet.  What is your community (in)famous for?
  Sending matrix users to /dev/null. Hating rollerblades for NO REASON AT ALL (oh we have reasons). THOSE REASONS ARE BULLSHIT  Do you have any favorite quotes or posts from your users?
  &amp;ldquo;I think my room mate is calling his mother while showering.&amp;rdquo;
-&amp;ldquo;SEEK FILE&amp;rdquo;
+  &amp;ldquo;SEEK FILE&amp;rdquo;
  What have you learned from being a part of this community?
 A ton about programming, linux, even hardware. That weebs are people too, just like me and you.
 Does your community have any traditions or special events?

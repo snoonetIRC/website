@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
-    <meta name="generator" content="Hugo 0.54.0" />
+    <meta name="generator" content="Hugo 0.70.0" />
 
     <link
         href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700,italic,bolditalic"
@@ -16,8 +16,8 @@
 
     <link
         rel="stylesheet"
-        href="https://staging.snoonet.org/scss/application-screen.min.37d1093021ee57aaa1e46839f7219fee51bae620dabf92d17bd699135ba1808b.css"
-        integrity="sha256-N9EJMCHuV6qh5Gg59yGf7lG65iDav5LRe9aZE1uhgIs="
+        href="https://staging.snoonet.org/scss/application-screen.min.a581b7585446fadefd0586d4c2fbf9bda620b39daf3d42fbb37b5272244c658c.css"
+        integrity="sha256-pYG3WFRG&#43;t79BYbUwvv5vaYgs52vPUL7s3tSciRMZYw="
         crossorigin="anonymous"
         media="screen"
     >
@@ -142,206 +142,106 @@
         </header>
 
         <section class="content">
-            
-
-<h4 id="inspircd-help-system-categories">InspIRCd Help System Categories:</h4>
-
-<p><strong><a href="#User Commands">User Commands</a></strong></p>
-
+            <h4 id="inspircd-help-system-categories">InspIRCd Help System Categories:</h4>
+<p><strong>[User Commands](#User Commands)</strong></p>
 <p><strong><a href="/umodes">User modes</a></strong></p>
-
 <p><strong><a href="/modes">Channel modes</a></strong></p>
-
 <p><strong><a href="/extbans">Extended Bans</a></strong></p>
-
-<hr />
-
+<hr>
 <p><strong>Key</strong>:</p>
-
 <p><code>&lt;these brackets&gt;</code> denote required information.</p>
-
 <p><code>{these brackets}</code> denote that you may pick one of the options presented.</p>
-
 <p><code>[these brackets]</code> denote entirely optional parameters.</p>
-
-<hr />
-
-<hr />
-
-<p><a name="User Commands"></a></p>
-
+<hr>
+<hr>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
 <h1 id="user-commands">User Commands</h1>
-
 <p><em><a href="#top">back to top</a></em></p>
 
 
-
 <p><strong>General User Command Help:</strong></p>
-
 <p><code>/helpop CUSER</code></p>
-
 <p>*This will list user commands. To see the detailed instructions for a command type <code>/helpop [COMMAND]</code>. Without a [COMMAND] parameter, this will list all /helpop commands and descriptions.</p>
-
-<hr />
-
+<hr>
 <p><em>To change your nickname on Snoonet to a new nick type:</em></p>
-
 <p><code>/NICK &lt;newnick&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To join a channel type:</em></p>
-
 <p><code>/JOIN &lt;channel&gt;</code></p>
-
 <p>To join two or more channels type:*</p>
-
 <p><code>/JOIN &lt;channel&gt;,&lt;channel&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To leave a channel type:</em></p>
-
 <p><code>/PART &lt;channel&gt;</code></p>
-
 <p><em>To leave two or more channels type:</em></p>
-
 <p><code>/PART &lt;channel&gt;,&lt;channel&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To cycle (leave and rejoin) a channel type:</em></p>
-
 <p><code>/CYCLE &lt;channel</code></p>
-
 <p>This overrides restrictions that would stop a new user joining, such as user limits and channel keys.</p>
-
-<hr />
-
-<p><em>To send a message to a user or channel specified in <target> type:</em></p>
-
+<hr>
+<p><em>To send a message to a user or channel specified in <!-- raw HTML omitted --> type:</em></p>
 <p><code>/PRIVMSG &lt;target&gt; &lt;text&gt;</code></p>
-
-<hr />
-
-<p><em>To send a notice to a user or channel specified in <target> type:</em></p>
-
+<hr>
+<p><em>To send a notice to a user or channel specified in <!-- raw HTML omitted --> type:</em></p>
 <p><code>/NOTICE &lt;target&gt; &lt;text&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To send a notice to a channel, such as one that is set it invite-only, indicating that you would like to join type:</em></p>
-
 <p><code>/KNOCK &lt;channel&gt; [message to channel]</code></p>
-
-<hr />
-
-<p><em>To set the mode for a channel or a nickname specified in <target> type:</em></p>
-
+<hr>
+<p><em>To set the mode for a channel or a nickname specified in <!-- raw HTML omitted --> type:</em></p>
 <p><code>/MODE &lt;target&gt; {+|-}&lt;modes&gt;[{+|-}&lt;modes&gt;] [mode parameters]</code></p>
-
 <p>A user may only set modes upon themselves, and may not set the +o usermode. A user may only change channel modes of channels where they are at least a halfoperator.</p>
-
 <p>A list of  <em><a href="umodes">User modes</a></em></p>
-
 <p>A list of  <em><a href="/modes">Channel modes</a></em></p>
-
-<hr />
-
+<hr>
 <p><em>To devoice yourself from a specified channel type:</em></p>
-
 <p><code>/DEVOICE &lt;channel&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To retrieve a channel topic type:</em></p>
-
 <p><code>/TOPIC &lt;channel&gt;</code></p>
-
 <p><em>To set a channel topic you must be either halfoperator, or the channel mode must be set to +t. To change the channel topic to one you provide type:</em></p>
-
 <p><code>/TOPIC &lt;channel&gt; &lt;topic&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To kick a user from a channel type:</em></p>
-
 <p><code>/KICK &lt;channel&gt; &lt;nick&gt; [reason]</code></p>
-
 <p>You must be at least a halfoperator to kick a user from a channel.</p>
-
-<hr />
-
+<hr>
 <p><em>To remove a user from a channel type:</em></p>
-
 <p><code>/REMOVE &lt;nick&gt; &lt;channel&gt; [reason]</code></p>
-
 <p>You must be at least a halfoperator to remove a user from a channel. A removed user will part with a message stating they were removed from the channel and by whom. This command overrides auto-rejoin.</p>
-
-<hr />
-
+<hr>
 <p><em>To force-part a user from a channel type:</em></p>
-
 <p><code>/FPART &lt;channel&gt; &lt;nick&gt; [reason]</code></p>
-
-<p>This command behaves identically to /REMOVE, the only difference being the <channel> and <nick> paramaters are switched around to match /KICK&rsquo;s syntax. You must be at least a halfoperator to remove a user from a channel. A removed user will part with a message stating they were removed from the channel and by whom. This command overrides auto-rejoin.</p>
-
-<hr />
-
+<p>This command behaves identically to /REMOVE, the only difference being the <!-- raw HTML omitted --> and <!-- raw HTML omitted --> paramaters are switched around to match /KICK&rsquo;s syntax. You must be at least a halfoperator to remove a user from a channel. A removed user will part with a message stating they were removed from the channel and by whom. This command overrides auto-rejoin.</p>
+<hr>
 <p><em>To set a timed ban type:</em></p>
-
 <p><code>/TBAN &lt;channel&gt; &lt;duration&gt; &lt;banmask&gt;</code></p>
-
 <p>The duration of the ban can be specified in the following format: 1w2d3h4m6s which indicates a ban of one week, two days, three hours, four minutes and six seconds. Alternatively the ban may just be specified as a number of seconds. All timed bans appear in the banlist as normal bans and may be safely removed before their time is up.</p>
-
-<hr />
-
+<hr>
 <p><em>To invite a user to a channel type:</em></p>
-
 <p><code>/INVITE &lt;nick&gt; &lt;channel&gt; [time]</code></p>
-
 <p>If the channel is NOT set to mode +A, only channel halfoperators or above can invite people. If +A is set, anyone can invite people to the channel, as long as the person doing the invite is a member of the channel they wish to invite the user to.</p>
-
 <p>If a time is provided, the invite expires after that time and the user can no longer use it to enter the channel.</p>
-
-<hr />
-
+<hr>
 <p><em>To uninvite a user from a channel type:</em></p>
-
 <p><code>/UNINVITE &lt;nick&gt; &lt;channel&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To set away status and an away message type:</em></p>
-
 <p><code>/AWAY &lt;message&gt;</code></p>
-
 <p><em>To remove previously set status and message type:</em></p>
-
 <p><code>/AWAY</code></p>
-
-<hr />
-
+<hr>
 <p><em>To add or delete a nickname from your DCCALLOW list type:</em></p>
-
 <p><code>/DCCALLOW {+|-} &lt;nick&gt; &lt;duration&gt;</code></p>
-
 <p>This list allows user to send you files via DCC.</p>
-
-<hr />
-
+<hr>
 <p><em>To list hostmarks that you have silenced type:</em></p>
-
 <p><code>/SILENCE</code></p>
-
 <p>Silence is a serverside ignore of the given n!u@h hostmask.</p>
-
 <p><em>To add a hostmask to your silence list type:</em></p>
-
 <p><code>/SILENCE {+|-}&lt;hostmask&gt; {p|c|i|n|t|a|x}</code></p>
-
 <p>The letter(s) at the end specify what is to be ignored from this hostmask.</p>
-
 <table>
 <thead>
 <tr>
@@ -349,146 +249,91 @@
 <th>Description</th>
 </tr>
 </thead>
-
 <tbody>
 <tr>
 <td>p</td>
 <td>Block private messages</td>
 </tr>
-
 <tr>
 <td>c</td>
 <td>Block channel messages</td>
 </tr>
-
 <tr>
 <td>i</td>
 <td>Block invites</td>
 </tr>
-
 <tr>
 <td>n</td>
 <td>Block private notices</td>
 </tr>
-
 <tr>
 <td>t</td>
 <td>Block channel notices</td>
 </tr>
-
 <tr>
 <td>a</td>
 <td>Block all of the above</td>
 </tr>
-
 <tr>
 <td>x</td>
 <td>Exception</td>
 </tr>
 </tbody>
 </table>
-
 <p>Multiple letters may be specified. For an exception, you must pair x with what you want excepted. For example, if you wanted to except everything from people with a host matching <em>.foo.net, you would do /SILENCE +</em>!<em>@</em>.foo.net xa</p>
-
-<hr />
-
+<hr>
 <p><em>To display your accept list type:</em></p>
-
 <p><code>/ACCEPT *</code></p>
-
 <p>This list is used to determine who can private message you when you have usermode +g set.</p>
-
 <p><em>To add a user to your accept list type:</em></p>
-
 <p><code>/ACCEPT + &lt;nick&gt;</code></p>
-
 <p><em>To remove a user from your accept list type:</em></p>
-
 <p><code>/ACCEPT - &lt;nick&gt;</code></p>
-
 <p>To add or remove more than one nick at a time, separate them with a comma and space (nick, nick).</p>
-
-<hr />
-
+<hr>
 <p><em>To encodes the plaintext to a hash of the given type and display the result type:</em></p>
-
 <p><code>/MKPASSWD &lt;hashtype&gt; &lt;plaintext&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To authenticate for a vhost using the specified username and password type:</em></p>
-
 <p><code>/VHOST &lt;username&gt; &lt;password&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To authenticate for a WHOIS title line, and optionally a vhost, type:</em></p>
-
 <p><code>/TITLE &lt;name&gt; &lt;password&gt;</code></p>
-
-<hr />
-
+<hr>
 <p><em>To set your name type:</em></p>
-
 <p><code>/SETNAME &lt;name&gt;</code></p>
-
-<hr />
-
-<hr />
-
+<hr>
+<hr>
 <h1 id="user-modes">User Modes</h1>
-
 <p><em><a href="#top">back to top</a></em></p>
-
 
 
 <p><strong>General User Modes Help:</strong></p>
-
 <p><code>/helpop UMODES</code></p>
-
 <p>*This will list user mode commands. To see the detailed instructions for a command type <code>/helpop [COMMAND]</code>. Without a [COMMAND] parameter, this will list all /helpop commands and descriptions.</p>
-
 <p>Full list of <a href="umodes">user modes</a> listed here.</p>
-
-<hr />
-
-<hr />
-
+<hr>
+<hr>
 <h1 id="channel-modes">Channel Modes</h1>
-
 <p><em><a href="#top">back to top</a></em></p>
-
 
 
 <p><strong>General Channel Modes Help:</strong></p>
-
 <p><code>/helpop CHMODES</code></p>
-
 <p>*This will list channel modes commands. To see the detailed instructions for a command type <code>/helpop [COMMAND]</code>. Without a [COMMAND] parameter, this will list all /helpop commands and descriptions.</p>
-
 <p>Full list of <a href="/modes">channel modes</a> listed here.</p>
-
-<hr />
-
-<hr />
-
+<hr>
+<hr>
 <h1 id="extended-bans">Extended Bans</h1>
-
 <p><em><a href="#top">back to top</a></em></p>
 
 
-
 <p><strong>General Extended Bans Help:</strong></p>
-
 <p><code>/helpop EXTBANS</code></p>
-
 <p>*This will list extended bans commands. To see the detailed instructions for a command type <code>/helpop [COMMAND]</code>. Without a [COMMAND] parameter, this will list all /helpop commands and descriptions.</p>
-
 <p>Full list of <a href="/extbans">extended Bans</a> listed here.</p>
-
-<hr />
-
-<hr />
+<hr>
+<hr>
 
         </section>
     </article>
@@ -505,14 +350,14 @@
     <em>
         Last modification:
         <a
-            href="https://github.com/snoonetIRC/static-web/commit/577b4eef170b44bf4457a1cd53b324782f59ddd2"
+            href="https://github.com/snoonetIRC/static-web/commit/26cc1646308be830acda05a5d76117249e11dc47"
         >
-            577b4ee
+            26cc164
         </a>
         &middot;
         Mike Jones
         &middot;
-        Wed, Jun 5, 2019 17:41:01
+        Wed, Jun 17, 2020 15:07:28
     </em>
 
 
