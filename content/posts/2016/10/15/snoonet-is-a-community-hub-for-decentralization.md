@@ -2,7 +2,7 @@
 date: 2016-10-15T01:01:00
 draft: false
 title: "Snoonet is a community hub for decentralization!"
-type: post
+type: "post"
 ---
 
 Snoonet is pleased to support and work with decentralization! We would like to announce a matrix.org bridge from matrix clients to IRC! Have a gander at matrix.org to see what we're about!

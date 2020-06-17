@@ -3,7 +3,7 @@ aliases: [ '100daysofketo' ]
 title: "#100daysofketo"
 date: 2019-01-02T21:48:34Z
 draft: false
-type: community
+type: "community"
 kind: "health_and_food"
 subreddit: "100daysofketo"
 ---

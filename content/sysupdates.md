@@ -4,7 +4,7 @@
 title: "sysop updates/commands"
 date: 2019-01-14T22:03:38Z
 draft: true
-type: page
+type: "page"
 ---
 
 Sysop will no longer issue a ban on users that mass-connect at the same time if they are whitelisted. A user is whitelisted when they connect 10 times, or connect and identify to an auth account at least once. All opers are exempt from being punished by sysop, and many channels are whitelisted not to trigger sysop's automation. By joining sysop to a channel, sysop will automatically report floods, or ban accordingly. In case of an attack on a channel, use '.join #chan' in ##sysop

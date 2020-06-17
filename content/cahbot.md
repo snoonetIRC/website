@@ -4,7 +4,7 @@
 title: "cahbot"
 date: 2019-01-14T21:48:35Z
 draft: true
-type: page
+type: "page"
 ---
 
 CAHbot runs games of [Cards Against Humanity](http://www.cardsagainsthumanity.com/) on IRC.  Like an adult version of Apples to Apples or Mad Libs, players are provided with a random sentence to complete (black cards) and fill it in with words or phrases in their hand (white cards).  Each player takes a turn being the "Card Czar" - that is, the person that doesn't play a card that round, but instead selects the winner.

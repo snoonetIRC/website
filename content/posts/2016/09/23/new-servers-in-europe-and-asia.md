@@ -2,7 +2,7 @@
 date: 2016-09-23T04:27:00
 draft: false
 title: "New Servers in Europe and Asia"
-type: post
+type: "post"
 ---
 
 Snoonet is proud to introduce Calvin (London) and Hobbes (Singapore) to the network! These additional servers in Europe and Asia, respectively, will provide a more stable and faster connection for our users outside of North America. *eu-irc.snoonet.org* has been updated to include the new European server, and we have added *asiapac-irc.snoonet.org* for our users in the Asia-Pacific region. DNS records have been updated accordingly and these new changes will take effect next time you connect.

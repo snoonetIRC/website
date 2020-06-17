@@ -2,7 +2,7 @@
 title: "Authing on connect"
 date: 2019-01-10T19:50:32Z
 draft: false
-type: multipage-index
+type: "multipage-index"
 weight: 6
 altid: 'connect-auth'
 ---

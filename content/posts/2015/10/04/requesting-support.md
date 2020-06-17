@@ -2,7 +2,7 @@
 date: 2015-10-04T19:37:00
 draft: false
 title: "Requesting Support"
-type: post
+type: "post"
 ---
 
 Going forward, please submit all support requests, including [network ban appeals](/banappeal), through our [support system](http://support.snoonet.org).  

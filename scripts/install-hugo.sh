@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 SRC_DIR="${HOME}/src"
-HUGO_VERSION="v0.54.0"
+HUGO_VERSION="v0.70.0"
 
 echo "Installing Hugo Extended Edition ^TM"
 mkdir -p $SRC_DIR

@@ -5,7 +5,7 @@
 title: "Staff Exchange"
 date: 2019-01-14T21:55:11Z
 draft: true
-type: page
+type: "page"
 ---
 
 Good news everyone!

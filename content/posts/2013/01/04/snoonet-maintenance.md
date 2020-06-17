@@ -2,7 +2,7 @@
 date: 2013-01-04T06:15:00
 draft: false
 title: "Snoonet Maintenance"
-type: post
+type: "post"
 ---
 
 On Monday, Jan. 7 at 2AM EST we will be issuing updates to the Snoonet IRCd servers.

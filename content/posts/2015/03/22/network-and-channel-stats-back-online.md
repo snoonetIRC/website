@@ -2,7 +2,7 @@
 date: 2015-03-22T15:49:00
 draft: false
 title: "Network and Channel Stats - Back Online"
-type: post
+type: "post"
 ---
 
 After much anticipation, network and channel stats are now back online! Invite statistics to your channel to enable stats. You can check them out by typing !stats in your channel or going to [chanstats.snoonet.org](https://chanstats.snoonet.org) and clicking your channel name. See where you and your channel rank in the global statistics at [stats.snoonet.org](https://stats.snoonet.org). To see other cool stat-related things, see the [Anope Stats reference](/anope#Stats).

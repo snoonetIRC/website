@@ -5,7 +5,7 @@
 title: "orangechat"
 date: 2019-01-14T21:33:04Z
 draft: false
-type: page
+type: "page"
 ---
 
 Welcome!

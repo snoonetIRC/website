@@ -3,7 +3,7 @@ aliases: [ 'r4rrules' ]
 title: "#r4r rules"
 date: 2019-01-03T10:07:10Z
 draft: false
-type: page
+type: "page"
 ---
 
 #R4R Channel Rules

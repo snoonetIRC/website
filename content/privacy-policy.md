@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 date: 2019-10-28T21:02:20Z
 draft: false
-type: page
+type: "page"
 ---
 
 # SNOONET PRIVACY POLICY

@@ -2,7 +2,7 @@
 title: "A Guide to Being an Op in #anxiety"
 date: 2019-01-03T10:07:10Z
 draft: false
-type: page
+type: "page"
 ---
 
 **What is my job as an op?**

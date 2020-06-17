@@ -5,7 +5,7 @@ aliases: [ 'rAnnouncer' ]
 title: "rAnnouncer"
 date: 2019-01-14T21:46:42Z
 draft: true
-type: page
+type: "page"
 ---
 
 rAnnouncer is a subreddit announcer bot for IRC. It is designed to sit in a channel and post whenever a new post is made to a subreddit.

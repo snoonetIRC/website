@@ -2,7 +2,7 @@
 title: "Ban Exemption List"
 date: 2019-01-14T22:09:01Z
 draft: false
-type: page
+type: "page"
 ---
 
 ## False-Positive Bans

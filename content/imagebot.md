@@ -4,7 +4,7 @@
 title: "imagebot"
 date: 2019-01-14T21:44:35Z
 draft: true
-type: page
+type: "page"
 ---
 
 imagebot is an IRC bot that links random images from a given subreddit. It is designed to sit in a channel and be queried for images.

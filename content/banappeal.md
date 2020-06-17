@@ -2,7 +2,7 @@
 title: "Ban Appeal"
 date: 2019-01-14T21:49:30Z
 draft: false
-type: page
+type: "page"
 ---
 
 ## G-Line / Z-Line

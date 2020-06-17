@@ -2,7 +2,7 @@
 title: "Volunteer Recruitment"
 date: 2019-01-14T21:47:37Z
 draft: false
-type: page
+type: "page"
 aliases: [ '/vol' ]
 ---
 

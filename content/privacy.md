@@ -2,7 +2,7 @@
 title: "Privacy"
 date: 2018-12-30T21:43:20Z
 draft: false
-type: page
+type: "page"
 ---
 
 Snoonet's top priority is the privacy and safety of its users. We take great measures to ensure that everyone's information is secure and that no personally identifying information is available outside of what users wish to share on their own. Our privacy features include the following, and we are constantly evaluating the measures we have in place and implementing additional security as it becomes available.

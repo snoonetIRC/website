@@ -2,7 +2,7 @@
 date: 2016-03-19T00:00:00
 draft: false
 title: "Snoonet Rule Updates"
-type: post
+type: "post"
 ---
 
 # Network Conduct

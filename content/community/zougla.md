@@ -3,7 +3,7 @@ aliases: [ 'zougla' ]
 title: "#zougla"
 date: 2019-04-11T16:19:28Z
 draft: false
-type: community
+type: "community"
 kind: "news_and_politics"
 ---
 

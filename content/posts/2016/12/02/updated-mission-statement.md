@@ -2,7 +2,7 @@
 date: 2016-12-02T00:01:00
 draft: false
 title: "Updated Mission Statement"
-type: post
+type: "post"
 ---
 
 Snoonet is a community hub designed to accomodate and explore community culture. Our network infrastructure is built and maintained by the top communities on the internet, and their most proactive community leaders. Our design is to stay within the times, so we grow with communities. Our goal is simple: Be there with your communities, grow together, and aim for progression at every turn.

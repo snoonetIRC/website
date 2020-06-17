@@ -2,7 +2,7 @@
 title: "InspIRCd help system"
 date: 2019-01-10T22:03:45Z
 draft: false
-type: page
+type: "page"
 ---
 
 #### InspIRCd Help System Categories:

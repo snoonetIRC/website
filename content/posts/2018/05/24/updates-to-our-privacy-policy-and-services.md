@@ -2,7 +2,7 @@
 date: 2018-05-24T20:25:00
 draft: false
 title: "Updates to our Privacy Policy and Services"
-type: post
+type: "post"
 ---
 
 As part of our ongoing mission to serve our users and their communities, Snoonet is implementing some changes to our services and our policies to better reflect our commitment to privacy and security. &nbsp;Specifically, we have made some changes in support of the EU General Data Protection Regulation (GDPR), which comes into effect on May 25, 2018.  

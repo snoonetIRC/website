@@ -3,7 +3,7 @@ title: "User modes"
 aliases: [ '/helpop/umodes' ]
 date: 2019-01-10T21:58:17Z
 draft: false
-type: page
+type: "page"
 ---
 
 | Syntax |                                           Description                                           |

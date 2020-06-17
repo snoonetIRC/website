@@ -2,7 +2,7 @@
 date: 2016-04-28T23:25:00
 draft: false
 title: "Privacy and Security - How Snoonet Protects You"
-type: post
+type: "post"
 ---
 
 Snoonet recognizes that privacy and security are key issues for many of our users.  It is our goal to ensure that our network is safe and your data is secure.  We take a number of steps to protect users' privacy and limit the information that is exchanged on our network.  We protect your privacy in the following ways:

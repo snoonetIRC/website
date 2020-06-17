@@ -2,7 +2,7 @@
 title: "Snoonet bots"
 date: 2019-01-10T22:04:45Z
 draft: false
-type: page
+type: "page"
 ---
 
 Snoonet offers custom services and bots catered to reddit and unique to our network.

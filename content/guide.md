@@ -2,7 +2,7 @@
 title: "Guide"
 date: 2019-01-14T22:00:31Z
 draft: false
-type: page
+type: "page"
 ---
 
 ## Registering your nickname with NickServ

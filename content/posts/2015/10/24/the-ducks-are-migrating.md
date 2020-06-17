@@ -2,7 +2,7 @@
 date: 2015-10-24T22:45:00
 draft: false
 title: "The ducks are migrating..."
-type: post
+type: "post"
 ---
 
 Something spooky is happening on Snoonet. The ducks must have been scared off by something...where did they go? Wait...that looks like meatcat, running for dear life out of {{< webchat channel="#foreveralone" title="#foreveralone" >}}! Did they finally chase him off? ...WAIT! Is that a zombie behind him?

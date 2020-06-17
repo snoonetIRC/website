@@ -3,7 +3,7 @@ aliases: [ 'aspergers rules', 'aspergersrules' ]
 title: "#aspergers rules"
 date: 2019-01-03T10:07:10Z
 draft: false
-type: page
+type: "page"
 ---
 
 ## All operator actions are discretionary.

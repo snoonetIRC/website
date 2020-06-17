@@ -3,7 +3,7 @@ aliases: [ 'flotwig' ]
 title: "flotwig"
 date: 2018-12-31T08:55:29Z
 draft: false
-type: page
+type: "page"
 kind: "staff"
 role: "Staff"
 favorite_channels: "#gnulag, ##PartyMansion, ##flotwig, #staff"

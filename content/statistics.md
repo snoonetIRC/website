@@ -3,7 +3,7 @@ aliases: [ 'Statistics' ]
 title: "Statistics"
 date: 2019-01-14T21:29:19Z
 draft: false
-type: page
+type: "page"
 ---
 
 **Statistics will be shutdown on Thursday, May 24th until a suitable replacement has been created.**

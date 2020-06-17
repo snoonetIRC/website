@@ -2,7 +2,7 @@
 title: "Terms of Service"
 date: 2018-12-30T21:43:20Z
 draft: false
-type: page
+type: "page"
 ---
 
 By connecting to Snoonet IRC, you are understood to have agreed to these terms. You must not engage in any activity that may be contrary to any state or federal law. For state laws, the base of our incorporation is Delaware. In addition to these laws, you agree not to use Snoonet to:
