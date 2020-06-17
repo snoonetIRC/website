@@ -1,6 +1,6 @@
 ---
 date: 2016-09-23T04:27:00
-draft: false
+draft: true
 title: "New Servers in Europe and Asia"
 type: "post"
 ---

@@ -1,6 +1,6 @@
---- 
+---
 date: 2016-06-04T21:31:00
-draft: false
+draft: true
 title: "Recruiting Snoonet Community Guides"
 type: "post"
 ---
