@@ -18,8 +18,3 @@ IRC is an old protocol that can finally benefit from a face lift to make our mod
 
 If you love IRC as well, try to help and pitch in where you can!
 
-## New Ghostbin
-We setup our own ghostbin (secure pastes and syntax highlighting) at https://paste.snoonet.org
-
-Feel free to use it to send large amounts of text.
-
