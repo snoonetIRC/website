@@ -1,4 +1,4 @@
-# snoonet.org: Static Edition
+# snoonet.org
 
 [![Build Status](https://travis-ci.com/snoonetIRC/website.svg?token=gYMH5xbdyKUF8TLkCQnc&branch=master)](https://travis-ci.com/snoonetIRC/website)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/snoonetIRC/website/latest.svg)
