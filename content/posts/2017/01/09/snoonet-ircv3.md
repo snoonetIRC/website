@@ -1,7 +1,7 @@
 ---
 date: 2017-01-09T04:28:00
 draft: false
-title: "Snoonet ircv3 / New Ghostbin"
+title: "Snoonet IRCv3"
 type: "post"
 ---
 
@@ -17,4 +17,3 @@ IRC is an old protocol that can finally benefit from a face lift to make our mod
 * You can view the clients progress here: http://ircv3.net/software/clients.html<br>
 
 If you love IRC as well, try to help and pitch in where you can!
-
