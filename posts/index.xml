@@ -72,9 +72,7 @@ Because I was about something more than myself, the owner, and director of marke
       <guid>https://staging.snoonet.org/posts/2017/01/09/snoonet-ircv-new-ghostbin/</guid>
       <description>Snoonet looks to quickly adopt full IRCv3 capability. We will be developing a new website based around The Lounge to give our website an actual use. We look forward to seeing the implementation of IRCv3. When we get the &amp;lsquo;Okay!&amp;rsquo; we will upgrade all our IRCd software to implement full IRCv3 functionality.
 We love IRC IRC is an old protocol that can finally benefit from a face lift to make our modern clients better to use. Please look at the IRCv3 project here and check out our road map. The aim is to upgrade the protocol of IRC to provide better functionality of future developments. We look to see its health and growth remain positive!
-IRCv3 Roadmap and Documentation.  You can view the progress here: https://github.com/ircv3/ircv3-specifications/milestone/4/ You can view the IRC documents here: http://ircdocs.horse You can view the clients progress here: http://ircv3.net/software/clients.html  If you love IRC as well, try to help and pitch in where you can!
-New Ghostbin We setup our own ghostbin (secure pastes and syntax highlighting) at https://paste.snoonet.org
-Feel free to use it to send large amounts of text.</description>
+IRCv3 Roadmap and Documentation.  You can view the progress here: https://github.com/ircv3/ircv3-specifications/milestone/4/ You can view the IRC documents here: http://ircdocs.horse You can view the clients progress here: http://ircv3.net/software/clients.html  If you love IRC as well, try to help and pitch in where you can!</description>
     </item>
     
     <item>
@@ -157,42 +155,6 @@ What does this mean for me? tldr; Snoonet will be a community hub for decentrali
 This means you can be connected to every thing, and everybody. You will be anonymous and secured, and able to access Snoonet.org&amp;rsquo;s IRC communities. Most importantly, you&amp;rsquo;re connected within the matrix securely and can . You will have no limitations on who or what you connect with.
 Snoonet will be a community hub for matrix.org users as well as normal IRC, and reddit.com users that connect to us through the OrangeChat bridge.
 Take a peek at http://matrix.org/docs/guides/faq.html#what-is-matrix to see what it&amp;rsquo;s about!</description>
-    </item>
-    
-    <item>
-      <title>New Servers in Europe and Asia</title>
-      <link>https://staging.snoonet.org/posts/2016/09/23/new-servers-in-europe-and-asia/</link>
-      <pubDate>Fri, 23 Sep 2016 04:27:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2016/09/23/new-servers-in-europe-and-asia/</guid>
-      <description>Snoonet is proud to introduce Calvin (London) and Hobbes (Singapore) to the network! These additional servers in Europe and Asia, respectively, will provide a more stable and faster connection for our users outside of North America. eu-irc.snoonet.org has been updated to include the new European server, and we have added asiapac-irc.snoonet.org for our users in the Asia-Pacific region. DNS records have been updated accordingly and these new changes will take effect next time you connect.
-We have also added a new hub in Europe to increase reliability. This will ensure that users outside of North America are not as affected by maintenance and remain connected to each other in the rare event of a netsplit.
-If you have any questions, please ask a staff member in #help and remember, &amp;ldquo;It&amp;rsquo;s a wonderful world Hobbes ol&amp;rsquo; buddy&amp;hellip; Let&amp;rsquo;s go exploring!&amp;rdquo;</description>
-    </item>
-    
-    <item>
-      <title>IRC software and Server upgrades (Maintenance Window)</title>
-      <link>https://staging.snoonet.org/posts/2016/08/17/irc-software-and-server-upgrades-maintenance-window/</link>
-      <pubDate>Wed, 17 Aug 2016 23:00:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2016/08/17/irc-software-and-server-upgrades-maintenance-window/</guid>
-      <description>Snoonet will be undergoing server updates on the morning of August 31st at 02:00 UTC. The maintenance window will last for approximately 4 hours (subject to change, sudden catastrophic failure, and/or ThatOneRoadie pouring maple syrup on the Canadian servers).
-We will be performing some operating system patching and updates, as well as patching our IRC daemon to the latest version, and recompiling some network-wide modules. During this time, some netsplits will occur as servers are brought down for maintenance and upgraded. We will be performing our updates in batches, so if you experience a disconnection, you will be able to immediately reconnect to another server via irc.snoonet.org.
-Thanks for the patience, and as always, feel free to bug us in #help if you have any questions.
--Snoonet Operations Team</description>
-    </item>
-    
-    <item>
-      <title>Recruiting Snoonet Community Guides</title>
-      <link>https://staging.snoonet.org/posts/2016/06/04/recruiting-snoonet-community-guides/</link>
-      <pubDate>Sat, 04 Jun 2016 21:31:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2016/06/04/recruiting-snoonet-community-guides/</guid>
-      <description>From: Snoonet Management Snoonet is recruiting volunteers for the Community Guide position.
-We are looking for helpers that will be available to answer questions about Snoonet and orangechat in #help and in #orangechat.
-Community Guides will be responsible for guiding Snoonet users with any help requests.
-What is orangechat? Orangechat is a webchat that integrates directly with reddit.com. You can use your reddit account to connect directly to chatrooms and chat with other users browsing your favorite subreddits.
- Orangechat will bring new communities to Snoonet in the form of an easy-to-access interface directly from reddit.com. Orangechat allows existing Snoonet communities to link their subreddit&amp;rsquo;s to Snoonet via orangechat so no one is left out.  How can I apply? For more information and instructions on applying, see our Guide Recruitment page. Applications will be open until June 12, 2016.</description>
     </item>
     
     <item>
@@ -286,27 +248,6 @@ If you require immediate assistance and are not currently banned from the networ
     </item>
     
     <item>
-      <title>New Snoonet.org Website</title>
-      <link>https://staging.snoonet.org/posts/2015/07/15/new-snoonetorg-website/</link>
-      <pubDate>Wed, 15 Jul 2015 15:11:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2015/07/15/new-snoonetorg-website/</guid>
-      <description>We are excited to announce that the new Snoonet.org website is live. The new website features a more modern design and includes embedded Kiwi webchat here. Accessing webchat through our website will allow users easier access to pages like our network rules, channel statistics, and help documentation while chatting.
-Feedback on the new site and suggestions for the future can be provided in our #snoonet channel. We recommend tagging Diss, as our new website exists mostly thanks to his hard work!</description>
-    </item>
-    
-    <item>
-      <title>Network and Channel Stats - Back Online</title>
-      <link>https://staging.snoonet.org/posts/2015/03/22/network-and-channel-stats-back-online/</link>
-      <pubDate>Sun, 22 Mar 2015 15:49:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2015/03/22/network-and-channel-stats-back-online/</guid>
-      <description>After much anticipation, network and channel stats are now back online! Invite statistics to your channel to enable stats. You can check them out by typing !stats in your channel or going to chanstats.snoonet.org and clicking your channel name. See where you and your channel rank in the global statistics at stats.snoonet.org. To see other cool stat-related things, see the Anope Stats reference.
-Just a reminder that if you&amp;rsquo;d like to opt out of statistics, you may type &amp;lsquo;/msg nickserv set chanstats off&amp;rsquo;. The data already collected will not be removed. This is recommended for channels who do not want their members or quotes from their chat made public.
-If you haven&amp;rsquo;t already, you can also check out the services web portal at anope.snoonet.org. The services web portal will allow you to manage your modes and services information.</description>
-    </item>
-    
-    <item>
       <title>Snoonet Bouncer Access on KiwiIRC</title>
       <link>https://staging.snoonet.org/posts/2015/03/16/snoonet-bouncer-access-on-kiwiirc/</link>
       <pubDate>Mon, 16 Mar 2015 15:32:00 +0000</pubDate>
@@ -352,25 +293,6 @@ You can find a link to most of the AMAs edify organized here. One of his favorit
       <guid>https://staging.snoonet.org/posts/2015/01/27/network-maintenance-schedule/</guid>
       <description>Our official timeframe for network maintenance is Tuesday Night into Wednesday Morning between 9 PM PDT and 2 AM PDT. If needed, general network maintenance, server updates, or bug fixes will be performed during this timeframe. All users will be warned via global notice whenever major network maintenance (rebooting hubs, etc) is necessary. Users on specific servers requiring maintenance will be notified by staff via NOTICE or Private Message atleast 24 hours in advance.
 In the event of a newly released IRCd update, or new major vulnerability found with our base operating system, this schedule may be extended include Saturday Night/Sunday Morning.</description>
-    </item>
-    
-    <item>
-      <title>Services Announcement</title>
-      <link>https://staging.snoonet.org/posts/2014/11/17/services-announcement/</link>
-      <pubDate>Mon, 17 Nov 2014 04:53:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2014/11/17/services-announcement/</guid>
-      <description>With the recent announcement of the end of major development of the Atheme IRC services suite, Snoonet has made the decision to convert the network to the Anope 2.0 services suite. This change will take affect on January 1st, 2015. Generally, there will be no change in the way you operate your channels, however, there are some differences in the services packages.
-A conversion guide will be written in the near future, and Snoonet will assist channel ops one on one, if necessary, to make the transition as seamless as possible. We will provide updates in the near future. Please join #anopeconversion if you have any questions. Thank you for your continued patronage.</description>
-    </item>
-    
-    <item>
-      <title>TOR connectivity</title>
-      <link>https://staging.snoonet.org/posts/2014/10/24/tor-connectivity/</link>
-      <pubDate>Fri, 24 Oct 2014 21:56:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2014/10/24/tor-connectivity/</guid>
-      <description>Our tor service is back up online, with a new hidden service address: sylmrwllqsy7yapm.onion . Please visit the TOR help page for instructions on how to set it up.</description>
     </item>
     
     <item>
@@ -432,22 +354,6 @@ As a reminder, you can get information and help with syntax on any NickServ or C
     </item>
     
     <item>
-      <title>Snoonet transition guide</title>
-      <link>https://staging.snoonet.org/posts/2013/10/20/snoonet-transition-guide/</link>
-      <pubDate>Sun, 20 Oct 2013 02:34:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2013/10/20/snoonet-transition-guide/</guid>
-      <description>With the move to InspIRCd, Snoonet now offers channel operators and users more ways to control their chat experience, regardless of client. Some things will have changed since we moved from the old network, and in order to make the transition as pain-free as possible, we have prepared this guide to help. If you have any problems, please don&amp;rsquo;t hesitate to drop by #help on irc.
-This guide is broken down into multiple parts. Changes affecting channel operators are listed first, while user-level changes are listed second. Services are not changing, so this guide does not cover any services (eg Nickserv, Chanserv)
-Channel Modes Most of the standard IRC channel modes will stay the same. Your bans will still work. Your invite exceptions may still work.
-However, things depending on old network features, such as quiets and ext-bans (such as the account ban, commonly used for invite exceptions, $a:Paradox for example) will not. The features are not gone, don&amp;rsquo;t worry, they just work differently now.
-Changes Quiets Many channels used +q to maintain a list of users who are prevented from speaking in the channel, but may still join and leave freely. This mode has been removed on the new network, and has been replaced with an extended ban.
-To quiet people on inspircd, you use the m extended ban. See the table below for some examples of how q bans on the old network become mute bans on the new network:
-   Old New     +q *!*@snoonet/operations/Paradox +b m:*!*@snoonet/operations/Paradox   +q *!*@192.168.1.1 +b m:*!*@192.168.1.1   +q NickName!*@* +b m:NickName!*@*   +q $~a (quiets all non-registered users) +M (not a ban, a chanmode)   +q $a:Paradox (account ban) +b m:R:Paradox    Bans, Extbans, and Invite Exceptions (+b, +e, and +I) Bans share many of the same syntax as quiets, which are listed above, and you can just omit the m: from the ban to make them apply as bans.
-   Name Old New     Registered user $a R:*   Account name $a:AccountName R:AccountName   Channel match $c:#chan j:#chan   Oper $o O:*   realname $r:realname r:realname   Can access channel $j:#chan n/a   Ban + realname $x:nick!user@host#realname n/a   SSL users $z z:*    Some extban changes introduce new features, while others can reproduce the old features using a combination of +b and +e modes.</description>
-    </item>
-    
-    <item>
       <title>Snoonet&#39;s birthday</title>
       <link>https://staging.snoonet.org/posts/2013/04/28/snoonets-birthday/</link>
       <pubDate>Sun, 28 Apr 2013 09:39:34 +0000</pubDate>
@@ -457,16 +363,6 @@ To quiet people on inspircd, you use the m extended ban. See the table below for
 We&amp;rsquo;ve had some stability issues in the early days, but things have smoothed out nicely over the year.
 Today we are host to over 70 active reddit communities, over 1000 regular users and 12 servers.
 Here&amp;rsquo;s to IRC and the future!</description>
-    </item>
-    
-    <item>
-      <title>Updates</title>
-      <link>https://staging.snoonet.org/posts/2013/02/03/updates/</link>
-      <pubDate>Sun, 03 Feb 2013 03:00:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2013/02/03/updates/</guid>
-      <description>Minecraft Server We now have a 100 player Minecraft Server:
- MINECRAFT.SNOONET.ORG Applications for admins can be found at Minecraft Admin Applications  </description>
     </item>
     
     <item>
@@ -482,37 +378,6 @@ A channel protection bot for channel operators/moderators to utilize and change 
 While the above may be boring/uninteresting to some,
 Games Our network co-founder Paradox and network operator, Ricin will be hosting a large-scale Minecraft server for users to play on. More news will be posted about it as they will require help in moderating the server/keeping an eye on things. If you have any suggestions for other games you&amp;rsquo;d like hosted, feel free to contact us in SnoonetGaming, /r/irc or e-mail support [at] snoonet.org.
 We have the resources to host multiple game servers, and will be hosting these servers while we code and produce the competitive gaming tournament aspect of Snoonet.</description>
-    </item>
-    
-    <item>
-      <title>Snoonet Maintenance</title>
-      <link>https://staging.snoonet.org/posts/2013/01/04/snoonet-maintenance/</link>
-      <pubDate>Fri, 04 Jan 2013 06:15:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2013/01/04/snoonet-maintenance/</guid>
-      <description>On Monday, Jan. 7 at 2AM EST we will be issuing updates to the Snoonet IRCd servers.
-There will be some brief splits as we upgrade the operating systems on two of the nodes. We will be adding more nodes for clients to connect to for both IPv4 and IPv6. As our webchat reaches a more capable stage, these updates will be to prepare for the widespread user count anticipated by newcomers from Reddit Enhancement Suite/Reddit links.
-We will keep services downtime to a minimum, anticipating very little downtime.
-Snoonet is working on other projects aside from IRC/live chat services, and more news will be shared as the days come.
-We are also seeking client servers. We have plenty of servers, but we feel as if they will be of use in the very near future. If you can help, please e-mail shane [at] snoonet.org and we will continue from there. Please have advanced knowledge and experience moderating large communities!
-Snoonet is here for ALL communities, reddit and otherwise. If you&amp;rsquo;d like to help us provide for the communities, shoot us an e-mail!
-If you have any concerns/questions, feel free to post at http://snoonet.reddit.com / e-mail us at support [at] snoonet.org / ask us in #help
-Sincerely, Snoonet Staff</description>
-    </item>
-    
-    <item>
-      <title>Snoonet Updates</title>
-      <link>https://staging.snoonet.org/posts/2012/12/12/snoonet-updates/</link>
-      <pubDate>Wed, 12 Dec 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2012/12/12/snoonet-updates/</guid>
-      <description>Email Support We have set up an e-mail for those in need of support if they are having connection issues, or need any type of support outside of the chat network. Any suggestions or requests for any thing Snoonet are highly encouraged as well. This can be done by contacting us at support [at] snoonet.org - Be sure to include your nickname in the e-mail!
-Keeping in Touch We will be announcing things as we work on them via wallops (/mode yournick +w) for those interested, and discussing things in #snoonet - Recently we changed the default connect mode so users may opt in to these messages, rather than having to opt-out for things they are not concerned with.
-Webchat Snooonet webchat will be greatly updated. Much more stable and integrated more with the reddit lifestyle you know and love. It should be easier for everybody to use. We have made sure that all your existing webchat links will still work as normal so no need to worry about that.
-This will now pave the way for subreddit mods to embed or customize Snoonet webchat for their own communities. You may link to your IRC channel (chat room) with https://webchat.snoonet.org//yourchannelhere
-SSL/Fingerprint Information Due to recent changes in the Snoonet network infrastructure, our servers now use a single, self-signed certificate for all secure (SSL) connections. For our security-conscious clients, the below fingerprints may be used to verify the identity of a Snoonet server:
-99:5B:AC:FE:E6:A4:22:8F:51:2D:21:63:4B:5F:05:4D:E1:61:8D:6B
-The reason for self-signing is to offer encryption and security for those who seek it while handle issues with our paid/valid certificate to work with the IRCds. Our staff has been working very hard to make things the way the need to be after the unfortunate events with the .com to .org address change.</description>
     </item>
     
   </channel>
