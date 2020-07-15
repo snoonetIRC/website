@@ -5,8 +5,9 @@ draft: false
 type: "page"
 ---
 
-Connections to Snoonet using Tor are not supported. You will need to utilize an
-alternative method should you wish to connect to Snoonet using a VPN.
+We are in the process of bringing back our TOR hidden service. At the moment,
+we maintain that direct connections to Snoonet from the TOR network are not
+permitted and ask that you utilize an alternative service to connect, providing
+that it complies with our [rules](/rules).
 
-There are no plans to restore our Tor hidden service at this time.
-
+More information will be communicated when possible.
