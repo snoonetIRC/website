@@ -3107,8 +3107,8 @@ Last updated: November 14th, 2018</description>
       <pubDate>Sun, 30 Dec 2018 21:43:20 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/tor/</guid>
-      <description>Connections to Snoonet using Tor are not supported. You will need to utilize an alternative method should you wish to connect to Snoonet using a VPN.
-There are no plans to restore our Tor hidden service at this time.</description>
+      <description>We are in the process of bringing back our TOR hidden service. At the moment, we maintain that direct connections to Snoonet from the TOR network are not permitted and ask that you utilize an alternative service to connect, providing that it complies with our rules.
+More information will be communicated when possible.</description>
     </item>
     
     <item>
