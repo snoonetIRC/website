@@ -6,7 +6,7 @@ type: 'post'
 ---
 
 We are currently working on upgrading our network to [InspIRCd v3](https://www.inspircd.org/2019/05/03/v300-released.html).
-Older versions of some IRC clients (listed below) are non-compliant with way
+Older versions of some IRC clients (listed below) are non-compliant with the way
 InspIRCd v3 emits messages. More information about this can be found in the
 [InspIRCd FAQ](https://docs.inspircd.org/faq/#why-does-my-client-not-show-mode-changesopped-users-on-joinetc-correctly-when-using-inspircd-v3).
 
