@@ -22,7 +22,7 @@
         media="screen"
     >
 
-    <title>Snoonet &middot; Important changes to Snoonet and a partnership with IRC.com</title>
+    <title>Snoonet &middot; Your client and InspIRCd</title>
 </head>
 
     <body>
@@ -31,7 +31,7 @@
                 <hgroup>
                     <h1>
                         <a href="/">Snoonet</a>
-                        <span>Important changes to Snoonet and a partnership with IRC.com</span>
+                        <span>Your client and InspIRCd</span>
                     </h1>
                 </hgroup>
 
@@ -139,15 +139,15 @@
     <article class="post">
         <header class="inline-header">
     <h2>
-        <a href="https://staging.snoonet.org/posts/2018/11/22/important-changes-to-snoonet-and-a-partnership-with-irccom/">Important changes to Snoonet and a partnership with IRC.com</a>
+        <a href="https://staging.snoonet.org/posts/2020/07/13/client-upgrades/">Your client and InspIRCd</a>
 
         <span class="h2-secondary">
             <time
                 class="icon-time"
-                datetime="2018-11-22T21:38:00Z"
-                title="Thu, Nov 22, 2018"
+                datetime="2020-07-13T18:32:00Z"
+                title="Mon, Jul 13, 2020"
             >
-                Thu, Nov 22, 2018
+                Mon, Jul 13, 2020
             </time>
         </span>
     </h2>
@@ -160,23 +160,56 @@
     
 </ul>
 
-            <p>Snoonet is expanding its family and linking up with the new IRC network, <a href="https://irc.com">IRC.com</a>. For Snoonet users, the only real change you&rsquo;ll feel is an influx of new users with some new cloaks. Staff wise, we are taking on no new opers over the link, and all current staff will remain as they are.</p>
-<p>In order to reduce confusion between Snoonet and IRC.com users, a few changes will be made to cloaking and services bots. For most users, these changes will not be noticeable. Note that all these changes may not happen at once, for example, the cloak changes will take a bit more time than the rest.</p>
-<p><strong>1.</strong> Services will now display a vHost of <code>@services</code> instead of <code>@snoonet/services/*</code>. For example <code>NickServ!NickServ@snoonet/services/NickServ</code> will now simply be <code>NickServ!NickServ@services</code>.</p>
-<p><strong>2.</strong> vHosts for <strong><em>newly registered</em></strong> users will now either display <code>@irc.com/user/&lt;username&gt;</code> or <code>@snoonet.org/user/&lt;username&gt;</code> depending on which side of the network the user registered on.</p>
-<p><strong>3.</strong> Default and Snoo-ed nicks will change from <code>SnooXXXXX</code> to <code>GuestXXXXX</code> in order to be more network agnostic. Note that this will also affect how services force-nicks users to protect nicknames. As we understand that a number of channels ban Snoo-ed nicks we are providing a grace period of <strong>7 days</strong> to channel operators to update their ban lists.</p>
-<p><strong>4.</strong> Unregistered users will now display a cloak containing <code>@irc-&lt;hash&gt;.IP</code> instead of <code>@Snoonet-&lt;hash&gt;.IP</code>. <strong>Note that this will not affect old bans against Snoonet-<!-- raw HTML omitted -->.IP cloaks, both types will be checked where needed.</strong></p>
-<p><strong>TL;DR:</strong> The vHosts services bots use are changing to be more name agnostic. We&rsquo;re making newly registered nicks have vhosts based on the side they registered on. We&rsquo;re changing snoo-ed nicks to <code>Guest</code>. Cloaks are also undergoing changes to be more name agnostic, though bans on old ones will still work.</p>
-<p>If you have any questions or concerns please don&rsquo;t hesitate to ask a Snoonet staff member in #help or through our support system located at <a href="https://support.snoonet.org">https://support.snoonet.org/</a></p>
+            <p>We are currently working on upgrading our network to <a href="https://www.inspircd.org/2019/05/03/v300-released.html">InspIRCd v3</a>.
+Older versions of some IRC clients (listed below) do not follow the IRC
+specification correctly and can not handle the way that InspIRCd v3 emits
+messages. More information about this can be found in the
+<a href="https://docs.inspircd.org/faq/#why-does-my-client-not-show-mode-changesopped-users-on-joinetc-correctly-when-using-inspircd-v3">InspIRCd FAQ</a>.</p>
+<p>This update will keep us moving towards implementing cool new IRCv3 features.</p>
+<h2 id="who-needs-to-upgrade">Who needs to upgrade?</h2>
+<p>You may recently have noticed messages from a network bot suggesting you run
+software updates.</p>
+<p>A large majority of our users are not affected. However, if you are using a
+client older than the minimum version specified in the table below, you may
+start to see broken behaviour in some cases.</p>
+<p>If you still use any version of XChat we recommend upgrading to HexChat.</p>
+<table>
+<thead>
+<tr>
+<th>Client</th>
+<th>Minimum version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AdiIRC</td>
+<td>v3.6</td>
+</tr>
+<tr>
+<td>HexChat</td>
+<td>v2.14.3</td>
+</tr>
+<tr>
+<td>irssi</td>
+<td>v1.1.0</td>
+</tr>
+<tr>
+<td>WeeChat</td>
+<td>v2.5.0</td>
+</tr>
+<tr>
+<td>ZNC</td>
+<td>v1.8.0</td>
+</tr>
+</tbody>
+</table>
 
         </section>
 
         <footer class="footer">
             
-                <a class="older" href="https://staging.snoonet.org/posts/2018/05/24/updates-to-our-privacy-policy-and-services/">&laquo; Updates to our Privacy Policy and Services</a>
+                <a class="older" href="https://staging.snoonet.org/posts/2018/11/22/important-changes-to-snoonet-and-a-partnership-with-irccom/">&laquo; Important changes to Snoonet and a partnership with IRC.com</a>
             
-            
-                <a class="newer" href="https://staging.snoonet.org/posts/2020/07/13/client-upgrades/">Your client and InspIRCd &raquo;</a>
             
 
             <div class="clearfix"></div>
@@ -195,14 +228,14 @@
     <em>
         Last modification:
         <a
-            href="https://github.com/snoonetIRC/static-web/commit/26cc1646308be830acda05a5d76117249e11dc47"
+            href="https://github.com/snoonetIRC/static-web/commit/9dfe5c994efcfa597781abca5f8778f2859460f9"
         >
-            26cc164
+            9dfe5c9
         </a>
         &middot;
         Mike Jones
         &middot;
-        Wed, Jun 17, 2020 15:07:28
+        Thu, Aug 13, 2020 23:10:53
     </em>
 
 

@@ -585,6 +585,20 @@ My email address is zowlyfon [at] snoonet.org.</description>
     </item>
     
     <item>
+      <title>Your client and InspIRCd</title>
+      <link>https://staging.snoonet.org/posts/2020/07/13/client-upgrades/</link>
+      <pubDate>Mon, 13 Jul 2020 18:32:00 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/posts/2020/07/13/client-upgrades/</guid>
+      <description>We are currently working on upgrading our network to InspIRCd v3. Older versions of some IRC clients (listed below) do not follow the IRC specification correctly and can not handle the way that InspIRCd v3 emits messages. More information about this can be found in the InspIRCd FAQ.
+This update will keep us moving towards implementing cool new IRCv3 features.
+Who needs to upgrade? You may recently have noticed messages from a network bot suggesting you run software updates.
+A large majority of our users are not affected. However, if you are using a client older than the minimum version specified in the table below, you may start to see broken behaviour in some cases.
+If you still use any version of XChat we recommend upgrading to HexChat.
+   Client Minimum version     AdiIRC v3.6   HexChat v2.14.3   irssi v1.1.0   WeeChat v2.5.0   ZNC v1.8.0    </description>
+    </item>
+    
+    <item>
       <title>noeatnosleep</title>
       <link>https://staging.snoonet.org/staff/noeatnosleep/</link>
       <pubDate>Thu, 31 Oct 2019 21:02:19 +0000</pubDate>
