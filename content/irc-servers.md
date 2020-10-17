@@ -48,9 +48,9 @@ Please visit [here](/tor) for more information.
 You may access the Snoonet IRC network from any IRC client using any of the
 above addresses.
 
-We use a signed wildcard certificate from COMODO RSA. Our SSL fingerprint is:
+We use a signed wildcard certificate from Let's Encrypt. Our SSL fingerprint is:
 
 ```
-94:70:BB:AA:4D:13:17:EF:4A:8F:4A:77:8E:99:A5:90:C6:DD:E9:5B
+AB:71:85:E8:60:44:82:FA:B8:77:74:DF:16:D3:B0:95:7A:F3:46:8E
 ```
 
