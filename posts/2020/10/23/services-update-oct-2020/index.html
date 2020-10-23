@@ -22,7 +22,7 @@
         media="screen"
     >
 
-    <title>Snoonet &middot; Your client and InspIRCd</title>
+    <title>Snoonet &middot; Services maintenance update: October 2020</title>
 </head>
 
     <body>
@@ -31,7 +31,7 @@
                 <hgroup>
                     <h1>
                         <a href="/">Snoonet</a>
-                        <span>Your client and InspIRCd</span>
+                        <span>Services maintenance update: October 2020</span>
                     </h1>
                 </hgroup>
 
@@ -139,15 +139,15 @@
     <article class="post">
         <header class="inline-header">
     <h2>
-        <a href="https://staging.snoonet.org/posts/2020/07/13/client-upgrades/">Your client and InspIRCd</a>
+        <a href="https://staging.snoonet.org/posts/2020/10/23/services-update-oct-2020/">Services maintenance update: October 2020</a>
 
         <span class="h2-secondary">
             <time
                 class="icon-time"
-                datetime="2020-07-13T18:32:00Z"
-                title="Mon, Jul 13, 2020"
+                datetime="2020-10-23T21:03:00Z"
+                title="Fri, Oct 23, 2020"
             >
-                Mon, Jul 13, 2020
+                Fri, Oct 23, 2020
             </time>
         </span>
     </h2>
@@ -160,58 +160,25 @@
     
 </ul>
 
-            <p>We are currently working on upgrading our network to <a href="https://www.inspircd.org/2019/05/03/v300-released.html">InspIRCd v3</a>.
-Older versions of some IRC clients (listed below) do not follow the IRC
-specification correctly and can not handle the way that InspIRCd v3 emits
-messages. More information about this can be found in the
-<a href="https://docs.inspircd.org/faq/#why-does-my-client-not-show-mode-changesopped-users-on-joinetc-correctly-when-using-inspircd-v3">InspIRCd FAQ</a>.</p>
-<p>This update will keep us moving towards implementing cool new IRCv3 features.</p>
-<h2 id="who-needs-to-upgrade">Who needs to upgrade?</h2>
-<p>You may recently have noticed messages from a network bot suggesting you run
-software updates.</p>
-<p>A large majority of our users are not affected. However, if you are using a
-client older than the minimum version specified in the table below, you may
-start to see broken behaviour in some cases.</p>
-<p>If you still use any version of XChat we recommend upgrading to HexChat.</p>
-<table>
-<thead>
-<tr>
-<th>Client</th>
-<th>Minimum version</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>AdiIRC</td>
-<td>v3.6</td>
-</tr>
-<tr>
-<td>HexChat</td>
-<td>v2.14.3</td>
-</tr>
-<tr>
-<td>irssi</td>
-<td>v1.1.0</td>
-</tr>
-<tr>
-<td>WeeChat</td>
-<td>v2.5.0</td>
-</tr>
-<tr>
-<td>ZNC</td>
-<td>v1.8.0</td>
-</tr>
-</tbody>
-</table>
+            <p>From: Network Director (<a href="mailto:duck@snoonet.org">duck@snoonet.org</a>)</p>
+<p>Good afternoon,</p>
+<p>On October 23rd, we carried out maintenance on our services package to fix an issue with respect to account registrations. While carrying out the maintenance, our services package behaved unexpectedly and after an investigation, we determined that some recent database changes are not recoverable and are thusly declaring an incident resulting in the loss of data.</p>
+<p>If you registered an account on Snoonet, grouped a nickname to an existing account, registered a channel or made any changes to the access list of an existing channel, then please read the following information carefully.</p>
+<h2 id="what-exactly-happened">What exactly happened?</h2>
+<p>Whilst conducting maintenance, we noted that Anope was not saving its database correctly and was instead storing all recent changes in memory. While attempting to render a fix, Anope suffered a segmentation fault which terminated its program. The fault that terminated the program was caused as Anope was trying to save its database.</p>
+<h2 id="how-will-snoonet-respond">How will Snoonet respond?</h2>
+<p>Upon declaring the data loss incident, we made the decision to restore the last backup that would work successfully. The backup was taken on October 4th at shortly after midnight (00:00) UTC. Any changes that were made after this time have been lost.</p>
+<p>We&rsquo;ve also added information to our logon news concerning the data loss incident.</p>
+<p>For users that registered an account on or after the 4th of October, we have reached out to them directly to advise of the incident.</p>
+<p>We will be immediately implementing stricter testing guidelines for any future software or configuration changes to avoid a repeat situation.</p>
+<p>I realize that this situation is not ideal for some people and I offer my apologies for any inconvenience this may have caused you. If you have any concerns, you can either ask our network staff by joining <!-- raw HTML omitted -->#help<!-- raw HTML omitted -->. You can also reach out to me directly via private message on the network or by email at <a href="mailto:duck@snoonet.org">duck@snoonet.org</a>.</p>
 
         </section>
 
         <footer class="footer">
             
-                <a class="older" href="https://staging.snoonet.org/posts/2018/11/22/important-changes-to-snoonet-and-a-partnership-with-irccom/">&laquo; Important changes to Snoonet and a partnership with IRC.com</a>
+                <a class="older" href="https://staging.snoonet.org/posts/2020/07/13/client-upgrades/">&laquo; Your client and InspIRCd</a>
             
-            
-                <a class="newer" href="https://staging.snoonet.org/posts/2020/10/23/services-update-oct-2020/">Services maintenance update: October 2020 &raquo;</a>
             
 
             <div class="clearfix"></div>
@@ -230,14 +197,14 @@ start to see broken behaviour in some cases.</p>
     <em>
         Last modification:
         <a
-            href="https://github.com/snoonetIRC/static-web/commit/9dfe5c994efcfa597781abca5f8778f2859460f9"
+            href="https://github.com/snoonetIRC/static-web/commit/686bb061ccde336cad6c012541cf6d85e602a837"
         >
-            9dfe5c9
+            686bb06
         </a>
         &middot;
-        Mike Jones
+        D. Duck
         &middot;
-        Thu, Aug 13, 2020 23:10:53
+        Fri, Oct 23, 2020 19:36:01
     </em>
 
 

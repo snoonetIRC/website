@@ -142,6 +142,46 @@
         <article class="post single">
     <header class="inline-header">
     <h2>
+        <a href="https://staging.snoonet.org/posts/2020/10/23/services-update-oct-2020/">Services maintenance update: October 2020</a>
+
+        <span class="h2-secondary">
+            <time
+                class="icon-time"
+                datetime="2020-10-23T21:03:00Z"
+                title="Fri, Oct 23, 2020"
+            >
+                Fri, Oct 23, 2020
+            </time>
+        </span>
+    </h2>
+</header>
+
+
+    <section class="content"><p>From: Network Director (<a href="mailto:duck@snoonet.org">duck@snoonet.org</a>)</p>
+<p>Good afternoon,</p>
+<p>On October 23rd, we carried out maintenance on our services package to fix an issue with respect to account registrations. While carrying out the maintenance, our services package behaved unexpectedly and after an investigation, we determined that some recent database changes are not recoverable and are thusly declaring an incident resulting in the loss of data.</p>
+<p>If you registered an account on Snoonet, grouped a nickname to an existing account, registered a channel or made any changes to the access list of an existing channel, then please read the following information carefully.</p>
+<h2 id="what-exactly-happened">What exactly happened?</h2>
+<p>Whilst conducting maintenance, we noted that Anope was not saving its database correctly and was instead storing all recent changes in memory. While attempting to render a fix, Anope suffered a segmentation fault which terminated its program. The fault that terminated the program was caused as Anope was trying to save its database.</p>
+<h2 id="how-will-snoonet-respond">How will Snoonet respond?</h2>
+<p>Upon declaring the data loss incident, we made the decision to restore the last backup that would work successfully. The backup was taken on October 4th at shortly after midnight (00:00) UTC. Any changes that were made after this time have been lost.</p>
+<p>We&rsquo;ve also added information to our logon news concerning the data loss incident.</p>
+<p>For users that registered an account on or after the 4th of October, we have reached out to them directly to advise of the incident.</p>
+<p>We will be immediately implementing stricter testing guidelines for any future software or configuration changes to avoid a repeat situation.</p>
+<p>I realize that this situation is not ideal for some people and I offer my apologies for any inconvenience this may have caused you. If you have any concerns, you can either ask our network staff by joining <!-- raw HTML omitted -->#help<!-- raw HTML omitted -->. You can also reach out to me directly via private message on the network or by email at <a href="mailto:duck@snoonet.org">duck@snoonet.org</a>.</p>
+</section>
+
+    <footer class="footer">
+        <a href='https://staging.snoonet.org/posts/2020/10/23/services-update-oct-2020/'>Read More &raquo;</a>
+
+        <div class="clearfix"></div>
+    </footer>
+</article>
+
+    
+        <article class="post single">
+    <header class="inline-header">
+    <h2>
         <a href="https://staging.snoonet.org/posts/2020/07/13/client-upgrades/">Your client and InspIRCd</a>
 
         <span class="h2-secondary">
@@ -318,51 +358,6 @@ Instead, the policy provides more details about the information we collect, how 
 
     <footer class="footer">
         <a href='https://staging.snoonet.org/posts/2017/10/23/updates-to-our-network-rules-and-terms-of-service/'>Read More &raquo;</a>
-
-        <div class="clearfix"></div>
-    </footer>
-</article>
-
-    
-        <article class="post single">
-    <header class="inline-header">
-    <h2>
-        <a href="https://staging.snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/">Snoonet joins the PrivateInternetAccess.com Family!</a>
-
-        <span class="h2-secondary">
-            <time
-                class="icon-time"
-                datetime="2017-05-11T00:00:00Z"
-                title="Thu, May 11, 2017"
-            >
-                Thu, May 11, 2017
-            </time>
-        </span>
-    </h2>
-</header>
-
-
-    <section class="content"><h2 id="from-snoonet-foundation-shane-allen-jeff-sandberg">From: Snoonet Foundation (Shane Allen, Jeff Sandberg)</h2>
-<p>Snoonet is pleased to announce that it is the newest addition of the PrivateInternetAccess.com / London Trust Media, INC family.  Below is a written explanation of what is to be expected and our manifesto to keep IRC, its community culture, and all current operations as is but promote knowledge and growth moving in to the future.</p>
-<h2 id="what-is-this-and-what-does-it-mean">What is this, and what does it mean?</h2>
-<p>The vision is simple: Put a protective bubble around IRC culture and its communities, release funding for development and community events, and make sure the <a href="/mission-statement">mission statement</a> carries in to the future.
-No operational changes will be made, and things will continue as usual. This just gives us more resources and options to work with going in to the future.</p>
-<h2 id="why-does-this-matter">Why does this matter?</h2>
-<p>Snoonet was created Apr. 28, 2012 with one vision in mind: Create and maintain bad-ass stuff for the infinite amount of Reddit communities. In the 5 years of its existence, Snoonet has maintained a certain vision of valuing its communities by hiring
-its community leaders to help protect, and provide a home for its userbases.</p>
-<p>London Trust Media and its subsidiary PrivateInternetAccess.com believe in a much bigger picture with regards to community culture. If we take a step back and look at it, the picture is clear. &ldquo;Be there for the communities, and allow them to grow without influencing community evolution.&rdquo;</p>
-<h2 id="how-did-this-come-about">How did this come about?</h2>
-<p>This past Christmas, I, Shane Allen reached out to PrivateInternetAccess. It&rsquo;s been a long journey over these years in both Snoonet life and my personal life. When reaching out I asked for one thing after explaining what Snoonet stood for and was about. I had asked for help buying my staff Christmas gifts and helping me to show them a thank you for believing in something we all put so much time in to build.  I expected maybe a few hundred dollars so I could buy some sweaters, coats, mittens, etc for the children of our staff, and maybe provide some food to the staff members who could use a little help.</p>
-<p>Because I was about something more than myself, the owner, and director of marketing took a great interest in our mission. After speaking with them for a bit I came to learn that they grew up on IRC and valued it so much as it&rsquo;s where they started off, like many of us learning to program, network with others, and run our community live chats. They then donated $25,000 - a global network of high powered servers, and offered up to $300,000 worth of free VPN accounts to show that they believe in being selfless, and just want to make the world better.</p>
-<p>I then traveled to the owner&rsquo;s house with some slight expectations, and some doubt &ndash; do nice things just happen to us? To my surprise, I was blown away after playing endless rounds of Mario Kart, and witnessing them hard at work with what they believe in.</p>
-<p>Day 1 of meeting them, they practiced their fighting and grappling - their way of keeping in shape and pushing each other to find new limits.  I saw the amount of funding and the reasoning behind it that they pump in to open source communities because they value FOSS, and support people working hard.
-I witnessed them come up with business ideas and carry them out within minutes of the ideas forming; something that would take me a year to do alone. - I bared witness to epic level awesomeness. Hackers, gamers, visionaries like us just doing their thing&hellip; making the world better.</p>
-<p>At the time of this statement, I write this from our new office in Denver, CO where I now hold the ability to make all community culture better, with my new title being</p>
-<p><!-- raw HTML omitted -->Shane Allen, Community Relations Manager<!-- raw HTML omitted --></p>
-</section>
-
-    <footer class="footer">
-        <a href='https://staging.snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/'>Read More &raquo;</a>
 
         <div class="clearfix"></div>
     </footer>
