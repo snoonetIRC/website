@@ -163,7 +163,7 @@ Exempt modes allows you to set more granular permissions, based on user modes Ex
       
       <guid>https://staging.snoonet.org/staff/duck/</guid>
       <description>Duck duck [at] snoonet.org Hello all, Duck here! Thanks for flying Snoonet!
-I joined staff in mid 2017 and presently oversee operations on the network as the Network Director. Part of my mission is to assist our staff with rules &amp;amp; guideline enforcement and to assist in the maintenance of our server infrastructure. I&amp;rsquo;m also involved with InspIRCd, whose software powers this network.
+I joined staff in mid-2017 and presently oversee operations on the network as the Network Director. Part of my mission is to assist our staff with rules &amp;amp; guideline enforcement and to assist in the maintenance of our server infrastructure. I&amp;rsquo;m also involved with InspIRCd and DroneBL, both of which help keep this network ticking.
 While not doing network-related things, I may be found chatting in a handful of the communities that we host. If you see me around, feel free to say hi, or send me a message at any time using /msg Duck Hi!
 ・゜゜・。。 ​ ・゜゜\​_0&amp;lt; QUA​CK!</description>
     </item>
@@ -465,6 +465,24 @@ All clients will keep a list of channels you are in, our webchat does that above
     </item>
     
     <item>
+      <title>cachinnate</title>
+      <link>https://staging.snoonet.org/staff/cachinnate/</link>
+      <pubDate>Sat, 17 Oct 2020 16:01:37 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/cachinnate/</guid>
+      <description>Hi, I&amp;rsquo;m cachinnate!</description>
+    </item>
+    
+    <item>
+      <title>carawayseeds</title>
+      <link>https://staging.snoonet.org/staff/carawayseeds/</link>
+      <pubDate>Sat, 17 Oct 2020 16:01:37 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/carawayseeds/</guid>
+      <description>Hi, I&amp;rsquo;m carawayseeds!</description>
+    </item>
+    
+    <item>
       <title>Getting help</title>
       <link>https://staging.snoonet.org/help/getting-help/</link>
       <pubDate>Thu, 10 Jan 2019 19:59:55 +0000</pubDate>
@@ -600,6 +618,15 @@ We&amp;rsquo;ve also added information to our logon news concerning the data los
 For users that registered an account on or after the 4th of October, we have reached out to them directly to advise of the incident.
 We will be immediately implementing stricter testing guidelines for any future software or configuration changes to avoid a repeat situation.
 I realize that this situation is not ideal for some people and I offer my apologies for any inconvenience this may have caused you. If you have any concerns, you can either ask our network staff by joining #help. You can also reach out to me directly via private message on the network or by email at duck@snoonet.org.</description>
+    </item>
+    
+    <item>
+      <title>#trees</title>
+      <link>https://staging.snoonet.org/community/trees/</link>
+      <pubDate>Wed, 07 Oct 2020 16:07:20 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/community/trees/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -6,7 +6,7 @@
     <description>Recent content in Staff on Snoonet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 31 Oct 2019 21:02:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 16:01:37 +0000</lastBuildDate>
     
 	<atom:link href="https://staging.snoonet.org/staff/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,7 +27,7 @@
       
       <guid>https://staging.snoonet.org/staff/duck/</guid>
       <description>Duck duck [at] snoonet.org Hello all, Duck here! Thanks for flying Snoonet!
-I joined staff in mid 2017 and presently oversee operations on the network as the Network Director. Part of my mission is to assist our staff with rules &amp;amp; guideline enforcement and to assist in the maintenance of our server infrastructure. I&amp;rsquo;m also involved with InspIRCd, whose software powers this network.
+I joined staff in mid-2017 and presently oversee operations on the network as the Network Director. Part of my mission is to assist our staff with rules &amp;amp; guideline enforcement and to assist in the maintenance of our server infrastructure. I&amp;rsquo;m also involved with InspIRCd and DroneBL, both of which help keep this network ticking.
 While not doing network-related things, I may be found chatting in a handful of the communities that we host. If you see me around, feel free to say hi, or send me a message at any time using /msg Duck Hi!
 ・゜゜・。。 ​ ・゜゜\​_0&amp;lt; QUA​CK!</description>
     </item>
@@ -105,6 +105,24 @@ I, personally, maintain a number of servers for the Snoonet network, as well as 
       
       <guid>https://staging.snoonet.org/staff/weylin/</guid>
       <description>Hi I&amp;rsquo;m Weylin!</description>
+    </item>
+    
+    <item>
+      <title>cachinnate</title>
+      <link>https://staging.snoonet.org/staff/cachinnate/</link>
+      <pubDate>Sat, 17 Oct 2020 16:01:37 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/cachinnate/</guid>
+      <description>Hi, I&amp;rsquo;m cachinnate!</description>
+    </item>
+    
+    <item>
+      <title>carawayseeds</title>
+      <link>https://staging.snoonet.org/staff/carawayseeds/</link>
+      <pubDate>Sat, 17 Oct 2020 16:01:37 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/carawayseeds/</guid>
+      <description>Hi, I&amp;rsquo;m carawayseeds!</description>
     </item>
     
     <item>

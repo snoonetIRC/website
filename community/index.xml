@@ -6,10 +6,19 @@
     <description>Recent content in Community on Snoonet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 29 Sep 2020 13:42:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 16:07:20 +0000</lastBuildDate>
     
 	<atom:link href="https://staging.snoonet.org/community/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#trees</title>
+      <link>https://staging.snoonet.org/community/trees/</link>
+      <pubDate>Wed, 07 Oct 2020 16:07:20 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/community/trees/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>#bipolarreddit</title>
