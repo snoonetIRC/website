@@ -554,6 +554,21 @@ My email address is zowlyfon [at] snoonet.org.</description>
     </item>
     
     <item>
+      <title>Updates to IRC.com infrastructure</title>
+      <link>https://staging.snoonet.org/posts/2021/06/20/updates-to-irc-com-infrastructure/</link>
+      <pubDate>Mon, 21 Jun 2021 01:01:01 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/posts/2021/06/20/updates-to-irc-com-infrastructure/</guid>
+      <description>From: Network Director (duck@snoonet.org)
+Good afternoon,
+In 2018, Snoonet announced a partnership with IRC.com and made several changes to the network to support the services that they were introducing. These included a brand new IRC network running on modern IRC software, as well as a Bouncer-as-a-Service product which is still available and can be utilized with a custom application on the web, or on compatible Androidand Appledevices.
+Starting today, Snoonet will begin implementing changes which will separate the IRC.com network from Snoonet. We will introduce some minor changes as soon as possible, with the eventual removal of IRC.com servers from Snoonet to follow in the coming days. If you currently use irc.irc.com to connect and wish to remain on our network, please update your IRC clients now to use irc.snoonet.org. If you registered a NickServ account on IRC.com, your account will be retained in our database and you will be able to use your existing credentials to authenticate on Snoonet.
+Additionally, users that currently have a vhost of irc.com/user/name will have their vhost changed to user/name. Users with a snoonet.org/user/name will have the option to change to user/name.
+If you have any questions or concerns, please do not hesitate to contact a Snoonet operator in #help, or open a ticket at https://support.snoonet.org/
+Thank you for using Snoonet!</description>
+    </item>
+    
+    <item>
       <title>Services maintenance update: October 2020</title>
       <link>https://staging.snoonet.org/posts/2020/10/23/services-update-oct-2020/</link>
       <pubDate>Fri, 23 Oct 2020 21:03:00 +0000</pubDate>

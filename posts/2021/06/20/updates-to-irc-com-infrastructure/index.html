@@ -22,7 +22,7 @@
         media="screen"
     >
 
-    <title>Snoonet &middot; Services maintenance update: October 2020</title>
+    <title>Snoonet &middot; Updates to IRC.com infrastructure</title>
 </head>
 
     <body>
@@ -31,7 +31,7 @@
                 <hgroup>
                     <h1>
                         <a href="/">Snoonet</a>
-                        <span>Services maintenance update: October 2020</span>
+                        <span>Updates to IRC.com infrastructure</span>
                     </h1>
                 </hgroup>
 
@@ -139,15 +139,15 @@
     <article class="post">
         <header class="inline-header">
     <h2>
-        <a href="https://staging.snoonet.org/posts/2020/10/23/services-update-oct-2020/">Services maintenance update: October 2020</a>
+        <a href="https://staging.snoonet.org/posts/2021/06/20/updates-to-irc-com-infrastructure/">Updates to IRC.com infrastructure</a>
 
         <span class="h2-secondary">
             <time
                 class="icon-time"
-                datetime="2020-10-23T21:03:00Z"
-                title="Fri, Oct 23, 2020"
+                datetime="2021-06-21T01:01:01Z"
+                title="Mon, Jun 21, 2021"
             >
-                Fri, Oct 23, 2020
+                Mon, Jun 21, 2021
             </time>
         </span>
     </h2>
@@ -162,25 +162,18 @@
 
             <p>From: Network Director (<a href="mailto:duck@snoonet.org">duck@snoonet.org</a>)</p>
 <p>Good afternoon,</p>
-<p>On October 23rd, we carried out maintenance on our services package to fix an issue with respect to account registrations. While carrying out the maintenance, our services package behaved unexpectedly and after an investigation, we determined that some recent database changes are not recoverable and are thusly declaring an incident resulting in the loss of data.</p>
-<p>If you registered an account on Snoonet, grouped a nickname to an existing account, registered a channel or made any changes to the access list of an existing channel, then please read the following information carefully.</p>
-<h2 id="what-exactly-happened">What exactly happened?</h2>
-<p>Whilst conducting maintenance, we noted that Anope was not saving its database correctly and was instead storing all recent changes in memory. While attempting to render a fix, Anope suffered a segmentation fault which terminated its program. The fault that terminated the program was caused as Anope was trying to save its database.</p>
-<h2 id="how-will-snoonet-respond">How will Snoonet respond?</h2>
-<p>Upon declaring the data loss incident, we made the decision to restore the last backup that would work successfully. The backup was taken on October 4th at shortly after midnight (00:00) UTC. Any changes that were made after this time have been lost.</p>
-<p>We&rsquo;ve also added information to our logon news concerning the data loss incident.</p>
-<p>For users that registered an account on or after the 4th of October, we have reached out to them directly to advise of the incident.</p>
-<p>We will be immediately implementing stricter testing guidelines for any future software or configuration changes to avoid a repeat situation.</p>
-<p>I realize that this situation is not ideal for some people and I offer my apologies for any inconvenience this may have caused you. If you have any concerns, you can either ask our network staff by joining <!-- raw HTML omitted -->#help<!-- raw HTML omitted -->. You can also reach out to me directly via private message on the network or by email at <a href="mailto:duck@snoonet.org">duck@snoonet.org</a>.</p>
+<p>In 2018, Snoonet announced a partnership with IRC.com and made several changes to the network to support the services that they were introducing. These included a brand new IRC network running on modern IRC software, as well as a Bouncer-as-a-Service product which is still available and can be utilized with a custom application on the web, or on compatible <!-- raw HTML omitted -->Android<!-- raw HTML omitted --> and <!-- raw HTML omitted -->Apple<!-- raw HTML omitted --> devices.</p>
+<p>Starting today, Snoonet will begin implementing changes which will separate the IRC.com network from Snoonet. We will introduce some minor changes as soon as possible, with the eventual removal of IRC.com servers from Snoonet to follow in the coming days. If you currently use irc.irc.com to connect and wish to remain on our network, please update your IRC clients now to use irc.snoonet.org. If you registered a NickServ account on IRC.com, your account will be retained in our database and you will be able to use your existing credentials to authenticate on Snoonet.</p>
+<p>Additionally, users that currently have a vhost of irc.com/user/name will have their vhost changed to user/name. Users with a snoonet.org/user/name will have the option to change to user/name.</p>
+<p>If you have any questions or concerns, please do not hesitate to contact a Snoonet operator in #help, or open a ticket at <a href="https://support.snoonet.org/">https://support.snoonet.org/</a></p>
+<p>Thank you for using Snoonet!</p>
 
         </section>
 
         <footer class="footer">
             
-                <a class="older" href="https://staging.snoonet.org/posts/2020/07/13/client-upgrades/">&laquo; Your client and InspIRCd</a>
+                <a class="older" href="https://staging.snoonet.org/posts/2020/10/23/services-update-oct-2020/">&laquo; Services maintenance update: October 2020</a>
             
-            
-                <a class="newer" href="https://staging.snoonet.org/posts/2021/06/20/updates-to-irc-com-infrastructure/">Updates to IRC.com infrastructure &raquo;</a>
             
 
             <div class="clearfix"></div>
@@ -199,14 +192,14 @@
     <em>
         Last modification:
         <a
-            href="https://github.com/snoonetIRC/static-web/commit/686bb061ccde336cad6c012541cf6d85e602a837"
+            href="https://github.com/snoonetIRC/static-web/commit/844d0d6e263af596ced72409d92eb33fdd1c802e"
         >
-            686bb06
+            844d0d6
         </a>
         &middot;
-        D. Duck
+        ThatOneRoadie
         &middot;
-        Fri, Oct 23, 2020 19:36:01
+        Mon, Jun 21, 2021 02:34:36
     </em>
 
 
