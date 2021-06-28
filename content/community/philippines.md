@@ -1,9 +1,9 @@
 ---
-aliases: [ 'phillipenes' ]
-title: "#phillipenes"
+aliases: [ 'philippines' ]
+title: "#philippines"
 date: 2019-01-03T09:57:37Z
 draft: false
 type: "community"
 kind: "regional"
-subreddit: "phillipenes"
+subreddit: "philippines"
 ---
