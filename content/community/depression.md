@@ -32,11 +32,8 @@ Please understand that although we are here to provide peer support, our channel
 
 ### Channel Staff: 
 - A_D
-- AHare
 - GhostyOne
 - jglauche
-- [Madbrad200](/staff/madbrad200)
-- TheStrangeOne
 - toomin
 - [void](/staff/void)
 
