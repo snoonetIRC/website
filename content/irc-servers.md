@@ -31,15 +31,9 @@ asiapac-irc.snoonet.org : 6667 (6697 for SSL)
 
 eu-irc.snoonet.org : 6667 (6697 for SSL)
 
-## 443 (For those behind a restrictive firewall)
-
-The alt-IRC service is currently unavailable.
-
-Please use a VPN or otherwise if you need to circumvent a firewall.
-
 ## Tor Connectivity
 
-The Tor hidden service is currently down.
+Our TOR hidden service is currently unavailable.
 
 Please visit [here](/tor) for more information.
 
