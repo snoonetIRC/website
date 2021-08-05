@@ -7,7 +7,7 @@ type: "page"
 
 # SNOONET PRIVACY POLICY
 
-This Website ('Snoonet.org'), and its parent IRC.com, (collectively, 'We', 'Us', or 'Snoonet') wish to define and inform you of any and all of the instances in which your personal data and information may be saved and how it may be used by Snoonet, how it may be shared, and the level of protection we use to safeguard your personal information when using our services.
+This website ('Snoonet.org') wishes to define and inform you of any and all of the instances in which your personal data and information may be saved and how it may be used by Snoonet, how it may be shared, and the level of protection we use to safeguard your personal information when using our services.
 
 ---
 
@@ -100,5 +100,5 @@ For all civil or law enforcement requests, please see [Law-Enforcement Guideline
 
 While Snoonet agrees to accept service of law enforcement requests based on the above method listed above, Snoonet does NOT waive any legal rights based on this accommodation.
 
-*Last revised* October 28, 2019
+*Last revised* August 5, 2021
 
