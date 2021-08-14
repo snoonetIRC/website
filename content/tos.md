@@ -5,7 +5,7 @@ draft: false
 type: "page"
 ---
 
-By cnoonecting to Snoonet, you are understood to have agreed to these terms. You must not engage in any activity that may be contrary to any national law. Our legal entity for Snoonet is located in (undisclosed). In addition to these terms, you agree to not use Snoonet to:
+By connecting to Snoonet, you are understood to have agreed to these terms. You agree to not use Snoonet to:
 
 + (1) Facilitate the downloading/receiving, or distributing of pirated software, movies, games, music, or other materials subject to restrictive copyright law
 + (2) Start, participate in or maintain a botnet, as a client or a botnet director
