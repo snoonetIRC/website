@@ -61,7 +61,3 @@ For more information, please see our [Privacy and Security page](/privacy).
   corresponding nickname on Snoonet.
 * Custom webchat built in cooperation with Snoonet, and simple, short-form
   channel links ({{< webchat_plain >}}/channelname).
-
-## Upcoming features
-
-* Integration with Reddit Enhancement Suite for an experience directly tied to reddit.
