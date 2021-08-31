@@ -6,11 +6,7 @@
     <description>Recent content in Posts on Snoonet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 21 Jun 2021 01:01:01 +0000</lastBuildDate>
-    
-	<atom:link href="https://staging.snoonet.org/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 21 Jun 2021 01:01:01 +0000</lastBuildDate><atom:link href="https://staging.snoonet.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Updates to IRC.com infrastructure</title>
       <link>https://staging.snoonet.org/posts/2021/06/20/updates-to-irc-com-infrastructure/</link>
@@ -196,7 +192,7 @@ Take a peek at http://matrix.org/docs/guides/faq.html#what-is-matrix to see what
       <pubDate>Thu, 28 Apr 2016 23:25:00 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/posts/2016/04/28/privacy-and-security-how-snoonet-protects-you/</guid>
-      <description>Snoonet recognizes that privacy and security are key issues for many of our users. It is our goal to ensure that our network is safe and your data is secure. We take a number of steps to protect users&amp;rsquo; privacy and limit the information that is exchanged on our network. We protect your privacy in the following ways:
+      <description>Snoonet recognizes that privacy and security are key issues for many of our users. It is our goal to ensure that our network is safe and your data is secure. We take a number of steps to protect users&#39; privacy and limit the information that is exchanged on our network. We protect your privacy in the following ways:
 IPs are hidden by default for all users with umode +x and replaced by a one-way hash in the users host. For unregistered users, their IP will be replaced with Snoonet-hash.IP. Registered users receive a vHost, user/AccountName.
 Registration information, including e-mail addresses, are hidden in the user&amp;rsquo;s NickServ info. Users may select to hide additional information as well with /ns help set hide
 User channels are not visible in their WHOIS by others and is automatically set on connect with the umode +I. Users may elect to disable this user mode if they wish. Private and secret channels are never displayed to users not also in those channels, regardless of the user mode setting.
@@ -383,7 +379,7 @@ Wildcard Event Channel:
       <description>This post is a PSA about a NickServ module we&amp;rsquo;ve recently enabled that will allow you to be auto-joined to a list of channels you&amp;rsquo;ve set upon identifying. This should be especially useful to webchat users due to the lack of client-side auto-join. To add a channel to your autojoin list use /msg nickserv ajoin add #channelname
 To delete a channel from your autojoin list use /msg nickserv ajoin del #channelname
 To see the channels currently on your autojoin list you can use /msg nickserv ajoin list
-As a reminder, you can get information and help with syntax on any NickServ or ChanServ command by messaging the appropriate service &amp;ldquo;help command&amp;quot;. So to see the syntax for the ajoin command you would do /msg nickserv help ajoin</description>
+As a reminder, you can get information and help with syntax on any NickServ or ChanServ command by messaging the appropriate service &amp;ldquo;help command&amp;rdquo;. So to see the syntax for the ajoin command you would do /msg nickserv help ajoin</description>
     </item>
     
     <item>
@@ -404,7 +400,7 @@ Here&amp;rsquo;s to IRC and the future!</description>
       <pubDate>Mon, 14 Jan 2013 10:00:00 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/posts/2013/01/14/gaming-webchat-network-news/</guid>
-      <description>IRC News On Wednesday, Jan. 16 we will be issuing patches and features for the Snoonet Webchat. We are creating a backend for channels to be managed through a webpanel which will be the alpha stage for reddit/other communities&amp;rsquo; users to remotely set up/modify/view/update their community&amp;rsquo;s IRC channel access lists and settings, including ban lists and invex lists. For other IRC networks out there, check out www.kiwiirc.com as the developer has a lot of goals and a lot of options available to bring a live webchat to your network.
+      <description>IRC News On Wednesday, Jan. 16 we will be issuing patches and features for the Snoonet Webchat. We are creating a backend for channels to be managed through a webpanel which will be the alpha stage for reddit/other communities&#39; users to remotely set up/modify/view/update their community&amp;rsquo;s IRC channel access lists and settings, including ban lists and invex lists. For other IRC networks out there, check out www.kiwiirc.com as the developer has a lot of goals and a lot of options available to bring a live webchat to your network.
 We will be creating a few customized IRC bots that will offer a variety of options for different types of communities.
 Some examples will be a VIP-Ask Me Anything robot which will moderate the channel, and accept questions for VIPs to answer directly. The system will work by users submitting a question, and a moderator will approve the question. The questions will remain in a queue until the user is voiced, the bot states the question and the VIP and the user have a short period of time to ask and answer questions before moving on. All questions, answers, and conversation will be compiled in to a markup post which can easily be posted (or automatically) to a reddit thread where the Ask Me Anything thread may possibly continue.
 A channel protection bot for channel operators/moderators to utilize and change the settings of to set a &amp;lsquo;bad words&amp;rsquo; type filter list, where they may set punishments for bad words, phrases, links, etc. The bot will also have options to control punishing flooding/repeat lines/repeat offenders, as well as manage the ban lists. This is for channels that grow in size and need moderation while operators/mods aren&amp;rsquo;t around. For those familiar with our network bot &amp;lsquo;sysop&amp;rsquo; - it will be a user controlled/managed bot controlled by channel mods.

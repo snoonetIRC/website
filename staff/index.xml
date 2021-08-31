@@ -6,11 +6,7 @@
     <description>Recent content in Staff on Snoonet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 17 Oct 2020 16:01:37 +0000</lastBuildDate>
-    
-	<atom:link href="https://staging.snoonet.org/staff/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 17 Oct 2020 16:01:37 +0000</lastBuildDate><atom:link href="https://staging.snoonet.org/staff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paradox</title>
       <link>https://staging.snoonet.org/staff/paradox/</link>
