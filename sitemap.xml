@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://staging.snoonet.org/rules/user/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
+    <lastmod>2021-08-05T17:13:53-03:00</lastmod>
   </url>
   
   <url>
@@ -64,7 +64,7 @@
   
   <url>
     <loc>https://staging.snoonet.org/rules/channel/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
+    <lastmod>2021-08-05T17:21:48-03:00</lastmod>
   </url>
   
   <url>
@@ -239,7 +239,7 @@
   
   <url>
     <loc>https://staging.snoonet.org/privacy-policy/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
+    <lastmod>2021-08-05T16:47:03-03:00</lastmod>
   </url>
   
   <url>
@@ -255,11 +255,6 @@
   <url>
     <loc>https://staging.snoonet.org/community/zougla/</loc>
     <lastmod>2020-09-09T15:15:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://staging.snoonet.org/channel-rules/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url>
   
   <url>
@@ -298,16 +293,6 @@
   </url>
   
   <url>
-    <loc>https://staging.snoonet.org/oc/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://staging.snoonet.org/recruit-guides/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://staging.snoonet.org/guide-handbook/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url>
@@ -329,11 +314,6 @@
   
   <url>
     <loc>https://staging.snoonet.org/umodes/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://staging.snoonet.org/sponsors/private-internet-access/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url>
   
@@ -1324,7 +1304,7 @@
   
   <url>
     <loc>https://staging.snoonet.org/irc-servers/</loc>
-    <lastmod>2020-10-17T12:38:01-03:00</lastmod>
+    <lastmod>2021-08-05T17:33:49-03:00</lastmod>
   </url>
   
   <url>
@@ -1359,7 +1339,7 @@
   
   <url>
     <loc>https://staging.snoonet.org/tos/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
+    <lastmod>2021-08-14T13:10:25-03:00</lastmod>
   </url>
   
   <url>
@@ -1389,11 +1369,6 @@
   
   <url>
     <loc>https://staging.snoonet.org/posts/2017/10/23/updates-to-our-network-rules-and-terms-of-service/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://staging.snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url>
   
@@ -1533,7 +1508,7 @@
   
   <url>
     <loc>https://staging.snoonet.org/sponsors/</loc>
-    <lastmod>2019-10-22T17:30:26-03:00</lastmod>
+    <lastmod>2019-10-31T16:58:26-03:00</lastmod>
   </url>
   
   <url>

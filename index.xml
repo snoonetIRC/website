@@ -47,7 +47,7 @@
       <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/rules/user/</guid>
-      <description>Nicknames / NickServ  Available names may be freely registered with NickServ so long as they do not violate network policy. There is a maximum of 5 grouped nicknames per account. Use NickServ&amp;lsquo;s GROUP command as opposed to REGISTER. Nickname squatting is not permitted. We ask that all registered or grouped names be put to use. Your nickname may not contain any racial slurs or bigotry. Names in violation of this are subject to being dropped and/or prohibited, with repeat offenders being banned. Temporary/disposable email addresses are prohibited. Snoonet reserves the right to delete your registration if you register with a false/throwaway email address. By default, nicknames have an insane expiration date. Upon request in the #help channel, single accounts with only 1 name and at least 1 year of inactivity may be dropped. Nicknames grouped (/NS GROUP) to any single account may be ungrouped/dropped after at least 6 months of inactivity. Requests for nicknames to be dropped will be subject to staff discretion. Requests for nicknames that violate Snoonet guidelines will be refused.  Hostmasks  You will receive an initial hostmask when you connect to Snoonet. This hostmask does not show your IP address. When you register an account with Snoonet and confirm your registration via e-mail, you will receive a default user cloak. If you do not wish to have a user cloak after confirming your name, please ask for it to be removed in #help. For channels of a specific size, vanity hosts may be available. At this time, this option is available for users with specific privileges in channels with fifty (50) users or more. Please visit #help for assistance. Custom vanity hosts are not offered except in special circumstances, such as network events.  Bots  You may freely run an IRC bot on this network, providing that it conforms to our terms of service and other network rules as outlined both above and below. Bots should have their own registered account and must have a user/USERNAME/bot/BOTNAME vhost. You may also wish to set the +B user mode on your bot so it may be identified as a bot on the network. For assistance in getting your bot up and running, please join #help and someone will be happy to assist you.  </description>
+      <description>Nicknames / NickServ  Any unregistered and otherwise available nicknames may be freely registered so long as they do not violate network policy. There is a maximum of 5 grouped nicknames per account. Please use NickServ&amp;lsquo;s GROUP command to add a nickname to your account as opposed to registering a new account. For more information or to request assistance, please join #help. Nickname squatting is not permitted. We ask that all registered or grouped names be put to use. Nicknames must not contain any racial slurs, bigotry, or other words and/or phrases which violate our Terms of Service. We reserve the right to suspend, forbid and/or otherwise prohibit access to these names. Temporary/disposable email addresses are prohibited. Snoonet reserves the right to delete your registration if you register with a false/throwaway email address. Nicknames expire after 9999 days of no usage. Upon request in the #help channel, accounts holding only one name and having at least 1 year of inactivity may be dropped. Nicknames grouped to any account may be ungrouped or dropped after at least 6 months of inactivity. Requests for nicknames to be made available will be subject to the discretion of staff. Requests for nicknames that violate Snoonet policies will be refused.  Hostmasks  Your IP address is masked by default when you connect to Snoonet. This mask does not reveal your real IP address. When you register an account on our network and confirm your account registration, you are eligible to receive a default user cloak. If you do not wish to keep your default cloak after confirming your nickname, please reach out in #help to have it removed. Channel specific cloaks may be available. Requests for channel cloaks will be subject to staff discretion. For a user to qualify for a channel cloak, they must be on the access list of the channel in question. Please reach out in #help for more information. We do not currently offer custom vanity hosts except in special circumstances, such as network events. Users that already hold a custom vanity cloak may request their cloak be changed at any time.  Bots  Bots may freely be run on our network, providing that the bot conforms to our Terms of Service and other network rules as outlined both above and below. Bots should have their own, separate registered account and are required to have an identifiable cloak, which includes the name of the bot as well as its operator.</description>
     </item>
     
     <item>
@@ -174,7 +174,7 @@ While not doing network-related things, I may be found chatting in a handful of 
       <pubDate>Mon, 14 Jan 2019 22:31:47 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/rules/channel/</guid>
-      <description>Registering a Channel  Channels may be freely registered and/or opened on Snoonet so long as they do not violate network policy. If you would like to claim an abandoned channel please /join #help and request assistance. Channels no longer in use may be dropped. This is offered as a privilege and not a right, and such decisions are subject to staff discretion. Snoonet has the right to suspend or close any channels that encourage illegal activity or otherwise expose the network to liability. Unicode channel names are not allowed. A maximum of 10 channels may be registered by a single user. Please do not mass register channels that have no meaning or to &amp;ldquo;reserve&amp;rdquo; a channel you do not intend on using. These channels are subject to being dropped; repeat offenders may be banned.  Logging  Private logging of channels is permitted unless explicitly prohibited by a specific channel. Snoonet requests that channel logs not be made public unless consent has been given by the channel in question.  </description>
+      <description>Registering a Channel  Unregistered and otherwise available channels may be freely created or registered on Snoonet so long as they do not violate network policy. Abandoned channels may be claimed or dropped, subject to staff discretion. This service is offered as a privilege and not a right. We reserve the right to suspend or close any channels that encourage illegal activity or otherwise expose the network to liability. Unicode characters in channel names are not permitted. Accounts may register or otherwise be the founder of a maximum of 10 channels. Do not mass register channels that you have no intention of using, or solely to reserve a specific name. Such channels may be suspended or dropped at staff discretion.  Logging  It is understood that users on the network may keep their own private logs of any channel. Snoonet requests that these logs not be made public unless consent has been given by the operators of the channel in question.  </description>
     </item>
     
     <item>
@@ -623,7 +623,7 @@ If you still use any version of XChat we recommend upgrading to HexChat.
       <pubDate>Mon, 28 Oct 2019 21:02:20 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/privacy-policy/</guid>
-      <description>SNOONET PRIVACY POLICY This Website (&amp;lsquo;Snoonet.org&amp;rsquo;), and its parent IRC.com, (collectively, &amp;lsquo;We&amp;rsquo;, &amp;lsquo;Us&amp;rsquo;, or &amp;lsquo;Snoonet&amp;rsquo;) wish to define and inform you of any and all of the instances in which your personal data and information may be saved and how it may be used by Snoonet, how it may be shared, and the level of protection we use to safeguard your personal information when using our services.
+      <description>SNOONET PRIVACY POLICY This website (&amp;lsquo;Snoonet.org&amp;rsquo;) wishes to define and inform you of any and all of the instances in which your personal data and information may be saved and how it may be used by Snoonet, how it may be shared, and the level of protection we use to safeguard your personal information when using our services.
   PERSONAL INFORMATION WE COLLECT USES OF PERSONAL INFORMATION COLLECTED BY US DISCLOSURE AND USE OF PERSONAL INFORMATION DATA RETENTION CalOPPA STATEMENT MAINTAINING THE SECURITY OF YOUR PERSONAL INFORMATION HOW WE TRANSFER PERSONAL INFORMATION COLLECTED INTERNATIONALLY COPPA DISCLOSURE - ABOUT CHILDREN&amp;rsquo;S ONLINE PRIVACY HOW TO ACCESS AND CONTROL YOUR PERSONAL INFORMATION CHANGES TO THIS PRIVACY POLICY    PERSONAL INFORMATION WE COLLECT back to top
 From All Users of Our IRC Network
  Internet Protocol (IP) address* for the purposes of account management and protection from abuse. (*You may use a virtual private network or &amp;lsquo;bouncer&amp;rsquo; service if you wish to obscure your IP address) Your user ID or &amp;lsquo;nickname&amp;rsquo; for the purposes of account management and protection from abuse.  From Users Who Have Registered an Account on Our IRC Network
@@ -680,15 +680,6 @@ For additional staff information please see the staff index.</description>
 Οι πραγματικές IP διευθύνσεις των χρηστών που συνδέονται στο #zougla δεν είναι ορατές για λόγους προστασίας των προσωπικών σας δεδομένων.
 Γιατί να κατοχυρώσω το ψευδώνυμό (nickname) μου;
 Το ψευδώνυμο, είναι απαραίτητο για να σας αναγνωρίζουν οι υπόλοιποι, και σας δίνει μια ταυτότητα στο θέμα συζήτησης που θα συμμετάσχετε.</description>
-    </item>
-    
-    <item>
-      <title>Channel Rules</title>
-      <link>https://staging.snoonet.org/channel-rules/</link>
-      <pubDate>Mon, 14 Jan 2019 22:16:08 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/channel-rules/</guid>
-      <description>Registering a Channel  Channels may be freely registered on Snoonet, however, subreddit moderators may claim a channel for their subreddit at a Snoonet admin&amp;rsquo;s discretion. Non-subreddit channels should be registered in the following format: ##example An exception may be granted if the subreddit moderators give permission, or if the channel&amp;rsquo;s IRC community was run by a select group on freenode from past #reddit-* name space channels. For non subreddit channels, making a clone or copy of an existing subreddit channel is prohibited. (Example, do not register a ##reddit or ##r4r) Unicode channel names are not allowed In the case that you don&amp;rsquo;t obtain a subreddit moderator&amp;rsquo;s permission to run the channel, the channel will be moved to the appropriate namespace. A maximum of 15 channels may be registered by a single user. Do not mass register channels! Doing so will result in a network ban. Major ban evasion will earn you a network ban. In case you want to register a channel for a private subreddit you need to:  Contact a staff member in #help Have the staffer message the subreddit&amp;rsquo;s modmail, and reply on reddit.    Logging Logging of channels is permitted unless specified by a channel owner. Like Freenode, Snoonet requests that the channel logs not be made public unless given permission by staff or the channel owner. Not all users want their writing made public.</description>
     </item>
     
     <item>
@@ -835,32 +826,6 @@ Note: you must have +o or +h in the channel to use add/del/stop/start/clear.
     </item>
     
     <item>
-      <title>orangechat</title>
-      <link>https://staging.snoonet.org/oc/</link>
-      <pubDate>Mon, 14 Jan 2019 21:33:04 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/oc/</guid>
-      <description>Welcome!
-The days are finally here. Snoonet and orangechat have made it simple to bring live chat to your subreddits, and for your moderators to easily manage it! Your subreddit chat will be accessible through IRC using an IRC client, and through a much simpler messenger better suited for the mainstream public.
-Here&amp;rsquo;s what orangechat has to offer you and how Snoonet utilizes it:  No registration: just connect directly using your reddit account. We never have access to your password, and you never need to provide an email address. Easy to use: no commands to remember and no prior knowledge required - we&amp;rsquo;re trying to keep it simple - no one should need a manual to join or moderate a chatroom. Connects with reddit.com: integrating with reddit lets us make some things very simple - for example, subreddit moderators are detected automatically, and can immediately begin managing the chatroom (including bans and invites). Private messages, private chatrooms: turn a private message into a private chatroom by inviting other friends to the conversation. You can also rename your private chatrooms, making it easy to keep track of friends and teams… or just express yourself ;) IRC link: Many subreddits already have existing IRC chatrooms and we want to help you keep all of your subreddit chat in one place. orangechat works directly with Snoonet which specifically serves the reddit community. Orangechat simply links existing channels on Snoonet with orangechat channels. Users comfortable with IRC can stay part of the conversation using any client of their choice while others can connect through orangechat. Support much higher numbers of users without flooding IRC channels. People are only shown on IRC if they have something to say. Channels become as public as reddit posts are. Works on mobile phones and tablets with ease. Just visit the orangechat website and click to join.  Once ready, how will users get started with orangechat?  Install the browser extension from https://orangechat.io Use direct subreddit link: https://app.orangechat.io/#/r/subredditname Visiting the web application directly at https://app.orangechat.io/  Works great on the desktop or phones!
-When will it be ready? We are looking to enable the IRC link for all channels that have opted into the orangechat/snoonet link on the 10th June. We have listed most of the channels already on Snoonet with their associated subreddits below - just log in to prepare your channel with orangechat.
-Announcing orangechat to your subreddits The existing subreddits that have taken it onboard to trial orangechat has had great success in making their users aware of the new chat services.</description>
-    </item>
-    
-    <item>
-      <title>Recruit Guides</title>
-      <link>https://staging.snoonet.org/recruit-guides/</link>
-      <pubDate>Mon, 14 Jan 2019 21:31:32 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/recruit-guides/</guid>
-      <description>From: Snoonet Management Snoonet is looking to recruit volunteers for the Community Guide position.
-We need helpers that will be available to answer questions about Snoonet and orangechat in #help and in #orangechat.
-Community Guides will be responsible for guiding Snoonet users with any help requests.
-What is orangechat? Orangechat is a webchat that integrates directly with reddit.com. You can use your reddit account to connect directly to chatrooms and chat with other users browsing your favorite subreddits.
- Orangechat will bring new communities to Snoonet in the form of an easy-to-access interface directly from reddit.com. Orangechat allows existing Snoonet communities to link their subreddit&amp;rsquo;s to Snoonet via orangechat so no one is left out.  What we need:  Age 18+ Be active! Regular Snoonet user with a NickServ account age of at least 6 months (180 days). Experience using IRC commands from a channel op and user perspective. Experience using Anope and all of its functions. Familiarity with Snoonet&amp;rsquo;s network rules. Be able to serve time in #help for IRC support and #orangechat for orangechat support. Be knowledgeable of users or channels breaking our code of conduct. Be able to take criticism. Our staff acts as a family. Great communication skills to work as a team.  Apply Recruitment for Community Guides is currently closed.</description>
-    </item>
-    
-    <item>
       <title>Guide Handbook</title>
       <link>https://staging.snoonet.org/guide-handbook/</link>
       <pubDate>Mon, 14 Jan 2019 21:30:01 +0000</pubDate>
@@ -969,15 +934,6 @@ You must be at least a halfoperator to remove a user from a channel. A removed u
       
       <guid>https://staging.snoonet.org/umodes/</guid>
       <description>   Syntax Description     B Marks the user as a Bot.   I Hides all channels a user is a member of in /WHOIS   L Stops user from being redirected to another channel when joining a channel with +L that is full   R User can only receive PRIVMSGs from registered (+r) users.   S Strips control codes from messages to the user. (In Private Message/Notice)   T Prevents you from receiving CTCP requests   c Requires other users to be in a channel with the user before being able to PRIVMSG/NOTICE them.   d Makes the user stop receiving channel PRIVMSGs/NOTICEs.   g Provides control over who can private-message a user via /ACCEPT lists.   h Marks an oper as available for help (Oper only)   i User cannot be seen in /WHO   o User is an IRC Operator   r Marks a user as &amp;ldquo;registered and identified&amp;rdquo; from Services.   w User can receive WALLOPS   x Masks a users hostname. Disallows others from getting your IP address.    </description>
-    </item>
-    
-    <item>
-      <title>Private Internet Access</title>
-      <link>https://staging.snoonet.org/sponsors/private-internet-access/</link>
-      <pubDate>Thu, 10 Jan 2019 19:19:24 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/sponsors/private-internet-access/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -3022,9 +2978,7 @@ IPv4 and IPv6 Round Robin Connectivity irc.snoonet.org : 6667 (6697 for SSL)
 IPv6 only Round Robin ipv6-irc.snoonet.org : 6667 (6697 for SSL)
 Asia-Pacific Servers only Round Robin asiapac-irc.snoonet.org : 6667 (6697 for SSL)
 European Servers only Round Robin eu-irc.snoonet.org : 6667 (6697 for SSL)
-443 (For those behind a restrictive firewall) The alt-IRC service is currently unavailable.
-Please use a VPN or otherwise if you need to circumvent a firewall.
-Tor Connectivity The Tor hidden service is currently down.
+Tor Connectivity Our TOR hidden service is currently unavailable.
 Please visit here for more information.
  You may access the Snoonet IRC network from any IRC client using any of the above addresses.
 We use a signed wildcard certificate from Let&amp;rsquo;s Encrypt. Our SSL fingerprint is:
@@ -3120,10 +3074,10 @@ Verify staff members If you are requesting assistance in #help or need to contac
       <pubDate>Sun, 30 Dec 2018 21:43:20 +0000</pubDate>
       
       <guid>https://staging.snoonet.org/tos/</guid>
-      <description>By connecting to Snoonet IRC, you are understood to have agreed to these terms. You must not engage in any activity that may be contrary to any state or federal law. For state laws, the base of our incorporation is Delaware. In addition to these laws, you agree not to use Snoonet to:
+      <description>By connecting to Snoonet, you are understood to have agreed to these terms. You agree to not use Snoonet to:
  (1) Facilitate the downloading/receiving, or distributing of pirated software, movies, games, music, or other materials subject to restrictive copyright law (2) Start, participate in or maintain a botnet, as a client or a botnet director (3) Engage in hateful or harassing behavior, or behavior that is disruptive to other Snoonet users or staff (4) Sell, trade or facilitate the distribution of illicit substances (5) Attempt to circumvent a network ban by changing your ISP-assigned network address (IP), or utilizing a Virtual Private Network (VPN) or other proxy to access IRC (6) Impersonate another Snoonet user or staff member for personal or financial gain (7) Engage in acts of fraud and/or libel  To help protect our users from abuse, we run an open proxy monitor which will automatically scan connections to our network for open proxies. If you do not consent to this, please do not use Snoonet IRC.
-Snoonet IRC, its operation staff and network operators reserve the right to remove you from the network at any time, with or without notice, should you be determined to be in violation of these terms. Failure to report a violation of these terms where you are intricately aware of a violation may also be considered a violation of these terms. Certain Internet Service Providers may be restricted from connecting to Snoonet; You may be required to register an account before using our network. Attempts to circumvent network bans may be reported to the applicable ISP at discretion. Failure to adhere to these terms and conditions will lead to prompt removal from the network. While we will make every effort to inform of updates to our terms of service, these terms and conditions may change at any time without notice. In the event of a discrepancy between the initially agreed-upon terms and the terms listed on this webpage, the terms listed on this webpage shall prevail. If you do not agree with these terms of service, please do not connect to our IRC network.
-Last updated: November 14th, 2018</description>
+Snoonet IRC, its operation staff and network operators reserve the right to remove you from the network at any time, with or without notice and for any reason. Certain Internet Service Providers may be restricted from connecting to Snoonet; You may be required to register an account before using our network. Attempts to circumvent network bans may be reported to the applicable ISP at discretion. Failure to adhere to these terms and conditions will lead to prompt removal from the network. While we will make every effort to inform of updates to our terms of service, these terms and conditions may change at any time without notice. In the event of a discrepancy between the initially agreed-upon terms and the terms listed on this webpage, the terms listed on this webpage shall prevail. If you do not agree with these terms of service, please do not connect to our IRC network.
+Last updated: August 5th, 2021</description>
     </item>
     
     <item>
@@ -3183,20 +3137,6 @@ It&amp;rsquo;s important to be aware that by using our services on or after May 
       <description>From: Snoonet Management We&amp;rsquo;ve refreshed our Network Rules and updated our Terms of Service to make things easier to understand. These changes will go into effect as Monday, October 23rd, 2017 at 05:00 GMT. Your continued use of Snoonet after this date and time will constitute your acceptance of these changes.
 Important to know  We&amp;rsquo;ve not made any major changes to our rules for some time. In fact, the only major changes we&amp;rsquo;ve made are to update some of the information as certain pieces were out of date. We&amp;rsquo;ve also moved certain items to different categories to make an easier read. You will now easily be able to find what you are looking for. Our Terms of Service have been updated to include that we run an Open Proxy Monitor on our network. This information has previously been communicated in our MOTD, shown to all users when they connect to Snoonet. Our Terms of Service have been updated to include how we protect our users from abuse.  If you have any questions, we encourage you to join #snoonet and ask your question there.
 Thanks for using Snoonet!</description>
-    </item>
-    
-    <item>
-      <title>Snoonet joins the PrivateInternetAccess.com Family!</title>
-      <link>https://staging.snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/</link>
-      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/posts/2017/05/11/snoonet-joins-the-privateinternetaccesscom-family/</guid>
-      <description>From: Snoonet Foundation (Shane Allen, Jeff Sandberg) Snoonet is pleased to announce that it is the newest addition of the PrivateInternetAccess.com / London Trust Media, INC family. Below is a written explanation of what is to be expected and our manifesto to keep IRC, its community culture, and all current operations as is but promote knowledge and growth moving in to the future.
-What is this, and what does it mean? The vision is simple: Put a protective bubble around IRC culture and its communities, release funding for development and community events, and make sure the mission statement carries in to the future. No operational changes will be made, and things will continue as usual. This just gives us more resources and options to work with going in to the future.
-Why does this matter? Snoonet was created Apr. 28, 2012 with one vision in mind: Create and maintain bad-ass stuff for the infinite amount of Reddit communities. In the 5 years of its existence, Snoonet has maintained a certain vision of valuing its communities by hiring its community leaders to help protect, and provide a home for its userbases.
-London Trust Media and its subsidiary PrivateInternetAccess.com believe in a much bigger picture with regards to community culture. If we take a step back and look at it, the picture is clear. &amp;ldquo;Be there for the communities, and allow them to grow without influencing community evolution.&amp;rdquo;
-How did this come about? This past Christmas, I, Shane Allen reached out to PrivateInternetAccess. It&amp;rsquo;s been a long journey over these years in both Snoonet life and my personal life. When reaching out I asked for one thing after explaining what Snoonet stood for and was about. I had asked for help buying my staff Christmas gifts and helping me to show them a thank you for believing in something we all put so much time in to build. I expected maybe a few hundred dollars so I could buy some sweaters, coats, mittens, etc for the children of our staff, and maybe provide some food to the staff members who could use a little help.
-Because I was about something more than myself, the owner, and director of marketing took a great interest in our mission. After speaking with them for a bit I came to learn that they grew up on IRC and valued it so much as it&amp;rsquo;s where they started off, like many of us learning to program, network with others, and run our community live chats.</description>
     </item>
     
     <item>
