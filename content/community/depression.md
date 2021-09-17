@@ -35,17 +35,18 @@ Please understand that although we are here to provide peer support, our channel
 - GhostyOne
 - jglauche
 - toomin
+- tulpa74
 - [void](/staff/void)
 
 
 ## Channel Rules & Guidelines {#guidelines}
-(Last updated: February 4th, 2020)
+(Last updated: September 17th, 2021)
 
 **Please be respectful towards others.**
 
 - Be mindful of other conversations taking place as multiple concurrent conversations can be either distracting or overwhelming for others.
-- Use discretion when discussing sensitive topics (drugs, religion, sex, etc.) in the channel.
-- Keep all discussions concerning [politics](https://en.wikipedia.org/wiki/Politics) in {{< webchat channel="#depression-offtopic" title="#depression-offtopic" >}}
+- Use discretion when discussing sensitive topics (drugs, vaccines, religion, sex, etc.) in the channel.
+- Keep **all discussions** concerning [politics](https://en.wikipedia.org/wiki/Politics) in {{< webchat channel="#depression-offtopic" title="#depression-offtopic" >}}
 
 **Do not:**
 
