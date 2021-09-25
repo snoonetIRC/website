@@ -38,6 +38,6 @@ Example: /mode #channel +X censor:v will allow voiced users and higher to bypass
 + **nonick:** Permission to change nicks in a `+N` channel
 + **nonotice:** Permission to send notices in a `+T` channel
 + **regmoderated:** Permission to bypass `+R` and `+M`
-+ **slowmode:** Permission to bypass the rate limit in a `+U` channel
++ **slowmode:** Permission to bypass the rate limit in a `+W` channel
 + **stripcolor:** Permission to bypass color stripping in a `+S` channel
 
