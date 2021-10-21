@@ -374,6 +374,15 @@ Well, if you&amp;rsquo;ve made it this far. Have a pasta guide: http://pastafits
     </item>
     
     <item>
+      <title>linuxdaemon</title>
+      <link>https://staging.snoonet.org/staff/linuxdaemon/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/linuxdaemon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Phase</title>
       <link>https://staging.snoonet.org/staff/phase/</link>
       <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
@@ -479,6 +488,15 @@ There is also a detailed explanation of all services available on Snoonet here.<
       <description>Photography. Software Engineering. Caffeine. Sketching. Cocktails. Beards. Animals.
 Feel free to ask me about my Small Dog.
 🤙🏻</description>
+    </item>
+    
+    <item>
+      <title>noeatnosleep</title>
+      <link>https://staging.snoonet.org/staff/noeatnosleep/</link>
+      <pubDate>Thu, 31 Oct 2019 21:02:19 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/noeatnosleep/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -602,15 +620,6 @@ Who needs to upgrade? You may recently have noticed messages from a network bot 
 A large majority of our users are not affected. However, if you are using a client older than the minimum version specified in the table below, you may start to see broken behaviour in some cases.
 If you still use any version of XChat we recommend upgrading to HexChat.
    Client Minimum version     AdiIRC v3.6   HexChat v2.14.3   irssi v1.1.0   WeeChat v2.5.0   ZNC v1.8.0    </description>
-    </item>
-    
-    <item>
-      <title>noeatnosleep</title>
-      <link>https://staging.snoonet.org/staff/noeatnosleep/</link>
-      <pubDate>Thu, 31 Oct 2019 21:02:19 +0000</pubDate>
-      
-      <guid>https://staging.snoonet.org/staff/noeatnosleep/</guid>
-      <description></description>
     </item>
     
     <item>
