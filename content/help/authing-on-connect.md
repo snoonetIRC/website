@@ -21,7 +21,7 @@ Snoonet network runs Anope services, which allows SSL certificate fingerprint au
 
 SASL is the preferred method for authing, and is supported by a variety of clients, either natively or through the use of third party scripts. You simply configure your client or plugin with your irc username and password, and when you connect it sends these to the server.
 
-Freenode has an [excellent guide](https://freenode.net/kb/answer/sasl) to setting up SASL-based auth on many different clients.
+Libera.chat has an [excellent guide](https://libera.chat/guides/sasl) to setting up SASL-based auth on many different clients.
 
 ### Tor
 
