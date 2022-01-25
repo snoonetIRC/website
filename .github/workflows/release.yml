@@ -1,4 +1,4 @@
-name: 'release'
+name: 'Create release artifact against tag'
 
 on:
   release:
@@ -39,4 +39,4 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: website-${{ github.ref_name }}.tar.gz
-        path: Release
+        path: website-${{ github.ref_name }}.tar.gz
