@@ -17,9 +17,7 @@ jobs:
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
     - name: 'Check out tag'
-      run: |
-        echo ::set-output name=SOURCE_TAG::${GITHUB_REF#refs/tags/}
-        git checkout $SOURCE_TAG
+      run: git checkout ${GITHUB_REF#refs/tags/}
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -35,9 +33,9 @@ jobs:
           ${{ runner.os }}-hugomod-
 
     - name: Build website
-      run: hugo --minify -b https://snoonet.org && tar -zcvf website-${{ SOURCE_TAG }}.tar.gz public
+      run: hugo --minify -b https://snoonet.org && tar -zcvf website-${{ GITHUB_REF#refs/tags/ }}.tar.gz public
 
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
-        files: website-${{ SOURCE_TAG }}.tar.gz
+        files: website-${{ GITHUB_REF#refs/tags/ }}.tar.gz
