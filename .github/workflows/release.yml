@@ -35,9 +35,9 @@ jobs:
           ${{ runner.os }}-hugomod-
 
     - name: Build website
-      run: hugo --minify -b https://snoonet.org && tar -zcvf website-${SOURCE_TAG}.tar.gz public
+      run: hugo --minify -b https://snoonet.org && tar -zcvf website-${{ SOURCE_TAG }}.tar.gz public
 
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
-        files: website-${SOURCE_TAG}.tar.gz
+        files: website-${{ SOURCE_TAG }}.tar.gz
