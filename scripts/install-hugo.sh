@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 SRC_DIR="${HOME}/src"
-HUGO_VERSION="v0.87.0"
+HUGO_VERSION="v0.87.0" # If you update this, also update it in the GitHub workflows
 
 echo "Installing Hugo Extended Edition ^TM"
 mkdir -p $SRC_DIR
@@ -11,4 +11,3 @@ cd hugo
 go install --tags extended
 echo "Hugo installation complete."
 popd
-
