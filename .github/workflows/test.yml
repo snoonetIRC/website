@@ -25,6 +25,6 @@ jobs:
         hugo-version: '0.87.0' # If you update this, also update it in scripts/install-hugo.sh
         extended: true
 
-    - name: Test
+    - name: Test build
       script:
         - hugo
