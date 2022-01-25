@@ -33,7 +33,7 @@ jobs:
           ${{ runner.os }}-hugomod-
 
     - name: Create website archive
-      run: hugo --minify -b https://snoonet.org && tar -zcvf website-${{ github.ref_name }}.tar.gz public
+      run: hugo -b https://snoonet.org && tar -zcvf website-${{ github.ref_name }}.tar.gz public
 
     - name: Attach archive to release
       uses: svenstaro/upload-release-action@v2
