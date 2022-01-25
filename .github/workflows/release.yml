@@ -1,0 +1,41 @@
+name: 'release'
+
+on:
+  release:
+    types: [ published ]
+
+jobs:
+  build:
+    name: release
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+      with:
+        submodules: true  # Fetch Hugo themes (true OR recursive)
+        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+    - name: 'Check out tag'
+      run: git checkout ${GITHUB_REF#refs/*/}
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.87.0' # If you update this, also update it in scripts/install-hugo.sh
+        extended: true
+
+    - uses: actions/cache@v2
+      with:
+        path: /tmp/hugo_cache
+        key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+        restore-keys: |
+          ${{ runner.os }}-hugomod-
+
+    - name: Build website
+      run: hugo --minify -b https://snoonet.org && tar -zcvf website-${GITHUB_REF#refs/*/}.tar.gz public
+
+    - name: Release
+      uses: softprops/action-gh-release@v1
+      with:
+        files: website-${GITHUB_REF#refs/*/}.tar.gz
