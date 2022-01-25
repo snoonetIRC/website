@@ -1,15 +1,12 @@
-name: 'deploy_staging'
+name: deploy_staging
 
 on:
   push:
     branches: [ master ]
-  pull_request: # TEMPORARY
-    branches: [ master ]
 
 jobs:
-
   build:
-    name: test
+    name: deploy_staging
     runs-on: ubuntu-latest
     steps:
 
