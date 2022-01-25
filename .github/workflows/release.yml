@@ -35,8 +35,9 @@ jobs:
     - name: Build website
       run: hugo --minify -b https://snoonet.org && tar -zcvf website-${{ github.ref_name }}.tar.gz public
 
-    - name: Create tag artifact
-      uses: actions/upload-artifact@v2
+    - name: Upload archive to release
+      uses: svenstaro/upload-release-action@v2
       with:
-        name: website-${{ github.ref_name }}.tar.gz
-        path: website-${{ github.ref_name }}.tar.gz
+        file: website-${{ github.ref_name }}.tar.gz
+        asset_name: website-${{ github.ref_name }}.tar.gz
+        overwrite: true
