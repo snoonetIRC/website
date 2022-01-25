@@ -1,14 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How to use Snoonet on Snoonet</title><link>http://localhost:1313/help/</link><description>Recent content in How to use Snoonet on Snoonet</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sun, 30 Dec 2018 21:43:20 +0000</lastBuildDate><atom:link href="http://localhost:1313/help/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>http://localhost:1313/help/introduction/</link><pubDate>Thu, 10 Jan 2019 19:35:48 +0000</pubDate><guid>http://localhost:1313/help/introduction/</guid><description> If you have any questions, feel free to ask in #help or generate a support ticket. - Snoonet staff is available for assistance 24/7. Don&amp;rsquo;t be shy, you will be treated politely and fairly. If you are completely new to IRC we suggest you read up on basic commands and functionality here: IRC Help - New2irc To register your user nickname you must have a valid e-mail address. You may group additional nicknames to your current one.</description></item><item><title>External Links</title><link>http://localhost:1313/help/external-links/</link><pubDate>Thu, 10 Jan 2019 21:50:11 +0000</pubDate><guid>http://localhost:1313/help/external-links/</guid><description> Service command list Tor SSL/fingerprint information Channel modes User modes InspIRCd help system Bot help</description></item><item><title>Using webchat (the super easy way)</title><link>http://localhost:1313/help/webchat/</link><pubDate>Thu, 10 Jan 2019 19:37:33 +0000</pubDate><guid>http://localhost:1313/help/webchat/</guid><description>The absolute easiest way to connect to Snoonet is by using our webchat. Many subreddits you may have heard of Snoonet from will provide direct links to the chat. Our webchat uses the KiwiIRC client. To connect to Snoonet webchat simply visit the webchat and choose a nickname.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to use Snoonet on Snoonet</title>
+    <link>https://staging.snoonet.org/help/</link>
+    <description>Recent content in How to use Snoonet on Snoonet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 30 Dec 2018 21:43:20 +0000</lastBuildDate><atom:link href="https://staging.snoonet.org/help/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://staging.snoonet.org/help/introduction/</link>
+      <pubDate>Thu, 10 Jan 2019 19:35:48 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/help/introduction/</guid>
+      <description> If you have any questions, feel free to ask in #help or generate a support ticket. - Snoonet staff is available for assistance 24/7. Don&amp;rsquo;t be shy, you will be treated politely and fairly. If you are completely new to IRC we suggest you read up on basic commands and functionality here: IRC Help - New2irc To register your user nickname you must have a valid e-mail address. You may group additional nicknames to your current one.  </description>
+    </item>
+    
+    <item>
+      <title>External Links</title>
+      <link>https://staging.snoonet.org/help/external-links/</link>
+      <pubDate>Thu, 10 Jan 2019 21:50:11 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/help/external-links/</guid>
+      <description> Service command list Tor SSL/fingerprint information Channel modes User modes InspIRCd help system Bot help  </description>
+    </item>
+    
+    <item>
+      <title>Using webchat (the super easy way)</title>
+      <link>https://staging.snoonet.org/help/webchat/</link>
+      <pubDate>Thu, 10 Jan 2019 19:37:33 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/help/webchat/</guid>
+      <description>The absolute easiest way to connect to Snoonet is by using our webchat. Many subreddits you may have heard of Snoonet from will provide direct links to the chat. Our webchat uses the KiwiIRC client. To connect to Snoonet webchat simply visit the webchat and choose a nickname.
 The webchat can be used anywhere, at work, at home, or on mobile. This simplicity comes with the drawback of a few less features than a desktop client. A desktop client is customizable and has more functions. If you want to use a desktop client just read the next section. If you have problems setting up the desktop client you can always go back to the webchat, it&amp;rsquo;s just a click away.
 To get started, enter a nickname for yourself and the channel that you wish to enter. Select start and you&amp;rsquo;re connected to Snoonet!
 To see a list of the communities on Snoonet, type /list into the chat area. When you find a community you are interested in, simply click on the name of the chat and it adds a tab at the top of the page for you. You can switch between chats using these tabs.
-To register your nickname so that you can return and use the same nickname without worrying that someone else will steal it, make sure you are using the nickname you want to register and type /msg nickserv REGISTER &amp;lt;password&amp;gt; &amp;lt;email&amp;gt;. You do not need to include the brackets. Make sure to use a real email, because we will send your verification to that email and you will lose the nickname if you do not submit your code. When your registration is successful, upon returning to chat, you&amp;rsquo;ll need to select the box that says you have a password, and enter your password there.</description></item><item><title>Using a desktop IRC client</title><link>http://localhost:1313/help/desktop-client/</link><pubDate>Thu, 10 Jan 2019 19:46:30 +0000</pubDate><guid>http://localhost:1313/help/desktop-client/</guid><description>IRC is a fairly popular chat protocol, it has many thousands of users around the world. It&amp;rsquo;s no surprise that the choice of clients is huge. There&amp;rsquo;s IRC clients for every operating system and most of them are free.
+To register your nickname so that you can return and use the same nickname without worrying that someone else will steal it, make sure you are using the nickname you want to register and type /msg nickserv REGISTER &amp;lt;password&amp;gt; &amp;lt;email&amp;gt;. You do not need to include the brackets. Make sure to use a real email, because we will send your verification to that email and you will lose the nickname if you do not submit your code. When your registration is successful, upon returning to chat, you&amp;rsquo;ll need to select the box that says you have a password, and enter your password there.</description>
+    </item>
+    
+    <item>
+      <title>Using a desktop IRC client</title>
+      <link>https://staging.snoonet.org/help/desktop-client/</link>
+      <pubDate>Thu, 10 Jan 2019 19:46:30 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/help/desktop-client/</guid>
+      <description>IRC is a fairly popular chat protocol, it has many thousands of users around the world. It&amp;rsquo;s no surprise that the choice of clients is huge. There&amp;rsquo;s IRC clients for every operating system and most of them are free.
 Choosing an IRC client comes down to preference, but here are some of the more popular ones:
-AdiIRC (Free - Windows/Mac OS/Linux) Colloquy (Free - Mac OS) HexChat (Free - Windows/Mac OS/Linux) IceChat (Free - Windows) irssi (Free - Mac OS/Linux - Command line client/Advanced) LimeChat (Free - Mac OS) mIRC (Paid - Windows) Smuxi (Free - Windows/Mac OS/Linux) Textual (Paid - Mac OS) weechat (Free - Mac OS/Linux - Command line client/Advanced) All these clients are different (some more, some less) but they all have some stuff in common. They all allow for storing a list of networks and for setting global information about yourself, like a nickname and your real name (you don&amp;rsquo;t have to put your actual name there, you can put anything in the real name field). So you should choose your desired nickname and move on to the next steps.</description></item><item><title>Connecting to the network</title><link>http://localhost:1313/help/connecting-to-the-network/</link><pubDate>Thu, 10 Jan 2019 19:49:57 +0000</pubDate><guid>http://localhost:1313/help/connecting-to-the-network/</guid><description>Connecting to Snoonet is done using our IRC round-robin, that means that you connect to our distribution host and you will then be randomly put on one of our servers. This ensures a good load balance on the network and if your server would go down you would immediately connect to a different server. The IRC round-robin for Snoonet is irc.snoonet.org. To connect to IRC you always need a port, for IRC those ports are 6667 for normal connections and 6697 for SSL by default. Most networks use those very same ports and your client will likely automatically fill those in.
+ AdiIRC (Free - Windows/Mac OS/Linux) Colloquy (Free - Mac OS) HexChat (Free - Windows/Mac OS/Linux) IceChat (Free - Windows) irssi (Free - Mac OS/Linux - Command line client/Advanced) LimeChat (Free - Mac OS) mIRC (Paid - Windows) Smuxi (Free - Windows/Mac OS/Linux) Textual (Paid - Mac OS) weechat (Free - Mac OS/Linux - Command line client/Advanced)  All these clients are different (some more, some less) but they all have some stuff in common. They all allow for storing a list of networks and for setting global information about yourself, like a nickname and your real name (you don&amp;rsquo;t have to put your actual name there, you can put anything in the real name field). So you should choose your desired nickname and move on to the next steps.</description>
+    </item>
+    
+    <item>
+      <title>Connecting to the network</title>
+      <link>https://staging.snoonet.org/help/connecting-to-the-network/</link>
+      <pubDate>Thu, 10 Jan 2019 19:49:57 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/help/connecting-to-the-network/</guid>
+      <description>Connecting to Snoonet is done using our IRC round-robin, that means that you connect to our distribution host and you will then be randomly put on one of our servers. This ensures a good load balance on the network and if your server would go down you would immediately connect to a different server. The IRC round-robin for Snoonet is irc.snoonet.org. To connect to IRC you always need a port, for IRC those ports are 6667 for normal connections and 6697 for SSL by default. Most networks use those very same ports and your client will likely automatically fill those in.
 For some more information on our servers you can visit our website and read up about our different round-robins. We offer connectivity using IPv6, web ports for people behind a restrictive firewall, and even TOR connectivity.
 The two clients I highlighted, HexChat and Textual, both come with Snoonet as a default server. Just select Snoonet from the list of servers available in the respective connection dialogs. In the other clients you can enter irc.snoonet.org as the address or host and 6697 as the port. Make sure to use SSL when you connect through port 6697 (there is a checkbox).
 When you hit the connect button you should receive a bunch of messages from the server, like the MOTD (message of the day) and a few notices about security. When you get an error use our webchat as described above to connect and ask for help in #help.
-By default when you connect to snoonet user mode +x is set, which obfuscates your IP address. Vhosts will mask your host, but only when you are identified with NickServ.</description></item><item><title>Using a mobile IRC client</title><link>http://localhost:1313/help/mobile-client/</link><pubDate>Thu, 10 Jan 2019 19:47:10 +0000</pubDate><guid>http://localhost:1313/help/mobile-client/</guid><description>AndroIRC (Free with paid upgrades - Android) IRCCloud (Free with paid upgrades - Android/iOS)* Palaver (Paid - iOS) TurboIRC (Free - Amazon Devices) xoChat (Free - Windows Phone) * IRCCloud&amp;rsquo;s free plan does not support the BNC. Please select a different client if you wish to take advantage of the service.</description></item><item><title>Authing on connect</title><link>http://localhost:1313/help/authing-on-connect/</link><pubDate>Thu, 10 Jan 2019 19:50:32 +0000</pubDate><guid>http://localhost:1313/help/authing-on-connect/</guid><description>Snoonet uses IRCDs and Services that follow the IRCv3 standard, and as such, we offer several ways for a user to auth to services before joining channels.
+By default when you connect to snoonet user mode +x is set, which obfuscates your IP address. Vhosts will mask your host, but only when you are identified with NickServ.</description>
+    </item>
+    
+    <item>
+      <title>Using a mobile IRC client</title>
+      <link>https://staging.snoonet.org/help/mobile-client/</link>
+      <pubDate>Thu, 10 Jan 2019 19:47:10 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/help/mobile-client/</guid>
+      <description>AndroIRC (Free with paid upgrades - Android) IRCCloud (Free with paid upgrades - Android/iOS)* Palaver (Paid - iOS) TurboIRC (Free - Amazon Devices) xoChat (Free - Windows Phone)  * IRCCloud&amp;rsquo;s free plan does not support the BNC. Please select a different client if you wish to take advantage of the service.</description>
+    </item>
+    
+    <item>
+      <title>Authing on connect</title>
+      <link>https://staging.snoonet.org/help/authing-on-connect/</link>
+      <pubDate>Thu, 10 Jan 2019 19:50:32 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/help/authing-on-connect/</guid>
+      <description>Snoonet uses IRCDs and Services that follow the IRCv3 standard, and as such, we offer several ways for a user to auth to services before joining channels.
 Many older clients will automatically send PRIVMSG NickServ :identify username password. This isn&amp;rsquo;t optimal, as its slow, and somewhat insecure. Furthermore, it doesn&amp;rsquo;t run till you join a channel, which can expose your hostname as well as annoy everyone with 3 join messages.
 There are a few ways to prevent this, and be authorized before you even join a channel:
 CertFP Snoonet network runs Anope services, which allows SSL certificate fingerprint authentification. This is by far the most secure method of connecting. For help on how to create an SSL certificate and identify with, please refer to this document.
@@ -16,8 +85,30 @@ SASL SASL is the preferred method for authing, and is supported by a variety of 
 Libera.chat has an excellent guide to setting up SASL-based auth on many different clients.
 Tor Snoonet no longer offers a hidden service. More info.
 Server password If your client is not SASL capable, or you don&amp;rsquo;t want to set it up, there is an older, albeit less secure, method of authing to services. You can send your password at connect time.
-We support a variety of strings, but the most compatible is &amp;ldquo;username:password&amp;rdquo;, where username is the main NickServ account and password is its password. Set this as your server password, and this will Auth you at connect.</description></item><item><title>Joining channels</title><link>http://localhost:1313/help/joining-channels/</link><pubDate>Thu, 10 Jan 2019 19:58:52 +0000</pubDate><guid>http://localhost:1313/help/joining-channels/</guid><description>Many clients come with interfaces to join channels &amp;ldquo;more easily&amp;rdquo;, but really the easiest way to do this is the native IRC way. In IRC most stuff goes through so-called &amp;ldquo;Slash-Commands&amp;rdquo;, sounds complicated but it&amp;rsquo;s really not - all it means is that stuff you preceed with a slash (/) will not be sent to channels or people but instead be sent to the server as a command.
+We support a variety of strings, but the most compatible is &amp;ldquo;username:password&amp;rdquo;, where username is the main NickServ account and password is its password. Set this as your server password, and this will Auth you at connect.</description>
+    </item>
+    
+    <item>
+      <title>Joining channels</title>
+      <link>https://staging.snoonet.org/help/joining-channels/</link>
+      <pubDate>Thu, 10 Jan 2019 19:58:52 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/help/joining-channels/</guid>
+      <description>Many clients come with interfaces to join channels &amp;ldquo;more easily&amp;rdquo;, but really the easiest way to do this is the native IRC way. In IRC most stuff goes through so-called &amp;ldquo;Slash-Commands&amp;rdquo;, sounds complicated but it&amp;rsquo;s really not - all it means is that stuff you preceed with a slash (/) will not be sent to channels or people but instead be sent to the server as a command.
 To join a channel you can type /join #channelname in the IRC client, web or desktop - it&amp;rsquo;s the same for every client. This will join you into any channel, whether it exists or not. You can use the command when you are on a channel or in your server information window (where the MOTD came up) or even in private message windows. It&amp;rsquo;s super easy and I believe it&amp;rsquo;s a lot easier than going through some bloated channel interface.
 You can also use /list to see all the channels available.
-All clients will keep a list of channels you are in, our webchat does that above the chat, most desktop clients do it in a sidebar on the left or the right.</description></item><item><title>Getting help</title><link>http://localhost:1313/help/getting-help/</link><pubDate>Thu, 10 Jan 2019 19:59:55 +0000</pubDate><guid>http://localhost:1313/help/getting-help/</guid><description>Do you have any problems with any of the things described here? Simply click this link and you will be taken to our webchat. Now choose a nickname (this can be almost anything) and connect, you will be put in our help channel (#help) automatically and you can ask staff your questions. Make sure to be descriptive about your issue.
-There is also a detailed explanation of all services available on Snoonet here.</description></item></channel></rss>
+All clients will keep a list of channels you are in, our webchat does that above the chat, most desktop clients do it in a sidebar on the left or the right.</description>
+    </item>
+    
+    <item>
+      <title>Getting help</title>
+      <link>https://staging.snoonet.org/help/getting-help/</link>
+      <pubDate>Thu, 10 Jan 2019 19:59:55 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/help/getting-help/</guid>
+      <description>Do you have any problems with any of the things described here? Simply click this link and you will be taken to our webchat. Now choose a nickname (this can be almost anything) and connect, you will be put in our help channel (#help) automatically and you can ask staff your questions. Make sure to be descriptive about your issue.
+There is also a detailed explanation of all services available on Snoonet here.</description>
+    </item>
+    
+  </channel>
+</rss>

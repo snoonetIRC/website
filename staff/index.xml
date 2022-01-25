@@ -1,9 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Staff on Snoonet</title><link>http://localhost:1313/staff/</link><description>Recent content in Staff on Snoonet</description><generator>Hugo -- gohugo.io</generator><language>en-gb</language><lastBuildDate>Sat, 17 Oct 2020 16:01:37 +0000</lastBuildDate><atom:link href="http://localhost:1313/staff/index.xml" rel="self" type="application/rss+xml"/><item><title>Paradox</title><link>http://localhost:1313/staff/paradox/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/paradox/</guid><description/></item><item><title>Duck</title><link>http://localhost:1313/staff/duck/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/duck/</guid><description>Duck duck [at] snoonet.org Hello all, Duck here! Thanks for flying Snoonet!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Staff on Snoonet</title>
+    <link>https://staging.snoonet.org/staff/</link>
+    <description>Recent content in Staff on Snoonet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 17 Oct 2020 16:01:37 +0000</lastBuildDate><atom:link href="https://staging.snoonet.org/staff/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paradox</title>
+      <link>https://staging.snoonet.org/staff/paradox/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/paradox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Duck</title>
+      <link>https://staging.snoonet.org/staff/duck/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/duck/</guid>
+      <description>Duck duck [at] snoonet.org Hello all, Duck here! Thanks for flying Snoonet!
 I joined staff in mid-2017 and presently oversee operations on the network as the Network Director. Part of my mission is to assist our staff with rules &amp;amp; guideline enforcement and to assist in the maintenance of our server infrastructure. I&amp;rsquo;m also involved with InspIRCd and DroneBL, both of which help keep this network ticking.
 While not doing network-related things, I may be found chatting in a handful of the communities that we host. If you see me around, feel free to say hi, or send me a message at any time using /msg Duck Hi!
-・゜゜・。。 ​ ・゜゜\​_0&amp;lt; QUA​CK!</description></item><item><title>Mike</title><link>http://localhost:1313/staff/mike/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/mike/</guid><description>Hi, I&amp;rsquo;m Mike.
+・゜゜・。。 ​ ・゜゜\​_0&amp;lt; QUA​CK!</description>
+    </item>
+    
+    <item>
+      <title>Mike</title>
+      <link>https://staging.snoonet.org/staff/mike/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/mike/</guid>
+      <description>Hi, I&amp;rsquo;m Mike.
 You can verify my identity on the network with the client certificate fingerprint 5f354892970d867aafe9256a1155160d.
-If you need to e-mail me, you can contact me using mike [at] snoonet.org.</description></item><item><title>DavidLuizsHair</title><link>http://localhost:1313/staff/davidluizhair/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/davidluizhair/</guid><description>Alright? I&amp;rsquo;m DavidLuizsHair or DLH. Nice to meet you. I&amp;rsquo;m a recently appointed community admin. I&amp;rsquo;ve been on IRC intermittently throughout my teenage years, but have recently gotten back into it about a year ago. I&amp;rsquo;ve been on snoonet for about 10 months [as of drafting this message] so I&amp;rsquo;m still relatively quite young compared to others in that respect. I&amp;rsquo;m a pretty big sports fan mostly being a fan of football (soccer), formula 1 and intermittently following some NBA as well. In terms of other interests, I&amp;rsquo;m an avid fan of documentaries and I also intermittently cook, with varying results. Music wise I&amp;rsquo;m all over the board, I&amp;rsquo;m open to new kinds of music although various types of Indie, metalcore and rock tend to be my jam. Use /query DavidLuizsHair if you ever need any network help and I will do my best to help you. I go in phases of reading where I either read intensively or I don&amp;rsquo;t read at all, some of my favourite books include &amp;ldquo;To Kill A MockingBird&amp;rdquo; &amp;ldquo;The Stranger&amp;rdquo; &amp;ldquo;The Guest&amp;rdquo; and &amp;ldquo;By The Waters of Babylon.&amp;rdquo; Some of my favourite subreddits include /r/penmanshipporn, /r/soccer, /r/nba, /r/London and /r/BritishProblems.
+If you need to e-mail me, you can contact me using mike [at] snoonet.org.</description>
+    </item>
+    
+    <item>
+      <title>DavidLuizsHair</title>
+      <link>https://staging.snoonet.org/staff/davidluizhair/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/davidluizhair/</guid>
+      <description>Alright? I&amp;rsquo;m DavidLuizsHair or DLH. Nice to meet you. I&amp;rsquo;m a recently appointed community admin. I&amp;rsquo;ve been on IRC intermittently throughout my teenage years, but have recently gotten back into it about a year ago. I&amp;rsquo;ve been on snoonet for about 10 months [as of drafting this message] so I&amp;rsquo;m still relatively quite young compared to others in that respect. I&amp;rsquo;m a pretty big sports fan mostly being a fan of football (soccer), formula 1 and intermittently following some NBA as well. In terms of other interests, I&amp;rsquo;m an avid fan of documentaries and I also intermittently cook, with varying results. Music wise I&amp;rsquo;m all over the board, I&amp;rsquo;m open to new kinds of music although various types of Indie, metalcore and rock tend to be my jam. Use /query DavidLuizsHair if you ever need any network help and I will do my best to help you. I go in phases of reading where I either read intensively or I don&amp;rsquo;t read at all, some of my favourite books include &amp;ldquo;To Kill A MockingBird&amp;rdquo; &amp;ldquo;The Stranger&amp;rdquo; &amp;ldquo;The Guest&amp;rdquo; and &amp;ldquo;By The Waters of Babylon.&amp;rdquo; Some of my favourite subreddits include /r/penmanshipporn, /r/soccer, /r/nba, /r/London and /r/BritishProblems.
 The following statements below are compiled impressions of what IRC-ers who have interacted with me before describe me.
 This is what my profile would look like if Ari created it: &amp;ldquo;Hi, I&amp;rsquo;m DavidLuizsHair. I have like 70 nicknames on Snoonet, most of them animals for some reason. According to Meow_Mix, I like dog gifs and sportsball. Sportsball is the best. I&amp;rsquo;m going to recruit channels to Snoonet that are already here! GO SPORTS, DO THE THING, SCORE THE GOAL!&amp;rdquo;
 &amp;ldquo;DavidLuizsHair i just remembered i had a dream about you. o.0 You took over the world dressed like a KFC bucket.&amp;rdquo; - f5184
@@ -11,24 +53,154 @@ This is what my profile would look like if Ari created it: &amp;ldquo;Hi, I&amp;
 &amp;ldquo;DavidLuizshair used confusion, it was super effective. DavidLuizsHair hurt itself in it&amp;rsquo;s confusion&amp;rdquo; - linuxdaemon
 This is what my smile looks like as described by noeatnosleep: http://www.reactiongifs.com/r/gddy.gif
 This is the pic Meow_Mix uses to describe me with: http://24.media.tumblr.com/tumblr_m5tqqzDnrt1qet66oo1_500.png
-Well, if you&amp;rsquo;ve made it this far. Have a pasta guide: http://pastafits.org/pasta-dictionary/</description></item><item><title>linuxdaemon</title><link>http://localhost:1313/staff/linuxdaemon/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/linuxdaemon/</guid><description/></item><item><title>Phase</title><link>http://localhost:1313/staff/phase/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/phase/</guid><description/></item><item><title>ricin</title><link>http://localhost:1313/staff/ricin/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/ricin/</guid><description>Hello! I&amp;rsquo;m ricin. I own and operate one of the servers for Snoonet, as well as run some bots (Charlize, etc). I&amp;rsquo;ve been on IRC since 1993 and have been with Snoonet since the beginning. You can find me almost everywhere. Say hi if you see me!</description></item><item><title>ThatOneRoadie</title><link>http://localhost:1313/staff/thatoneroadie/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/thatoneroadie/</guid><description>Heyo! I&amp;rsquo;m ThatOneRoadie, also known as Thor or TOR, from Denver, Colorado, USA. I&amp;rsquo;m one of the Senior Network Operations Staff here at Snoonet, responsible for the upkeep and maintenance of our network of servers. It&amp;rsquo;s a responsibility that changes on a daily basis, encompassing things such as monitoring network routes, upgrading and maintaining our IRC Daemon on all of our hub and leaf servers, commissioning and decommissioning servers on the network, stress testing new servers, and load balancing the users on the leafs that are active. At any given time, I&amp;rsquo;m responsible for the chat network used by over 4500 people simultaneously.
+Well, if you&amp;rsquo;ve made it this far. Have a pasta guide: http://pastafits.org/pasta-dictionary/</description>
+    </item>
+    
+    <item>
+      <title>linuxdaemon</title>
+      <link>https://staging.snoonet.org/staff/linuxdaemon/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/linuxdaemon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phase</title>
+      <link>https://staging.snoonet.org/staff/phase/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/phase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ricin</title>
+      <link>https://staging.snoonet.org/staff/ricin/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/ricin/</guid>
+      <description>Hello! I&amp;rsquo;m ricin. I own and operate one of the servers for Snoonet, as well as run some bots (Charlize, etc). I&amp;rsquo;ve been on IRC since 1993 and have been with Snoonet since the beginning. You can find me almost everywhere. Say hi if you see me!</description>
+    </item>
+    
+    <item>
+      <title>ThatOneRoadie</title>
+      <link>https://staging.snoonet.org/staff/thatoneroadie/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/thatoneroadie/</guid>
+      <description>Heyo! I&amp;rsquo;m ThatOneRoadie, also known as Thor or TOR, from Denver, Colorado, USA. I&amp;rsquo;m one of the Senior Network Operations Staff here at Snoonet, responsible for the upkeep and maintenance of our network of servers. It&amp;rsquo;s a responsibility that changes on a daily basis, encompassing things such as monitoring network routes, upgrading and maintaining our IRC Daemon on all of our hub and leaf servers, commissioning and decommissioning servers on the network, stress testing new servers, and load balancing the users on the leafs that are active. At any given time, I&amp;rsquo;m responsible for the chat network used by over 4500 people simultaneously.
 The team of Network Operations Staffers here at Snoonet maintain over 13 Client Leaf servers, and a number of hidden hub servers operating as the backbone to our IRC network. The leaf servers are in many geographically diverse locations, from Los Angeles, USA, to Dublin, Ireland, and even servers in Singapore (clearly you&amp;rsquo;ve never been to Singapore). We strive to keep these servers up-to-date with the latest security and software updates, protecting our users from any breach of data.
-I, personally, maintain a number of servers for the Snoonet network, as well as a set of 16 blade servers and a 10TB SAN (Storage Area Network) in my home lab environment. In my free time, I tinker on this home lab with various virtual machines on an enterprise Cisco network. When I&amp;rsquo;m not doing that, I&amp;rsquo;m a student pilot here in the Denver area, working on my Private Pilot&amp;rsquo;s License.</description></item><item><title>weylin</title><link>http://localhost:1313/staff/weylin/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/weylin/</guid><description>Hi I&amp;rsquo;m Weylin!</description></item><item><title>cachinnate</title><link>http://localhost:1313/staff/cachinnate/</link><pubDate>Sat, 17 Oct 2020 16:01:37 +0000</pubDate><guid>http://localhost:1313/staff/cachinnate/</guid><description>Hi, I&amp;rsquo;m cachinnate!</description></item><item><title>void</title><link>http://localhost:1313/staff/void/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/void/</guid><description>Photography. Software Engineering. Caffeine. Sketching. Cocktails. Beards. Animals.
+I, personally, maintain a number of servers for the Snoonet network, as well as a set of 16 blade servers and a 10TB SAN (Storage Area Network) in my home lab environment. In my free time, I tinker on this home lab with various virtual machines on an enterprise Cisco network. When I&amp;rsquo;m not doing that, I&amp;rsquo;m a student pilot here in the Denver area, working on my Private Pilot&amp;rsquo;s License.</description>
+    </item>
+    
+    <item>
+      <title>weylin</title>
+      <link>https://staging.snoonet.org/staff/weylin/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/weylin/</guid>
+      <description>Hi I&amp;rsquo;m Weylin!</description>
+    </item>
+    
+    <item>
+      <title>cachinnate</title>
+      <link>https://staging.snoonet.org/staff/cachinnate/</link>
+      <pubDate>Sat, 17 Oct 2020 16:01:37 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/cachinnate/</guid>
+      <description>Hi, I&amp;rsquo;m cachinnate!</description>
+    </item>
+    
+    <item>
+      <title>void</title>
+      <link>https://staging.snoonet.org/staff/void/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/void/</guid>
+      <description>Photography. Software Engineering. Caffeine. Sketching. Cocktails. Beards. Animals.
 Feel free to ask me about my Small Dog.
-🤙🏻</description></item><item><title>noeatnosleep</title><link>http://localhost:1313/staff/noeatnosleep/</link><pubDate>Thu, 31 Oct 2019 21:02:19 +0000</pubDate><guid>http://localhost:1313/staff/noeatnosleep/</guid><description/></item><item><title>jotun</title><link>http://localhost:1313/staff/jotun/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/jotun/</guid><description>Hello, I&amp;rsquo;m jotun, a software engineer living in sunny California.
+🤙🏻</description>
+    </item>
+    
+    <item>
+      <title>noeatnosleep</title>
+      <link>https://staging.snoonet.org/staff/noeatnosleep/</link>
+      <pubDate>Thu, 31 Oct 2019 21:02:19 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/noeatnosleep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jotun</title>
+      <link>https://staging.snoonet.org/staff/jotun/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/jotun/</guid>
+      <description>Hello, I&amp;rsquo;m jotun, a software engineer living in sunny California.
 I&amp;rsquo;ve been using IRC - and coding things for IRC - for nearly 20 years. You might&amp;rsquo;ve heard of my game, Idle RPG. If not, you can check it out in #idlerpg on Snoonet!
 I discovered Snoonet about a year and a half ago and thought it&amp;rsquo;d be fun to work with a network that combined two of my favorite things - IRC and reddit. Since joining, I&amp;rsquo;ve had some really wild experiences and met some amazing new friends.
-If you like to code, or are interested in learning to code, stop by #programming and say hello!</description></item><item><title>duk242</title><link>http://localhost:1313/staff/duk242/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/duk242/</guid><description>Aloha! I am duk242
+If you like to code, or are interested in learning to code, stop by #programming and say hello!</description>
+    </item>
+    
+    <item>
+      <title>duk242</title>
+      <link>https://staging.snoonet.org/staff/duk242/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/duk242/</guid>
+      <description>Aloha! I am duk242
 I&amp;rsquo;ve been on IRC for about 20 years now (Snoonet since 2017).
 I chill in the #techsupport, #programming, #technology and #games channels for the most part.
 IRL I&amp;rsquo;m an Aussie who likes games, gadgets and casual programming.
 Feel free to say hi! I&amp;rsquo;m always up for a random chat about tech support, games or whatever.
-– duk242</description></item><item><title>flotwig</title><link>http://localhost:1313/staff/flotwig/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/flotwig/</guid><description>I&amp;rsquo;m flotwig. You might have heard me called flotty, flotsam, Just Wiggy™, or thotwig.
+– duk242</description>
+    </item>
+    
+    <item>
+      <title>flotwig</title>
+      <link>https://staging.snoonet.org/staff/flotwig/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/flotwig/</guid>
+      <description>I&amp;rsquo;m flotwig. You might have heard me called flotty, flotsam, Just Wiggy™, or thotwig.
 I&amp;rsquo;ve been on IRC since 2007 or 2008 and I&amp;rsquo;ve been on Snoonet since week two of its existence. Nowadays, I&amp;rsquo;m a more active IRCer than I am a redditor.
 My favorite channels are #gnulag, ##PartyMansion, #safefromparadox, and #idlerpg.
-flotwig</description></item><item><title>Shadeblast</title><link>http://localhost:1313/staff/shadeblast/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/shadeblast/</guid><description/></item><item><title>Zowlyfon</title><link>http://localhost:1313/staff/zowlyfon/</link><pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate><guid>http://localhost:1313/staff/zowlyfon/</guid><description>Hi, my name is Zowlyfon. I am a Free Software enthusiast studying Computer Science in the UK. I mainly develop and maintain custom software for Snoonet, as well as test out experimental ideas.
+ flotwig  </description>
+    </item>
+    
+    <item>
+      <title>Shadeblast</title>
+      <link>https://staging.snoonet.org/staff/shadeblast/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/shadeblast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zowlyfon</title>
+      <link>https://staging.snoonet.org/staff/zowlyfon/</link>
+      <pubDate>Mon, 31 Dec 2018 08:55:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/zowlyfon/</guid>
+      <description>Hi, my name is Zowlyfon. I am a Free Software enthusiast studying Computer Science in the UK. I mainly develop and maintain custom software for Snoonet, as well as test out experimental ideas.
 I am mainly active in #linuxmasterrace and I can also be contacted in #snoonet or via PM.
-My email address is zowlyfon [at] snoonet.org.</description></item><item><title>bloodygonzo</title><link>http://localhost:1313/staff/bloodygonzo/</link><pubDate>Sat, 13 Apr 2019 09:33:29 +0000</pubDate><guid>http://localhost:1313/staff/bloodygonzo/</guid><description>bloodygonzo (alumnus) I am the Network Director of Snoonet. My goal for Snoonet is to:
-Stabilize and secure the network with the best tools in automation, monitoring, and security. Build on the established team of volunteer staff to create an excellent experience for the communities on Snoonet. Provide an excellent end user experience for individuals on our network. Additionally:
+My email address is zowlyfon [at] snoonet.org.</description>
+    </item>
+    
+    <item>
+      <title>bloodygonzo</title>
+      <link>https://staging.snoonet.org/staff/bloodygonzo/</link>
+      <pubDate>Sat, 13 Apr 2019 09:33:29 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/bloodygonzo/</guid>
+      <description>bloodygonzo (alumnus) I am the Network Director of Snoonet. My goal for Snoonet is to:
+ Stabilize and secure the network with the best tools in automation, monitoring, and security. Build on the established team of volunteer staff to create an excellent experience for the communities on Snoonet. Provide an excellent end user experience for individuals on our network.  Additionally:
 I run gonzobot on Snoonet and enjoy customizing him to fit the needs of the various communities on Snoonet. My favorite hobby right now is smoking meat and every weekend I get the chance I try and smoke brisket or pork shoulder, or beef short ribs. Feel free to message me if you have any questions about Snoonet or ideas for improvement using: /query bloodygonzo.
-For additional staff information please see the staff index.</description></item></channel></rss>
+For additional staff information please see the staff index.</description>
+    </item>
+    
+  </channel>
+</rss>
