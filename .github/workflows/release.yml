@@ -42,3 +42,4 @@ jobs:
         file: website-${{ github.ref_name }}.tar.gz
         asset_name: website-${{ github.ref_name }}.tar.gz
         overwrite: true
+        tag: ${{ github.ref }}
