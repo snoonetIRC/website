@@ -1,0 +1,40 @@
+name: "Deploy website to GitHub Pages"
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    name: deploy_staging
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+      with:
+        submodules: true  # Fetch Hugo themes (true OR recursive)
+        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.87.0' # If you update this, also update it in scripts/install-hugo.sh
+        extended: true
+
+    - uses: actions/cache@v2
+      with:
+        path: /tmp/hugo_cache
+        key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+        restore-keys: |
+          ${{ runner.os }}-hugomod-
+
+    - name: Build
+      run: hugo -b https://staging.snoonet.org
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public
+        cname: staging.snoonet.org
