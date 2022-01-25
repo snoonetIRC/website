@@ -17,7 +17,7 @@ jobs:
         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
     - name: 'Check out tag'
-      run: git checkout ${GITHUB_REF#refs/tags/}
+      run: git checkout ${{ github.ref_name }}
 
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
@@ -33,9 +33,10 @@ jobs:
           ${{ runner.os }}-hugomod-
 
     - name: Build website
-      run: hugo --minify -b https://snoonet.org && tar -zcvf website-${{ GITHUB_REF#refs/tags/ }}.tar.gz public
+      run: hugo --minify -b https://snoonet.org && tar -zcvf website-${{ github.ref_name }}.tar.gz public
 
-    - name: Release
-      uses: softprops/action-gh-release@v1
+    - name: Create tag artifact
+      uses: actions/upload-artifact@v2
       with:
-        files: website-${{ GITHUB_REF#refs/tags/ }}.tar.gz
+        name: website-${{ github.ref_name }}.tar.gz
+        path: Release
