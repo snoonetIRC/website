@@ -26,5 +26,4 @@ jobs:
         extended: true
 
     - name: Test build
-      script:
-        - hugo
+      run: hugo
