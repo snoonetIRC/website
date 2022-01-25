@@ -1,4 +1,4 @@
-name: 'Create release artifact against tag'
+name: 'Attach archive to release'
 
 on:
   release:
@@ -32,12 +32,13 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-hugomod-
 
-    - name: Build website
+    - name: Create website archive
       run: hugo --minify -b https://snoonet.org && tar -zcvf website-${{ github.ref_name }}.tar.gz public
 
-    - name: Upload archive to release
+    - name: Attach archive to release
       uses: svenstaro/upload-release-action@v2
       with:
+        repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: website-${{ github.ref_name }}.tar.gz
         asset_name: website-${{ github.ref_name }}.tar.gz
         overwrite: true
