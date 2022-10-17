@@ -1,6 +1,6 @@
 # snoonet.org
 
-[![Build Status](https://travis-ci.com/snoonetIRC/website.svg?token=gYMH5xbdyKUF8TLkCQnc&branch=master)](https://travis-ci.com/snoonetIRC/website)
+![Build status](https://github.com/snoonetIRC/website/actions/workflows/test.yml/badge.svg)
 ![GitHub commits since latest release](https://img.shields.io/github/commits-since/snoonetIRC/website/latest.svg)
 
 ## Getting Started
