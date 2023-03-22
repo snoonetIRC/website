@@ -4,9 +4,8 @@ title: "Paradox"
 date: 2018-12-31T08:55:29Z
 draft: false
 type: "page"
-kind: "staff_top"
-role: "Founder"
+kind: "staff_alumni"
+role: "Founder, Alumnus"
 favorite_channels: "#reddit, #memenetics"
-weight: 1
 override_url: "http://paradox.io"
 ---
