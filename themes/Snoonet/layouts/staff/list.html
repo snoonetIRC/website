@@ -27,6 +27,10 @@
                         {{ partial "staff_row.html" . }}
                     {{ end }}
 
+                    {{ range (where .Pages "Params.kind" "staff_guide").ByTitle }}
+                        {{ partial "staff_row.html" . }}
+                    {{ end }}
+
                     {{ range (where .Pages "Params.kind" "staff_alumni").ByWeight }}
                         {{ partial "staff_row.html" . }}
                     {{ end }}
