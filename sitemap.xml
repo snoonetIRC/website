@@ -17,9 +17,6 @@
     <loc>https://staging.snoonet.org/help/introduction/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url><url>
-    <loc>https://staging.snoonet.org/staff/paradox/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
-  </url><url>
     <loc>https://staging.snoonet.org/extbans/acting_extbans/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url><url>
@@ -68,19 +65,10 @@
     <loc>https://staging.snoonet.org/help/mobile-client/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url><url>
-    <loc>https://staging.snoonet.org/staff/davidluizhair/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
-  </url><url>
     <loc>https://staging.snoonet.org/staff/linuxdaemon/</loc>
     <lastmod>2021-10-21T15:56:31-03:00</lastmod>
   </url><url>
     <loc>https://staging.snoonet.org/staff/phase/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
-  </url><url>
-    <loc>https://staging.snoonet.org/staff/ricin/</loc>
-    <lastmod>2020-06-17T15:07:28+01:00</lastmod>
-  </url><url>
-    <loc>https://staging.snoonet.org/staff/thatoneroadie/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url><url>
     <loc>https://staging.snoonet.org/staff/weylin/</loc>
@@ -95,14 +83,14 @@
     <loc>https://staging.snoonet.org/help/joining-channels/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url><url>
+    <loc>https://staging.snoonet.org/staff/salmonhatt/</loc>
+    <lastmod>2023-03-28T16:09:05-03:00</lastmod>
+  </url><url>
     <loc>https://staging.snoonet.org/staff/cachinnate/</loc>
     <lastmod>2020-10-26T11:14:05-03:00</lastmod>
   </url><url>
     <loc>https://staging.snoonet.org/help/getting-help/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
-  </url><url>
-    <loc>https://staging.snoonet.org/staff/noeatnosleep/</loc>
-    <lastmod>2021-10-21T15:52:36-03:00</lastmod>
   </url><url>
     <loc>https://staging.snoonet.org/staff/jotun/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
@@ -119,6 +107,9 @@
     <loc>https://staging.snoonet.org/staff/zowlyfon/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
   </url><url>
+    <loc>https://staging.snoonet.org/staff/</loc>
+    <lastmod>2023-03-28T16:09:05-03:00</lastmod>
+  </url><url>
     <loc>https://staging.snoonet.org/posts/</loc>
     <lastmod>2021-06-21T02:34:36-06:00</lastmod>
   </url><url>
@@ -127,9 +118,6 @@
   </url><url>
     <loc>https://staging.snoonet.org/posts/2020/10/23/services-update-oct-2020/</loc>
     <lastmod>2020-10-23T19:36:01-03:00</lastmod>
-  </url><url>
-    <loc>https://staging.snoonet.org/staff/</loc>
-    <lastmod>2021-10-21T15:56:31-03:00</lastmod>
   </url><url>
     <loc>https://staging.snoonet.org/community/trees/</loc>
     <lastmod>2020-10-26T11:14:05-03:00</lastmod>
@@ -763,6 +751,9 @@
   </url><url>
     <loc>https://staging.snoonet.org/community/banished/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
+  </url><url>
+    <loc>https://staging.snoonet.org/staff/paradox/</loc>
+    <lastmod>2023-03-22T16:14:51-03:00</lastmod>
   </url><url>
     <loc>https://staging.snoonet.org/anope/</loc>
     <lastmod>2020-06-17T15:07:28+01:00</lastmod>
