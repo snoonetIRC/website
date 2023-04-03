@@ -6,7 +6,7 @@
     <description>Recent content in Staff on Snoonet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 28 Mar 2023 08:08:26 +0000</lastBuildDate><atom:link href="https://staging.snoonet.org/staff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Mar 2023 23:10:48 +0000</lastBuildDate><atom:link href="https://staging.snoonet.org/staff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duck</title>
       <link>https://staging.snoonet.org/staff/duck/</link>
@@ -55,6 +55,15 @@ If you need to e-mail me, you can contact me using mike [at] snoonet.org.</descr
       
       <guid>https://staging.snoonet.org/staff/weylin/</guid>
       <description>Hi I&amp;rsquo;m Weylin!</description>
+    </item>
+    
+    <item>
+      <title>jess</title>
+      <link>https://staging.snoonet.org/staff/jess/</link>
+      <pubDate>Fri, 31 Mar 2023 23:10:48 +0000</pubDate>
+      
+      <guid>https://staging.snoonet.org/staff/jess/</guid>
+      <description>Hi, I&amp;rsquo;m jess!</description>
     </item>
     
     <item>
