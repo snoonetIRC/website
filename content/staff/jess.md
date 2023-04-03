@@ -6,7 +6,7 @@ draft: false
 type: "page"
 kind: "staff"
 role: "Staff"
-favorite_channels: ""
+favorite_channels: "#stopdrinking"
 weight: 8
 ---
 
