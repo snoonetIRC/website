@@ -29,10 +29,7 @@ hugo server
 
 ## Deployment
 
-Deployment is automatic. Once changes are merged into master, the site is
-deployed to staging on [GitHub Pages](https://staging.snoonet.org). Creating a
-new tag triggers a build which attaches a tarball to the release, which is
-pulled automatically to the live webserver.
-
-See `.travis.yml` for the exact build and deploy configuration.
-
+Deployment is automatic and handled by GitHub Actions. Once changes are merged
+into master, the site isdeployed to staging on [GitHub Pages](https://staging.snoonet.org).
+Creating anew tag triggers a build which attaches a tarball to the release,
+which is pulled automatically to the live webserver.
